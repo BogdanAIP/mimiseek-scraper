@@ -1,0 +1,19 @@
+[
+  {
+    "id": "tg-example-bot-1",
+    "title": "Example Bot 1",
+    "type": "bot",
+    "deeplink": "https://t.me/example_bot_1",
+    "shortDescription": "Пример бота для заполнения каталога.",
+    "longDescription": "Это пример карточки бота, добавляемой через mimiseek-scraper в mimiseek-catalog.",
+    "functions": ["search"],
+    "topics": ["technology"],
+    "language": "ru",
+    "compat": "L0",
+    "audience": "all",
+    "formats": ["text"],
+    "tags": ["example","scraper","seed"],
+    "isPromoted": false,
+    "weight": 10
+  }
+]

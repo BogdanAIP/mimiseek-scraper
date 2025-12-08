@@ -1,0 +1,27 @@
+{
+  "name": "mimiseek-scraper",
+  "version": "0.1.0",
+  "description": "MimiSeek scraper/ingest service: собирает реальные ресурсы и заливает их в mimiseek-catalog через admin API.",
+  "main": "dist/run.js",
+  "scripts": {
+    "dev": "TS_NODE_TRANSPILE_ONLY=1 ts-node src/run.ts",
+    "build": "tsc",
+    "start": "node dist/run.js"
+  },
+  "keywords": [
+    "mimiseek",
+    "scraper",
+    "catalog"
+  ],
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^1.7.9",
+    "dotenv": "^16.4.5"
+  },
+  "devDependencies": {
+    "@types/node": "^22.7.4",
+    "ts-node": "^10.9.2",
+    "typescript": "^5.6.3"
+  }
+}
