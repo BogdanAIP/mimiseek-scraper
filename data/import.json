@@ -1,18 +1,1459 @@
 [
   {
-    "id": "tg-example-bot-1",
-    "title": "Example Bot 1",
-    "type": "bot",
-    "deeplink": "https://t.me/example_bot_1",
-    "shortDescription": "Пример бота для заполнения каталога.",
-    "longDescription": "Это пример карточки бота, добавляемой через mimiseek-scraper в mimiseek-catalog.",
-    "functions": ["search"],
-    "topics": ["technology"],
-    "language": "ru",
+    "id": "tg-crynet",
+    "title": "Crynet",
+    "type": "channel",
+    "deeplink": "https://t.me/crynet",
+    "shortDescription": "Science-focused channel with news, videos, and more.",
+    "longDescription": "Crynet is a growing Telegram channel that regularly shares science-related news, videos and information to make you smarter every day. It curates science content and has versions in different languages.",
+    "functions": [
+      "publish"
+    ],
+    "topics": [
+      "science",
+      "technology"
+    ],
+    "primaryTopic": "science",
+    "language": "en",
     "compat": "L0",
     "audience": "all",
-    "formats": ["text"],
-    "tags": ["example","scraper","seed"],
+    "formats": [
+      "text",
+      "video",
+      "image"
+    ],
+    "tags": [
+      "found_via:interestingengineering",
+      "en-channel"
+    ],
+    "isPromoted": false,
+    "weight": 10
+  },
+  {
+    "id": "tg-techguide",
+    "title": "Tech Guide",
+    "type": "channel",
+    "deeplink": "https://t.me/techguide",
+    "shortDescription": "Channel with tips and news on Android, Windows and iOS.",
+    "longDescription": "Tech Guide is a Telegram channel dedicated to Android, Windows and iOS. It shares computer-related tips, tricks, guides and news to keep you updated on the tech world.",
+    "functions": [
+      "publish"
+    ],
+    "topics": [
+      "technology"
+    ],
+    "primaryTopic": "technology",
+    "language": "en",
+    "compat": "L0",
+    "audience": "all",
+    "formats": [
+      "text",
+      "video",
+      "image"
+    ],
+    "tags": [
+      "found_via:interestingengineering",
+      "en-channel"
+    ],
+    "isPromoted": false,
+    "weight": 10
+  },
+  {
+    "id": "tg-artofprogramming",
+    "title": "The Art of Programming",
+    "type": "channel",
+    "deeplink": "https://t.me/theartofprogramming",
+    "shortDescription": "Popular channel for coding tips and programming tutorials.",
+    "longDescription": "The Art of Programming is a popular Telegram channel within the developers community. It shares tips, tricks, and tutorial videos for those who want to master coding and programming.",
+    "functions": [
+      "publish"
+    ],
+    "topics": [
+      "technology",
+      "education"
+    ],
+    "primaryTopic": "technology",
+    "language": "en",
+    "compat": "L0",
+    "audience": "all",
+    "formats": [
+      "text",
+      "video",
+      "image"
+    ],
+    "tags": [
+      "found_via:interestingengineering",
+      "en-channel"
+    ],
+    "isPromoted": false,
+    "weight": 10
+  },
+  {
+    "id": "tg-telegramgeeks",
+    "title": "Telegram Geeks",
+    "type": "channel",
+    "deeplink": "https://t.me/telegramgeeks",
+    "shortDescription": "Channel for bot enthusiasts and tech news.",
+    "longDescription": "Telegram Geeks is a Telegram channel for those who like to learn about bots, technology and social media. It provides updates and news across the tech world for its community.",
+    "functions": [
+      "publish"
+    ],
+    "topics": [
+      "technology"
+    ],
+    "primaryTopic": "technology",
+    "language": "en",
+    "compat": "L0",
+    "audience": "all",
+    "formats": [
+      "text",
+      "video",
+      "image"
+    ],
+    "tags": [
+      "found_via:interestingengineering",
+      "en-channel"
+    ],
+    "isPromoted": false,
+    "weight": 10
+  },
+  {
+    "id": "tg-lifehacker",
+    "title": "Life Hacker",
+    "type": "channel",
+    "deeplink": "https://t.me/lifehacker",
+    "shortDescription": "Tips and tricks on technology and daily life.",
+    "longDescription": "Life Hacker is a useful Telegram channel where you can learn something about everything. From life hacks and technology tips to Android and internet tricks, the channel has content for everyone.",
+    "functions": [
+      "publish"
+    ],
+    "topics": [
+      "technology",
+      "lifestyle"
+    ],
+    "primaryTopic": "technology",
+    "language": "en",
+    "compat": "L0",
+    "audience": "all",
+    "formats": [
+      "text",
+      "video",
+      "image"
+    ],
+    "tags": [
+      "found_via:interestingengineering",
+      "en-channel"
+    ],
+    "isPromoted": false,
+    "weight": 10
+  },
+  {
+    "id": "tg-askme",
+    "title": "Ask Me",
+    "type": "channel",
+    "deeplink": "https://t.me/askme",
+    "shortDescription": "Question‑answer channel similar to AMA or ELI5.",
+    "longDescription": "The Ask Me channel on Telegram is like Reddit’s AMA or ELI5. It allows subscribers to ask questions on various topics and receive answers from the community, providing daily general knowledge.",
+    "functions": [
+      "publish"
+    ],
+    "topics": [
+      "education",
+      "culture"
+    ],
+    "primaryTopic": "education",
+    "language": "en",
+    "compat": "L0",
+    "audience": "all",
+    "formats": [
+      "text",
+      "video",
+      "image"
+    ],
+    "tags": [
+      "found_via:interestingengineering",
+      "en-channel"
+    ],
+    "isPromoted": false,
+    "weight": 10
+  },
+  {
+    "id": "tg-programmerjokes",
+    "title": "Programmer Jokes",
+    "type": "channel",
+    "deeplink": "https://t.me/programmerjokes",
+    "shortDescription": "Channel sharing witty programming jokes.",
+    "longDescription": "Programmer Jokes is a Telegram channel for coders who enjoy humor. It provides a daily dose of logical and witty jokes related to programming to bring out the fun element in coding.",
+    "functions": [
+      "publish"
+    ],
+    "topics": [
+      "entertainment",
+      "technology"
+    ],
+    "primaryTopic": "entertainment",
+    "language": "en",
+    "compat": "L0",
+    "audience": "all",
+    "formats": [
+      "text",
+      "video",
+      "image"
+    ],
+    "tags": [
+      "found_via:interestingengineering",
+      "en-channel"
+    ],
+    "isPromoted": false,
+    "weight": 10
+  },
+  {
+    "id": "tg-interestingengineering",
+    "title": "Interesting Engineering",
+    "type": "channel",
+    "deeplink": "https://t.me/interestingengineering",
+    "shortDescription": "Official channel of Interesting Engineering website.",
+    "longDescription": "The Interesting Engineering Telegram channel shares updates on engineering, technology and science topics. It posts interesting videos and quality content from the trusted information source daily.",
+    "functions": [
+      "publish"
+    ],
+    "topics": [
+      "technology",
+      "science"
+    ],
+    "primaryTopic": "technology",
+    "language": "en",
+    "compat": "L0",
+    "audience": "all",
+    "formats": [
+      "text",
+      "video",
+      "image"
+    ],
+    "tags": [
+      "found_via:interestingengineering",
+      "en-channel"
+    ],
+    "isPromoted": false,
+    "weight": 10
+  },
+  {
+    "id": "tg-science",
+    "title": "Science",
+    "type": "channel",
+    "deeplink": "https://t.me/science",
+    "shortDescription": "Popular channel with science videos and articles.",
+    "longDescription": "Science is one of the most popular Telegram channels dedicated entirely to science. With over 135k members, it shares interesting videos and articles from reliable information sources on the internet.",
+    "functions": [
+      "publish"
+    ],
+    "topics": [
+      "science",
+      "education"
+    ],
+    "primaryTopic": "science",
+    "language": "en",
+    "compat": "L0",
+    "audience": "all",
+    "formats": [
+      "text",
+      "video",
+      "image"
+    ],
+    "tags": [
+      "found_via:interestingengineering",
+      "en-channel"
+    ],
+    "isPromoted": false,
+    "weight": 10
+  },
+  {
+    "id": "tg-technologyboxes",
+    "title": "Technology Boxes",
+    "type": "channel",
+    "deeplink": "https://t.me/technologyboxes",
+    "shortDescription": "Channel for technology news and gadgets trivia.",
+    "longDescription": "Technology Boxes is a Telegram channel dedicated to technology news, fun facts, trivia and information on futurism, gadgets and tech updates. It shares mostly video content for those who prefer quick bites of news.",
+    "functions": [
+      "publish"
+    ],
+    "topics": [
+      "technology"
+    ],
+    "primaryTopic": "technology",
+    "language": "en",
+    "compat": "L0",
+    "audience": "all",
+    "formats": [
+      "text",
+      "video",
+      "image"
+    ],
+    "tags": [
+      "found_via:interestingengineering",
+      "en-channel"
+    ],
+    "isPromoted": false,
+    "weight": 10
+  },
+  {
+    "id": "tg-worldarchitecture",
+    "title": "World Architecture",
+    "type": "channel",
+    "deeplink": "https://t.me/worldarchitecture",
+    "shortDescription": "Daily images of remarkable architectural structures.",
+    "longDescription": "World Architecture is a channel that shares images of some of the coolest architectural structures from around the world. It provides inspiration for civil engineers and architects.",
+    "functions": [
+      "publish"
+    ],
+    "topics": [
+      "art",
+      "science"
+    ],
+    "primaryTopic": "art",
+    "language": "en",
+    "compat": "L0",
+    "audience": "all",
+    "formats": [
+      "text",
+      "video",
+      "image"
+    ],
+    "tags": [
+      "found_via:interestingengineering",
+      "en-channel"
+    ],
+    "isPromoted": false,
+    "weight": 10
+  },
+  {
+    "id": "tg-datascience",
+    "title": "Data Science",
+    "type": "channel",
+    "deeplink": "https://t.me/datascience",
+    "shortDescription": "First Telegram channel dedicated to data science.",
+    "longDescription": "Data Science is a Telegram channel that provides information on trending technology topics such as deep learning, artificial intelligence and machine learning. It was among the first channels focused on data science.",
+    "functions": [
+      "publish"
+    ],
+    "topics": [
+      "ai_ml",
+      "science"
+    ],
+    "primaryTopic": "ai_ml",
+    "language": "en",
+    "compat": "L0",
+    "audience": "all",
+    "formats": [
+      "text",
+      "video",
+      "image"
+    ],
+    "tags": [
+      "found_via:interestingengineering",
+      "en-channel"
+    ],
+    "isPromoted": false,
+    "weight": 10
+  },
+  {
+    "id": "tg-bestfunnyvideos",
+    "title": "Best Funny Videos",
+    "type": "channel",
+    "deeplink": "https://t.me/bestfunnyvideos",
+    "shortDescription": "Channel sharing humorous videos for entertainment.",
+    "longDescription": "Best Funny Videos is a Telegram channel dedicated to humor. It posts jokes and funny videos to help subscribers take a break and enjoy the fun side of life.",
+    "functions": [
+      "publish"
+    ],
+    "topics": [
+      "entertainment"
+    ],
+    "primaryTopic": "entertainment",
+    "language": "en",
+    "compat": "L0",
+    "audience": "all",
+    "formats": [
+      "text",
+      "video",
+      "image"
+    ],
+    "tags": [
+      "found_via:interestingengineering",
+      "en-channel"
+    ],
+    "isPromoted": false,
+    "weight": 10
+  },
+  {
+    "id": "tg-mathematics",
+    "title": "Mathematics",
+    "type": "channel",
+    "deeplink": "https://t.me/mathematics",
+    "shortDescription": "Channel for math challenges and history.",
+    "longDescription": "The Mathematics channel posts math challenges with prizes for winners and shares the history of famous mathematicians. It engages subscribers with puzzles and educational content.",
+    "functions": [
+      "publish"
+    ],
+    "topics": [
+      "science",
+      "education"
+    ],
+    "primaryTopic": "science",
+    "language": "en",
+    "compat": "L0",
+    "audience": "all",
+    "formats": [
+      "text",
+      "video",
+      "image"
+    ],
+    "tags": [
+      "found_via:interestingengineering",
+      "en-channel"
+    ],
+    "isPromoted": false,
+    "weight": 10
+  },
+  {
+    "id": "tg-greatspace",
+    "title": "Great Space",
+    "type": "channel",
+    "deeplink": "https://t.me/greatspace",
+    "shortDescription": "Channel for daily space images and news.",
+    "longDescription": "Great Space is a popular channel on Telegram providing daily images, news, videos and information about space. It shares photos from NASA, Hubble and other space agencies.",
+    "functions": [
+      "publish"
+    ],
+    "topics": [
+      "science"
+    ],
+    "primaryTopic": "science",
+    "language": "en",
+    "compat": "L0",
+    "audience": "all",
+    "formats": [
+      "text",
+      "video",
+      "image"
+    ],
+    "tags": [
+      "found_via:interestingengineering",
+      "en-channel"
+    ],
+    "isPromoted": false,
+    "weight": 10
+  },
+  {
+    "id": "tg-datascience_ml_ai_iot",
+    "title": "Data Science, Machine Learning, AI & IOT",
+    "type": "channel",
+    "deeplink": "https://t.me/datascience_ml_ai_iot",
+    "shortDescription": "One of the largest communities for data science, machine learning, AI and analytics, sharing trending industry insights, tutorials, projects and news curated by experts.",
+    "longDescription": "One of the largest communities for data science, machine learning, AI and analytics, sharing trending industry insights, tutorials, projects and news curated by experts.",
+    "functions": [
+      "publish"
+    ],
+    "topics": [
+      "ai_ml",
+      "technology"
+    ],
+    "primaryTopic": "ai_ml",
+    "language": "en",
+    "compat": "L0",
+    "audience": "all",
+    "formats": [
+      "text",
+      "image"
+    ],
+    "tags": [
+      "found_via:devbox",
+      "en-channel"
+    ],
+    "isPromoted": false,
+    "weight": 10
+  },
+  {
+    "id": "tg-cloudyml_ds",
+    "title": "CloudyML — Data Science & Analytics",
+    "type": "channel",
+    "deeplink": "https://t.me/cloudyml_ds",
+    "shortDescription": "Channel sharing cloud-based machine learning tutorials, project guides and AI tool reviews geared toward developers adopting cloud ML platforms.",
+    "longDescription": "Channel sharing cloud-based machine learning tutorials, project guides and AI tool reviews geared toward developers adopting cloud ML platforms.",
+    "functions": [
+      "publish"
+    ],
+    "topics": [
+      "ai_ml",
+      "technology"
+    ],
+    "primaryTopic": "ai_ml",
+    "language": "en",
+    "compat": "L0",
+    "audience": "all",
+    "formats": [
+      "text",
+      "image"
+    ],
+    "tags": [
+      "found_via:devbox",
+      "en-channel"
+    ],
+    "isPromoted": false,
+    "weight": 10
+  },
+  {
+    "id": "tg-datascience_projects",
+    "title": "Data Science Projects",
+    "type": "channel",
+    "deeplink": "https://t.me/datascience_projects",
+    "shortDescription": "Telegram channel offering advanced Python content including tips, tricks and code samples for developers looking to enhance their expertise in data science.",
+    "longDescription": "Telegram channel offering advanced Python content including tips, tricks and code samples for developers looking to enhance their expertise in data science.",
+    "functions": [
+      "publish"
+    ],
+    "topics": [
+      "ai_ml"
+    ],
+    "primaryTopic": "ai_ml",
+    "language": "en",
+    "compat": "L0",
+    "audience": "all",
+    "formats": [
+      "text",
+      "image"
+    ],
+    "tags": [
+      "found_via:devbox",
+      "en-channel"
+    ],
+    "isPromoted": false,
+    "weight": 10
+  },
+  {
+    "id": "tg-bigdata_courses",
+    "title": "Programming, Data Science & ML – Free Courses",
+    "type": "channel",
+    "deeplink": "https://t.me/bigdata_courses",
+    "shortDescription": "Dedicated to big data technologies with tutorials and news on tools like Hadoop, Spark and data pipeline frameworks, aimed at data engineers and scientists.",
+    "longDescription": "Dedicated to big data technologies with tutorials and news on tools like Hadoop, Spark and data pipeline frameworks, aimed at data engineers and scientists.",
+    "functions": [
+      "publish"
+    ],
+    "topics": [
+      "ai_ml",
+      "education"
+    ],
+    "primaryTopic": "ai_ml",
+    "language": "en",
+    "compat": "L0",
+    "audience": "all",
+    "formats": [
+      "text",
+      "image"
+    ],
+    "tags": [
+      "found_via:devbox",
+      "en-channel"
+    ],
+    "isPromoted": false,
+    "weight": 10
+  },
+  {
+    "id": "tg-ml_python_researchers",
+    "title": "Data Science | Machine Learning with Python for Researchers",
+    "type": "channel",
+    "deeplink": "https://t.me/ml_python_researchers",
+    "shortDescription": "Channel sharing curated resources and latest trends in data science and AI, supporting professionals aiming to stay current in the field.",
+    "longDescription": "Channel sharing curated resources and latest trends in data science and AI, supporting professionals aiming to stay current in the field.",
+    "functions": [
+      "publish"
+    ],
+    "topics": [
+      "ai_ml"
+    ],
+    "primaryTopic": "ai_ml",
+    "language": "en",
+    "compat": "L0",
+    "audience": "all",
+    "formats": [
+      "text",
+      "image"
+    ],
+    "tags": [
+      "found_via:devbox",
+      "en-channel"
+    ],
+    "isPromoted": false,
+    "weight": 10
+  },
+  {
+    "id": "tg-ds_ml_data_analysis",
+    "title": "Data Science Machine Learning Data Analysis",
+    "type": "channel",
+    "deeplink": "https://t.me/ds_ml_data_analysis",
+    "shortDescription": "Channel delivering data science tutorials, news and case studies, ideal for aspiring and practicing data scientists seeking continuous learning.",
+    "longDescription": "Channel delivering data science tutorials, news and case studies, ideal for aspiring and practicing data scientists seeking continuous learning.",
+    "functions": [
+      "publish"
+    ],
+    "topics": [
+      "ai_ml"
+    ],
+    "primaryTopic": "ai_ml",
+    "language": "en",
+    "compat": "L0",
+    "audience": "all",
+    "formats": [
+      "text",
+      "image"
+    ],
+    "tags": [
+      "found_via:devbox",
+      "en-channel"
+    ],
+    "isPromoted": false,
+    "weight": 10
+  },
+  {
+    "id": "tg-coding_ds_resources",
+    "title": "Coding & Data Science Resources",
+    "type": "channel",
+    "deeplink": "https://t.me/coding_ds_resources",
+    "shortDescription": "Provides collections of free programming books and resources on coding, algorithms and data structures – great for self‑learners focusing on theory and practice.",
+    "longDescription": "Provides collections of free programming books and resources on coding, algorithms and data structures – great for self‑learners focusing on theory and practice.",
+    "functions": [
+      "publish"
+    ],
+    "topics": [
+      "ai_ml",
+      "open_source"
+    ],
+    "primaryTopic": "ai_ml",
+    "language": "en",
+    "compat": "L0",
+    "audience": "all",
+    "formats": [
+      "text",
+      "image"
+    ],
+    "tags": [
+      "found_via:devbox",
+      "en-channel"
+    ],
+    "isPromoted": false,
+    "weight": 10
+  },
+  {
+    "id": "tg-ml_ai_freecourse",
+    "title": "Machine Learning & Artificial Intelligence – Free Course",
+    "type": "channel",
+    "deeplink": "https://t.me/ml_ai_freecourse",
+    "shortDescription": "Channel providing free resources, tutorials and project ideas across data science domains, supporting learners at all levels interested in practical applications and theory.",
+    "longDescription": "Channel providing free resources, tutorials and project ideas across data science domains, supporting learners at all levels interested in practical applications and theory.",
+    "functions": [
+      "publish"
+    ],
+    "topics": [
+      "ai_ml"
+    ],
+    "primaryTopic": "ai_ml",
+    "language": "en",
+    "compat": "L0",
+    "audience": "all",
+    "formats": [
+      "text",
+      "image"
+    ],
+    "tags": [
+      "found_via:devbox",
+      "en-channel"
+    ],
+    "isPromoted": false,
+    "weight": 10
+  },
+  {
+    "id": "tg-ds_ml_interview",
+    "title": "Data Science & Machine Learning – Interview Prep",
+    "type": "channel",
+    "deeplink": "https://t.me/ds_ml_interview",
+    "shortDescription": "Focuses on interview preparation with targeted questions, case studies and tips specifically for data science roles.",
+    "longDescription": "Focuses on interview preparation with targeted questions, case studies and tips specifically for data science roles.",
+    "functions": [
+      "publish"
+    ],
+    "topics": [
+      "ai_ml",
+      "business"
+    ],
+    "primaryTopic": "ai_ml",
+    "language": "en",
+    "compat": "L0",
+    "audience": "all",
+    "formats": [
+      "text",
+      "image"
+    ],
+    "tags": [
+      "found_via:devbox",
+      "en-channel"
+    ],
+    "isPromoted": false,
+    "weight": 10
+  },
+  {
+    "id": "tg-data_analysis_databases",
+    "title": "Data Analysis and Databases",
+    "type": "channel",
+    "deeplink": "https://t.me/data_analysis_databases",
+    "shortDescription": "Channel focusing on database management, SQL tutorials and practical data analysis techniques, useful for learners and professionals mastering SQL querying.",
+    "longDescription": "Channel focusing on database management, SQL tutorials and practical data analysis techniques, useful for learners and professionals mastering SQL querying.",
+    "functions": [
+      "publish"
+    ],
+    "topics": [
+      "ai_ml",
+      "technology"
+    ],
+    "primaryTopic": "ai_ml",
+    "language": "en",
+    "compat": "L0",
+    "audience": "all",
+    "formats": [
+      "text",
+      "image"
+    ],
+    "tags": [
+      "found_via:devbox",
+      "en-channel"
+    ],
+    "isPromoted": false,
+    "weight": 10
+  },
+  {
+    "id": "tg-python_data_analysts",
+    "title": "Python for Data Analysts",
+    "type": "channel",
+    "deeplink": "https://t.me/python_data_analysts",
+    "shortDescription": "Shares practical guides for leveraging Python in data analysis and visualization, helping analysts make data‑driven decisions.",
+    "longDescription": "Shares practical guides for leveraging Python in data analysis and visualization, helping analysts make data‑driven decisions.",
+    "functions": [
+      "publish"
+    ],
+    "topics": [
+      "ai_ml",
+      "technology"
+    ],
+    "primaryTopic": "ai_ml",
+    "language": "en",
+    "compat": "L0",
+    "audience": "all",
+    "formats": [
+      "text",
+      "image"
+    ],
+    "tags": [
+      "found_via:devbox",
+      "en-channel"
+    ],
+    "isPromoted": false,
+    "weight": 10
+  },
+  {
+    "id": "tg-data_visualization",
+    "title": "Data Visualization",
+    "type": "channel",
+    "deeplink": "https://t.me/data_visualization",
+    "shortDescription": "Specializes in visualization tools and techniques, offering guidance on creating insightful and interactive data visualizations.",
+    "longDescription": "Specializes in visualization tools and techniques, offering guidance on creating insightful and interactive data visualizations.",
+    "functions": [
+      "publish"
+    ],
+    "topics": [
+      "ai_ml",
+      "productivity"
+    ],
+    "primaryTopic": "ai_ml",
+    "language": "en",
+    "compat": "L0",
+    "audience": "all",
+    "formats": [
+      "text",
+      "image"
+    ],
+    "tags": [
+      "found_via:devbox",
+      "en-channel"
+    ],
+    "isPromoted": false,
+    "weight": 10
+  },
+  {
+    "id": "tg-data_engineers",
+    "title": "Data Engineers",
+    "type": "channel",
+    "deeplink": "https://t.me/data_engineers",
+    "shortDescription": "Dedicated to SQL query writing, optimization and database management best practices suitable for data engineers.",
+    "longDescription": "Dedicated to SQL query writing, optimization and database management best practices suitable for data engineers.",
+    "functions": [
+      "publish"
+    ],
+    "topics": [
+      "ai_ml",
+      "technology"
+    ],
+    "primaryTopic": "ai_ml",
+    "language": "en",
+    "compat": "L0",
+    "audience": "all",
+    "formats": [
+      "text",
+      "image"
+    ],
+    "tags": [
+      "found_via:devbox",
+      "en-channel"
+    ],
+    "isPromoted": false,
+    "weight": 10
+  },
+  {
+    "id": "tg-python_ds_jobs",
+    "title": "Python Data Science Jobs & Interviews",
+    "type": "channel",
+    "deeplink": "https://t.me/python_ds_jobs",
+    "shortDescription": "Offers curated content about data science concepts, applications and research papers along with job and interview resources.",
+    "longDescription": "Offers curated content about data science concepts, applications and research papers along with job and interview resources.",
+    "functions": [
+      "publish"
+    ],
+    "topics": [
+      "ai_ml",
+      "business"
+    ],
+    "primaryTopic": "ai_ml",
+    "language": "en",
+    "compat": "L0",
+    "audience": "all",
+    "formats": [
+      "text",
+      "image"
+    ],
+    "tags": [
+      "found_via:devbox",
+      "en-channel"
+    ],
+    "isPromoted": false,
+    "weight": 10
+  },
+  {
+    "id": "tg-follow_the_data",
+    "title": "Follow the Data with Dr Frank",
+    "type": "channel",
+    "deeplink": "https://t.me/follow_the_data",
+    "shortDescription": "Channel that provides updates on data analysis techniques, visualization methods and industry news aimed at data analysts and visualization specialists.",
+    "longDescription": "Channel that provides updates on data analysis techniques, visualization methods and industry news aimed at data analysts and visualization specialists.",
+    "functions": [
+      "publish"
+    ],
+    "topics": [
+      "ai_ml",
+      "productivity"
+    ],
+    "primaryTopic": "ai_ml",
+    "language": "en",
+    "compat": "L0",
+    "audience": "all",
+    "formats": [
+      "text",
+      "image"
+    ],
+    "tags": [
+      "found_via:devbox",
+      "en-channel"
+    ],
+    "isPromoted": false,
+    "weight": 10
+  },
+  {
+    "id": "tg-neural_channel",
+    "title": "Neural Channel – Deep Learning & AI Memes",
+    "type": "channel",
+    "deeplink": "https://t.me/neural_channel",
+    "shortDescription": "Focuses on neural networks, deep learning research and practical implementations while blending educational posts with AI memes for advanced learners and researchers.",
+    "longDescription": "Focuses on neural networks, deep learning research and practical implementations while blending educational posts with AI memes for advanced learners and researchers.",
+    "functions": [
+      "publish"
+    ],
+    "topics": [
+      "ai_ml",
+      "entertainment"
+    ],
+    "primaryTopic": "ai_ml",
+    "language": "en",
+    "compat": "L0",
+    "audience": "all",
+    "formats": [
+      "text",
+      "image"
+    ],
+    "tags": [
+      "found_via:devbox",
+      "en-channel"
+    ],
+    "isPromoted": false,
+    "weight": 10
+  },
+  {
+    "id": "tg-ds_jupyter_notebooks",
+    "title": "Data Science Jupyter Notebooks",
+    "type": "channel",
+    "deeplink": "https://t.me/ds_jupyter_notebooks",
+    "shortDescription": "Shares news, tutorials and case studies primarily focused on AI and machine learning applications, using Jupyter notebooks.",
+    "longDescription": "Shares news, tutorials and case studies primarily focused on AI and machine learning applications, using Jupyter notebooks.",
+    "functions": [
+      "publish"
+    ],
+    "topics": [
+      "ai_ml"
+    ],
+    "primaryTopic": "ai_ml",
+    "language": "en",
+    "compat": "L0",
+    "audience": "all",
+    "formats": [
+      "text",
+      "image"
+    ],
+    "tags": [
+      "found_via:devbox",
+      "en-channel"
+    ],
+    "isPromoted": false,
+    "weight": 10
+  },
+  {
+    "id": "tg-ds_ai_nugget_chats",
+    "title": "Data Science, ML & AI Nugget Chats",
+    "type": "channel",
+    "deeplink": "https://t.me/ds_ai_nugget_chats",
+    "shortDescription": "Discussion group for data scientists to exchange ideas, solve problems and share resources in a collaborative environment.",
+    "longDescription": "Discussion group for data scientists to exchange ideas, solve problems and share resources in a collaborative environment.",
+    "functions": [
+      "publish"
+    ],
+    "topics": [
+      "ai_ml"
+    ],
+    "primaryTopic": "ai_ml",
+    "language": "en",
+    "compat": "L0",
+    "audience": "all",
+    "formats": [
+      "text",
+      "image"
+    ],
+    "tags": [
+      "found_via:devbox",
+      "en-channel"
+    ],
+    "isPromoted": false,
+    "weight": 10
+  },
+  {
+    "id": "tg-onlyoffice_bot",
+    "title": "ONLYOFFICE Bot",
+    "type": "bot",
+    "deeplink": "https://t.me/onlyofficebot",
+    "shortDescription": "Bot for creating and editing documents, spreadsheets and presentations inside Telegram.",
+    "longDescription": "ONLYOFFICE Bot is a Telegram bot based on open‑source ONLYOFFICE Docs that lets you create and edit text documents, spreadsheets, presentations and PDF files within a chat. It supports collaborative editing and file conversion.",
+    "functions": [
+      "edit",
+      "compose",
+      "render"
+    ],
+    "topics": [
+      "productivity",
+      "business"
+    ],
+    "primaryTopic": "productivity",
+    "language": "en",
+    "compat": "L0",
+    "audience": "all",
+    "formats": [
+      "text",
+      "pdf",
+      "slides",
+      "markdown"
+    ],
+    "tags": [
+      "found_via:tecmint",
+      "en-bot"
+    ],
+    "isPromoted": false,
+    "weight": 10
+  },
+  {
+    "id": "tg-pomodoro_bot",
+    "title": "Pomodoro Bot",
+    "type": "bot",
+    "deeplink": "https://t.me/pomodorobot",
+    "shortDescription": "Time‑management bot based on the Pomodoro technique.",
+    "longDescription": "Pomodoro Bot is a Telegram bot that helps you balance work and breaks using the Pomodoro technique. You can customize work and break timers to manage your workload and prevent burnout.",
+    "functions": [
+      "automate"
+    ],
+    "topics": [
+      "productivity",
+      "lifestyle"
+    ],
+    "primaryTopic": "productivity",
+    "language": "en",
+    "compat": "L0",
+    "audience": "all",
+    "formats": [
+      "text"
+    ],
+    "tags": [
+      "found_via:tecmint",
+      "en-bot"
+    ],
+    "isPromoted": false,
+    "weight": 10
+  },
+  {
+    "id": "tg-texify_bot",
+    "title": "Texify (OCR Bot)",
+    "type": "bot",
+    "deeplink": "https://t.me/texifybot",
+    "shortDescription": "OCR bot that converts images of text into editable text.",
+    "longDescription": "Texify is a Telegram bot that performs optical character recognition (OCR). It can convert images of book pages, handwritten notes or screenshots into editable text. The bot recognizes multiple languages and makes it easy to copy and share the output.",
+    "functions": [
+      "extract"
+    ],
+    "topics": [
+      "productivity"
+    ],
+    "primaryTopic": "productivity",
+    "language": "multi",
+    "compat": "L0",
+    "audience": "all",
+    "formats": [
+      "image",
+      "text"
+    ],
+    "tags": [
+      "found_via:tecmint",
+      "en-bot"
+    ],
+    "isPromoted": false,
+    "weight": 10
+  },
+  {
+    "id": "tg-fileconverter_bot",
+    "title": "File Converter Bot",
+    "type": "bot",
+    "deeplink": "https://t.me/fileconverterbot",
+    "shortDescription": "Bot for converting files between different formats.",
+    "longDescription": "File Converter is a Telegram bot that converts images, audio files, videos, documents, presentations and e‑books into various formats. It supports almost 90 formats, allowing you to choose the desired format and save or forward the converted file.",
+    "functions": [
+      "render"
+    ],
+    "topics": [
+      "productivity"
+    ],
+    "primaryTopic": "productivity",
+    "language": "en",
+    "compat": "L0",
+    "audience": "all",
+    "formats": [
+      "text",
+      "image",
+      "audio",
+      "video",
+      "pdf",
+      "slides"
+    ],
+    "tags": [
+      "found_via:tecmint",
+      "en-bot"
+    ],
+    "isPromoted": false,
+    "weight": 10
+  },
+  {
+    "id": "tg-filetobot",
+    "title": "File to Bot",
+    "type": "bot",
+    "deeplink": "https://t.me/filetobot",
+    "shortDescription": "File storage and sharing bot for organizing files in Telegram.",
+    "longDescription": "File to Bot turns Telegram into a convenient file‑storage platform. It allows you to add separate files, create folders, invite others to access files, share content publicly via links and even share files to other platforms. It offers unlimited storage for personal use.",
+    "functions": [
+      "integrate"
+    ],
+    "topics": [
+      "productivity"
+    ],
+    "primaryTopic": "productivity",
+    "language": "en",
+    "compat": "L0",
+    "audience": "all",
+    "formats": [
+      "text",
+      "image",
+      "audio",
+      "video"
+    ],
+    "tags": [
+      "found_via:tecmint",
+      "en-bot"
+    ],
+    "isPromoted": false,
+    "weight": 10
+  },
+  {
+    "id": "tg-skeddy",
+    "title": "Skeddy",
+    "type": "bot",
+    "deeplink": "https://t.me/skeddy",
+    "shortDescription": "Task management and reminder bot.",
+    "longDescription": "Skeddy is a Telegram bot for task management and reminders. It lets you create simple reminders, synchronize with your time zone, convert passed reminders to notes and reschedule tasks, helping you stay organized.",
+    "functions": [
+      "automate"
+    ],
+    "topics": [
+      "productivity"
+    ],
+    "primaryTopic": "productivity",
+    "language": "en",
+    "compat": "L0",
+    "audience": "all",
+    "formats": [
+      "text"
+    ],
+    "tags": [
+      "found_via:tecmint",
+      "en-bot"
+    ],
+    "isPromoted": false,
+    "weight": 10
+  },
+  {
+    "id": "tg-dogs",
+    "title": "DOGS",
+    "type": "miniapp",
+    "deeplink": "https://t.me/dogshouse_bot",
+    "shortDescription": "Telegram game combining memes, community interaction and crypto rewards.",
+    "longDescription": "DOGS is a Telegram game that blends internet culture with gameplay. Players engage with a meme‑driven community and collect DOGS tokens for participating in the ecosystem and completing social challenges.",
+    "functions": [
+      "integrate"
+    ],
+    "topics": [
+      "games",
+      "crypto_web3"
+    ],
+    "primaryTopic": "games",
+    "language": "en",
+    "compat": "L1",
+    "audience": "all",
+    "formats": [
+      "html",
+      "text"
+    ],
+    "tags": [
+      "found_via:ambcrypto",
+      "miniapp-games"
+    ],
+    "isPromoted": false,
+    "weight": 10
+  },
+  {
+    "id": "tg-blumcrypto",
+    "title": "BlumCrypto",
+    "type": "miniapp",
+    "deeplink": "https://t.me/blumcryptobot",
+    "shortDescription": "Tap‑to‑earn game promoting eco‑friendly activities.",
+    "longDescription": "BlumCrypto is a tap‑to‑earn game on Telegram focused on environmental awareness. Players complete tasks such as planting virtual trees, recycling digital items and cleaning up oceans, combining gameplay with sustainability goals.",
+    "functions": [
+      "integrate"
+    ],
+    "topics": [
+      "games",
+      "crypto_web3"
+    ],
+    "primaryTopic": "games",
+    "language": "en",
+    "compat": "L1",
+    "audience": "all",
+    "formats": [
+      "html",
+      "text"
+    ],
+    "tags": [
+      "found_via:ambcrypto",
+      "miniapp-games"
+    ],
+    "isPromoted": false,
+    "weight": 10
+  },
+  {
+    "id": "tg-major",
+    "title": "Major",
+    "type": "miniapp",
+    "deeplink": "https://t.me/major",
+    "shortDescription": "Tap‑to‑earn puzzle game with reward tokens.",
+    "longDescription": "Major is a Telegram tap‑to‑earn game where players solve puzzles and complete daily challenges to collect Rating Points. Points can be redeemed for MAJOR tokens, giving real value to time spent in the game.",
+    "functions": [
+      "integrate"
+    ],
+    "topics": [
+      "games",
+      "crypto_web3"
+    ],
+    "primaryTopic": "games",
+    "language": "en",
+    "compat": "L1",
+    "audience": "all",
+    "formats": [
+      "html",
+      "text"
+    ],
+    "tags": [
+      "found_via:ambcrypto",
+      "miniapp-games"
+    ],
+    "isPromoted": false,
+    "weight": 10
+  },
+  {
+    "id": "tg-wcoin",
+    "title": "W‑Coin",
+    "type": "miniapp",
+    "deeplink": "https://t.me/wcoin_tapbot",
+    "shortDescription": "Arcade‑style tap‑to‑earn game with rewarding point system.",
+    "longDescription": "W‑Coin is a straightforward tap‑to‑earn game on Telegram. Players tap to stack up points and use them for rewards. Its quick sessions and simple mechanics attract millions of players.",
+    "functions": [
+      "integrate"
+    ],
+    "topics": [
+      "games",
+      "crypto_web3"
+    ],
+    "primaryTopic": "games",
+    "language": "en",
+    "compat": "L1",
+    "audience": "all",
+    "formats": [
+      "html",
+      "text"
+    ],
+    "tags": [
+      "found_via:ambcrypto",
+      "miniapp-games"
+    ],
+    "isPromoted": false,
+    "weight": 10
+  },
+  {
+    "id": "tg-rockyrabbit",
+    "title": "Rocky Rabbit",
+    "type": "miniapp",
+    "deeplink": "https://t.me/rockyrabbitbot",
+    "shortDescription": "Game where players train virtual rabbits for challenges and earn tokens.",
+    "longDescription": "Rocky Rabbit is a Telegram game where players train virtual rabbits to participate in challenges and tasks. As they progress, they earn RabBitcoin (RBTC) tokens and can benefit from performance‑based airdrops.",
+    "functions": [
+      "integrate"
+    ],
+    "topics": [
+      "games",
+      "crypto_web3"
+    ],
+    "primaryTopic": "games",
+    "language": "en",
+    "compat": "L1",
+    "audience": "all",
+    "formats": [
+      "html",
+      "text"
+    ],
+    "tags": [
+      "found_via:ambcrypto",
+      "miniapp-games"
+    ],
+    "isPromoted": false,
+    "weight": 10
+  },
+  {
+    "id": "tg-hamsterkombat",
+    "title": "Hamster Kombat",
+    "type": "miniapp",
+    "deeplink": "https://t.me/hamster_kombat_bot",
+    "shortDescription": "Tap‑based game where players run a virtual crypto exchange.",
+    "longDescription": "Hamster Kombat is a Telegram mini‑app game in which players manage a virtual cryptocurrency exchange. The gameplay involves tap mechanics, daily ciphers and combo challenges that allow users to earn coins and enhance performance.",
+    "functions": [
+      "integrate"
+    ],
+    "topics": [
+      "games",
+      "crypto_web3"
+    ],
+    "primaryTopic": "games",
+    "language": "en",
+    "compat": "L1",
+    "audience": "all",
+    "formats": [
+      "html",
+      "text"
+    ],
+    "tags": [
+      "found_via:ambcrypto",
+      "miniapp-games"
+    ],
+    "isPromoted": false,
+    "weight": 10
+  },
+  {
+    "id": "tg-notcoin",
+    "title": "Notcoin",
+    "type": "miniapp",
+    "deeplink": "https://t.me/notcoin_bot",
+    "shortDescription": "Pioneering tap‑to‑earn game where users mine Notcoin tokens.",
+    "longDescription": "Notcoin pioneered the tap‑to‑earn trend. Users tap a coin to mine Notcoin tokens and complete tasks for multipliers. Withdrawals are available to web3 wallets.",
+    "functions": [
+      "integrate"
+    ],
+    "topics": [
+      "games",
+      "crypto_web3"
+    ],
+    "primaryTopic": "games",
+    "language": "en",
+    "compat": "L1",
+    "audience": "all",
+    "formats": [
+      "html",
+      "text"
+    ],
+    "tags": [
+      "found_via:bitget",
+      "miniapp-games"
+    ],
+    "isPromoted": false,
+    "weight": 10
+  },
+  {
+    "id": "tg-tapswap",
+    "title": "TapSwap",
+    "type": "miniapp",
+    "deeplink": "https://t.me/tapswap_bot",
+    "shortDescription": "Game blending tapping for tokens with decentralized exchange mechanics.",
+    "longDescription": "TapSwap is a Telegram game that combines tapping to earn tokens with decentralized exchange mechanics. Players tap, trade and swap earned tokens within the mini‑app, offering an educational introduction to DeFi concepts.",
+    "functions": [
+      "integrate"
+    ],
+    "topics": [
+      "games",
+      "crypto_web3"
+    ],
+    "primaryTopic": "games",
+    "language": "en",
+    "compat": "L1",
+    "audience": "all",
+    "formats": [
+      "html",
+      "text"
+    ],
+    "tags": [
+      "found_via:bitget",
+      "miniapp-games"
+    ],
+    "isPromoted": false,
+    "weight": 10
+  },
+  {
+    "id": "tg-yescoin",
+    "title": "Yescoin",
+    "type": "miniapp",
+    "deeplink": "https://t.me/theyescoin_bot",
+    "shortDescription": "Tap‑themed mini‑game with competitions and boost cards.",
+    "longDescription": "Yescoin is a Telegram tap‑to‑earn mini‑game with fun graphics. It features boost cards, daily missions and leaderboard prizes. The game has plans for upcoming crypto token airdrops.",
+    "functions": [
+      "integrate"
+    ],
+    "topics": [
+      "games",
+      "crypto_web3"
+    ],
+    "primaryTopic": "games",
+    "language": "en",
+    "compat": "L1",
+    "audience": "all",
+    "formats": [
+      "html",
+      "text"
+    ],
+    "tags": [
+      "found_via:bitget",
+      "miniapp-games"
+    ],
+    "isPromoted": false,
+    "weight": 10
+  },
+  {
+    "id": "tg-gigaswap_clicker",
+    "title": "GigaSwap Clicker",
+    "type": "miniapp",
+    "deeplink": "https://t.me/gigaswapbot",
+    "shortDescription": "Tap game integrated with a DEX simulation.",
+    "longDescription": "GigaSwap Clicker is a Telegram mini‑game integrated with a decentralized exchange simulation. It lets users tap to farm tokens or simulate swaps while teaching the basics of swapping and liquidity.",
+    "functions": [
+      "integrate"
+    ],
+    "topics": [
+      "games",
+      "crypto_web3"
+    ],
+    "primaryTopic": "games",
+    "language": "en",
+    "compat": "L1",
+    "audience": "all",
+    "formats": [
+      "html",
+      "text"
+    ],
+    "tags": [
+      "found_via:bitget",
+      "miniapp-games"
+    ],
+    "isPromoted": false,
+    "weight": 10
+  },
+  {
+    "id": "tg-blum_ecosystem",
+    "title": "Blum Trading Ecosystem",
+    "type": "miniapp",
+    "deeplink": "https://t.me/blum",
+    "shortDescription": "Telegram‑native crypto trading ecosystem.",
+    "longDescription": "Blum is a leading crypto ecosystem built in Telegram. It provides spot trading and perpetual futures on various tokens, a memecoin launchpad and a trading terminal, enabling users to trade without leaving the chat. The platform offers cross‑chain wallets and simplifies trading with up to 100× leverage.",
+    "functions": [
+      "integrate"
+    ],
+    "topics": [
+      "economy",
+      "crypto_web3"
+    ],
+    "primaryTopic": "economy",
+    "language": "en",
+    "compat": "L1",
+    "audience": "all",
+    "formats": [
+      "html",
+      "text"
+    ],
+    "tags": [
+      "found_via:blum",
+      "crypto"
+    ],
     "isPromoted": false,
     "weight": 10
   }
