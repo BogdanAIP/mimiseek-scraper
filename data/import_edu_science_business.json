@@ -1,0 +1,1426 @@
+[
+  {
+    "id": "tg-zlibrary_official",
+    "title": "Z‑Library Official",
+    "type": "channel",
+    "deeplink": "https://t.me/zlibrary_official",
+    "shortDescription": "Канал с доступом к академическим книгам и учебным материалам.",
+    "longDescription": "Z‑Library Official предоставляет студентам редкие и нужные тексты, а также исследовательские работы и учебные материалы. Канал помогает получать доступ к коллекциям книг и полезен для тех, кто ищет литературу для обучения и саморазвития:contentReference[oaicite:0]{index=0}.",
+    "functions": [
+      "publish"
+    ],
+    "topics": [
+      "education",
+      "culture"
+    ],
+    "primaryTopic": "culture",
+    "language": "en",
+    "compat": "L0",
+    "audience": "all",
+    "formats": [
+      "text",
+      "pdf"
+    ],
+    "tags": [
+      "en-channel",
+      "books",
+      "education"
+    ],
+    "isPromoted": false,
+    "weight": 10
+  },
+  {
+    "id": "tg-upsc_prelims",
+    "title": "UPSC Prelims",
+    "type": "channel",
+    "deeplink": "https://t.me/upsc_prelims",
+    "shortDescription": "Подготовка к экзаменам UPSC и подборка материалов.",
+    "longDescription": "Канал помогает готовиться к индийским экзаменам UPSC: публикуются серии тестов, предметные ресурсы, доступ к живым курсам, объявления о вакансиях и карьерные советы для сдающих экзамен:contentReference[oaicite:1]{index=1}.",
+    "functions": [
+      "publish"
+    ],
+    "topics": [
+      "education",
+      "business"
+    ],
+    "primaryTopic": "business",
+    "language": "en",
+    "compat": "L0",
+    "audience": "all",
+    "formats": [
+      "text",
+      "video",
+      "pdf"
+    ],
+    "tags": [
+      "en-channel",
+      "exam-prep"
+    ],
+    "isPromoted": false,
+    "weight": 10
+  },
+  {
+    "id": "tg-crynet",
+    "title": "Crynet",
+    "type": "channel",
+    "deeplink": "https://t.me/crynet",
+    "shortDescription": "Научные новости и видеоролики для любознательных.",
+    "longDescription": "Crynet ежедневно делится новостями о науке и видеороликами, которые делают вас умнее. Канал позиционирует себя как место, где рассказывают о науке простым языком и мотивируют следить за новыми открытиями :contentReference[oaicite:2]{index=2}.",
+    "functions": [
+      "publish"
+    ],
+    "topics": [
+      "education",
+      "science"
+    ],
+    "primaryTopic": "science",
+    "language": "en",
+    "compat": "L0",
+    "audience": "all",
+    "formats": [
+      "text"
+    ],
+    "tags": [
+      "en-channel",
+      "science-news"
+    ],
+    "isPromoted": false,
+    "weight": 10
+  },
+  {
+    "id": "tg-askme",
+    "title": "Ask Me",
+    "type": "channel",
+    "deeplink": "https://t.me/askme",
+    "shortDescription": "Вопрос‑ответ по любым темам и ежедневные факты.",
+    "longDescription": "Канал работает по принципу Reddit AMA: пользователи задают вопросы, а сообщество отвечает. Более 97 тысяч подписчиков получают ежедневную порцию общих знаний и интересных фактов:contentReference[oaicite:3]{index=3}.",
+    "functions": [
+      "publish"
+    ],
+    "topics": [
+      "education",
+      "culture"
+    ],
+    "primaryTopic": "culture",
+    "language": "en",
+    "compat": "L0",
+    "audience": "all",
+    "formats": [
+      "text"
+    ],
+    "tags": [
+      "en-channel",
+      "general-knowledge"
+    ],
+    "isPromoted": false,
+    "weight": 10
+  },
+  {
+    "id": "tg-science",
+    "title": "Science",
+    "type": "channel",
+    "deeplink": "https://t.me/science",
+    "shortDescription": "Популярные научные видео и статьи.",
+    "longDescription": "Один из самых больших каналов по науке, который делится интересными видео и статьями. Содержимое собирается из надёжных источников и охватывает широкий спектр научных тем:contentReference[oaicite:4]{index=4}.",
+    "functions": [
+      "publish"
+    ],
+    "topics": [
+      "education",
+      "science"
+    ],
+    "primaryTopic": "science",
+    "language": "en",
+    "compat": "L0",
+    "audience": "all",
+    "formats": [
+      "text",
+      "video"
+    ],
+    "tags": [
+      "en-channel",
+      "science-articles"
+    ],
+    "isPromoted": false,
+    "weight": 10
+  },
+  {
+    "id": "tg-technologyboxes",
+    "title": "Technology Boxes",
+    "type": "channel",
+    "deeplink": "https://t.me/technologyboxes",
+    "shortDescription": "Новости технологий, любопытные факты и видео‑обзоры.",
+    "longDescription": "Канал посвящён технологиям: здесь публикуются новости, забавные факты и тематические ролики о гаджетах и футуризме, что делает его отличным источником быстрых обновлений:contentReference[oaicite:5]{index=5}.",
+    "functions": [
+      "publish"
+    ],
+    "topics": [
+      "education",
+      "technology"
+    ],
+    "primaryTopic": "technology",
+    "language": "en",
+    "compat": "L0",
+    "audience": "all",
+    "formats": [
+      "text",
+      "video"
+    ],
+    "tags": [
+      "en-channel",
+      "tech-news"
+    ],
+    "isPromoted": false,
+    "weight": 10
+  },
+  {
+    "id": "tg-worldarchitecture",
+    "title": "World Architecture",
+    "type": "channel",
+    "deeplink": "https://t.me/worldarchitecture",
+    "shortDescription": "Изображения и вдохновение для архитекторов и инженеров.",
+    "longDescription": "Канал ежедневно публикует фотографии удивительных архитектурных строений со всего мира, предоставляя вдохновение гражданским инженерам и архитекторам:contentReference[oaicite:6]{index=6}.",
+    "functions": [
+      "publish"
+    ],
+    "topics": [
+      "education",
+      "culture"
+    ],
+    "primaryTopic": "culture",
+    "language": "en",
+    "compat": "L0",
+    "audience": "all",
+    "formats": [
+      "image",
+      "text"
+    ],
+    "tags": [
+      "en-channel",
+      "architecture"
+    ],
+    "isPromoted": false,
+    "weight": 10
+  },
+  {
+    "id": "tg-datasciencechannel",
+    "title": "Data Science",
+    "type": "channel",
+    "deeplink": "https://t.me/datasciencechannel",
+    "shortDescription": "Контент о data science, AI и deep learning.",
+    "longDescription": "Первый телеграм‑канал, посвящённый data science, где публикуются новости о глубоких нейронных сетях, искусственном интеллекте и машинном обучении :contentReference[oaicite:7]{index=7}.",
+    "functions": [
+      "publish"
+    ],
+    "topics": [
+      "education",
+      "ai_ml",
+      "technology"
+    ],
+    "primaryTopic": "ai_ml",
+    "language": "en",
+    "compat": "L0",
+    "audience": "all",
+    "formats": [
+      "text"
+    ],
+    "tags": [
+      "en-channel",
+      "data-science"
+    ],
+    "isPromoted": false,
+    "weight": 10
+  },
+  {
+    "id": "tg-mathematicschannel",
+    "title": "Mathematics",
+    "type": "channel",
+    "deeplink": "https://t.me/mathematicschannel",
+    "shortDescription": "Математические задачи и истории про математиков.",
+    "longDescription": "Этот канал публикует математические вызовы с призами и рассказывает о жизнях известных математиков, вдохновляя изучать математику :contentReference[oaicite:8]{index=8}.",
+    "functions": [
+      "publish"
+    ],
+    "topics": [
+      "education",
+      "science"
+    ],
+    "primaryTopic": "science",
+    "language": "en",
+    "compat": "L0",
+    "audience": "all",
+    "formats": [
+      "text"
+    ],
+    "tags": [
+      "en-channel",
+      "math"
+    ],
+    "isPromoted": false,
+    "weight": 10
+  },
+  {
+    "id": "tg-great_space",
+    "title": "Great Space",
+    "type": "channel",
+    "deeplink": "https://t.me/great_space",
+    "shortDescription": "Фотографии, новости и видео о космосе.",
+    "longDescription": "Популярный канал, публикующий ежедневные снимки, новости и видеоматериалы о космосе. Здесь можно найти фотографии NASA, Hubble и ESA, а также обновления о современных исследованиях в области астрономии :contentReference[oaicite:9]{index=9}.",
+    "functions": [
+      "publish"
+    ],
+    "topics": [
+      "education",
+      "science"
+    ],
+    "primaryTopic": "science",
+    "language": "en",
+    "compat": "L0",
+    "audience": "all",
+    "formats": [
+      "text",
+      "image",
+      "video"
+    ],
+    "tags": [
+      "en-channel",
+      "astronomy"
+    ],
+    "isPromoted": false,
+    "weight": 10
+  },
+  {
+    "id": "tg-calculusnotes",
+    "title": "Calculus Notes",
+    "type": "channel",
+    "deeplink": "https://t.me/calculusnotes",
+    "shortDescription": "Уроки и задачи по дифференциальному и интегральному исчислению.",
+    "longDescription": "Канал предоставляет учебные материалы и техники решения задач по математическому анализу: производные, интегралы и другие разделы :contentReference[oaicite:10]{index=10}.",
+    "functions": [
+      "publish"
+    ],
+    "topics": [
+      "education",
+      "science"
+    ],
+    "primaryTopic": "science",
+    "language": "en",
+    "compat": "L0",
+    "audience": "all",
+    "formats": [
+      "text"
+    ],
+    "tags": [
+      "en-channel",
+      "calculus"
+    ],
+    "isPromoted": false,
+    "weight": 10
+  },
+  {
+    "id": "tg-linearalgebra",
+    "title": "Linear Algebra",
+    "type": "channel",
+    "deeplink": "https://t.me/linearalgebra",
+    "shortDescription": "Материалы по линейной алгебре: матрицы и векторы.",
+    "longDescription": "Этот канал посвящён линейной алгебре. Подписчики изучают матрицы, векторы и линейные преобразования, получая материалы для самостоятельного изучения:contentReference[oaicite:11]{index=11}.",
+    "functions": [
+      "publish"
+    ],
+    "topics": [
+      "education",
+      "science"
+    ],
+    "primaryTopic": "science",
+    "language": "en",
+    "compat": "L0",
+    "audience": "all",
+    "formats": [
+      "text"
+    ],
+    "tags": [
+      "en-channel",
+      "algebra"
+    ],
+    "isPromoted": false,
+    "weight": 10
+  },
+  {
+    "id": "tg-mechanicalengineering",
+    "title": "Mechanical Engineering",
+    "type": "channel",
+    "deeplink": "https://t.me/mechanicalengineering",
+    "shortDescription": "Ресурсы и проекты по механической инженерии.",
+    "longDescription": "Канал знакомит с концепциями и проектами в области механической инженерии, рассказывает о достижениях и новейших разработках:contentReference[oaicite:12]{index=12}.",
+    "functions": [
+      "publish"
+    ],
+    "topics": [
+      "education",
+      "science",
+      "technology"
+    ],
+    "primaryTopic": "science",
+    "language": "en",
+    "compat": "L0",
+    "audience": "all",
+    "formats": [
+      "text"
+    ],
+    "tags": [
+      "en-channel",
+      "engineering"
+    ],
+    "isPromoted": false,
+    "weight": 10
+  },
+  {
+    "id": "tg-electricalengineering",
+    "title": "Electrical Engineering",
+    "type": "channel",
+    "deeplink": "https://t.me/electricalengineering",
+    "shortDescription": "Материалы по электротехнике и электронике.",
+    "longDescription": "Подписчики канала узнают о схемах, устройствах и теориях электротехники, обсуждают различные аспекты электропроектирования и делятся опытом :contentReference[oaicite:13]{index=13}.",
+    "functions": [
+      "publish"
+    ],
+    "topics": [
+      "education",
+      "science",
+      "technology"
+    ],
+    "primaryTopic": "science",
+    "language": "en",
+    "compat": "L0",
+    "audience": "all",
+    "formats": [
+      "text"
+    ],
+    "tags": [
+      "en-channel",
+      "engineering"
+    ],
+    "isPromoted": false,
+    "weight": 10
+  },
+  {
+    "id": "tg-civilengineering",
+    "title": "Civil Engineering",
+    "type": "channel",
+    "deeplink": "https://t.me/civilengineering",
+    "shortDescription": "Конструкции и материалы для гражданского строительства.",
+    "longDescription": "Канал посвящён гражданскому строительству: обсуждаются материалы, методы и конструкции для создания инфраструктуры:contentReference[oaicite:14]{index=14}.",
+    "functions": [
+      "publish"
+    ],
+    "topics": [
+      "education",
+      "science",
+      "technology"
+    ],
+    "primaryTopic": "science",
+    "language": "en",
+    "compat": "L0",
+    "audience": "all",
+    "formats": [
+      "text"
+    ],
+    "tags": [
+      "en-channel",
+      "engineering"
+    ],
+    "isPromoted": false,
+    "weight": 10
+  },
+  {
+    "id": "tg-englishgrammar",
+    "title": "English Grammar",
+    "type": "channel",
+    "deeplink": "https://t.me/englishgrammar",
+    "shortDescription": "Уроки английской грамматики и расширение словарного запаса.",
+    "longDescription": "Канал помогает улучшить грамматику английского: подписчики получают упражнения, правила и ежедневные уроки:contentReference[oaicite:15]{index=15}.",
+    "functions": [
+      "publish"
+    ],
+    "topics": [
+      "education",
+      "culture"
+    ],
+    "primaryTopic": "culture",
+    "language": "en",
+    "compat": "L0",
+    "audience": "all",
+    "formats": [
+      "text"
+    ],
+    "tags": [
+      "en-channel",
+      "language-learning"
+    ],
+    "isPromoted": false,
+    "weight": 10
+  },
+  {
+    "id": "tg-learnspanish",
+    "title": "Learn Spanish",
+    "type": "channel",
+    "deeplink": "https://t.me/learnspanish",
+    "shortDescription": "Канал для изучения испанского языка.",
+    "longDescription": "Публикует уроки испанского языка, полезные фразы и грамматические правила для начинающих и продвинутых учеников:contentReference[oaicite:16]{index=16}.",
+    "functions": [
+      "publish"
+    ],
+    "topics": [
+      "education",
+      "culture"
+    ],
+    "primaryTopic": "culture",
+    "language": "en",
+    "compat": "L0",
+    "audience": "all",
+    "formats": [
+      "text"
+    ],
+    "tags": [
+      "en-channel",
+      "language-learning"
+    ],
+    "isPromoted": false,
+    "weight": 10
+  },
+  {
+    "id": "tg-frenchpod",
+    "title": "French Pod",
+    "type": "channel",
+    "deeplink": "https://t.me/frenchpod",
+    "shortDescription": "Изучение французского языка с подкастами и материалами.",
+    "longDescription": "Канал предлагает подкасты, упражнения и словарные списки для самостоятельного изучения французского языка:contentReference[oaicite:17]{index=17}.",
+    "functions": [
+      "publish"
+    ],
+    "topics": [
+      "education",
+      "culture"
+    ],
+    "primaryTopic": "culture",
+    "language": "en",
+    "compat": "L0",
+    "audience": "all",
+    "formats": [
+      "text",
+      "audio"
+    ],
+    "tags": [
+      "en-channel",
+      "language-learning"
+    ],
+    "isPromoted": false,
+    "weight": 10
+  },
+  {
+    "id": "tg-germanforyou",
+    "title": "German For You",
+    "type": "channel",
+    "deeplink": "https://t.me/germanforyou",
+    "shortDescription": "Материалы для изучения немецкого языка.",
+    "longDescription": "Канал помогает изучать немецкий язык с нуля: содержит словарь, грамматику, упражнения и разговорные фразы:contentReference[oaicite:18]{index=18}.",
+    "functions": [
+      "publish"
+    ],
+    "topics": [
+      "education",
+      "culture"
+    ],
+    "primaryTopic": "culture",
+    "language": "en",
+    "compat": "L0",
+    "audience": "all",
+    "formats": [
+      "text"
+    ],
+    "tags": [
+      "en-channel",
+      "language-learning"
+    ],
+    "isPromoted": false,
+    "weight": 10
+  },
+  {
+    "id": "tg-chineselearning",
+    "title": "Chinese Learning",
+    "type": "channel",
+    "deeplink": "https://t.me/chineselearning",
+    "shortDescription": "Уроки китайского языка для начинающих.",
+    "longDescription": "Этот канал публикует уроки китайского языка, примеры разговорных фраз и письма, помогая освоить основы:contentReference[oaicite:19]{index=19}.",
+    "functions": [
+      "publish"
+    ],
+    "topics": [
+      "education",
+      "culture"
+    ],
+    "primaryTopic": "culture",
+    "language": "en",
+    "compat": "L0",
+    "audience": "all",
+    "formats": [
+      "text"
+    ],
+    "tags": [
+      "en-channel",
+      "language-learning"
+    ],
+    "isPromoted": false,
+    "weight": 10
+  },
+  {
+    "id": "tg-pythonbytes",
+    "title": "PythonBytes",
+    "type": "channel",
+    "deeplink": "https://t.me/pythonbytes",
+    "shortDescription": "Новости и лучшие практики по Python.",
+    "longDescription": "Канал публикует новости, фичи и лучшие практики Python, позволяя разработчикам следить за свежими трендами и библиотеками:contentReference[oaicite:20]{index=20}.",
+    "functions": [
+      "publish"
+    ],
+    "topics": [
+      "education",
+      "ai_ml",
+      "technology"
+    ],
+    "primaryTopic": "ai_ml",
+    "language": "en",
+    "compat": "L0",
+    "audience": "all",
+    "formats": [
+      "text"
+    ],
+    "tags": [
+      "en-channel",
+      "python"
+    ],
+    "isPromoted": false,
+    "weight": 10
+  },
+  {
+    "id": "tg-webdevresources",
+    "title": "WebDev Resources",
+    "type": "channel",
+    "deeplink": "https://t.me/webdevresources",
+    "shortDescription": "Туториалы и инструменты для веб‑разработки.",
+    "longDescription": "Канал предлагает руководства по HTML, CSS, JavaScript и современные веб‑фреймворки, а также подборки полезных инструментов для веб‑разработчиков:contentReference[oaicite:21]{index=21}.",
+    "functions": [
+      "publish"
+    ],
+    "topics": [
+      "education",
+      "technology"
+    ],
+    "primaryTopic": "technology",
+    "language": "en",
+    "compat": "L0",
+    "audience": "all",
+    "formats": [
+      "text"
+    ],
+    "tags": [
+      "en-channel",
+      "webdev"
+    ],
+    "isPromoted": false,
+    "weight": 10
+  },
+  {
+    "id": "tg-datasciencecentral",
+    "title": "DataScience Central",
+    "type": "channel",
+    "deeplink": "https://t.me/datasciencecentral",
+    "shortDescription": "Материалы, кейсы и методы из мира data science.",
+    "longDescription": "Канал публикует статьи, практические кейсы и советы по машинному обучению, анализу данных и визуализации:contentReference[oaicite:22]{index=22}.",
+    "functions": [
+      "publish"
+    ],
+    "topics": [
+      "education",
+      "ai_ml",
+      "technology"
+    ],
+    "primaryTopic": "ai_ml",
+    "language": "en",
+    "compat": "L0",
+    "audience": "all",
+    "formats": [
+      "text"
+    ],
+    "tags": [
+      "en-channel",
+      "data-science"
+    ],
+    "isPromoted": false,
+    "weight": 10
+  },
+  {
+    "id": "tg-aitrends",
+    "title": "AI Trends",
+    "type": "channel",
+    "deeplink": "https://t.me/aitrends",
+    "shortDescription": "Свежие новости и тренды искусственного интеллекта.",
+    "longDescription": "Канал освещает актуальные тренды в AI: публикации исследований, новые инструменты и примеры применения ИИ в разных сферах:contentReference[oaicite:23]{index=23}.",
+    "functions": [
+      "publish"
+    ],
+    "topics": [
+      "education",
+      "ai_ml"
+    ],
+    "primaryTopic": "ai_ml",
+    "language": "en",
+    "compat": "L0",
+    "audience": "all",
+    "formats": [
+      "text"
+    ],
+    "tags": [
+      "en-channel",
+      "ai-news"
+    ],
+    "isPromoted": false,
+    "weight": 10
+  },
+  {
+    "id": "tg-cybersecuritynews",
+    "title": "Cybersecurity News",
+    "type": "channel",
+    "deeplink": "https://t.me/cybersecuritynews",
+    "shortDescription": "Актуальные новости из мира кибербезопасности.",
+    "longDescription": "Публикует новости, советы и аналитические статьи о киберугрозах, уязвимостях и защите данных:contentReference[oaicite:24]{index=24}.",
+    "functions": [
+      "publish"
+    ],
+    "topics": [
+      "education",
+      "technology"
+    ],
+    "primaryTopic": "technology",
+    "language": "en",
+    "compat": "L0",
+    "audience": "all",
+    "formats": [
+      "text"
+    ],
+    "tags": [
+      "en-channel",
+      "cybersecurity"
+    ],
+    "isPromoted": false,
+    "weight": 10
+  },
+  {
+    "id": "tg-businessinsights",
+    "title": "Business Insights",
+    "type": "channel",
+    "deeplink": "https://t.me/businessinsights",
+    "shortDescription": "Стратегии и аналитика для бизнеса и предпринимателей.",
+    "longDescription": "Канал предлагает советы и стратегии ведения бизнеса, аналитические материалы о рынке и примеры успешных кейсов:contentReference[oaicite:25]{index=25}.",
+    "functions": [
+      "publish"
+    ],
+    "topics": [
+      "education",
+      "business"
+    ],
+    "primaryTopic": "business",
+    "language": "en",
+    "compat": "L0",
+    "audience": "all",
+    "formats": [
+      "text"
+    ],
+    "tags": [
+      "en-channel",
+      "business"
+    ],
+    "isPromoted": false,
+    "weight": 10
+  },
+  {
+    "id": "tg-marketingminds",
+    "title": "Marketing Minds",
+    "type": "channel",
+    "deeplink": "https://t.me/marketingminds",
+    "shortDescription": "Канал о тенденциях и методах цифрового маркетинга.",
+    "longDescription": "Публикует статьи, руководства и советы по маркетингу: от SEO и контент‑маркетинга до социальных сетей и PR:contentReference[oaicite:26]{index=26}.",
+    "functions": [
+      "publish"
+    ],
+    "topics": [
+      "education",
+      "business"
+    ],
+    "primaryTopic": "business",
+    "language": "en",
+    "compat": "L0",
+    "audience": "all",
+    "formats": [
+      "text"
+    ],
+    "tags": [
+      "en-channel",
+      "marketing"
+    ],
+    "isPromoted": false,
+    "weight": 10
+  },
+  {
+    "id": "tg-financenews",
+    "title": "Finance News",
+    "type": "channel",
+    "deeplink": "https://t.me/financenews",
+    "shortDescription": "Новости финансов, рынков и экономических событий.",
+    "longDescription": "Канал охватывает финансовые рынки, банковские новости, отчёты компаний и макроэкономические события:contentReference[oaicite:27]{index=27}.",
+    "functions": [
+      "publish"
+    ],
+    "topics": [
+      "education",
+      "business"
+    ],
+    "primaryTopic": "business",
+    "language": "en",
+    "compat": "L0",
+    "audience": "all",
+    "formats": [
+      "text"
+    ],
+    "tags": [
+      "en-channel",
+      "finance"
+    ],
+    "isPromoted": false,
+    "weight": 10
+  },
+  {
+    "id": "tg-pmtips",
+    "title": "PM Tips",
+    "type": "channel",
+    "deeplink": "https://t.me/pmtips",
+    "shortDescription": "Советы и методы управления проектами.",
+    "longDescription": "Канал предлагает знания и инструменты по управлению проектами: методологии, кейсы и статьи о планировании и коммуникациях:contentReference[oaicite:28]{index=28}.",
+    "functions": [
+      "publish"
+    ],
+    "topics": [
+      "education",
+      "business"
+    ],
+    "primaryTopic": "business",
+    "language": "en",
+    "compat": "L0",
+    "audience": "all",
+    "formats": [
+      "text"
+    ],
+    "tags": [
+      "en-channel",
+      "project-management"
+    ],
+    "isPromoted": false,
+    "weight": 10
+  },
+  {
+    "id": "tg-leadershipmatters",
+    "title": "Leadership Matters",
+    "type": "channel",
+    "deeplink": "https://t.me/leadershipmatters",
+    "shortDescription": "Ресурсы и истории для развития лидерских навыков.",
+    "longDescription": "Публикует советы, интервью и вдохновляющие истории о лидерстве, менеджменте и командном взаимодействии:contentReference[oaicite:29]{index=29}.",
+    "functions": [
+      "publish"
+    ],
+    "topics": [
+      "education",
+      "business"
+    ],
+    "primaryTopic": "business",
+    "language": "en",
+    "compat": "L0",
+    "audience": "all",
+    "formats": [
+      "text"
+    ],
+    "tags": [
+      "en-channel",
+      "leadership"
+    ],
+    "isPromoted": false,
+    "weight": 10
+  },
+  {
+    "id": "tg-communicationskills",
+    "title": "Communication Skills",
+    "type": "channel",
+    "deeplink": "https://t.me/communicationskills",
+    "shortDescription": "Развитие вербальных и невербальных навыков коммуникации.",
+    "longDescription": "Канал помогает улучшить навыки общения: статьи о риторике, активном слушании и конструктивной обратной связи:contentReference[oaicite:30]{index=30}.",
+    "functions": [
+      "publish"
+    ],
+    "topics": [
+      "education",
+      "culture"
+    ],
+    "primaryTopic": "culture",
+    "language": "en",
+    "compat": "L0",
+    "audience": "all",
+    "formats": [
+      "text"
+    ],
+    "tags": [
+      "en-channel",
+      "soft-skills"
+    ],
+    "isPromoted": false,
+    "weight": 10
+  },
+  {
+    "id": "tg-publicspeakingtips",
+    "title": "Public Speaking Tips",
+    "type": "channel",
+    "deeplink": "https://t.me/publicspeakingtips",
+    "shortDescription": "Советы для уверенных публичных выступлений.",
+    "longDescription": "Этот канал делится техниками публичных выступлений, навыками убеждения и примерами успешных ораторов:contentReference[oaicite:31]{index=31}.",
+    "functions": [
+      "publish"
+    ],
+    "topics": [
+      "education",
+      "culture"
+    ],
+    "primaryTopic": "culture",
+    "language": "en",
+    "compat": "L0",
+    "audience": "all",
+    "formats": [
+      "text"
+    ],
+    "tags": [
+      "en-channel",
+      "soft-skills"
+    ],
+    "isPromoted": false,
+    "weight": 10
+  },
+  {
+    "id": "tg-emotionalintelligence",
+    "title": "Emotional Intelligence",
+    "type": "channel",
+    "deeplink": "https://t.me/emotionalintelligence",
+    "shortDescription": "Канал о развитии эмоционального интеллекта и взаимоотношений.",
+    "longDescription": "Публикует советы по самоосознанию, эмпатии и управлению эмоциями в работе и личной жизни:contentReference[oaicite:32]{index=32}.",
+    "functions": [
+      "publish"
+    ],
+    "topics": [
+      "education",
+      "culture"
+    ],
+    "primaryTopic": "culture",
+    "language": "en",
+    "compat": "L0",
+    "audience": "all",
+    "formats": [
+      "text"
+    ],
+    "tags": [
+      "en-channel",
+      "soft-skills"
+    ],
+    "isPromoted": false,
+    "weight": 10
+  },
+  {
+    "id": "tg-networkingstrategies",
+    "title": "Networking Strategies",
+    "type": "channel",
+    "deeplink": "https://t.me/networkingstrategies",
+    "shortDescription": "Стратегии построения и поддержания профессиональных связей.",
+    "longDescription": "Канал раскрывает методы налаживания полезных профессиональных контактов и работы в командах, делясь практическими советами и историями из бизнеса:contentReference[oaicite:33]{index=33}.",
+    "functions": [
+      "publish"
+    ],
+    "topics": [
+      "education",
+      "business"
+    ],
+    "primaryTopic": "business",
+    "language": "en",
+    "compat": "L0",
+    "audience": "all",
+    "formats": [
+      "text"
+    ],
+    "tags": [
+      "en-channel",
+      "networking"
+    ],
+    "isPromoted": false,
+    "weight": 10
+  },
+  {
+    "id": "tg-personalbranding",
+    "title": "Personal Branding",
+    "type": "channel",
+    "deeplink": "https://t.me/personalbranding",
+    "shortDescription": "Построение и развитие личного бренда.",
+    "longDescription": "Публикует советы по позиционированию, самопрезентации и продвижению личности в профессиональной среде, разбирает успешные кейсы:contentReference[oaicite:34]{index=34}.",
+    "functions": [
+      "publish"
+    ],
+    "topics": [
+      "education",
+      "business"
+    ],
+    "primaryTopic": "business",
+    "language": "en",
+    "compat": "L0",
+    "audience": "all",
+    "formats": [
+      "text"
+    ],
+    "tags": [
+      "en-channel",
+      "personal-brand"
+    ],
+    "isPromoted": false,
+    "weight": 10
+  },
+  {
+    "id": "tg-todayilearn",
+    "title": "Today I Learn",
+    "type": "channel",
+    "deeplink": "https://t.me/todayilearn",
+    "shortDescription": "Канал с удивительными фактами и знаниями на каждый день.",
+    "longDescription": "Ежедневно публикует интересные и малоизвестные факты из разных областей, открывая новое каждый день:contentReference[oaicite:35]{index=35}.",
+    "functions": [
+      "publish"
+    ],
+    "topics": [
+      "education",
+      "culture"
+    ],
+    "primaryTopic": "culture",
+    "language": "en",
+    "compat": "L0",
+    "audience": "all",
+    "formats": [
+      "text"
+    ],
+    "tags": [
+      "en-channel",
+      "facts"
+    ],
+    "isPromoted": false,
+    "weight": 10
+  },
+  {
+    "id": "tg-dailylifehacks",
+    "title": "Daily Life Hacks",
+    "type": "channel",
+    "deeplink": "https://t.me/dailylifehacks",
+    "shortDescription": "Практичные лайфхаки для упрощения повседневной жизни.",
+    "longDescription": "Канал делится проверенными лайфхаками, которые помогают сэкономить время, деньги и ресурсы в повседневной жизни:contentReference[oaicite:36]{index=36}.",
+    "functions": [
+      "publish"
+    ],
+    "topics": [
+      "education",
+      "culture"
+    ],
+    "primaryTopic": "culture",
+    "language": "en",
+    "compat": "L0",
+    "audience": "all",
+    "formats": [
+      "text"
+    ],
+    "tags": [
+      "en-channel",
+      "lifehacks"
+    ],
+    "isPromoted": false,
+    "weight": 10
+  },
+  {
+    "id": "tg-mindblowingfacts",
+    "title": "Mind Blowing Facts",
+    "type": "channel",
+    "deeplink": "https://t.me/mindblowingfacts",
+    "shortDescription": "Уникальные и невероятные факты каждый день.",
+    "longDescription": "Публикует уникальные и удивительные факты с объяснениями, расширяя кругозор подписчиков и развивая любознательность:contentReference[oaicite:37]{index=37}.",
+    "functions": [
+      "publish"
+    ],
+    "topics": [
+      "education",
+      "culture"
+    ],
+    "primaryTopic": "culture",
+    "language": "en",
+    "compat": "L0",
+    "audience": "all",
+    "formats": [
+      "text"
+    ],
+    "tags": [
+      "en-channel",
+      "facts"
+    ],
+    "isPromoted": false,
+    "weight": 10
+  },
+  {
+    "id": "tg-sciencealert",
+    "title": "ScienceAlert",
+    "type": "channel",
+    "deeplink": "https://t.me/sciencealert",
+    "shortDescription": "Последние научные открытия и достижения.",
+    "longDescription": "Канал держит вас в курсе научных открытий и прорывов: новости, исследования и объяснения сложных концепций:contentReference[oaicite:38]{index=38}.",
+    "functions": [
+      "publish"
+    ],
+    "topics": [
+      "education",
+      "science"
+    ],
+    "primaryTopic": "science",
+    "language": "en",
+    "compat": "L0",
+    "audience": "all",
+    "formats": [
+      "text"
+    ],
+    "tags": [
+      "en-channel",
+      "science-news"
+    ],
+    "isPromoted": false,
+    "weight": 10
+  },
+  {
+    "id": "tg-pythonbytes_old",
+    "title": "PythonBytes",
+    "type": "channel",
+    "deeplink": "https://t.me/pythonbytes",
+    "shortDescription": "Новости и лучшие практики по Python.",
+    "longDescription": "Канал публикует новости, фичи и лучшие практики Python, позволяя разработчикам следить за свежими трендами и библиотеками:contentReference[oaicite:39]{index=39}.",
+    "functions": [
+      "publish"
+    ],
+    "topics": [
+      "education",
+      "ai_ml",
+      "technology"
+    ],
+    "primaryTopic": "ai_ml",
+    "language": "en",
+    "compat": "L0",
+    "audience": "all",
+    "formats": [
+      "text"
+    ],
+    "tags": [
+      "en-channel",
+      "python"
+    ],
+    "isPromoted": false,
+    "weight": 10
+  },
+  {
+    "id": "tg-matematicheskie_hitrosti",
+    "title": "Математические хитрости",
+    "type": "channel",
+    "deeplink": "https://t.me/matematicheskie_hitrosti",
+    "shortDescription": "Канал для прокачки математических навыков за пару минут в день.",
+    "longDescription": "Канал учит, как быстро умножать и делить, тренирует память и логическое мышление. Каждая задача занимает не больше двух минут и помогает лучше понять математику:contentReference[oaicite:40]{index=40}.",
+    "functions": [
+      "publish"
+    ],
+    "topics": [
+      "education",
+      "science"
+    ],
+    "primaryTopic": "science",
+    "language": "ru",
+    "compat": "L0",
+    "audience": "all",
+    "formats": [
+      "text"
+    ],
+    "tags": [
+      "ru-channel",
+      "math"
+    ],
+    "isPromoted": false,
+    "weight": 10
+  },
+  {
+    "id": "tg-budni_uchenogo",
+    "title": "Будни учёного",
+    "type": "channel",
+    "deeplink": "https://t.me/budni_uchenogo",
+    "shortDescription": "Интересные факты для любознательных детей и взрослых.",
+    "longDescription": "Канал знакомит читателей с миром науки, рассказывая о болезнях, нейронных сетях, тёмной материи и освоении Марса, в доступной и увлекательной форме:contentReference[oaicite:41]{index=41}.",
+    "functions": [
+      "publish"
+    ],
+    "topics": [
+      "education",
+      "science"
+    ],
+    "primaryTopic": "science",
+    "language": "ru",
+    "compat": "L0",
+    "audience": "all",
+    "formats": [
+      "text"
+    ],
+    "tags": [
+      "ru-channel",
+      "science"
+    ],
+    "isPromoted": false,
+    "weight": 10
+  },
+  {
+    "id": "tg-neuroscienceru",
+    "title": "Neuroscienceru | Интересные факты",
+    "type": "channel",
+    "deeplink": "https://t.me/neuroscienceru",
+    "shortDescription": "Факты о мозге и поведении человека.",
+    "longDescription": "Автор популяризирует научные факты о мозге, психологии и поведении людей, рассказывает о нейробиологии и психиатрии:contentReference[oaicite:42]{index=42}.",
+    "functions": [
+      "publish"
+    ],
+    "topics": [
+      "education",
+      "science"
+    ],
+    "primaryTopic": "science",
+    "language": "ru",
+    "compat": "L0",
+    "audience": "all",
+    "formats": [
+      "text"
+    ],
+    "tags": [
+      "ru-channel",
+      "neuroscience"
+    ],
+    "isPromoted": false,
+    "weight": 10
+  },
+  {
+    "id": "tg-netolkoted",
+    "title": "Не только TED",
+    "type": "channel",
+    "deeplink": "https://t.me/netolkoted",
+    "shortDescription": "Лекции и видеоматериалы из конференции TED и не только.",
+    "longDescription": "Канал публикует лучшие выступления TED, а также материалы из других лекционных проектов, расширяя кругозор подписчиков:contentReference[oaicite:43]{index=43}.",
+    "functions": [
+      "publish"
+    ],
+    "topics": [
+      "education",
+      "culture"
+    ],
+    "primaryTopic": "culture",
+    "language": "ru",
+    "compat": "L0",
+    "audience": "all",
+    "formats": [
+      "text",
+      "video"
+    ],
+    "tags": [
+      "ru-channel",
+      "lectures"
+    ],
+    "isPromoted": false,
+    "weight": 10
+  },
+  {
+    "id": "tg-rawtech",
+    "title": "RawTech",
+    "type": "channel",
+    "deeplink": "https://t.me/rawtech",
+    "shortDescription": "Просто о технологиях и гаджетах.",
+    "longDescription": "Канал объясняет сложные технологические темы простыми словами и рассказывает о последних гаджетах и устройствах:contentReference[oaicite:44]{index=44}.",
+    "functions": [
+      "publish"
+    ],
+    "topics": [
+      "education",
+      "technology"
+    ],
+    "primaryTopic": "technology",
+    "language": "ru",
+    "compat": "L0",
+    "audience": "all",
+    "formats": [
+      "text"
+    ],
+    "tags": [
+      "ru-channel",
+      "tech"
+    ],
+    "isPromoted": false,
+    "weight": 10
+  },
+  {
+    "id": "tg-physh",
+    "title": "Physh — физика и космос",
+    "type": "channel",
+    "deeplink": "https://t.me/physh",
+    "shortDescription": "Канал о космосе, теории струн и поисках внеземной жизни.",
+    "longDescription": "Physh объясняет сложные физические и астрофизические концепции простым языком и делится разнообразными темами фантастики: обсуждаются полёты на Марс, теория струн и поиски внеземной жизни:contentReference[oaicite:45]{index=45}.",
+    "functions": [
+      "publish"
+    ],
+    "topics": [
+      "education",
+      "science"
+    ],
+    "primaryTopic": "science",
+    "language": "ru",
+    "compat": "L0",
+    "audience": "all",
+    "formats": [
+      "text",
+      "video"
+    ],
+    "tags": [
+      "ru-channel",
+      "physics"
+    ],
+    "isPromoted": false,
+    "weight": 10
+  },
+  {
+    "id": "tg-funscience",
+    "title": "Наука от Funscience",
+    "type": "channel",
+    "deeplink": "https://t.me/funscience",
+    "shortDescription": "Научные новости и немного технологий от Funscience.",
+    "longDescription": "Канал популярно рассказывает о новостях науки и иногда о гаджетах и технологиях. С аудиторией около 70 тысяч человек качество контента не уступает полноценным научно‑популярным сайтам:contentReference[oaicite:46]{index=46}.",
+    "functions": [
+      "publish"
+    ],
+    "topics": [
+      "education",
+      "science",
+      "technology"
+    ],
+    "primaryTopic": "science",
+    "language": "ru",
+    "compat": "L0",
+    "audience": "all",
+    "formats": [
+      "text"
+    ],
+    "tags": [
+      "ru-channel",
+      "science-news"
+    ],
+    "isPromoted": false,
+    "weight": 10
+  },
+  {
+    "id": "tg-nakedscience",
+    "title": "Naked Science",
+    "type": "channel",
+    "deeplink": "https://t.me/nakedscience",
+    "shortDescription": "Официальный канал журнала Naked Science: новости и статьи.",
+    "longDescription": "На официальном канале популярного журнала Naked Science публикуются новости науки, интересные факты, аналитические статьи, интервью ученых и редкие исторические фотографии:contentReference[oaicite:47]{index=47}.",
+    "functions": [
+      "publish"
+    ],
+    "topics": [
+      "education",
+      "science"
+    ],
+    "primaryTopic": "science",
+    "language": "ru",
+    "compat": "L0",
+    "audience": "all",
+    "formats": [
+      "text",
+      "video",
+      "image"
+    ],
+    "tags": [
+      "ru-channel",
+      "science-magazine"
+    ],
+    "isPromoted": false,
+    "weight": 10
+  },
+  {
+    "id": "tg-newochem",
+    "title": "Newочём",
+    "type": "channel",
+    "deeplink": "https://t.me/newochem",
+    "shortDescription": "Подписчики выбирают тему, а команда переводит новейшие статьи.",
+    "longDescription": "Канал публикует самое интересное о науке и технологиях. Подписчики выбирают темы, а администраторы переводят новые статьи из научных журналов:contentReference[oaicite:48]{index=48}.",
+    "functions": [
+      "publish"
+    ],
+    "topics": [
+      "education",
+      "science",
+      "technology"
+    ],
+    "primaryTopic": "science",
+    "language": "ru",
+    "compat": "L0",
+    "audience": "all",
+    "formats": [
+      "text"
+    ],
+    "tags": [
+      "ru-channel",
+      "science-news"
+    ],
+    "isPromoted": false,
+    "weight": 10
+  },
+  {
+    "id": "tg-elonmusk",
+    "title": "Илон Маск",
+    "type": "channel",
+    "deeplink": "https://t.me/elonmusk",
+    "shortDescription": "Канал о проектах Илона Маска и будущих технологиях.",
+    "longDescription": "На канале рассказывают об амбициозных проектах Илона Маска, его разработках и прогнозах относительно будущего технологий и искусственного интеллекта:contentReference[oaicite:49]{index=49}.",
+    "functions": [
+      "publish"
+    ],
+    "topics": [
+      "education",
+      "technology",
+      "ai_ml"
+    ],
+    "primaryTopic": "technology",
+    "language": "ru",
+    "compat": "L0",
+    "audience": "all",
+    "formats": [
+      "text"
+    ],
+    "tags": [
+      "ru-channel",
+      "innovation"
+    ],
+    "isPromoted": false,
+    "weight": 10
+  }
+]
