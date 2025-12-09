@@ -1,0 +1,1018 @@
+{
+  "resources": [
+    {
+      "id": "tg-chatgpt-neiroseti",
+      "title": "ChatGPT | Нейросети",
+      "type": "channel",
+      "deeplink": "https://t.me/chatgpt_neiroseti",
+      "shortDescription": "Канал о нейросетях и ChatGPT с ежедневными новостями, обзорами сервисов и практическими примерами.",
+      "longDescription": "Популярный канал посвящён ежедневным новостям, кейсам применения ИИ и обзорам сервисов. Авторы публикуют новости о новых функциях нейросетей, делятся примерами использования ChatGPT, описывают сервисы для обработки изображений и аудио, а также размещают бесплатные инструменты, многие из которых поддерживают русский язык【254545284061718†L340-L355】.",
+      "functions": ["publish"],
+      "topics": ["ai_ml", "technology"],
+      "primaryTopic": "ai_ml",
+      "language": "ru",
+      "compat": "L0",
+      "audience": "all",
+      "formats": ["text", "image", "video"],
+      "tags": ["ru-channel", "chatgpt", "ai-news"],
+      "isPromoted": false,
+      "weight": 10
+    },
+    {
+      "id": "tg-hiaimedia",
+      "title": "Hi, AI! | Нейросети и технологии",
+      "type": "channel",
+      "deeplink": "https://t.me/hiaimedia",
+      "shortDescription": "Аналитический канал для продвинутой аудитории о нейросетях и технологиях.",
+      "longDescription": "Канал ориентирован на читателей, которые уже разбираются в нейросетях. Он публикует новости об искусственном интеллекте, отрывки из интервью руководителей компаний и подборки книг, а также обзоры сервисов для генерации изображений, видео, работы со звуком, логотипами и субтитрами. Раз в неделю авторы готовят дайджест интересных материалов【254545284061718†L360-L374】.",
+      "functions": ["publish"],
+      "topics": ["ai_ml", "technology", "education"],
+      "primaryTopic": "ai_ml",
+      "language": "ru",
+      "compat": "L0",
+      "audience": "all",
+      "formats": ["text", "image", "video"],
+      "tags": ["ru-channel", "analytics", "tech-news"],
+      "isPromoted": false,
+      "weight": 10
+    },
+    {
+      "id": "tg-misha-davai-po-novoi",
+      "title": "Миша, давай по новой",
+      "type": "channel",
+      "deeplink": "https://t.me/misha_davai_po_novoi",
+      "shortDescription": "Канал от Михаила Шумовского о нейросетях и цифровом маркетинге.",
+      "longDescription": "Редактор Михаил Шумовский пишет о нейросетях в digital‑маркетинге, обозревает новые функции популярных сервисов, делится промптами для генерации и улучшения текстов и изображений. В рубрике «Давай по новой» он вместе с подписчиками улучшает запросы для нейросетей и показывает результаты【254545284061718†L385-L392】.",
+      "functions": ["publish"],
+      "topics": ["ai_ml", "technology", "business"],
+      "primaryTopic": "ai_ml",
+      "language": "ru",
+      "compat": "L0",
+      "audience": "all",
+      "formats": ["text", "image"],
+      "tags": ["ru-channel", "marketing", "prompts"],
+      "isPromoted": false,
+      "weight": 10
+    },
+    {
+      "id": "tg-tochki-nad-ii",
+      "title": "Точки над ИИ",
+      "type": "channel",
+      "deeplink": "https://t.me/tochki_nad_ii",
+      "shortDescription": "Новости об искусственном интеллекте и подборки полезных сервисов.",
+      "longDescription": "Канал, который ведёт Иван Юницкий (CEO VOIC LAB), публикует новости и сервисы ИИ для различных задач — от генерации контента до работы с таблицами. В закреплённом комментарии есть навигация по хештегам, помогающая быстро найти нужный материал【254545284061718†L397-L403】.",
+      "functions": ["publish"],
+      "topics": ["ai_ml", "technology"],
+      "primaryTopic": "ai_ml",
+      "language": "ru",
+      "compat": "L0",
+      "audience": "all",
+      "formats": ["text"],
+      "tags": ["ru-channel", "news", "services"],
+      "isPromoted": false,
+      "weight": 10
+    },
+    {
+      "id": "tg-eyai-news",
+      "title": "Эйай ньюз",
+      "type": "channel",
+      "deeplink": "https://t.me/eyai_news",
+      "shortDescription": "Канал исследователя Meta Generative AI о нейросетевых новостях.",
+      "longDescription": "Канал ведёт сотрудник исследовательской команды Meta Generative AI. Он публикует новости об искусственном интеллекте и тестирует новые функции нейросетей, включая возможности генерации изображений и видео【254545284061718†L425-L430】.",
+      "functions": ["publish"],
+      "topics": ["ai_ml", "technology"],
+      "primaryTopic": "ai_ml",
+      "language": "ru",
+      "compat": "L0",
+      "audience": "all",
+      "formats": ["text", "image", "video"],
+      "tags": ["ru-channel", "meta", "ai-news"],
+      "isPromoted": false,
+      "weight": 10
+    },
+    {
+      "id": "tg-strangedalle",
+      "title": "Ai molodca",
+      "type": "channel",
+      "deeplink": "https://t.me/strangedalle",
+      "shortDescription": "Авторский канал о генерации изображений и видео при помощи ИИ.",
+      "longDescription": "Цифровой художник Александр Доброкотов делится новостями об ИИ и тестирует сервисы для создания изображений и видео. Автор объясняет, как формулировать запросы, чтобы получать впечатляющие результаты, и показывает примеры работ【254545284061718†L435-L441】.",
+      "functions": ["publish"],
+      "topics": ["ai_ml", "entertainment"],
+      "primaryTopic": "ai_ml",
+      "language": "ru",
+      "compat": "L0",
+      "audience": "all",
+      "formats": ["text", "image", "video"],
+      "tags": ["ru-channel", "art", "video"],
+      "isPromoted": false,
+      "weight": 10
+    },
+    {
+      "id": "tg-castalia",
+      "title": "Castalia",
+      "type": "channel",
+      "deeplink": "https://t.me/castalia_ai",
+      "shortDescription": "Новости и обзоры нейросетевых сервисов.",
+      "longDescription": "Канал собирает новости технологий и короткие обзоры сервисов, которые помогают ускорить работу с текстом, изображениями, видео и голосом. Здесь можно найти инструменты для построения чат‑ботов, 3D‑моделей и подборки промптов для разных задач【254545284061718†L463-L468】.",
+      "functions": ["publish"],
+      "topics": ["ai_ml", "technology", "productivity"],
+      "primaryTopic": "ai_ml",
+      "language": "ru",
+      "compat": "L0",
+      "audience": "all",
+      "formats": ["text"],
+      "tags": ["ru-channel", "news", "tools"],
+      "isPromoted": false,
+      "weight": 10
+    },
+    {
+      "id": "tg-isimplify",
+      "title": "iSimplify",
+      "type": "channel",
+      "deeplink": "https://t.me/isimplify",
+      "shortDescription": "Подборка AI‑сервисов и приложений.",
+      "longDescription": "Администраторы канала собирают сервисы, приложения и расширения на базе ИИ, которые помогают оптимизировать задачи: обработку изображений, удаление объектов, улучшение качества, превращение текста в графики, наложение субтитров и создание видеозаметок. Большинство инструментов бесплатны【254545284061718†L472-L480】.",
+      "functions": ["publish"],
+      "topics": ["ai_ml", "productivity"],
+      "primaryTopic": "ai_ml",
+      "language": "ru",
+      "compat": "L0",
+      "audience": "all",
+      "formats": ["text"],
+      "tags": ["ru-channel", "tools"],
+      "isPromoted": false,
+      "weight": 10
+    },
+    {
+      "id": "tg-addmeto",
+      "title": "Addmeto",
+      "type": "channel",
+      "deeplink": "https://t.me/addmeto",
+      "shortDescription": "Авторский канал Григория Бакунова (Bobuk) о технологиях и ИИ.",
+      "longDescription": "Григорий Бакунов, бывший директор по технологиям Яндекса, ведёт канал, где публикует короткие новости об ИИ и технологиях, сопровождая их острыми комментариями. Он делится ссылками на англоязычные источники, освещает обновления ведущих компаний, законодательные инициативы и технологические скандалы【254545284061718†L491-L498】.",
+      "functions": ["publish"],
+      "topics": ["ai_ml", "technology", "business"],
+      "primaryTopic": "ai_ml",
+      "language": "ru",
+      "compat": "L0",
+      "audience": "all",
+      "formats": ["text"],
+      "tags": ["ru-channel", "commentary", "news"],
+      "isPromoted": false,
+      "weight": 10
+    },
+    {
+      "id": "tg-neuralshit",
+      "title": "NeuralShit",
+      "type": "channel",
+      "deeplink": "https://t.me/neuralshit",
+      "shortDescription": "Развлекательный канал об экспериментах с нейросетями.",
+      "longDescription": "Развлекательный канал энтузиаста Андрея Клименко (Красный Дошик). Автор тестирует новые сервисы на базе ИИ, делится результатами (часто странными и смешными), публикует технологические новости, мемы и находки в киберпанк‑стиле【254545284061718†L502-L508】.",
+      "functions": ["publish"],
+      "topics": ["ai_ml", "entertainment"],
+      "primaryTopic": "ai_ml",
+      "language": "ru",
+      "compat": "L0",
+      "audience": "all",
+      "formats": ["text", "image", "video"],
+      "tags": ["ru-channel", "humor", "experiments"],
+      "isPromoted": false,
+      "weight": 10
+    },
+    {
+      "id": "tg-gpt-news",
+      "title": "GPT News | chatGPT | OpenAI",
+      "type": "channel",
+      "deeplink": "https://t.me/gpt_news",
+      "shortDescription": "Канал о новых функциях ChatGPT и других нейросетей.",
+      "longDescription": "Канал освещает новые функции ведущих нейросетей и публикует результаты многоэтапных заданий. В нём также регулярно появляются новости о робототехнике и ИИ в мире, а в развлекательной рубрике — забавные изображения и видео, созданные нейросетями【254545284061718†L520-L526】.",
+      "functions": ["publish"],
+      "topics": ["ai_ml", "technology"],
+      "primaryTopic": "ai_ml",
+      "language": "ru",
+      "compat": "L0",
+      "audience": "all",
+      "formats": ["text", "image", "video"],
+      "tags": ["ru-channel", "news", "chatgpt"],
+      "isPromoted": false,
+      "weight": 10
+    },
+    {
+      "id": "tg-neuraldvig",
+      "title": "Нейродвиж",
+      "type": "channel",
+      "deeplink": "https://t.me/neuraldvig",
+      "shortDescription": "Новости и сервисы для генерации визуального контента.",
+      "longDescription": "Канал сосредоточен на визуальном контенте: рассказывает о сервисах, которые генерируют изображения и видео, о фоторедакторах и обновлениях платформ. В нём можно найти программы для составления резюме и суммаризации видео. Авторы публикуют новости и забавные случаи использования ИИ【254545284061718†L547-L553】.",
+      "functions": ["publish"],
+      "topics": ["ai_ml", "entertainment", "technology"],
+      "primaryTopic": "ai_ml",
+      "language": "ru",
+      "compat": "L0",
+      "audience": "all",
+      "formats": ["text", "image", "video"],
+      "tags": ["ru-channel", "visual", "news"],
+      "isPromoted": false,
+      "weight": 10
+    },
+    {
+      "id": "tg-startpub",
+      "title": "Startpub",
+      "type": "channel",
+      "deeplink": "https://t.me/startpub",
+      "shortDescription": "Канал для стартап‑предпринимателей о нейросетях.",
+      "longDescription": "IT‑предприниматель Тимур Бикбов, основатель платформы AIR, делится опытом развития проектов и получения грантов, а также рассказывает, как нейросети помогают оптимизировать работу малого бизнеса, например при отборе резюме. Посты выходят нечасто, но ежемесячные дайджесты позволяют следить за главными событиями【254545284061718†L558-L566】.",
+      "functions": ["publish"],
+      "topics": ["ai_ml", "business", "technology"],
+      "primaryTopic": "ai_ml",
+      "language": "ru",
+      "compat": "L0",
+      "audience": "all",
+      "formats": ["text"],
+      "tags": ["ru-channel", "startup"],
+      "isPromoted": false,
+      "weight": 10
+    },
+    {
+      "id": "tg-neuralbrain",
+      "title": "Neural Brain",
+      "type": "channel",
+      "deeplink": "https://t.me/neuralbrain",
+      "shortDescription": "Подборки ИИ‑сервисов, советы и тренды.",
+      "longDescription": "Канал публикует подборки сервисов на базе ИИ для работы с текстом и визуальным контентом, а также платформы с виртуальными психологами. В постах — советы по улучшению результатов генерации, примеры промптов, новости, тренды и забавные ‘фейлы’ нейросетей【254545284061718†L579-L584】.",
+      "functions": ["publish"],
+      "topics": ["ai_ml", "productivity", "technology"],
+      "primaryTopic": "ai_ml",
+      "language": "ru",
+      "compat": "L0",
+      "audience": "all",
+      "formats": ["text"],
+      "tags": ["ru-channel", "service-lists", "trends"],
+      "isPromoted": false,
+      "weight": 10
+    },
+    {
+      "id": "tg-gptmain",
+      "title": "GPTMain — GPT | ChatGPT | Midjourney News",
+      "type": "channel",
+      "deeplink": "https://t.me/gptmain",
+      "shortDescription": "Верифицированный канал о новостях языковых моделей.",
+      "longDescription": "Один из крупнейших верифицированных каналов о нейросетях. Он публикует сообщения о выходе новых версий языковых моделей, поясняет их особенности, показывает примеры использования в письмах, обучении, программировании и автоматизации. Дает инструкции по улучшению результатов генерации, полезные для пользователей ChatGPT【281500411565672†L179-L194】.",
+      "functions": ["publish"],
+      "topics": ["ai_ml", "technology"],
+      "primaryTopic": "ai_ml",
+      "language": "ru",
+      "compat": "L0",
+      "audience": "all",
+      "formats": ["text", "image"],
+      "tags": ["ru-channel", "gpt", "news"],
+      "isPromoted": false,
+      "weight": 10
+    },
+    {
+      "id": "tg-machinelearning",
+      "title": "Machinelearning",
+      "type": "channel",
+      "deeplink": "https://t.me/machinelearning",
+      "shortDescription": "Сообщество о машинном обучении и нейросетях.",
+      "longDescription": "Канал содержит множество любопытной информации из мира машинного обучения, нейронных сетей и deep learning: статьи, проекты и ссылки на открытые репозитории【358979343616124†L63-L65】.",
+      "functions": ["publish"],
+      "topics": ["ai_ml", "technology", "open_source"],
+      "primaryTopic": "ai_ml",
+      "language": "ru",
+      "compat": "L0",
+      "audience": "all",
+      "formats": ["text"],
+      "tags": ["ru-channel", "ml", "resources"],
+      "isPromoted": false,
+      "weight": 10
+    },
+    {
+      "id": "tg-neirogoroskopy",
+      "title": "Нейрогороскопы",
+      "type": "channel",
+      "deeplink": "https://t.me/neirogoroskop",
+      "shortDescription": "Гороскопы, сгенерированные нейросетью GPT‑2.",
+      "longDescription": "Развлекательный канал с гороскопами, созданными русскоязычной моделью GPT‑2, обученной на текстах Владимира Сорокина и Виктора Пелевина. В канале публикуются сюрреалистические советы и абсурдный юмор для ИИ‑энтузиастов【566598760159372†L200-L210】.",
+      "functions": ["publish"],
+      "topics": ["ai_ml", "entertainment", "culture"],
+      "primaryTopic": "ai_ml",
+      "language": "ru",
+      "compat": "L0",
+      "audience": "all",
+      "formats": ["text"],
+      "tags": ["ru-channel", "horoscope", "humor"],
+      "isPromoted": false,
+      "weight": 10
+    },
+    {
+      "id": "tg-nikolai-pro-ai",
+      "title": "Николай про AI",
+      "type": "channel",
+      "deeplink": "https://t.me/nikolai_pro_ai",
+      "shortDescription": "Подборки нейросетей и инструментов от Николая.",
+      "longDescription": "Канал (~32 000 подписчиков) публикует подробные описания сервисов и программ на основе нейросетей. Автор рассказывает, как использовать их для работы с текстами, изображениями, звуком и таблицами, делится пошаговыми инструкциями и показывает, как внедрять ИИ в реальные задачи для автоматизации【281500411565672†L159-L175】.",
+      "functions": ["publish"],
+      "topics": ["ai_ml", "education", "productivity"],
+      "primaryTopic": "ai_ml",
+      "language": "ru",
+      "compat": "L0",
+      "audience": "all",
+      "formats": ["text"],
+      "tags": ["ru-channel", "tutorials", "tools"],
+      "isPromoted": false,
+      "weight": 10
+    },
+    {
+      "id": "tg-trychatgptru",
+      "title": "TryChatGPT.ru GPT | ChatGPT | IT | Нейросети",
+      "type": "channel",
+      "deeplink": "https://t.me/trychatgptru",
+      "shortDescription": "Примеры диалогов и сценарии использования ChatGPT.",
+      "longDescription": "Канал (~236 000 подписчиков) публикует фрагменты переписок с языковыми моделями, демонстрируя, как применять ChatGPT в различных ситуациях — от ведения деловой переписки до написания кода и решения учебных задач. Авторы сопровождают публикации объяснениями, дают советы по составлению эффективных запросов и подбору стиля общения【281500411565672†L246-L259】.",
+      "functions": ["publish"],
+      "topics": ["ai_ml", "education", "technology"],
+      "primaryTopic": "ai_ml",
+      "language": "ru",
+      "compat": "L0",
+      "audience": "all",
+      "formats": ["text"],
+      "tags": ["ru-channel", "chatgpt", "examples"],
+      "isPromoted": false,
+      "weight": 10
+    },
+    {
+      "id": "tg-stable-diffusion-news",
+      "title": "Stable Diffusion News | Нейросети",
+      "type": "channel",
+      "deeplink": "https://t.me/stable_diffusion_news",
+      "shortDescription": "Изображения и настройки Stable Diffusion.",
+      "longDescription": "Канал (~41 000 подписчиков) выкладывает изображения, созданные с помощью Stable Diffusion, и подробно описывает текстовые запросы и настройки, приведшие к результату. Публикации содержат данные о композиции, цветах, стиле и других особенностях, что делает канал полезным для художников и дизайнеров【281500411565672†L279-L291】.",
+      "functions": ["publish"],
+      "topics": ["ai_ml", "art", "photography"],
+      "primaryTopic": "ai_ml",
+      "language": "ru",
+      "compat": "L0",
+      "audience": "all",
+      "formats": ["image", "text"],
+      "tags": ["ru-channel", "stable-diffusion", "prompts"],
+      "isPromoted": false,
+      "weight": 10
+    },
+    {
+      "id": "tg-chadgpt",
+      "title": "Chad GPT | Нейросети",
+      "type": "channel",
+      "deeplink": "https://t.me/chadgpt",
+      "shortDescription": "Необычные примеры применения ИИ с юмором.",
+      "longDescription": "Канал (~31 000 подписчиков) публикует иллюстрированные примеры необычного применения нейросетей с краткими пояснениями и шутками. Авторы делятся инструкциями и шаблонами текстовых запросов, что позволяет изучать нейросети в непринужденной форме и совмещать обучение с развлечением【281500411565672†L295-L307】.",
+      "functions": ["publish"],
+      "topics": ["ai_ml", "entertainment"],
+      "primaryTopic": "ai_ml",
+      "language": "ru",
+      "compat": "L0",
+      "audience": "all",
+      "formats": ["text", "image"],
+      "tags": ["ru-channel", "humor", "guides"],
+      "isPromoted": false,
+      "weight": 10
+    },
+    {
+      "id": "tg-dailyprompts",
+      "title": "Ринат Шакиров | Промпты для Midjourney | ChatGPT",
+      "type": "channel",
+      "deeplink": "https://t.me/dailyprompts",
+      "shortDescription": "Ежедневные текстовые запросы для Midjourney и ChatGPT.",
+      "longDescription": "Канал (~22 000 подписчиков) публикует каждый день новую короткую подсказку для генерации текстов, идей, изображений и рассуждений. Автор объясняет, как действует каждый промпт, и приводит примеры использования, что помогает развивать навыки постановки запросов【281500411565672†L310-L323】.",
+      "functions": ["publish"],
+      "topics": ["ai_ml", "education", "art"],
+      "primaryTopic": "ai_ml",
+      "language": "ru",
+      "compat": "L0",
+      "audience": "all",
+      "formats": ["text"],
+      "tags": ["ru-channel", "prompts", "midjourney"],
+      "isPromoted": false,
+      "weight": 10
+    },
+    {
+      "id": "tg-nsekt",
+      "title": "Нейросекта",
+      "type": "channel",
+      "deeplink": "https://t.me/nsekt",
+      "shortDescription": "Канал для дизайнеров о нейросетях.",
+      "longDescription": "Канал помогает дизайнерам использовать нейросети. Автор подбирает сервисы для различных задач и учит использовать нейросети в работе. Читателям предлагается повторить генерацию по готовому промпту или создать свой. Автор проводит воркшопы и вебинары, а также даёт домашние задания【505776486030281†L226-L236】.",
+      "functions": ["publish"],
+      "topics": ["ai_ml", "art", "education"],
+      "primaryTopic": "ai_ml",
+      "language": "ru",
+      "compat": "L0",
+      "audience": "all",
+      "formats": ["text", "image"],
+      "tags": ["ru-channel", "design", "workshops"],
+      "isPromoted": false,
+      "weight": 10
+    },
+    {
+      "id": "tg-neuralprofit",
+      "title": "НейроProfit | Соня Pro Ai",
+      "type": "channel",
+      "deeplink": "https://t.me/NeuralProfit",
+      "shortDescription": "Обзоры ИИ‑сервисов от Сони Pro Ai.",
+      "longDescription": "Канал с обзорами инструментов: автор тестирует ИИ‑сервисы и рассказывает, как они работают. В каждом посте — краткое описание, скриншоты, нюансы и выводы. Можно быстро собрать чат‑бота, сделать видео с озвучкой или создать картинку по референсу; иногда публикуются подборки и наблюдения о рынке【505776486030281†L246-L257】.",
+      "functions": ["publish"],
+      "topics": ["ai_ml", "productivity", "technology"],
+      "primaryTopic": "ai_ml",
+      "language": "ru",
+      "compat": "L0",
+      "audience": "all",
+      "formats": ["text", "image", "video"],
+      "tags": ["ru-channel", "reviews", "tools"],
+      "isPromoted": false,
+      "weight": 10
+    },
+    {
+      "id": "tg-tips-ai",
+      "title": "Tips AI | IT & AI",
+      "type": "channel",
+      "deeplink": "https://t.me/tips_ai",
+      "shortDescription": "Фишки и лайфхаки по ИИ‑сервисам.",
+      "longDescription": "Канал публикует новости, обновления и разборы, посвящённые различным сервисам на базе ИИ. Здесь можно узнать, как сделать лендинг, как нейросеть превращает скетч в готовую картинку и где найти инструменты, работающие в России. Авторы показывают, как всё это работает, и сразу дают ссылки на полезные сервисы【505776486030281†L269-L276】.",
+      "functions": ["publish"],
+      "topics": ["ai_ml", "productivity", "technology"],
+      "primaryTopic": "ai_ml",
+      "language": "ru",
+      "compat": "L0",
+      "audience": "all",
+      "formats": ["text", "image"],
+      "tags": ["ru-channel", "lifehacks", "services"],
+      "isPromoted": false,
+      "weight": 10
+    },
+
+    // ----- English AI/ML channels -----
+    {
+      "id": "tg-openai-mastery",
+      "title": "OpenAI Mastery: ChatGPT, Midjourney, Deepseek",
+      "type": "channel",
+      "deeplink": "https://t.me/OpenAI_Mastery",
+      "shortDescription": "Dedicated channel for mastering OpenAI tools and APIs.",
+      "longDescription": "The channel is dedicated to mastering OpenAI tools and APIs. It offers tutorials, use cases and automation tips aimed at developers and AI enthusiasts exploring OpenAI's ecosystem【375212808637595†L64-L66】.",
+      "functions": ["publish"],
+      "topics": ["ai_ml", "education", "technology"],
+      "primaryTopic": "ai_ml",
+      "language": "en",
+      "compat": "L0",
+      "audience": "all",
+      "formats": ["text", "html"],
+      "tags": ["en-channel", "openai", "tutorials"],
+      "isPromoted": false,
+      "weight": 10
+    },
+    {
+      "id": "tg-best-ai-tools",
+      "title": "Best AI Tools | ChatGPT 4o | Perplexity",
+      "type": "channel",
+      "deeplink": "https://t.me/best_ai_tools",
+      "shortDescription": "Channel focusing on practical AI tools and bots.",
+      "longDescription": "This channel focuses on practical AI tools and bots for productivity enhancements, automation and creative workflows, appealing to a broad audience from beginners to tech‑savvy users【375212808637595†L68-L72】.",
+      "functions": ["publish"],
+      "topics": ["ai_ml", "productivity", "technology"],
+      "primaryTopic": "ai_ml",
+      "language": "en",
+      "compat": "L0",
+      "audience": "all",
+      "formats": ["text"],
+      "tags": ["en-channel", "tools", "productivity"],
+      "isPromoted": false,
+      "weight": 10
+    },
+    {
+      "id": "tg-ai-prompts",
+      "title": "AI Prompts | ChatGPT | Google Gemini | Claude",
+      "type": "channel",
+      "deeplink": "https://t.me/ai_prompts",
+      "shortDescription": "Community updates and prompts for AI tools.",
+      "longDescription": "The channel concentrates on the AI community and ecosystem updates, including startup news, job postings and regional AI events, suitable for professionals and AI learners【375212808637595†L74-L78】.",
+      "functions": ["publish"],
+      "topics": ["ai_ml", "business", "education"],
+      "primaryTopic": "ai_ml",
+      "language": "en",
+      "compat": "L0",
+      "audience": "all",
+      "formats": ["text"],
+      "tags": ["en-channel", "prompts", "community"],
+      "isPromoted": false,
+      "weight": 10
+    },
+    {
+      "id": "tg-openai-gpt4",
+      "title": "OpenAI | ChatGPT | GPT‑4o | GPT‑4",
+      "type": "channel",
+      "deeplink": "https://t.me/openai_gpt4",
+      "shortDescription": "News and techniques around GPT models and AI safety.",
+      "longDescription": "This channel covers news, techniques and updates related to GPT models and Anthropic AI research. It is helpful for those focused on large language models and AI safety【375212808637595†L80-L84】.",
+      "functions": ["publish"],
+      "topics": ["ai_ml", "technology"],
+      "primaryTopic": "ai_ml",
+      "language": "en",
+      "compat": "L0",
+      "audience": "all",
+      "formats": ["text"],
+      "tags": ["en-channel", "gpt", "updates"],
+      "isPromoted": false,
+      "weight": 10
+    },
+    {
+      "id": "tg-generative-ai",
+      "title": "Generative AI",
+      "type": "channel",
+      "deeplink": "https://t.me/generative_ai",
+      "shortDescription": "Channel dedicated to generative AI technologies.",
+      "longDescription": "Dedicated to generative AI technologies, the channel features use cases, model updates and creative applications, making it ideal for enthusiasts of AI content generation【375212808637595†L85-L89】.",
+      "functions": ["publish"],
+      "topics": ["ai_ml", "art", "technology"],
+      "primaryTopic": "ai_ml",
+      "language": "en",
+      "compat": "L0",
+      "audience": "all",
+      "formats": ["text", "image", "video"],
+      "tags": ["en-channel", "generative", "creative"],
+      "isPromoted": false,
+      "weight": 10
+    },
+    {
+      "id": "tg-ai-projects",
+      "title": "Artificial Intelligence | ChatGPT 4 | Data Science & Machine Learning & AI Projects",
+      "type": "channel",
+      "deeplink": "https://t.me/ai_projects",
+      "shortDescription": "Lively community focused on AI developments and practical implementations.",
+      "longDescription": "A lively community focusing on AI developments and practical implementations. With an informal tone, it attracts both hobbyists and professionals【375212808637595†L90-L95】.",
+      "functions": ["publish"],
+      "topics": ["ai_ml", "technology", "education"],
+      "primaryTopic": "ai_ml",
+      "language": "en",
+      "compat": "L0",
+      "audience": "all",
+      "formats": ["text"],
+      "tags": ["en-channel", "community", "projects"],
+      "isPromoted": false,
+      "weight": 10
+    },
+    {
+      "id": "tg-ai-technology",
+      "title": "AI Technology | ChatGPT & DeepSeek Prompts",
+      "type": "channel",
+      "deeplink": "https://t.me/ai_technology",
+      "shortDescription": "AI and data science job postings worldwide.",
+      "longDescription": "This channel shares AI and data science job openings globally, serving as a valuable resource for job seekers in tech【375212808637595†L96-L100】.",
+      "functions": ["publish"],
+      "topics": ["ai_ml", "business", "education"],
+      "primaryTopic": "ai_ml",
+      "language": "en",
+      "compat": "L0",
+      "audience": "all",
+      "formats": ["text"],
+      "tags": ["en-channel", "jobs", "opportunities"],
+      "isPromoted": false,
+      "weight": 10
+    },
+    {
+      "id": "tg-artificial-intelligence-channel",
+      "title": "Artificial Intelligence",
+      "type": "channel",
+      "deeplink": "https://t.me/artificialintelligence_channel",
+      "shortDescription": "Global AI updates, toolkits and industry insights.",
+      "longDescription": "The channel shares global AI updates, toolkits and industry insights, making it a rich resource for developers and businesses leveraging AI technologies【375212808637595†L101-L105】.",
+      "functions": ["publish"],
+      "topics": ["ai_ml", "business", "technology"],
+      "primaryTopic": "ai_ml",
+      "language": "en",
+      "compat": "L0",
+      "audience": "all",
+      "formats": ["text"],
+      "tags": ["en-channel", "global", "insights"],
+      "isPromoted": false,
+      "weight": 10
+    },
+    {
+      "id": "tg-prompt-index",
+      "title": "The Prompt Index",
+      "type": "channel",
+      "deeplink": "https://t.me/prompt_index",
+      "shortDescription": "Channel dedicated to mastering ChatGPT usage.",
+      "longDescription": "A channel dedicated to mastering ChatGPT usage, including tips, prompts and automation cases【375212808637595†L106-L109】.",
+      "functions": ["publish"],
+      "topics": ["ai_ml", "education", "productivity"],
+      "primaryTopic": "ai_ml",
+      "language": "en",
+      "compat": "L0",
+      "audience": "all",
+      "formats": ["text"],
+      "tags": ["en-channel", "prompts", "tips"],
+      "isPromoted": false,
+      "weight": 10
+    },
+    {
+      "id": "tg-hi-ai-tech-news-en",
+      "title": "Hi, AI | Tech News",
+      "type": "channel",
+      "deeplink": "https://t.me/hi_ai_tech_news",
+      "shortDescription": "Multilingual AI content and practical insights.",
+      "longDescription": "This channel shares multilingual AI content including tool reviews, tutorials and application insights, catering to AI developers and users interested in practical implementations【375212808637595†L113-L117】.",
+      "functions": ["publish"],
+      "topics": ["ai_ml", "education", "technology"],
+      "primaryTopic": "ai_ml",
+      "language": "en",
+      "compat": "L0",
+      "audience": "all",
+      "formats": ["text", "image"],
+      "tags": ["en-channel", "news", "tutorials"],
+      "isPromoted": false,
+      "weight": 10
+    },
+    {
+      "id": "tg-ai-post",
+      "title": "AI Post — Artificial Intelligence",
+      "type": "channel",
+      "deeplink": "https://t.me/ai_post",
+      "shortDescription": "Latest news and breakthroughs in AI.",
+      "longDescription": "The channel focuses on the latest news and breakthroughs in artificial intelligence, delivering curated updates and analyses suitable for AI enthusiasts and professionals【375212808637595†L119-L123】.",
+      "functions": ["publish"],
+      "topics": ["ai_ml", "technology"],
+      "primaryTopic": "ai_ml",
+      "language": "en",
+      "compat": "L0",
+      "audience": "all",
+      "formats": ["text"],
+      "tags": ["en-channel", "news", "breakthroughs"],
+      "isPromoted": false,
+      "weight": 10
+    },
+    {
+      "id": "tg-ai-tools-channel",
+      "title": "AI tools",
+      "type": "channel",
+      "deeplink": "https://t.me/ai_tools_channel",
+      "shortDescription": "Highlights top AI‑powered software, platforms and tools.",
+      "longDescription": "The channel highlights top AI‑powered software, platforms and tools with brief overviews and use cases, ideal for users seeking automation and AI augmentation in their workflows【375212808637595†L125-L129】.",
+      "functions": ["publish"],
+      "topics": ["ai_ml", "technology", "productivity"],
+      "primaryTopic": "ai_ml",
+      "language": "en",
+      "compat": "L0",
+      "audience": "all",
+      "formats": ["text"],
+      "tags": ["en-channel", "tools", "automation"],
+      "isPromoted": false,
+      "weight": 10
+    },
+    {
+      "id": "tg-ai-machine-learning-channel",
+      "title": "AI and Machine Learning",
+      "type": "channel",
+      "deeplink": "https://t.me/ai_and_machine_learning",
+      "shortDescription": "Structured learning resources and course recommendations.",
+      "longDescription": "The channel provides structured learning resources and course recommendations in machine learning and deep learning, perfect for learners aiming to build foundational and advanced ML skills【375212808637595†L131-L135】.",
+      "functions": ["publish"],
+      "topics": ["ai_ml", "education"],
+      "primaryTopic": "ai_ml",
+      "language": "en",
+      "compat": "L0",
+      "audience": "all",
+      "formats": ["text"],
+      "tags": ["en-channel", "courses", "learning"],
+      "isPromoted": false,
+      "weight": 10
+    },
+    {
+      "id": "tg-artificial-intelligence-india",
+      "title": "Artificial Intelligence (India)",
+      "type": "channel",
+      "deeplink": "https://t.me/artificial_intelligence_in",
+      "shortDescription": "AI news, research and tutorials focused on the Indian ecosystem.",
+      "longDescription": "The channel curates AI news, research papers and tutorials with a focus on the Indian AI ecosystem, supporting professionals and students in regional technology growth【375212808637595†L137-L140】.",
+      "functions": ["publish"],
+      "topics": ["ai_ml", "education", "technology"],
+      "primaryTopic": "ai_ml",
+      "language": "en",
+      "compat": "L0",
+      "audience": "all",
+      "formats": ["text"],
+      "tags": ["en-channel", "india", "research"],
+      "isPromoted": false,
+      "weight": 10
+    },
+    {
+      "id": "tg-ai-deep-learning",
+      "title": "Artificial Intelligence & Deep Learning",
+      "type": "channel",
+      "deeplink": "https://t.me/ai_deep_learning",
+      "shortDescription": "Updates and research on deep learning, machine learning and computer vision.",
+      "longDescription": "For those interested in the latest developments and research in deep learning, machine learning and computer vision, this channel provides daily updates with links to papers and other resources. It has thousands of members and is curated by Alessandro Ferrari【834309091066631†L242-L249】.",
+      "functions": ["publish"],
+      "topics": ["ai_ml", "education", "science"],
+      "primaryTopic": "ai_ml",
+      "language": "en",
+      "compat": "L0",
+      "audience": "all",
+      "formats": ["text", "pdf"],
+      "tags": ["en-channel", "research", "deep-learning"],
+      "isPromoted": false,
+      "weight": 10
+    },
+    {
+      "id": "tg-machine-learning-community",
+      "title": "Machine Learning",
+      "type": "channel",
+      "deeplink": "https://t.me/machine_learning_channel",
+      "shortDescription": "Casual community mixing humor and serious ML discussion.",
+      "longDescription": "A community mixing humor with serious ML discussion, offering a casual yet informative environment for learning【375212808637595†L167-L170】.",
+      "functions": ["publish"],
+      "topics": ["ai_ml", "education", "entertainment"],
+      "primaryTopic": "ai_ml",
+      "language": "en",
+      "compat": "L0",
+      "audience": "all",
+      "formats": ["text"],
+      "tags": ["en-channel", "community", "humor"],
+      "isPromoted": false,
+      "weight": 10
+    },
+    {
+      "id": "tg-brainstorm-ai",
+      "title": "Brain Storm | AI",
+      "type": "channel",
+      "deeplink": "https://t.me/brainstorm_ai",
+      "shortDescription": "Innovative AI ideas and project updates.",
+      "longDescription": "The channel shares innovative AI ideas, project updates and brainstorming sessions, making it great for creative AI practitioners【375212808637595†L172-L175】.",
+      "functions": ["publish"],
+      "topics": ["ai_ml", "innovation", "technology"],
+      "primaryTopic": "ai_ml",
+      "language": "en",
+      "compat": "L0",
+      "audience": "all",
+      "formats": ["text"],
+      "tags": ["en-channel", "ideas", "projects"],
+      "isPromoted": false,
+      "weight": 10
+    },
+    {
+      "id": "tg-ai-updates",
+      "title": "Artificial Intelligence l l AI Updates",
+      "type": "channel",
+      "deeplink": "https://t.me/ai_updates",
+      "shortDescription": "Regular news on AI technologies and breakthroughs.",
+      "longDescription": "It provides regular news on AI technologies, breakthroughs and applications targeted at a broad audience interested in AI progress【375212808637595†L182-L185】.",
+      "functions": ["publish"],
+      "topics": ["ai_ml", "news", "technology"],
+      "primaryTopic": "ai_ml",
+      "language": "en",
+      "compat": "L0",
+      "audience": "all",
+      "formats": ["text"],
+      "tags": ["en-channel", "updates", "news"],
+      "isPromoted": false,
+      "weight": 10
+    },
+    {
+      "id": "tg-ai-books-papers",
+      "title": "Machine learning books and papers",
+      "type": "channel",
+      "deeplink": "https://t.me/ml_books_papers",
+      "shortDescription": "Tutorials, papers and discussions in machine learning.",
+      "longDescription": "The channel shares tutorials, papers and discussions in machine learning, suitable for learners at various levels wanting structured insights into ML theory and practice【375212808637595†L192-L196】.",
+      "functions": ["publish"],
+      "topics": ["ai_ml", "education", "science"],
+      "primaryTopic": "ai_ml",
+      "language": "en",
+      "compat": "L0",
+      "audience": "all",
+      "formats": ["text", "pdf"],
+      "tags": ["en-channel", "papers", "tutorials"],
+      "isPromoted": false,
+      "weight": 10
+    },
+    {
+      "id": "tg-datascience-ml",
+      "title": "Data Science and Machine Learning",
+      "type": "channel",
+      "deeplink": "https://t.me/datascience_ml_chat",
+      "shortDescription": "Discussion community with 18k+ members exploring data science and AI.",
+      "longDescription": "A discussion community with about 18,139 members where enthusiasts share questions, insights, projects and resources related to data science, machine learning and AI. Moderated by Matthew Mayo (editor of KDnuggets), it provides networking opportunities and valuable information【834309091066631†L165-L180】.",
+      "functions": ["publish"],
+      "topics": ["ai_ml", "education", "technology"],
+      "primaryTopic": "ai_ml",
+      "language": "en",
+      "compat": "L0",
+      "audience": "all",
+      "formats": ["text"],
+      "tags": ["en-channel", "discussion", "community"],
+      "isPromoted": false,
+      "weight": 10
+    },
+    {
+      "id": "tg-best-ai-tools-channel",
+      "title": "Best AI Tools",
+      "type": "channel",
+      "deeplink": "https://t.me/ai_best_tools",
+      "shortDescription": "15k‑member channel sharing the best free AI tools.",
+      "longDescription": "With around 15,000 members, this channel focuses on sharing the best tools available in the AI space. It regularly posts updates about new tools, reviews and user experiences, fostering a community of AI enthusiasts【542644894149929†L25-L31】.",
+      "functions": ["publish"],
+      "topics": ["ai_ml", "productivity", "technology"],
+      "primaryTopic": "ai_ml",
+      "language": "en",
+      "compat": "L0",
+      "audience": "all",
+      "formats": ["text"],
+      "tags": ["en-channel", "tools", "reviews"],
+      "isPromoted": false,
+      "weight": 10
+    },
+    {
+      "id": "tg-data-scientists-hub",
+      "title": "Data Scientists",
+      "type": "channel",
+      "deeplink": "https://t.me/data_scientists_hub",
+      "shortDescription": "Hub for 39k data scientists sharing insights and research.",
+      "longDescription": "This channel boasts about 39,000 followers and is a hub for data scientists to share insights, research and news related to AI. The community is highly interactive with frequent discussions and knowledge sharing【542644894149929†L32-L36】.",
+      "functions": ["publish"],
+      "topics": ["ai_ml", "science", "education"],
+      "primaryTopic": "ai_ml",
+      "language": "en",
+      "compat": "L0",
+      "audience": "all",
+      "formats": ["text"],
+      "tags": ["en-channel", "community", "research"],
+      "isPromoted": false,
+      "weight": 10
+    },
+    {
+      "id": "tg-ai-news-updates",
+      "title": "AI News and Updates",
+      "type": "channel",
+      "deeplink": "https://t.me/ai_news_updates",
+      "shortDescription": "Latest news and breakthroughs in AI with high engagement.",
+      "longDescription": "The channel provides the latest news and updates in the AI field, including breakthroughs in research and technology. It has a growing subscriber base and is known for timely posts and high engagement among followers【542644894149929†L38-L42】.",
+      "functions": ["publish"],
+      "topics": ["ai_ml", "news", "technology"],
+      "primaryTopic": "ai_ml",
+      "language": "en",
+      "compat": "L0",
+      "audience": "all",
+      "formats": ["text"],
+      "tags": ["en-channel", "news", "updates"],
+      "isPromoted": false,
+      "weight": 10
+    },
+    {
+      "id": "tg-the-pycoach",
+      "title": "The PyCoach",
+      "type": "channel",
+      "deeplink": "https://t.me/the_pycoach",
+      "shortDescription": "Tutorials on using ChatGPT with Python and automation.",
+      "longDescription": "For those looking to integrate Python with AI, The PyCoach provides tutorials on using ChatGPT alongside Python for automation and data science applications【542644894149929†L63-L67】.",
+      "functions": ["publish"],
+      "topics": ["ai_ml", "education", "technology"],
+      "primaryTopic": "ai_ml",
+      "language": "en",
+      "compat": "L0",
+      "audience": "all",
+      "formats": ["text", "video"],
+      "tags": ["en-channel", "python", "tutorials"],
+      "isPromoted": false,
+      "weight": 10
+    },
+    {
+      "id": "tg-all-about-ai",
+      "title": "All About AI",
+      "type": "channel",
+      "deeplink": "https://t.me/all_about_ai",
+      "shortDescription": "Channel catering to technical and non‑technical audiences with AI tutorials.",
+      "longDescription": "Catering to both technical and non‑technical audiences, this channel offers tutorials on popular AI tools, including in‑depth videos on prompt engineering for ChatGPT【542644894149929†L69-L73】.",
+      "functions": ["publish"],
+      "topics": ["ai_ml", "education", "technology"],
+      "primaryTopic": "ai_ml",
+      "language": "en",
+      "compat": "L0",
+      "audience": "all",
+      "formats": ["text", "video"],
+      "tags": ["en-channel", "tutorials", "prompt-engineering"],
+      "isPromoted": false,
+      "weight": 10
+    }
+  ],
+  "grouped": {
+    "ai_ml": {
+      "channels": [
+        "tg-chatgpt-neiroseti", "tg-hiaimedia", "tg-misha-davai-po-novoi", "tg-tochki-nad-ii", "tg-eyai-news", "tg-strangedalle", "tg-castalia", "tg-isimplify", "tg-addmeto", "tg-neuralshit", "tg-gpt-news", "tg-neuraldvig", "tg-startpub", "tg-neuralbrain", "tg-gptmain", "tg-machinelearning", "tg-neirogoroskopy", "tg-nikolai-pro-ai", "tg-trychatgptru", "tg-stable-diffusion-news", "tg-chadgpt", "tg-dailyprompts", "tg-nsekt", "tg-neuralprofit", "tg-tips-ai", "tg-openai-mastery", "tg-best-ai-tools", "tg-ai-prompts", "tg-openai-gpt4", "tg-generative-ai", "tg-ai-projects", "tg-ai-technology", "tg-artificial-intelligence-channel", "tg-prompt-index", "tg-hi-ai-tech-news-en", "tg-ai-post", "tg-ai-tools-channel", "tg-ai-machine-learning-channel", "tg-artificial-intelligence-india", "tg-ai-deep-learning", "tg-machine-learning-community", "tg-brainstorm-ai", "tg-ai-updates", "tg-ai-books-papers", "tg-datascience-ml", "tg-best-ai-tools-channel", "tg-data-scientists-hub", "tg-ai-news-updates", "tg-the-pycoach", "tg-all-about-ai"
+      ],
+      "bots": [],
+      "miniapps": [],
+      "services": []
+    }
+  },
+  "digest_markdown": "## 🇷🇺 Русские каналы по ИИ и нейросетям\n" \
+    "- **ChatGPT | Нейросети** — https://t.me/chatgpt_neiroseti  \n" \
+    "  Популярный канал с ежедневными новостями и обзорами сервисов: здесь публикуют кейсы применения ИИ, новые функции нейросетей и бесплатные инструменты для работы【254545284061718†L340-L355】.\n" \
+    "- **Hi, AI! | Нейросети и технологии** — https://t.me/hiaimedia  \n" \
+    "  Продвинутый канал для тех, кто уже знаком с ИИ: новости, интервью, обзоры сервисов и еженедельные дайджесты【254545284061718†L360-L374】.\n" \
+    "- **Миша, давай по новой** — https://t.me/misha_davai_po_novoi  \n" \
+    "  Михаил Шумовский делится промптами и обзором новых функций нейросетевых сервисов, вместе с подписчиками улучшает запросы для ИИ【254545284061718†L385-L392】.\n" \
+    "- **Точки над ИИ** — https://t.me/tochki_nad_ii  \n" \
+    "  Иван Юницкий публикует новости и полезные сервисы для генерации контента; поиск упрощает навигация по хештегам【254545284061718†L397-L403】.\n" \
+    "- **Эйай ньюз** — https://t.me/eyai_news  \n" \
+    "  Исследователь из Meta Generative AI рассказывает о новостях и тестирует новые функции нейросетей для работы с изображениями и видео【254545284061718†L425-L430】.\n" \
+    "- **Ai molodca** — https://t.me/strangedalle  \n" \
+    "  Цифровой художник тестирует сервисы для генерации картинок и видео, делится советами по формулировке запросов【254545284061718†L435-L441】.\n" \
+    "- **Castalia** — https://t.me/castalia_ai  \n" \
+    "  Короткие обзоры сервисов и подборки промптов для текстов, изображений, видео и голоса【254545284061718†L463-L468】.\n" \
+    "- **iSimplify** — https://t.me/isimplify  \n" \
+    "  Собирает полезные AI‑приложения и расширения для оптимизации задач: от улучшения качества изображений до наложения субтитров【254545284061718†L472-L480】.\n" \
+    "- **Addmeto** — https://t.me/addmeto  \n" \
+    "  Канал Бобука с короткими новостями об ИИ и технологиях, сопровождаемыми остроумными комментариями и ссылками на англоязычные источники【254545284061718†L491-L498】.\n" \
+    "- **NeuralShit** — https://t.me/neuralshit  \n" \
+    "  Развлекательный канал: автор тестирует нейросети, публикует курьёзные результаты, мемы и новости в киберпанк‑стиле【254545284061718†L502-L508】.\n" \
+    "- **GPT News | chatGPT | OpenAI** — https://t.me/gpt_news  \n" \
+    "  Освещает новые функции нейросетей, делится результатами многошаговых заданий и публикует забавные AI‑изображения и видео【254545284061718†L520-L526】.\n" \
+    "- **Нейродвиж** — https://t.me/neuraldvig  \n" \
+    "  О сервисах для генерации изображений и видео, новинках фоторедакторов и забавных кейсах применения ИИ【254545284061718†L547-L553】.\n" \
+    "- **Startpub** — https://t.me/startpub  \n" \
+    "  IT‑предприниматель Тимур Бикбов рассказывает, как нейросети помогают развивать стартапы и оптимизировать работу малого бизнеса【254545284061718†L558-L566】.\n" \
+    "- **Neural Brain** — https://t.me/neuralbrain  \n" \
+    "  Подборки сервисов для работы с текстом и визуалом, советы по улучшению генерации и подборки трендов【254545284061718†L579-L584】.\n" \
+    "- **GPTMain — GPT | ChatGPT | Midjourney News** — https://t.me/gptmain  \n" \
+    "  Крупный верифицированный канал о языковых моделях: новости об обновлениях, примеры использования и инструкции для улучшения генерации【281500411565672†L179-L194】.\n" \
+    "- **Machinelearning** — https://t.me/machinelearning  \n" \
+    "  Сообщество с множеством материалов о машинном обучении, нейронных сетях и deep learning: статьи, проекты и открытые репозитории【358979343616124†L63-L65】.\n" \
+    "- **Нейрогороскопы** — https://t.me/neirogoroskop  \n" \
+    "  Гороскопы, сгенерированные нейросетью GPT‑2 на основе текстов Сорокина и Пелевина, с абсурдным юмором для ценителей ИИ【566598760159372†L200-L210】.\n" \
+    "- **Николай про AI** — https://t.me/nikolai_pro_ai  \n" \
+    "  Автор публикует подробные обзоры сервисов и инструментов, делится пошаговыми инструкциями по внедрению ИИ в работу【281500411565672†L159-L175】.\n" \
+    "- **TryChatGPT.ru GPT | ChatGPT | IT | Нейросети** — https://t.me/trychatgptru  \n" \
+    "  Канал с примерами диалогов и сценариев использования ChatGPT в разных задачах, с пояснениями и советами【281500411565672†L246-L259】.\n" \
+    "- **Stable Diffusion News | Нейросети** — https://t.me/stable_diffusion_news  \n" \
+    "  Выкладывает изображения, созданные в Stable Diffusion, и подробно описывает запросы и настройки, полезно художникам и дизайнерам【281500411565672†L279-L291】.\n" \
+    "- **Chad GPT | Нейросети** — https://t.me/chadgpt  \n" \
+    "  Публикует юмористические примеры необычного использования нейросетей и делится шаблонами запросов【281500411565672†L295-L307】.\n" \
+    "- **Ринат Шакиров | Промпты для Midjourney | ChatGPT** — https://t.me/dailyprompts  \n" \
+    "  Каждый день — новый промпт для генерации текстов, изображений и идей с пояснениями и примерами использования【281500411565672†L310-L323】.\n" \
+    "- **Нейросекта** — https://t.me/nsekt  \n" \
+    "  Канал для дизайнеров: подборки сервисов, генерация по готовым промптам, воркшопы и домашние задания【505776486030281†L226-L236】.\n" \
+    "- **НейроProfit | Соня Pro Ai** — https://t.me/NeuralProfit  \n" \
+    "  Автор тестирует ИИ‑сервисы и делает краткие обзоры с примерами работы и выводами【505776486030281†L246-L257】.\n" \
+    "- **Tips AI | IT & AI** — https://t.me/tips_ai  \n" \
+    "  Канал с лайфхаками по ИИ‑сервисам: как сделать лендинг, превратить скетч в картинку и найти работающие сервисы в России【505776486030281†L269-L276】.\n" \
+    "\n## 🇬🇧 English AI/ML Channels\n" \
+    "- **OpenAI Mastery: ChatGPT, Midjourney, Deepseek** — https://t.me/OpenAI_Mastery  \n" \
+    "  Tutorials, use cases and automation tips for mastering OpenAI tools and APIs【375212808637595†L64-L66】.\n" \
+    "- **Best AI Tools | ChatGPT 4o | Perplexity** — https://t.me/best_ai_tools  \n" \
+    "  Focused on practical AI tools, bots and workflows for productivity and creativity【375212808637595†L68-L72】.\n" \
+    "- **AI Prompts | ChatGPT | Google Gemini | Claude** — https://t.me/ai_prompts  \n" \
+    "  Community updates with startup news, job postings and events for AI professionals and learners【375212808637595†L74-L78】.\n" \
+    "- **OpenAI | ChatGPT | GPT‑4o | GPT‑4** — https://t.me/openai_gpt4  \n" \
+    "  News, techniques and updates on GPT models and AI safety research【375212808637595†L80-L84】.\n" \
+    "- **Generative AI** — https://t.me/generative_ai  \n" \
+    "  Dedicated to generative AI technologies: use cases, model updates and creative applications【375212808637595†L85-L89】.\n" \
+    "- **Artificial Intelligence | ChatGPT 4 | Data Science & ML & AI Projects** — https://t.me/ai_projects  \n" \
+    "  Lively community discussing AI developments and practical implementations for hobbyists and professionals【375212808637595†L90-L95】.\n" \
+    "- **AI Technology | ChatGPT & DeepSeek Prompts** — https://t.me/ai_technology  \n" \
+    "  Shares AI and data science job openings around the world【375212808637595†L96-L100】.\n" \
+    "- **Artificial Intelligence** — https://t.me/artificialintelligence_channel  \n" \
+    "  Provides global AI updates, toolkits and industry insights for developers and businesses【375212808637595†L101-L105】.\n" \
+    "- **The Prompt Index** — https://t.me/prompt_index  \n" \
+    "  Tips, prompts and automation cases to master ChatGPT【375212808637595†L106-L109】.\n" \
+    "- **Hi, AI | Tech News** — https://t.me/hi_ai_tech_news  \n" \
+    "  Shares multilingual AI content, tool reviews and tutorials for practical use【375212808637595†L113-L117】.\n" \
+    "- **AI Post — Artificial Intelligence** — https://t.me/ai_post  \n" \
+    "  Curated news and analyses about the latest breakthroughs in AI【375212808637595†L119-L123】.\n" \
+    "- **AI tools** — https://t.me/ai_tools_channel  \n" \
+    "  Highlights top AI‑powered software and platforms with brief overviews and use cases【375212808637595†L125-L129】.\n" \
+    "- **AI and Machine Learning** — https://t.me/ai_and_machine_learning  \n" \
+    "  Offers structured learning resources and course recommendations in ML and deep learning【375212808637595†L131-L135】.\n" \
+    "- **Artificial Intelligence (India)** — https://t.me/artificial_intelligence_in  \n" \
+    "  Curates AI news, research and tutorials with focus on the Indian AI ecosystem【375212808637595†L137-L140】.\n" \
+    "- **Artificial Intelligence & Deep Learning** — https://t.me/ai_deep_learning  \n" \
+    "  Daily updates on deep learning, machine learning and computer vision with links to papers【834309091066631†L242-L249】.\n" \
+    "- **Machine Learning** — https://t.me/machine_learning_channel  \n" \
+    "  A casual community blending humor with serious discussions on machine learning【375212808637595†L167-L170】.\n" \
+    "- **Brain Storm | AI** — https://t.me/brainstorm_ai  \n" \
+    "  Shares innovative AI ideas, project updates and brainstorming sessions【375212808637595†L172-L175】.\n" \
+    "- **Artificial Intelligence l l AI Updates** — https://t.me/ai_updates  \n" \
+    "  Regular news on AI technologies, breakthroughs and applications【375212808637595†L182-L185】.\n" \
+    "- **Machine learning books and papers** — https://t.me/ml_books_papers  \n" \
+    "  Tutorials, papers and discussions in machine learning for learners at all levels【375212808637595†L192-L196】.\n" \
+    "- **Data Science and Machine Learning** — https://t.me/datascience_ml_chat  \n" \
+    "  Discussion community (18k+ members) sharing questions, insights and resources in data science and AI【834309091066631†L165-L180】.\n" \
+    "- **Best AI Tools** — https://t.me/ai_best_tools  \n" \
+    "  About 15k members receive reviews and updates on the best free AI tools【542644894149929†L25-L31】.\n" \
+    "- **Data Scientists** — https://t.me/data_scientists_hub  \n" \
+    "  Hub for 39k data scientists to share insights, research and news【542644894149929†L32-L36】.\n" \
+    "- **AI News and Updates** — https://t.me/ai_news_updates  \n" \
+    "  Latest AI news and breakthroughs with high engagement and timely posts【542644894149929†L38-L42】.\n" \
+    "- **The PyCoach** — https://t.me/the_pycoach  \n" \
+    "  Tutorials on using ChatGPT with Python for automation and data science【542644894149929†L63-L67】.\n" \
+    "- **All About AI** — https://t.me/all_about_ai  \n" \
+    "  Tutorials on popular AI tools for both technical and non‑technical audiences, including prompt engineering for ChatGPT【542644894149929†L69-L73】."
+}

@@ -1,0 +1,1467 @@
+[
+  {
+    "id": "tg-whale-alert",
+    "title": "Whale Alert",
+    "type": "channel",
+    "deeplink": "https://t.me/whale_alert",
+    "shortDescription": "Crypto‑whale tracking channel providing real‑time alerts on large blockchain transactions.",
+    "longDescription": "Whale Alert is a Telegram channel for traders and crypto enthusiasts.  It monitors major cryptocurrency transactions and sends alerts about large transfers across Bitcoin, Ethereum and other networks.  Proxidize’s 2025 comparison of leading business channels notes that Whale Alert is a top professional channel because it tracks crypto transactions and helps traders follow market activity【35593890135280†L392-L401】.  The channel has tens of thousands of followers and is useful for anyone keeping an eye on the crypto‑whale movements.",
+    "functions": [
+      "publish"
+    ],
+    "topics": [
+      "crypto_web3",
+      "business",
+      "economy"
+    ],
+    "primaryTopic": "crypto_web3",
+    "language": "en",
+    "compat": "L0",
+    "audience": "all",
+    "formats": [
+      "text"
+    ],
+    "tags": [
+      "en-channel",
+      "crypto",
+      "found_via:proxidize"
+    ],
+    "isPromoted": false,
+    "weight": 10
+  },
+  {
+    "id": "tg-binance-signals",
+    "title": "Binance Signals",
+    "type": "channel",
+    "deeplink": "https://t.me/binance_signals",
+    "shortDescription": "Trading signals channel focused on Binance markets and major cryptocurrencies.",
+    "longDescription": "Binance Signals provides crypto traders with trading calls and market insights for Bitcoin, Ethereum and other coins.  Proxidize’s article on top Telegram channels lists it alongside Whale Alert as one of the leading business channels and notes that it supplies trading signals that help traders and entrepreneurs make decisions【35593890135280†L392-L401】.  The community has tens of thousands of members and specializes in signals for the Binance exchange.",
+    "functions": [
+      "publish"
+    ],
+    "topics": [
+      "crypto_web3",
+      "business",
+      "economy"
+    ],
+    "primaryTopic": "crypto_web3",
+    "language": "en",
+    "compat": "L0",
+    "audience": "all",
+    "formats": [
+      "text"
+    ],
+    "tags": [
+      "en-channel",
+      "trading",
+      "found_via:proxidize"
+    ],
+    "isPromoted": false,
+    "weight": 10
+  },
+  {
+    "id": "tg-learn2trade",
+    "title": "Learn2Trade",
+    "type": "channel",
+    "deeplink": "https://t.me/learn2trade",
+    "shortDescription": "Educational trading community offering training and crypto market signals.",
+    "longDescription": "Learn2Trade blends educational content with live trading signals.  The channel teaches subscribers about technical analysis and risk management while providing alerts on major cryptocurrency moves.  According to Proxidize’s business channel comparison, Learn2Trade belongs to the same class of professional channels as Whale Alert and Binance Signals, combining education and signals for traders and entrepreneurs【35593890135280†L392-L401】.",
+    "functions": [
+      "publish"
+    ],
+    "topics": [
+      "business",
+      "education",
+      "crypto_web3"
+    ],
+    "primaryTopic": "business",
+    "language": "en",
+    "compat": "L0",
+    "audience": "all",
+    "formats": [
+      "text"
+    ],
+    "tags": [
+      "en-channel",
+      "trading",
+      "found_via:proxidize"
+    ],
+    "isPromoted": false,
+    "weight": 10
+  },
+  {
+    "id": "tg-coincodecap",
+    "title": "CoinCodeCap",
+    "type": "channel",
+    "deeplink": "https://t.me/coincodecap",
+    "shortDescription": "Market analysis and crypto tracking channel for traders.",
+    "longDescription": "CoinCodeCap focuses on market analysis, crypto tracking and programming insights.  The channel shares research on blockchain projects and price movements, helping traders stay updated.  Proxidize’s breakdown of business channels highlights CoinCodeCap as a key resource for monitoring crypto markets and receiving analysis for trading decisions【35593890135280†L392-L401】.",
+    "functions": [
+      "publish"
+    ],
+    "topics": [
+      "business",
+      "crypto_web3",
+      "technology"
+    ],
+    "primaryTopic": "business",
+    "language": "en",
+    "compat": "L0",
+    "audience": "all",
+    "formats": [
+      "text"
+    ],
+    "tags": [
+      "en-channel",
+      "analysis",
+      "found_via:proxidize"
+    ],
+    "isPromoted": false,
+    "weight": 10
+  },
+  {
+    "id": "tg-fat-pig-signals",
+    "title": "Fat Pig Signals",
+    "type": "channel",
+    "deeplink": "https://t.me/fatpigsignals",
+    "shortDescription": "Premium crypto signal service with high‑accuracy trade ideas.",
+    "longDescription": "Fat Pig Signals is a six‑year‑old trading signal service known for its high accuracy.  The channel offers tiered subscription plans and provides trade ideas for both beginners and experienced traders.  In Proxidize’s list of crypto channels, it is described as a trusted signal provider with a reputation for delivering accurate calls【35593890135280†L392-L401】.",
+    "functions": [
+      "publish"
+    ],
+    "topics": [
+      "crypto_web3",
+      "business",
+      "economy"
+    ],
+    "primaryTopic": "crypto_web3",
+    "language": "en",
+    "compat": "L0",
+    "audience": "all",
+    "formats": [
+      "text"
+    ],
+    "tags": [
+      "en-channel",
+      "signals",
+      "found_via:proxidize"
+    ],
+    "isPromoted": false,
+    "weight": 10
+  },
+  {
+    "id": "tg-cinema-hub",
+    "title": "Cinema Hub",
+    "type": "channel",
+    "deeplink": "https://t.me/cinemahub",
+    "shortDescription": "Movie channel sharing HD films and TV shows across multiple languages.",
+    "longDescription": "Cinema Hub is a popular entertainment channel offering a huge library of movies and television shows.  Proxidize’s comparison table lists Cinema Hub as one of the notable entertainment channels, noting that it provides HD movies from Hollywood, Bollywood and South Indian cinema to movie buffs and entertainment seekers【35593890135280†L392-L401】.  Subscribers can watch films across genres and languages.",
+    "functions": [
+      "publish"
+    ],
+    "topics": [
+      "entertainment",
+      "culture"
+    ],
+    "primaryTopic": "entertainment",
+    "language": "multi",
+    "compat": "L0",
+    "audience": "all",
+    "formats": [
+      "video",
+      "text",
+      "image"
+    ],
+    "tags": [
+      "movie",
+      "found_via:proxidize"
+    ],
+    "isPromoted": false,
+    "weight": 10
+  },
+  {
+    "id": "tg-moviezilla",
+    "title": "MovieZilla",
+    "type": "channel",
+    "deeplink": "https://t.me/moviezilla",
+    "shortDescription": "Entertainment channel focused on Hindi films and shows.",
+    "longDescription": "MovieZilla specializes in Hindi entertainment, offering a large collection of Hindi‑language movies and TV shows.  The Proxidize table of top entertainment channels notes that MovieZilla has hundreds of thousands of subscribers and delivers high‑quality HD content to film fans【35593890135280†L392-L401】.",
+    "functions": [
+      "publish"
+    ],
+    "topics": [
+      "entertainment",
+      "culture"
+    ],
+    "primaryTopic": "entertainment",
+    "language": "hi",
+    "compat": "L0",
+    "audience": "all",
+    "formats": [
+      "video",
+      "text",
+      "image"
+    ],
+    "tags": [
+      "hindi",
+      "movie",
+      "found_via:proxidize"
+    ],
+    "isPromoted": false,
+    "weight": 10
+  },
+  {
+    "id": "tg-best-memes",
+    "title": "Best Memes",
+    "type": "channel",
+    "deeplink": "https://t.me/bestmemes",
+    "shortDescription": "Humor channel curating popular memes, jokes and viral videos.",
+    "longDescription": "Best Memes is a humor powerhouse on Telegram.  It curates funny memes, jokes and short videos to entertain its large audience.  Proxidize’s entertainment category identifies the channel as a key source of meme content for entertainment seekers【35593890135280†L392-L401】.",
+    "functions": [
+      "publish"
+    ],
+    "topics": [
+      "entertainment"
+    ],
+    "primaryTopic": "entertainment",
+    "language": "en",
+    "compat": "L0",
+    "audience": "all",
+    "formats": [
+      "image",
+      "video",
+      "text"
+    ],
+    "tags": [
+      "humor",
+      "found_via:proxidize"
+    ],
+    "isPromoted": false,
+    "weight": 10
+  },
+  {
+    "id": "tg-xitmuzon",
+    "title": "XITMUZON",
+    "type": "channel",
+    "deeplink": "https://t.me/xitmuzon",
+    "shortDescription": "Leading music channel delivering popular songs and mixes.",
+    "longDescription": "XITMUZON is one of Telegram’s leading music channels.  It shares popular songs, curated playlists and high‑quality audio files.  Proxidize categorizes it as a top music platform alongside Radio Relax and FLAC Music, noting that these channels offer high‑quality or lossless audio tracks for music lovers【35593890135280†L392-L401】.",
+    "functions": [
+      "publish"
+    ],
+    "topics": [
+      "music",
+      "entertainment"
+    ],
+    "primaryTopic": "music",
+    "language": "ru",
+    "compat": "L0",
+    "audience": "all",
+    "formats": [
+      "audio",
+      "text"
+    ],
+    "tags": [
+      "music",
+      "found_via:proxidize"
+    ],
+    "isPromoted": false,
+    "weight": 10
+  },
+  {
+    "id": "tg-radio-relax",
+    "title": "Radio Relax",
+    "type": "channel",
+    "deeplink": "https://t.me/radiorelax",
+    "shortDescription": "Relaxation music channel streaming calm and soothing tracks.",
+    "longDescription": "Radio Relax streams relaxing music and chillout tracks.  In Proxidize’s review of music channels, Radio Relax is highlighted for offering high‑quality audio that helps listeners unwind【35593890135280†L392-L401】.",
+    "functions": [
+      "publish"
+    ],
+    "topics": [
+      "music",
+      "lifestyle"
+    ],
+    "primaryTopic": "music",
+    "language": "ru",
+    "compat": "L0",
+    "audience": "all",
+    "formats": [
+      "audio"
+    ],
+    "tags": [
+      "relax",
+      "found_via:proxidize"
+    ],
+    "isPromoted": false,
+    "weight": 10
+  },
+  {
+    "id": "tg-flac-music",
+    "title": "FLAC Music",
+    "type": "channel",
+    "deeplink": "https://t.me/flacmusic",
+    "shortDescription": "Music channel sharing lossless FLAC tracks and albums.",
+    "longDescription": "FLAC Music provides lossless audio tracks for audiophiles.  Proxidize identifies it as one of the top music channels delivering high‑quality FLAC files, allowing listeners to enjoy studio‑quality sound【35593890135280†L392-L401】.",
+    "functions": [
+      "publish"
+    ],
+    "topics": [
+      "music",
+      "technology"
+    ],
+    "primaryTopic": "music",
+    "language": "ru",
+    "compat": "L0",
+    "audience": "all",
+    "formats": [
+      "audio"
+    ],
+    "tags": [
+      "lossless",
+      "found_via:proxidize"
+    ],
+    "isPromoted": false,
+    "weight": 10
+  },
+  {
+    "id": "tg-gamee-community",
+    "title": "GAMEE Community",
+    "type": "channel",
+    "deeplink": "https://t.me/gamee",
+    "shortDescription": "Massive gaming community hosting tournaments and interactive games.",
+    "longDescription": "GAMEE Community is one of the largest gaming groups on Telegram with millions of subscribers.  The Proxidize entertainment section notes that GAMEE hosts tournaments and interactive gaming experiences, making it the dominant gaming community on Telegram【35593890135280†L392-L401】.  Users can compete for high scores and interact with fellow gamers.",
+    "functions": [
+      "publish"
+    ],
+    "topics": [
+      "games",
+      "entertainment"
+    ],
+    "primaryTopic": "games",
+    "language": "en",
+    "compat": "L0",
+    "audience": "all",
+    "formats": [
+      "video",
+      "text"
+    ],
+    "tags": [
+      "gaming",
+      "found_via:proxidize"
+    ],
+    "isPromoted": false,
+    "weight": 10
+  },
+  {
+    "id": "tg-z-library-official",
+    "title": "Z‑Library Official",
+    "type": "channel",
+    "deeplink": "https://t.me/zlibrary_official",
+    "shortDescription": "Academic resource channel offering rare books, papers and study materials.",
+    "longDescription": "Z‑Library Official provides access to rare academic books, research papers and study materials.  In the Proxidize FAQ section, it is cited as one of the main educational channels on Telegram because it offers valuable academic resources to students and researchers【35593890135280†L463-L468】.  The channel shares links to downloadable texts and encourages donations to support book acquisitions.",
+    "functions": [
+      "publish"
+    ],
+    "topics": [
+      "education",
+      "science"
+    ],
+    "primaryTopic": "education",
+    "language": "en",
+    "compat": "L0",
+    "audience": "all",
+    "formats": [
+      "text",
+      "pdf"
+    ],
+    "tags": [
+      "books",
+      "found_via:proxidize"
+    ],
+    "isPromoted": false,
+    "weight": 10
+  },
+  {
+    "id": "tg-upsc-prelims",
+    "title": "UPSC Prelims Test Series",
+    "type": "channel",
+    "deeplink": "https://t.me/upsc_prelims",
+    "shortDescription": "Channel providing test series and study material for UPSC exam preparation.",
+    "longDescription": "UPSC Prelims Test Series is aimed at students preparing for the Indian civil service exams.  It offers practice tests, study guides and exam tips.  Proxidize’s educational channel list notes that UPSC Prelims provides structured test series and study materials to help candidates succeed in competitive exams【35593890135280†L463-L468】.",
+    "functions": [
+      "publish"
+    ],
+    "topics": [
+      "education",
+      "science"
+    ],
+    "primaryTopic": "education",
+    "language": "en",
+    "compat": "L0",
+    "audience": "all",
+    "formats": [
+      "text"
+    ],
+    "tags": [
+      "exam",
+      "found_via:proxidize"
+    ],
+    "isPromoted": false,
+    "weight": 10
+  },
+  {
+    "id": "tg-neo-latin-community",
+    "title": "Neo‑Latin Community",
+    "type": "channel",
+    "deeplink": "https://t.me/neo_latin",
+    "shortDescription": "Community channel exploring classical Latin language and literature.",
+    "longDescription": "The Neo‑Latin Community channel invites enthusiasts to discuss classical languages, Latin literature and culture.  According to the Proxidize article on educational channels, it brings together language learners interested in exploring ancient languages and offers discussions and materials on Latin【35593890135280†L463-L468】.",
+    "functions": [
+      "publish"
+    ],
+    "topics": [
+      "culture",
+      "education"
+    ],
+    "primaryTopic": "culture",
+    "language": "multi",
+    "compat": "L0",
+    "audience": "all",
+    "formats": [
+      "text"
+    ],
+    "tags": [
+      "latin",
+      "found_via:proxidize"
+    ],
+    "isPromoted": false,
+    "weight": 10
+  },
+  {
+    "id": "tg-english-online",
+    "title": "English Online",
+    "type": "channel",
+    "deeplink": "https://t.me/englishonline",
+    "shortDescription": "Language learning channel with daily English lessons and reviews.",
+    "longDescription": "English Online helps learners improve their English skills through daily vocabulary reviews, grammar explanations and interactive exercises.  The Proxidize list of educational channels notes that English Online delivers daily language reviews and study materials to its members【35593890135280†L463-L468】.",
+    "functions": [
+      "publish"
+    ],
+    "topics": [
+      "education",
+      "culture"
+    ],
+    "primaryTopic": "education",
+    "language": "en",
+    "compat": "L0",
+    "audience": "all",
+    "formats": [
+      "text"
+    ],
+    "tags": [
+      "language-learning",
+      "found_via:proxidize"
+    ],
+    "isPromoted": false,
+    "weight": 10
+  },
+  {
+    "id": "tg-espresso-english",
+    "title": "Espresso English",
+    "type": "channel",
+    "deeplink": "https://t.me/espressoenglish",
+    "shortDescription": "English learning channel offering phrasal cards and varied study materials.",
+    "longDescription": "Espresso English provides short and engaging English lessons.  It shares phrasal verb cards, vocabulary tips and diverse learning materials.  In Proxidize’s educational channel overview, Espresso English is highlighted for offering varied resources that help learners master English【35593890135280†L463-L468】.",
+    "functions": [
+      "publish"
+    ],
+    "topics": [
+      "education",
+      "culture"
+    ],
+    "primaryTopic": "education",
+    "language": "en",
+    "compat": "L0",
+    "audience": "all",
+    "formats": [
+      "text",
+      "image"
+    ],
+    "tags": [
+      "language-learning",
+      "found_via:proxidize"
+    ],
+    "isPromoted": false,
+    "weight": 10
+  },
+  {
+    "id": "tg-everything-science",
+    "title": "EverythingScience",
+    "type": "channel",
+    "deeplink": "https://t.me/everythingscience",
+    "shortDescription": "Science news channel covering discoveries and research breakthroughs.",
+    "longDescription": "EverythingScience delivers news and updates on scientific discoveries, research breakthroughs and emerging technologies.  Proxidize lists it among the educational channels that provide students and researchers with valuable science content【35593890135280†L463-L468】.",
+    "functions": [
+      "publish"
+    ],
+    "topics": [
+      "science",
+      "education"
+    ],
+    "primaryTopic": "science",
+    "language": "en",
+    "compat": "L0",
+    "audience": "all",
+    "formats": [
+      "text",
+      "video",
+      "image"
+    ],
+    "tags": [
+      "science",
+      "found_via:proxidize"
+    ],
+    "isPromoted": false,
+    "weight": 10
+  },
+  {
+    "id": "tg-engineers-work",
+    "title": "Engineer’s Work",
+    "type": "channel",
+    "deeplink": "https://t.me/engineerswork",
+    "shortDescription": "Engineering channel featuring projects, innovations and practical tips.",
+    "longDescription": "Engineer’s Work shares articles, project showcases and practical tips for engineers.  Proxidize’s science section notes that Engineer’s Work highlights practical engineering applications and has tens of thousands of subscribers【35593890135280†L463-L468】.  It is a useful channel for those interested in engineering advancements.",
+    "functions": [
+      "publish"
+    ],
+    "topics": [
+      "science",
+      "technology"
+    ],
+    "primaryTopic": "science",
+    "language": "en",
+    "compat": "L0",
+    "audience": "all",
+    "formats": [
+      "text",
+      "image"
+    ],
+    "tags": [
+      "engineering",
+      "found_via:proxidize"
+    ],
+    "isPromoted": false,
+    "weight": 10
+  },
+  {
+    "id": "tg-chatgpt-ai-news",
+    "title": "ChatGPT | AI News",
+    "type": "channel",
+    "deeplink": "https://t.me/chatgpt_ai_news",
+    "shortDescription": "Channel sharing updates on ChatGPT, AI research and machine learning.",
+    "longDescription": "ChatGPT | AI News posts news and updates related to artificial intelligence, machine learning and ChatGPT developments.  Proxidize mentions it in the context of AI and tech channels, noting that it keeps more than twelve thousand subscribers informed about the latest AI breakthroughs【35593890135280†L463-L468】.",
+    "functions": [
+      "publish"
+    ],
+    "topics": [
+      "ai_ml",
+      "technology",
+      "science"
+    ],
+    "primaryTopic": "ai_ml",
+    "language": "en",
+    "compat": "L0",
+    "audience": "all",
+    "formats": [
+      "text"
+    ],
+    "tags": [
+      "ai",
+      "found_via:proxidize"
+    ],
+    "isPromoted": false,
+    "weight": 10
+  },
+  {
+    "id": "tg-bloomberg-channel",
+    "title": "Bloomberg",
+    "type": "channel",
+    "deeplink": "https://t.me/bloomberg",
+    "shortDescription": "Official news channel sharing real‑time financial and business news.",
+    "longDescription": "Bloomberg’s Telegram channel delivers financial news, market analysis and breaking business updates.  The Proxidize comparison lists Bloomberg among the top news channels with over a hundred thousand subscribers, noting that it provides financial news and global market updates for business professionals and investors【35593890135280†L405-L407】.",
+    "functions": [
+      "publish"
+    ],
+    "topics": [
+      "business",
+      "economy",
+      "news"
+    ],
+    "primaryTopic": "business",
+    "language": "en",
+    "compat": "L0",
+    "audience": "all",
+    "formats": [
+      "text"
+    ],
+    "tags": [
+      "finance",
+      "found_via:proxidize"
+    ],
+    "isPromoted": false,
+    "weight": 10
+  },
+  {
+    "id": "tg-reuters-world",
+    "title": "Reuters World",
+    "type": "channel",
+    "deeplink": "https://t.me/reuters_world",
+    "shortDescription": "Global news channel providing breaking news and world coverage.",
+    "longDescription": "Reuters World News is the Telegram feed for Reuters.  It delivers breaking news and global coverage across politics, business and culture.  Proxidize’s news section lists Reuters World as a leading news channel with tens of thousands of subscribers and highlights its role in providing live updates to news followers【35593890135280†L405-L407】.",
+    "functions": [
+      "publish"
+    ],
+    "topics": [
+      "news",
+      "business",
+      "economy"
+    ],
+    "primaryTopic": "news",
+    "language": "en",
+    "compat": "L0",
+    "audience": "all",
+    "formats": [
+      "text"
+    ],
+    "tags": [
+      "world-news",
+      "found_via:proxidize"
+    ],
+    "isPromoted": false,
+    "weight": 10
+  },
+  {
+    "id": "tg-cnbc-international",
+    "title": "CNBC International",
+    "type": "channel",
+    "deeplink": "https://t.me/cnbc_intl",
+    "shortDescription": "Business news channel covering global markets, stocks and finance.",
+    "longDescription": "CNBC International’s Telegram channel reports on global business news, stock markets and economic trends.  Proxidize’s news and information category features CNBC International as one of the top channels delivering financial news and market updates for business professionals and investors【35593890135280†L405-L407】.",
+    "functions": [
+      "publish"
+    ],
+    "topics": [
+      "business",
+      "economy",
+      "news"
+    ],
+    "primaryTopic": "business",
+    "language": "en",
+    "compat": "L0",
+    "audience": "all",
+    "formats": [
+      "text"
+    ],
+    "tags": [
+      "finance",
+      "found_via:proxidize"
+    ],
+    "isPromoted": false,
+    "weight": 10
+  },
+  {
+    "id": "tg-business-finance-news-us",
+    "title": "Business & Finance News US",
+    "type": "channel",
+    "deeplink": "https://t.me/business_finance_us",
+    "shortDescription": "Channel sharing US stock market updates, IPO alerts and economic news.",
+    "longDescription": "Business & Finance News US focuses on the U.S. economy and stock markets.  It posts updates on stock movements, IPO announcements and economic indicators.  Proxidize’s news category notes that channels like Business & Finance News provide market updates, stock news and trend analysis for investors【35593890135280†L405-L407】.",
+    "functions": [
+      "publish"
+    ],
+    "topics": [
+      "business",
+      "economy",
+      "news"
+    ],
+    "primaryTopic": "business",
+    "language": "en",
+    "compat": "L0",
+    "audience": "all",
+    "formats": [
+      "text"
+    ],
+    "tags": [
+      "finance",
+      "us",
+      "found_via:proxidize"
+    ],
+    "isPromoted": false,
+    "weight": 10
+  },
+  {
+    "id": "tg-mint-business-news",
+    "title": "Mint Business News",
+    "type": "channel",
+    "deeplink": "https://t.me/mintbusinessnews",
+    "shortDescription": "Indian business channel delivering market news, IPO coverage and economy updates.",
+    "longDescription": "Mint Business News covers Indian and global business news, including stock market updates, IPO announcements and economic policy developments.  Proxidize lists it among the top news channels, noting that it provides market and economic news updates for investors and business professionals【35593890135280†L405-L407】.",
+    "functions": [
+      "publish"
+    ],
+    "topics": [
+      "business",
+      "economy",
+      "news"
+    ],
+    "primaryTopic": "business",
+    "language": "en",
+    "compat": "L0",
+    "audience": "all",
+    "formats": [
+      "text"
+    ],
+    "tags": [
+      "finance",
+      "india",
+      "found_via:proxidize"
+    ],
+    "isPromoted": false,
+    "weight": 10
+  },
+  {
+    "id": "tg-digital-marketing-seo",
+    "title": "Digital Marketing Strategies & SEO",
+    "type": "channel",
+    "deeplink": "https://t.me/digitalmarketing_seo",
+    "shortDescription": "Channel offering tips on digital marketing, SEO tactics and growth hacking.",
+    "longDescription": "Digital Marketing Strategies & SEO teaches marketers how to grow their brands using search engine optimization, content marketing and growth hacking strategies.  Proxidize’s FAQ section mentions it alongside Whale Alert and Binance Signals as a leading business channel that caters to traders, entrepreneurs and marketers【35593890135280†L456-L461】.",
+    "functions": [
+      "publish"
+    ],
+    "topics": [
+      "business",
+      "technology",
+      "productivity"
+    ],
+    "primaryTopic": "business",
+    "language": "en",
+    "compat": "L0",
+    "audience": "all",
+    "formats": [
+      "text"
+    ],
+    "tags": [
+      "marketing",
+      "seo",
+      "found_via:proxidize"
+    ],
+    "isPromoted": false,
+    "weight": 10
+  },
+  {
+    "id": "tg-botfather",
+    "title": "BotFather",
+    "type": "bot",
+    "deeplink": "https://t.me/BotFather",
+    "shortDescription": "Official Telegram bot used to create and manage other bots.",
+    "longDescription": "BotFather is Telegram’s official management bot.  As described in ControlHippo’s list of popular bots, it has over 50 million monthly users and serves as the official tool for creating new bot accounts and managing existing bots【655346199851468†L284-L289】.  Developers interact with BotFather to obtain API tokens, set descriptions and configure commands for their bots.",
+    "functions": [
+      "integrate",
+      "automate"
+    ],
+    "topics": [
+      "technology",
+      "productivity"
+    ],
+    "primaryTopic": "technology",
+    "language": "multi",
+    "compat": "L1",
+    "audience": "all",
+    "formats": [
+      "text"
+    ],
+    "tags": [
+      "official",
+      "developer",
+      "found_via:controlhippo"
+    ],
+    "isPromoted": false,
+    "weight": 10
+  },
+  {
+    "id": "tg-manybot",
+    "title": "Manybot",
+    "type": "bot",
+    "deeplink": "https://t.me/Manybot",
+    "shortDescription": "No‑code bot builder enabling users to create custom bots without coding.",
+    "longDescription": "Manybot is a popular no‑code tool for building Telegram bots.  According to ControlHippo’s bot list, it has around 2 million monthly users and allows anyone to create custom bots without coding knowledge【655346199851468†L284-L289】.  Users can set up automated responses, notifications and content distribution easily through its interface.",
+    "functions": [
+      "integrate",
+      "automate"
+    ],
+    "topics": [
+      "technology",
+      "productivity"
+    ],
+    "primaryTopic": "technology",
+    "language": "multi",
+    "compat": "L1",
+    "audience": "all",
+    "formats": [
+      "text"
+    ],
+    "tags": [
+      "bot-builder",
+      "found_via:controlhippo"
+    ],
+    "isPromoted": false,
+    "weight": 10
+  },
+  {
+    "id": "tg-botlistbot",
+    "title": "BotListBot",
+    "type": "bot",
+    "deeplink": "https://t.me/BotListBot",
+    "shortDescription": "Directory bot that helps users discover and share useful Telegram bots.",
+    "longDescription": "BotListBot functions as a directory of Telegram bots.  ControlHippo notes that it has roughly 500 000 monthly users and enables users to discover and share new bots【655346199851468†L284-L289】.  You can browse categories, rate bots and share your favorites with friends.",
+    "functions": [
+      "search",
+      "publish"
+    ],
+    "topics": [
+      "technology",
+      "productivity"
+    ],
+    "primaryTopic": "technology",
+    "language": "multi",
+    "compat": "L1",
+    "audience": "all",
+    "formats": [
+      "text"
+    ],
+    "tags": [
+      "directory",
+      "found_via:controlhippo"
+    ],
+    "isPromoted": false,
+    "weight": 10
+  },
+  {
+    "id": "tg-devcenterbot",
+    "title": "DevCenterBot",
+    "type": "bot",
+    "deeplink": "https://t.me/DevCenterBot",
+    "shortDescription": "Developer bot offering resources, analytics and debugging tools.",
+    "longDescription": "DevCenterBot provides resources for developers, including links to documentation, API references and analytics.  In the ControlHippo bot list it is described as having about 300 000 monthly users and offering developer resources and bot analytics【655346199851468†L284-L289】.  It helps developers debug and optimize their own bots.",
+    "functions": [
+      "search",
+      "analyze"
+    ],
+    "topics": [
+      "technology",
+      "open_source"
+    ],
+    "primaryTopic": "technology",
+    "language": "en",
+    "compat": "L1",
+    "audience": "all",
+    "formats": [
+      "text"
+    ],
+    "tags": [
+      "developer",
+      "analytics",
+      "found_via:controlhippo"
+    ],
+    "isPromoted": false,
+    "weight": 10
+  },
+  {
+    "id": "tg-savevideobot",
+    "title": "SaveVideoBot",
+    "type": "bot",
+    "deeplink": "https://t.me/SaveVideoBot",
+    "shortDescription": "Bot that downloads videos from YouTube, TikTok and Instagram.",
+    "longDescription": "SaveVideoBot allows users to download videos from YouTube, TikTok and Instagram.  The ControlHippo media bot list highlights it as having over 15 million monthly users and describes it as a tool for downloading videos from multiple platforms【655346199851468†L296-L304】.  Simply send a link and the bot returns the video file.",
+    "functions": [
+      "extract"
+    ],
+    "topics": [
+      "video",
+      "technology"
+    ],
+    "primaryTopic": "video",
+    "language": "multi",
+    "compat": "L1",
+    "audience": "all",
+    "formats": [
+      "video"
+    ],
+    "tags": [
+      "downloader",
+      "found_via:controlhippo"
+    ],
+    "isPromoted": false,
+    "weight": 10
+  },
+  {
+    "id": "tg-getmediabot",
+    "title": "GetMediaBot",
+    "type": "bot",
+    "deeplink": "https://t.me/GetMediaBot",
+    "shortDescription": "Universal media downloader for various platforms and formats.",
+    "longDescription": "GetMediaBot is a universal media downloader.  According to ControlHippo’s media bot list, it has around 8 million monthly users and serves as a universal media downloader for multiple platforms【655346199851468†L296-L304】.  Users can retrieve videos, music and other media files directly within Telegram.",
+    "functions": [
+      "extract"
+    ],
+    "topics": [
+      "video",
+      "music",
+      "technology"
+    ],
+    "primaryTopic": "video",
+    "language": "multi",
+    "compat": "L1",
+    "audience": "all",
+    "formats": [
+      "video",
+      "audio"
+    ],
+    "tags": [
+      "media-downloader",
+      "found_via:controlhippo"
+    ],
+    "isPromoted": false,
+    "weight": 10
+  },
+  {
+    "id": "tg-instasavebot",
+    "title": "InstaSaveBot",
+    "type": "bot",
+    "deeplink": "https://t.me/instasavebot",
+    "shortDescription": "Downloads Instagram photos, videos and stories to your device.",
+    "longDescription": "InstaSaveBot helps users save Instagram content.  In the media bots section of ControlHippo’s list, it is described as allowing downloads of Instagram photos, videos and stories and serving about 3 million monthly users【655346199851468†L296-L304】.  Send an Instagram link and the bot returns the media file.",
+    "functions": [
+      "extract"
+    ],
+    "topics": [
+      "photography",
+      "technology"
+    ],
+    "primaryTopic": "photography",
+    "language": "multi",
+    "compat": "L1",
+    "audience": "all",
+    "formats": [
+      "image",
+      "video"
+    ],
+    "tags": [
+      "instagram",
+      "downloader",
+      "found_via:controlhippo"
+    ],
+    "isPromoted": false,
+    "weight": 10
+  },
+  {
+    "id": "tg-pdfbot",
+    "title": "PDFBot",
+    "type": "bot",
+    "deeplink": "https://t.me/pdfbot",
+    "shortDescription": "Bot for creating, editing and converting PDF files within Telegram.",
+    "longDescription": "PDFBot enables users to create, edit and convert PDF documents.  ControlHippo notes that the bot has roughly 2 million monthly users and supports various PDF operations【655346199851468†L296-L304】.  You can merge PDFs, rotate pages or convert images to PDF right from your Telegram chat.",
+    "functions": [
+      "render",
+      "edit",
+      "compose"
+    ],
+    "topics": [
+      "productivity",
+      "technology"
+    ],
+    "primaryTopic": "productivity",
+    "language": "multi",
+    "compat": "L1",
+    "audience": "all",
+    "formats": [
+      "pdf",
+      "text"
+    ],
+    "tags": [
+      "documents",
+      "found_via:controlhippo"
+    ],
+    "isPromoted": false,
+    "weight": 10
+  },
+  {
+    "id": "tg-feedreaderbot",
+    "title": "FeedReaderBot",
+    "type": "bot",
+    "deeplink": "https://t.me/TheFeedReaderBot",
+    "shortDescription": "RSS feed reader bot delivering real‑time updates from websites and blogs.",
+    "longDescription": "FeedReaderBot monitors RSS feeds and sends updates to Telegram.  In ControlHippo’s news bots list, it is described as having around 3 million monthly users and enabling users to monitor RSS feeds and get real‑time updates【655346199851468†L309-L318】.  Subscribers can subscribe to websites and receive articles instantly.",
+    "functions": [
+      "publish",
+      "search"
+    ],
+    "topics": [
+      "news",
+      "productivity",
+      "technology"
+    ],
+    "primaryTopic": "news",
+    "language": "multi",
+    "compat": "L1",
+    "audience": "all",
+    "formats": [
+      "text"
+    ],
+    "tags": [
+      "rss",
+      "found_via:controlhippo"
+    ],
+    "isPromoted": false,
+    "weight": 10
+  },
+  {
+    "id": "tg-newsbot",
+    "title": "NewsBot",
+    "type": "bot",
+    "deeplink": "https://t.me/newsbot",
+    "shortDescription": "Customizable news aggregator bot delivering articles from multiple sources.",
+    "longDescription": "NewsBot aggregates news from various sources and delivers personalized updates.  ControlHippo lists it as having about 2 million monthly users and describes it as a customizable news aggregator【655346199851468†L309-L318】.  Users can specify topics and receive curated news directly in Telegram.",
+    "functions": [
+      "publish",
+      "search"
+    ],
+    "topics": [
+      "news",
+      "business",
+      "economy"
+    ],
+    "primaryTopic": "news",
+    "language": "multi",
+    "compat": "L1",
+    "audience": "all",
+    "formats": [
+      "text"
+    ],
+    "tags": [
+      "aggregator",
+      "found_via:controlhippo"
+    ],
+    "isPromoted": false,
+    "weight": 10
+  },
+  {
+    "id": "tg-bbcnewsbot",
+    "title": "BBCNewsBot",
+    "type": "bot",
+    "deeplink": "https://t.me/bbcnewsbot",
+    "shortDescription": "Official BBC bot delivering the latest BBC news and breaking updates.",
+    "longDescription": "BBCNewsBot brings BBC news directly into Telegram.  ControlHippo notes that it has around 1.5 million monthly users and delivers the latest BBC news updates and breaking news【655346199851468†L309-L318】.  It keeps subscribers informed about UK and international events.",
+    "functions": [
+      "publish"
+    ],
+    "topics": [
+      "news",
+      "culture"
+    ],
+    "primaryTopic": "news",
+    "language": "en",
+    "compat": "L1",
+    "audience": "all",
+    "formats": [
+      "text"
+    ],
+    "tags": [
+      "bbc",
+      "found_via:controlhippo"
+    ],
+    "isPromoted": false,
+    "weight": 10
+  },
+  {
+    "id": "tg-techcrunchbot",
+    "title": "TechCrunchBot",
+    "type": "bot",
+    "deeplink": "https://t.me/techcrunchbot",
+    "shortDescription": "Bot that sends technology and startup news from TechCrunch.",
+    "longDescription": "TechCrunchBot delivers technology news and startup updates from TechCrunch.  It has about 800 000 monthly users, according to ControlHippo’s news bot list【655346199851468†L309-L318】.  The bot provides news briefs, analysis and links to detailed articles on innovations and startups.",
+    "functions": [
+      "publish"
+    ],
+    "topics": [
+      "technology",
+      "business",
+      "news"
+    ],
+    "primaryTopic": "technology",
+    "language": "en",
+    "compat": "L1",
+    "audience": "all",
+    "formats": [
+      "text"
+    ],
+    "tags": [
+      "tech-news",
+      "found_via:controlhippo"
+    ],
+    "isPromoted": false,
+    "weight": 10
+  },
+  {
+    "id": "tg-cnnbot",
+    "title": "CNNBot",
+    "type": "bot",
+    "deeplink": "https://t.me/cnnbot",
+    "shortDescription": "Delivers CNN news updates and global coverage to Telegram users.",
+    "longDescription": "CNNBot publishes CNN news updates and global coverage.  ControlHippo lists it with roughly 700 000 monthly users and highlights its role in providing CNN news updates and world coverage【655346199851468†L309-L318】.  It is a quick way to follow breaking news from CNN within Telegram.",
+    "functions": [
+      "publish"
+    ],
+    "topics": [
+      "news",
+      "business",
+      "culture"
+    ],
+    "primaryTopic": "news",
+    "language": "en",
+    "compat": "L1",
+    "audience": "all",
+    "formats": [
+      "text"
+    ],
+    "tags": [
+      "cnn",
+      "found_via:controlhippo"
+    ],
+    "isPromoted": false,
+    "weight": 10
+  },
+  {
+    "id": "tg-gamebot",
+    "title": "GameBot",
+    "type": "bot",
+    "deeplink": "https://t.me/gamebot",
+    "shortDescription": "Bot that lets users play interactive mini‑games directly in Telegram.",
+    "longDescription": "GameBot provides a collection of mini‑games that can be played within Telegram chats.  ControlHippo’s entertainment bot list notes that it has about 10 million monthly users and allows users to play various mini‑games directly in Telegram【655346199851468†L323-L325】.  It offers casual games like Tetris and racing games for quick entertainment.",
+    "functions": [
+      "render",
+      "publish"
+    ],
+    "topics": [
+      "games",
+      "entertainment"
+    ],
+    "primaryTopic": "games",
+    "language": "multi",
+    "compat": "L1",
+    "audience": "all",
+    "formats": [
+      "video",
+      "text"
+    ],
+    "tags": [
+      "games",
+      "found_via:controlhippo"
+    ],
+    "isPromoted": false,
+    "weight": 10
+  },
+  {
+    "id": "tg-quizbot",
+    "title": "QuizBot",
+    "type": "bot",
+    "deeplink": "https://t.me/quizbot",
+    "shortDescription": "Interactive quiz bot allowing users to create and participate in quizzes.",
+    "longDescription": "QuizBot lets users create and participate in interactive quizzes.  ControlHippo lists it with roughly 5 million monthly users and notes that it enables interactive quizzes within Telegram【655346199851468†L323-L325】.  You can challenge friends or take solo quizzes on various topics.",
+    "functions": [
+      "render",
+      "publish"
+    ],
+    "topics": [
+      "games",
+      "education"
+    ],
+    "primaryTopic": "games",
+    "language": "multi",
+    "compat": "L1",
+    "audience": "all",
+    "formats": [
+      "text"
+    ],
+    "tags": [
+      "quiz",
+      "found_via:controlhippo"
+    ],
+    "isPromoted": false,
+    "weight": 10
+  },
+  {
+    "id": "tg-combot",
+    "title": "ComBot",
+    "type": "bot",
+    "deeplink": "https://t.me/combot",
+    "shortDescription": "Advanced group management and analytics bot for Telegram communities.",
+    "longDescription": "ComBot offers advanced group management features, anti‑spam tools and analytics.  According to ControlHippo’s administration bot list, it has about 12 million monthly users and provides group management and anti‑spam functions【655346199851468†L335-L338】.  It helps admins keep their communities safe and organized.",
+    "functions": [
+      "analyze",
+      "automate"
+    ],
+    "topics": [
+      "productivity",
+      "technology"
+    ],
+    "primaryTopic": "productivity",
+    "language": "multi",
+    "compat": "L1",
+    "audience": "all",
+    "formats": [
+      "text"
+    ],
+    "tags": [
+      "group-management",
+      "found_via:controlhippo"
+    ],
+    "isPromoted": false,
+    "weight": 10
+  },
+  {
+    "id": "tg-grouphelpbot",
+    "title": "GroupHelpBot",
+    "type": "bot",
+    "deeplink": "https://t.me/GroupHelpBot",
+    "shortDescription": "Group administration bot providing moderation and member management tools.",
+    "longDescription": "GroupHelpBot assists Telegram group administrators with moderation and member management.  ControlHippo records around 8 million monthly users for this bot and describes its capabilities for group administration and member management【655346199851468†L335-L338】.  It can perform tasks such as welcoming new members and enforcing rules.",
+    "functions": [
+      "automate"
+    ],
+    "topics": [
+      "productivity",
+      "technology"
+    ],
+    "primaryTopic": "productivity",
+    "language": "multi",
+    "compat": "L1",
+    "audience": "all",
+    "formats": [
+      "text"
+    ],
+    "tags": [
+      "group-management",
+      "found_via:controlhippo"
+    ],
+    "isPromoted": false,
+    "weight": 10
+  },
+  {
+    "id": "tg-antispambot",
+    "title": "AntiSpamBot",
+    "type": "bot",
+    "deeplink": "https://t.me/antispambot",
+    "shortDescription": "Bot that detects and removes spam in Telegram groups.",
+    "longDescription": "AntiSpamBot helps keep Telegram groups clean by detecting and removing spam messages.  ControlHippo’s administration bot list notes that it has around 5 million monthly users and provides anti‑spam functions for group admins【655346199851468†L335-L338】.  It automatically deletes unwanted messages and can ban spammers.",
+    "functions": [
+      "analyze",
+      "automate"
+    ],
+    "topics": [
+      "productivity",
+      "technology"
+    ],
+    "primaryTopic": "productivity",
+    "language": "multi",
+    "compat": "L1",
+    "audience": "all",
+    "formats": [
+      "text"
+    ],
+    "tags": [
+      "spam",
+      "found_via:controlhippo"
+    ],
+    "isPromoted": false,
+    "weight": 10
+  },
+  {
+    "id": "tg-reminderbot",
+    "title": "ReminderBot",
+    "type": "bot",
+    "deeplink": "https://t.me/ReminderBot",
+    "shortDescription": "Bot to set reminders and schedule notifications for tasks.",
+    "longDescription": "ReminderBot allows users to set reminders and schedule notifications.  ControlHippo notes that it has about 6 million monthly users and helps users remember tasks and appointments【655346199851468†L348-L350】.  You can create reminders with specific times and the bot will notify you when the time comes.",
+    "functions": [
+      "automate"
+    ],
+    "topics": [
+      "productivity",
+      "lifestyle"
+    ],
+    "primaryTopic": "productivity",
+    "language": "en",
+    "compat": "L1",
+    "audience": "all",
+    "formats": [
+      "text"
+    ],
+    "tags": [
+      "reminder",
+      "found_via:controlhippo"
+    ],
+    "isPromoted": false,
+    "weight": 10
+  },
+  {
+    "id": "tg-todobot",
+    "title": "TodoBot",
+    "type": "bot",
+    "deeplink": "https://t.me/todobot",
+    "shortDescription": "Task management bot for creating and managing to‑do lists.",
+    "longDescription": "TodoBot helps users organize tasks by creating and managing to‑do lists.  ControlHippo’s productivity bot list indicates that it has around 4 million monthly users and supports task creation and management【655346199851468†L348-L350】.  It allows you to list tasks, set priorities and mark them as completed.",
+    "functions": [
+      "compose",
+      "automate"
+    ],
+    "topics": [
+      "productivity",
+      "lifestyle"
+    ],
+    "primaryTopic": "productivity",
+    "language": "multi",
+    "compat": "L1",
+    "audience": "all",
+    "formats": [
+      "text"
+    ],
+    "tags": [
+      "todo",
+      "task-management",
+      "found_via:controlhippo"
+    ],
+    "isPromoted": false,
+    "weight": 10
+  },
+  {
+    "id": "tg-googletranslatebot",
+    "title": "GoogleTranslateBot",
+    "type": "bot",
+    "deeplink": "https://t.me/googletranslatebot",
+    "shortDescription": "Translation bot that translates text between hundreds of languages.",
+    "longDescription": "GoogleTranslateBot translates text into more than 100 languages.  ControlHippo’s translation bot list notes that it has about 20 million monthly users and provides instant translation between multiple languages【655346199851468†L359-L360】.  It is useful for quick translations within chats and groups.",
+    "functions": [
+      "analyze"
+    ],
+    "topics": [
+      "education",
+      "productivity"
+    ],
+    "primaryTopic": "education",
+    "language": "multi",
+    "compat": "L1",
+    "audience": "all",
+    "formats": [
+      "text"
+    ],
+    "tags": [
+      "translation",
+      "found_via:controlhippo"
+    ],
+    "isPromoted": false,
+    "weight": 10
+  },
+  {
+    "id": "tg-chatgptbot",
+    "title": "ChatGPTBot",
+    "type": "bot",
+    "deeplink": "https://t.me/chatgpt_kartfly_bot",
+    "shortDescription": "AI‑powered conversational assistant that answers questions and generates text.",
+    "longDescription": "ChatGPTBot brings OpenAI’s ChatGPT to Telegram.  ControlHippo’s AI bot list notes that it has around 25 million monthly users and provides an AI‑powered conversational assistant【655346199851468†L386-L391】.  Users can ask questions, get explanations and generate text within Telegram.",
+    "functions": [
+      "analyze",
+      "compose"
+    ],
+    "topics": [
+      "ai_ml",
+      "productivity",
+      "technology"
+    ],
+    "primaryTopic": "ai_ml",
+    "language": "en",
+    "compat": "L1",
+    "audience": "all",
+    "formats": [
+      "text"
+    ],
+    "tags": [
+      "ai",
+      "assistant",
+      "found_via:controlhippo"
+    ],
+    "isPromoted": false,
+    "weight": 10
+  },
+  {
+    "id": "tg-aiwriterbot",
+    "title": "AIWriterBot",
+    "type": "bot",
+    "deeplink": "https://t.me/aiwriterbot",
+    "shortDescription": "AI‑powered writing assistant that helps create articles, posts and messages.",
+    "longDescription": "AIWriterBot is a writing assistant that uses artificial intelligence to generate content.  ControlHippo’s AI bot list mentions that it has around 5 million monthly users and provides AI‑powered content writing assistance【655346199851468†L386-L391】.  It can help draft articles, social media posts and messages.",
+    "functions": [
+      "compose"
+    ],
+    "topics": [
+      "ai_ml",
+      "technology",
+      "productivity"
+    ],
+    "primaryTopic": "ai_ml",
+    "language": "en",
+    "compat": "L1",
+    "audience": "all",
+    "formats": [
+      "text"
+    ],
+    "tags": [
+      "writing",
+      "found_via:controlhippo"
+    ],
+    "isPromoted": false,
+    "weight": 10
+  },
+  {
+    "id": "tg-musicbot",
+    "title": "MusicBot",
+    "type": "bot",
+    "deeplink": "https://t.me/musicbot",
+    "shortDescription": "Bot that streams and downloads music tracks directly in Telegram.",
+    "longDescription": "MusicBot allows users to search, stream and download music tracks.  ControlHippo’s music bot list lists it with around 15 million monthly users and describes it as a bot for streaming and downloading music tracks【655346199851468†L409-L410】.  Users can search for songs, play them or download them in MP3 format.",
+    "functions": [
+      "publish",
+      "extract"
+    ],
+    "topics": [
+      "music",
+      "entertainment",
+      "technology"
+    ],
+    "primaryTopic": "music",
+    "language": "multi",
+    "compat": "L1",
+    "audience": "all",
+    "formats": [
+      "audio"
+    ],
+    "tags": [
+      "music",
+      "found_via:controlhippo"
+    ],
+    "isPromoted": false,
+    "weight": 10
+  }
+]
