@@ -1,0 +1,1499 @@
+[
+  {
+    "id": "tg-chatgptporusskibot",
+    "title": "ChatGPT Po Russki Bot",
+    "type": "bot",
+    "deeplink": "https://t.me/ChatGPTPoRusskiBot",
+    "shortDescription": "Русскоязычный AI‑ассистент с поддержкой GPT‑4/5.",
+    "longDescription": "Универсальный бот использует модели GPT‑4 и GPT‑5, отвечает на русском без VPN, генерирует тексты, помогает решать задачи, программировать, создавать изображения через Midjourney/DALL·E и переводы/редактирование【586405554115719†L44-L83】.",
+    "functions": [
+      "compose",
+      "render",
+      "analyze",
+      "edit"
+    ],
+    "topics": [
+      "ai_ml",
+      "technology",
+      "education"
+    ],
+    "primaryTopic": "ai_ml",
+    "language": "ru",
+    "compat": "L0",
+    "audience": "all",
+    "formats": [
+      "text",
+      "image"
+    ],
+    "tags": [
+      "universal",
+      "russian",
+      "chatbot"
+    ],
+    "isPromoted": false,
+    "weight": 10
+  },
+  {
+    "id": "tg-reshebnikrobot",
+    "title": "Reshebnik Robot",
+    "type": "bot",
+    "deeplink": "https://t.me/ReshebnikRobot",
+    "shortDescription": "Бот‑решебник для задач по фото и тексту.",
+    "longDescription": "Использует компьютерное зрение для решения задач по фотографии и тексту; полезен учителям, родителям и специалистам, показывает логику решения【586405554115719†L87-L107】.",
+    "functions": [
+      "analyze",
+      "extract",
+      "compose"
+    ],
+    "topics": [
+      "ai_ml",
+      "education"
+    ],
+    "primaryTopic": "ai_ml",
+    "language": "ru",
+    "compat": "L0",
+    "audience": "all",
+    "formats": [
+      "text",
+      "image"
+    ],
+    "tags": [
+      "education",
+      "ocr"
+    ],
+    "isPromoted": false,
+    "weight": 10
+  },
+  {
+    "id": "tg-soramidjourneysunobot",
+    "title": "Sora Midjourney Suno Bot",
+    "type": "bot",
+    "deeplink": "https://t.me/SoraMidjourneySunoBot",
+    "shortDescription": "Мультимодальный бот: текст, картинки и музыка.",
+    "longDescription": "Многофункциональный бот объединяет Sora, Midjourney и Suno AI для создания текста, визуального контента и музыки; распознаёт голос, анализирует аудио и генерирует изображения и треки в выбранных жанрах и стилях【586405554115719†L109-L133】.",
+    "functions": [
+      "compose",
+      "render",
+      "analyze"
+    ],
+    "topics": [
+      "ai_ml",
+      "music",
+      "art"
+    ],
+    "primaryTopic": "ai_ml",
+    "language": "ru",
+    "compat": "L0",
+    "audience": "all",
+    "formats": [
+      "text",
+      "image",
+      "audio",
+      "video"
+    ],
+    "tags": [
+      "multimodal",
+      "russian"
+    ],
+    "isPromoted": false,
+    "weight": 10
+  },
+  {
+    "id": "tg-kursovaya_rabota_robot",
+    "title": "Курсовая Работа Робот",
+    "type": "bot",
+    "deeplink": "https://t.me/Kursovaya_Rabota_Robot",
+    "shortDescription": "Помощник для курсовых и отчётов.",
+    "longDescription": "Бот помогает структурировать большой объём информации и создавать аналитические документы, планы и методические материалы; подсказывает разделы и следит за целостностью текста, полезен преподавателям и специалистам【586405554115719†L134-L152】.",
+    "functions": [
+      "compose",
+      "analyze",
+      "edit"
+    ],
+    "topics": [
+      "ai_ml",
+      "education",
+      "productivity"
+    ],
+    "primaryTopic": "ai_ml",
+    "language": "ru",
+    "compat": "L0",
+    "audience": "all",
+    "formats": [
+      "text"
+    ],
+    "tags": [
+      "education"
+    ],
+    "isPromoted": false,
+    "weight": 10
+  },
+  {
+    "id": "tg-diplomnaya_rabota_robot",
+    "title": "Дипломная Работа Робот",
+    "type": "bot",
+    "deeplink": "https://t.me/Diplomnaya_Rabota_Robot",
+    "shortDescription": "AI‑консультант для дипломов и отчётов.",
+    "longDescription": "Выступает в роли AI‑консультанта при подготовке исследовательских отчётов, презентаций и стратегических планов; помогает на всех этапах создания документа и адаптирует тональность под академический или деловой стиль【586405554115719†L154-L174】.",
+    "functions": [
+      "compose",
+      "analyze",
+      "edit"
+    ],
+    "topics": [
+      "ai_ml",
+      "business",
+      "education"
+    ],
+    "primaryTopic": "ai_ml",
+    "language": "ru",
+    "compat": "L0",
+    "audience": "all",
+    "formats": [
+      "text",
+      "slides"
+    ],
+    "tags": [
+      "education",
+      "consultant"
+    ],
+    "isPromoted": false,
+    "weight": 10
+  },
+  {
+    "id": "tg-referatonlinebot",
+    "title": "Referat Online Bot",
+    "type": "bot",
+    "deeplink": "https://t.me/ReferatOnlineBot",
+    "shortDescription": "Генератор идей и планов для проектов.",
+    "longDescription": "Генерирует идеи, планы и тексты для проектов и презентаций; помогает структурировать материал, выделять ключевые мысли, переписывать абзацы и адаптировать стиль под контекст【586405554115719†L177-L193】.",
+    "functions": [
+      "compose",
+      "edit"
+    ],
+    "topics": [
+      "ai_ml",
+      "education"
+    ],
+    "primaryTopic": "ai_ml",
+    "language": "ru",
+    "compat": "L0",
+    "audience": "all",
+    "formats": [
+      "text"
+    ],
+    "tags": [
+      "ideas",
+      "projects"
+    ],
+    "isPromoted": false,
+    "weight": 10
+  },
+  {
+    "id": "tg-kandinsky-bot",
+    "title": "Kandinsky Bot",
+    "type": "bot",
+    "deeplink": "https://t.me/kandinsky_bot",
+    "shortDescription": "Генератор изображений от Sber AI.",
+    "longDescription": "Официальный бот от Sber AI создаёт изображения по текстовому описанию, позволяет выбирать стили и размеры, а также делать стикеры и аватары; генерации бесплатны и без лимита【826827464893615†L131-L153】.",
+    "functions": [
+      "render"
+    ],
+    "topics": [
+      "ai_ml",
+      "art",
+      "entertainment"
+    ],
+    "primaryTopic": "ai_ml",
+    "language": "ru",
+    "compat": "L0",
+    "audience": "all",
+    "formats": [
+      "image"
+    ],
+    "tags": [
+      "image-generation",
+      "sber"
+    ],
+    "isPromoted": false,
+    "weight": 10
+  },
+  {
+    "id": "tg-midjorobot",
+    "title": "Midjorobot",
+    "type": "bot",
+    "deeplink": "https://t.me/midjorobot",
+    "shortDescription": "Аналог Midjourney для реалистичных изображений.",
+    "longDescription": "Генерирует реалистичные изображения по текстовому запросу; позволяет задавать варианты, выбирать формат и получать высокое разрешение【826827464893615†L156-L174】.",
+    "functions": [
+      "render"
+    ],
+    "topics": [
+      "ai_ml",
+      "art",
+      "entertainment"
+    ],
+    "primaryTopic": "ai_ml",
+    "language": "ru",
+    "compat": "L0",
+    "audience": "all",
+    "formats": [
+      "image"
+    ],
+    "tags": [
+      "image-generation"
+    ],
+    "isPromoted": false,
+    "weight": 10
+  },
+  {
+    "id": "tg-stable-waifu",
+    "title": "Stable Waifu",
+    "type": "bot",
+    "deeplink": "https://t.me/stablewaifubot",
+    "shortDescription": "Аниме‑генератор на базе Stable Diffusion.",
+    "longDescription": "Генератор аниме‑картинок на базе Stable Diffusion позволяет выбирать модели и фоны; сервис бесплатный и ориентирован на поклонников японской анимации【826827464893615†L179-L197】.",
+    "functions": [
+      "render"
+    ],
+    "topics": [
+      "ai_ml",
+      "art",
+      "entertainment"
+    ],
+    "primaryTopic": "ai_ml",
+    "language": "ru",
+    "compat": "L0",
+    "audience": "all",
+    "formats": [
+      "image"
+    ],
+    "tags": [
+      "anime"
+    ],
+    "isPromoted": false,
+    "weight": 10
+  },
+  {
+    "id": "tg-mazai-bot",
+    "title": "MazAi Bot",
+    "type": "bot",
+    "deeplink": "https://t.me/mazai_bot",
+    "shortDescription": "Бот DALL‑E с токенами для точных изображений.",
+    "longDescription": "Бот работает на DALL‑E и позволяет создавать точные изображения по направлениям; пользователи управляют генерацией через промпты, используют токены и могут приобретать дополнительные пакеты【826827464893615†L216-L235】.",
+    "functions": [
+      "render",
+      "compose"
+    ],
+    "topics": [
+      "ai_ml",
+      "art",
+      "technology"
+    ],
+    "primaryTopic": "ai_ml",
+    "language": "ru",
+    "compat": "L0",
+    "audience": "all",
+    "formats": [
+      "image",
+      "text"
+    ],
+    "tags": [
+      "dall-e"
+    ],
+    "isPromoted": false,
+    "weight": 10
+  },
+  {
+    "id": "tg-gptchat",
+    "title": "GPTChat Bot",
+    "type": "bot",
+    "deeplink": "https://t.me/gptchat_bot",
+    "shortDescription": "Чат‑бот ChatGPT с бесплатными запросами.",
+    "longDescription": "Бот на основе ChatGPT позволяет генерировать тексты, переводить, резюмировать и искать данные; в бесплатной версии доступно до 20 запросов в день, есть подписка для большего числа запросов【826827464893615†L244-L259】.",
+    "functions": [
+      "compose",
+      "analyze",
+      "edit"
+    ],
+    "topics": [
+      "ai_ml",
+      "education",
+      "productivity"
+    ],
+    "primaryTopic": "ai_ml",
+    "language": "ru",
+    "compat": "L0",
+    "audience": "all",
+    "formats": [
+      "text"
+    ],
+    "tags": [
+      "chatgpt"
+    ],
+    "isPromoted": false,
+    "weight": 10
+  },
+  {
+    "id": "tg-pinkerbot",
+    "title": "Pinker Bot",
+    "type": "bot",
+    "deeplink": "https://t.me/pinker_bot",
+    "shortDescription": "Бот для идей контента.",
+    "longDescription": "Предлагает идеи для постов и контента в социальных сетях, помогает подбирать темы и формулировать промпты【826827464893615†L262-L276】.",
+    "functions": [
+      "compose"
+    ],
+    "topics": [
+      "ai_ml",
+      "productivity"
+    ],
+    "primaryTopic": "ai_ml",
+    "language": "ru",
+    "compat": "L0",
+    "audience": "all",
+    "formats": [
+      "text"
+    ],
+    "tags": [
+      "ideas"
+    ],
+    "isPromoted": false,
+    "weight": 10
+  },
+  {
+    "id": "tg-retext-ai",
+    "title": "ReText AI",
+    "type": "bot",
+    "deeplink": "https://t.me/retext_ai_bot",
+    "shortDescription": "Переписывает и улучшает тексты.",
+    "longDescription": "Помогает улучшать и переписывать тексты: заменяет слова, перестраивает предложения и делает тексты более читабельными【826827464893615†L280-L296】.",
+    "functions": [
+      "edit",
+      "compose"
+    ],
+    "topics": [
+      "ai_ml",
+      "productivity"
+    ],
+    "primaryTopic": "ai_ml",
+    "language": "ru",
+    "compat": "L0",
+    "audience": "all",
+    "formats": [
+      "text"
+    ],
+    "tags": [
+      "editing"
+    ],
+    "isPromoted": false,
+    "weight": 10
+  },
+  {
+    "id": "tg-prezapro",
+    "title": "PrezaPro",
+    "type": "bot",
+    "deeplink": "https://t.me/PrezaProBot",
+    "shortDescription": "Генератор презентаций по промпту.",
+    "longDescription": "Создаёт презентации по текстовым запросам, автоматически подбирает дизайн и оформление, позволяет быстро собирать слайды для выступлений【826827464893615†L298-L314】.",
+    "functions": [
+      "render",
+      "compose"
+    ],
+    "topics": [
+      "ai_ml",
+      "productivity"
+    ],
+    "primaryTopic": "ai_ml",
+    "language": "ru",
+    "compat": "L0",
+    "audience": "all",
+    "formats": [
+      "slides",
+      "text"
+    ],
+    "tags": [
+      "presentations"
+    ],
+    "isPromoted": false,
+    "weight": 10
+  },
+  {
+    "id": "tg-gigachat",
+    "title": "GigaChat Bot",
+    "type": "bot",
+    "deeplink": "https://t.me/gigachat_bot",
+    "shortDescription": "Многофункциональный бот от Сбера.",
+    "longDescription": "Бесплатный бот от Сбера генерирует текст, пишет код, переводит и рисует изображения; после ответа предлагает уточняющие вопросы для продолжения диалога【534448373080098†L46-L50】【826827464893615†L315-L327】.",
+    "functions": [
+      "compose",
+      "render",
+      "analyze",
+      "edit"
+    ],
+    "topics": [
+      "ai_ml",
+      "technology"
+    ],
+    "primaryTopic": "ai_ml",
+    "language": "ru",
+    "compat": "L0",
+    "audience": "all",
+    "formats": [
+      "text",
+      "image",
+      "audio"
+    ],
+    "tags": [
+      "sber",
+      "multi-modal"
+    ],
+    "isPromoted": false,
+    "weight": 10
+  },
+  {
+    "id": "tg-steosvoice",
+    "title": "SteosVoice",
+    "type": "bot",
+    "deeplink": "https://t.me/steosvoice_bot",
+    "shortDescription": "Генератор озвучки и голосов.",
+    "longDescription": "Бот преобразует тексты в речь, может имитировать различные голоса и позволяет создавать озвучку для видео; поддерживает регулировку тембра и скорости【826827464893615†L327-L357】.",
+    "functions": [
+      "render",
+      "edit"
+    ],
+    "topics": [
+      "ai_ml",
+      "music",
+      "technology"
+    ],
+    "primaryTopic": "ai_ml",
+    "language": "ru",
+    "compat": "L0",
+    "audience": "all",
+    "formats": [
+      "audio"
+    ],
+    "tags": [
+      "text-to-speech"
+    ],
+    "isPromoted": false,
+    "weight": 10
+  },
+  {
+    "id": "tg-devoid-diffusion",
+    "title": "Devoid Diffusion",
+    "type": "bot",
+    "deeplink": "https://t.me/devoid_diffusion_bot",
+    "shortDescription": "Генератор изображений на Stable Diffusion.",
+    "longDescription": "Позволяет создавать изображения на базе Stable Diffusion; ежедневно доступны 20 бесплатных изображений, бот автоматически переводит промпты и подходит для быстрых экспериментов【534448373080098†L57-L63】.",
+    "functions": [
+      "render"
+    ],
+    "topics": [
+      "ai_ml",
+      "art",
+      "entertainment"
+    ],
+    "primaryTopic": "ai_ml",
+    "language": "ru",
+    "compat": "L0",
+    "audience": "all",
+    "formats": [
+      "image"
+    ],
+    "tags": [
+      "stable-diffusion"
+    ],
+    "isPromoted": false,
+    "weight": 10
+  },
+  {
+    "id": "tg-turbotext-ai",
+    "title": "TurboText AI",
+    "type": "bot",
+    "deeplink": "https://t.me/turbotext_ai_bot",
+    "shortDescription": "Создание текста, изображений и музыки.",
+    "longDescription": "Генерирует посты, статьи, описания товаров, изображения и музыку; проверяет грамматику и имеет режим «всезнайки» для ответов на любые вопросы【534448373080098†L70-L77】.",
+    "functions": [
+      "compose",
+      "render",
+      "analyze"
+    ],
+    "topics": [
+      "ai_ml",
+      "productivity",
+      "music"
+    ],
+    "primaryTopic": "ai_ml",
+    "language": "ru",
+    "compat": "L0",
+    "audience": "all",
+    "formats": [
+      "text",
+      "image",
+      "audio"
+    ],
+    "tags": [
+      "content-creation"
+    ],
+    "isPromoted": false,
+    "weight": 10
+  },
+  {
+    "id": "tg-sdxl-bot",
+    "title": "Stable Diffusion SDXL Bot",
+    "type": "bot",
+    "deeplink": "https://t.me/sdxl_bot",
+    "shortDescription": "Бот для генерации изображений SDXL.",
+    "longDescription": "Позволяет генерировать изображения в различных стилях с выбором модели и формата; ежедневно доступно 11 бесплатных изображений, дополнительные изображения можно получить за токены【534448373080098†L120-L124】.",
+    "functions": [
+      "render"
+    ],
+    "topics": [
+      "ai_ml",
+      "art"
+    ],
+    "primaryTopic": "ai_ml",
+    "language": "ru",
+    "compat": "L0",
+    "audience": "all",
+    "formats": [
+      "image"
+    ],
+    "tags": [
+      "sdxl"
+    ],
+    "isPromoted": false,
+    "weight": 10
+  },
+  {
+    "id": "tg-syntx-ai-bot",
+    "title": "Syntx AI (RU)",
+    "type": "bot",
+    "deeplink": "https://t.me/syntx_ai_bot",
+    "shortDescription": "Мультимодальный бот с множеством моделей.",
+    "longDescription": "Поддерживает генерацию текста, изображений, видео и аудио, включая DALL‑E 3, Stable Diffusion Cascade, Ideogram, Midjourney и FLUX; позволяет редактировать изображения и проводить инпейтинг【534448373080098†L130-L137】.",
+    "functions": [
+      "render",
+      "compose",
+      "analyze"
+    ],
+    "topics": [
+      "ai_ml",
+      "technology"
+    ],
+    "primaryTopic": "ai_ml",
+    "language": "ru",
+    "compat": "L0",
+    "audience": "all",
+    "formats": [
+      "text",
+      "image",
+      "video",
+      "audio"
+    ],
+    "tags": [
+      "multi-model"
+    ],
+    "isPromoted": false,
+    "weight": 10
+  },
+  {
+    "id": "tg-midjourney-bot",
+    "title": "Midjourney Bot",
+    "type": "bot",
+    "deeplink": "https://t.me/midjourney_bot",
+    "shortDescription": "Функции Midjourney в Telegram.",
+    "longDescription": "Стандартный бот Midjourney позволяет задавать соотношение сторон, стилизацию и вариации изображений; подходит для творчества и генерации артов【534448373080098†L143-L148】.",
+    "functions": [
+      "render"
+    ],
+    "topics": [
+      "ai_ml",
+      "art"
+    ],
+    "primaryTopic": "ai_ml",
+    "language": "ru",
+    "compat": "L0",
+    "audience": "all",
+    "formats": [
+      "image"
+    ],
+    "tags": [
+      "midjourney"
+    ],
+    "isPromoted": false,
+    "weight": 10
+  },
+  {
+    "id": "tg-aineirobot",
+    "title": "Ai Neirobot",
+    "type": "bot",
+    "deeplink": "https://t.me/Ai_Neirobot",
+    "shortDescription": "Универсальный бот для текста, изображений, музыки и видео.",
+    "longDescription": "Универсальный бот генерирует текст, картинки, музыку и видео; имеет русский интерфейс, подходит для создания контента и экспериментов с нейросетями【465375553459171†L42-L44】.",
+    "functions": [
+      "compose",
+      "render",
+      "analyze"
+    ],
+    "topics": [
+      "ai_ml",
+      "technology",
+      "entertainment"
+    ],
+    "primaryTopic": "ai_ml",
+    "language": "ru",
+    "compat": "L0",
+    "audience": "all",
+    "formats": [
+      "text",
+      "image",
+      "audio",
+      "video"
+    ],
+    "tags": [
+      "universal"
+    ],
+    "isPromoted": false,
+    "weight": 10
+  },
+  {
+    "id": "tg-ai-hub-bot",
+    "title": "Ai HUB Bot",
+    "type": "bot",
+    "deeplink": "https://t.me/ai_hub_bot",
+    "shortDescription": "Платформа для создания контента.",
+    "longDescription": "Платформа предоставляет инструменты для генерации логотипов, сайтов, сценариев и другого контента с помощью нейросетей【465375553459171†L45-L47】.",
+    "functions": [
+      "compose",
+      "render"
+    ],
+    "topics": [
+      "ai_ml",
+      "productivity"
+    ],
+    "primaryTopic": "ai_ml",
+    "language": "ru",
+    "compat": "L0",
+    "audience": "all",
+    "formats": [
+      "text",
+      "image"
+    ],
+    "tags": [
+      "platform"
+    ],
+    "isPromoted": false,
+    "weight": 10
+  },
+  {
+    "id": "tg-gptunnel",
+    "title": "Gptunnel Bot",
+    "type": "bot",
+    "deeplink": "https://t.me/gptunnel_bot",
+    "shortDescription": "Быстрый доступ к GPT без лимитов.",
+    "longDescription": "Сервис обеспечивает быстрый доступ к GPT без ограничений; подходит для написания текстов и ответов на вопросы【465375553459171†L55-L56】.",
+    "functions": [
+      "compose",
+      "analyze"
+    ],
+    "topics": [
+      "ai_ml",
+      "education",
+      "productivity"
+    ],
+    "primaryTopic": "ai_ml",
+    "language": "ru",
+    "compat": "L0",
+    "audience": "all",
+    "formats": [
+      "text"
+    ],
+    "tags": [
+      "fast-gpt"
+    ],
+    "isPromoted": false,
+    "weight": 10
+  },
+  {
+    "id": "tg-gogpt",
+    "title": "GoGPT Bot",
+    "type": "bot",
+    "deeplink": "https://t.me/gogpt_bot",
+    "shortDescription": "Простой бот для ChatGPT.",
+    "longDescription": "Простой сервис с удобным интерфейсом предоставляет доступ к ChatGPT и подходит для пользователей, которые хотят быстро получать ответы и писать тексты【465375553459171†L56-L58】.",
+    "functions": [
+      "compose"
+    ],
+    "topics": [
+      "ai_ml",
+      "education"
+    ],
+    "primaryTopic": "ai_ml",
+    "language": "ru",
+    "compat": "L0",
+    "audience": "all",
+    "formats": [
+      "text"
+    ],
+    "tags": [
+      "simple-interface"
+    ],
+    "isPromoted": false,
+    "weight": 10
+  },
+  {
+    "id": "tg-quickdigestbot",
+    "title": "QuickDigest Bot",
+    "type": "bot",
+    "deeplink": "https://t.me/QuickDigestBot",
+    "shortDescription": "AI‑бот для мгновенных конспектов и пересказов.",
+    "longDescription": "Бот‑саммаризатор быстро создаёт краткие и подробные резюме ссылок, текста или PDF; поддерживает несколько языков (английский, испанский, французский, немецкий, вьетнамский, тайский, корейский), выделяет ключевые моменты и полезен специалистам и инвесторам【345755784074615†L37-L96】.",
+    "functions": [
+      "analyze",
+      "extract",
+      "compose"
+    ],
+    "topics": [
+      "ai_ml",
+      "productivity",
+      "education"
+    ],
+    "primaryTopic": "ai_ml",
+    "language": "en",
+    "compat": "L0",
+    "audience": "all",
+    "formats": [
+      "text"
+    ],
+    "tags": [
+      "summarization"
+    ],
+    "isPromoted": false,
+    "weight": 10
+  },
+  {
+    "id": "tg-airtrack",
+    "title": "AirTrack Bot",
+    "type": "bot",
+    "deeplink": "https://t.me/airtrack_bot",
+    "shortDescription": "Отслеживает цены на авиабилеты и находит выгодные предложения.",
+    "longDescription": "AI‑бот помогает искать выгодные авиапредложения, отслеживает цены на перелёты и уведомляет о их изменениях, что улучшает планирование поездок【205339917391087†L89-L100】.",
+    "functions": [
+      "analyze",
+      "search"
+    ],
+    "topics": [
+      "ai_ml",
+      "lifestyle"
+    ],
+    "primaryTopic": "ai_ml",
+    "language": "en",
+    "compat": "L0",
+    "audience": "all",
+    "formats": [
+      "text"
+    ],
+    "tags": [
+      "travel"
+    ],
+    "isPromoted": false,
+    "weight": 10
+  },
+  {
+    "id": "tg-ai-background-remover",
+    "title": "AI Background Remover Bot",
+    "type": "bot",
+    "deeplink": "https://t.me/AIbackgroundremoverbot",
+    "shortDescription": "Удаляет фон изображений за секунды.",
+    "longDescription": "Бот автоматически удаляет фон у фотографий всего за несколько секунд, что упрощает обработку изображений и создание графики【205339917391087†L113-L117】.",
+    "functions": [
+      "edit",
+      "render"
+    ],
+    "topics": [
+      "ai_ml",
+      "photography"
+    ],
+    "primaryTopic": "ai_ml",
+    "language": "en",
+    "compat": "L0",
+    "audience": "all",
+    "formats": [
+      "image"
+    ],
+    "tags": [
+      "image-editing"
+    ],
+    "isPromoted": false,
+    "weight": 10
+  },
+  {
+    "id": "tg-pricetracker",
+    "title": "Price Tracker & Alert Bot",
+    "type": "bot",
+    "deeplink": "https://t.me/pricetracker_bot",
+    "shortDescription": "Отслеживание цен и уведомления.",
+    "longDescription": "Бот отслеживает цены на товары в интернет‑магазинах и уведомляет, когда они падают, помогая экономить и планировать покупки【205339917391087†L124-L129】.",
+    "functions": [
+      "search",
+      "analyze"
+    ],
+    "topics": [
+      "ai_ml",
+      "economy",
+      "productivity"
+    ],
+    "primaryTopic": "ai_ml",
+    "language": "en",
+    "compat": "L0",
+    "audience": "all",
+    "formats": [
+      "text"
+    ],
+    "tags": [
+      "shopping"
+    ],
+    "isPromoted": false,
+    "weight": 10
+  },
+  {
+    "id": "tg-merlio-ai-assistant",
+    "title": "Merlio AI Assistant",
+    "type": "bot",
+    "deeplink": "https://t.me/merlio_ai_bot",
+    "shortDescription": "AI‑ассистент с задачами и расписанием.",
+    "longDescription": "Искусственный интеллект помогает управлять задачами и расписанием, общается в свободной форме и предоставляет советы, делая планирование дня проще【205339917391087†L145-L149】.",
+    "functions": [
+      "compose",
+      "automate",
+      "analyze"
+    ],
+    "topics": [
+      "ai_ml",
+      "productivity"
+    ],
+    "primaryTopic": "ai_ml",
+    "language": "en",
+    "compat": "L0",
+    "audience": "all",
+    "formats": [
+      "text"
+    ],
+    "tags": [
+      "assistant"
+    ],
+    "isPromoted": false,
+    "weight": 10
+  },
+  {
+    "id": "tg-telegramgpt",
+    "title": "Telegram GPT Bot",
+    "type": "bot",
+    "deeplink": "https://t.me/ChatGPT_bot",
+    "shortDescription": "Англоязычный бот ChatGPT с генерацией текстов и картинок.",
+    "longDescription": "Бот на основе GPT отвечает на текстовые и голосовые запросы, поддерживает генерацию изображений и музыки и ведёт контекстные разговоры【216217317599777†L321-L334】.",
+    "functions": [
+      "compose",
+      "render",
+      "analyze"
+    ],
+    "topics": [
+      "ai_ml",
+      "education",
+      "entertainment"
+    ],
+    "primaryTopic": "ai_ml",
+    "language": "en",
+    "compat": "L0",
+    "audience": "all",
+    "formats": [
+      "text",
+      "image",
+      "audio"
+    ],
+    "tags": [
+      "chatgpt"
+    ],
+    "isPromoted": false,
+    "weight": 10
+  },
+  {
+    "id": "tg-avabot",
+    "title": "AvaBot",
+    "type": "bot",
+    "deeplink": "https://t.me/AvaBot",
+    "shortDescription": "Персональный AI‑ассистент для общения и творчества.",
+    "longDescription": "Личный помощник поддерживает человеческие беседы на разные темы, генерирует шутки, стихи и развлекательный контент с использованием ИИ【216217317599777†L336-L352】.",
+    "functions": [
+      "compose"
+    ],
+    "topics": [
+      "ai_ml",
+      "entertainment",
+      "lifestyle"
+    ],
+    "primaryTopic": "ai_ml",
+    "language": "en",
+    "compat": "L0",
+    "audience": "all",
+    "formats": [
+      "text"
+    ],
+    "tags": [
+      "personal-assistant"
+    ],
+    "isPromoted": false,
+    "weight": 10
+  },
+  {
+    "id": "tg-plasma-gpt-ai-bot",
+    "title": "Plasma GPT AI Bot",
+    "type": "bot",
+    "deeplink": "https://t.me/plasmagpt_bot",
+    "shortDescription": "Универсальный бот для чата и генерации медиа.",
+    "longDescription": "Бот объединяет чат‑ИИ и генерацию изображений/медиа; качество зависит от используемых моделей, а бесплатный режим имеет ограничения【880709675161667†L51-L55】.",
+    "functions": [
+      "compose",
+      "render"
+    ],
+    "topics": [
+      "ai_ml",
+      "technology",
+      "entertainment"
+    ],
+    "primaryTopic": "ai_ml",
+    "language": "en",
+    "compat": "L0",
+    "audience": "all",
+    "formats": [
+      "text",
+      "image",
+      "audio",
+      "video"
+    ],
+    "tags": [
+      "multifunctional"
+    ],
+    "isPromoted": false,
+    "weight": 10
+  },
+  {
+    "id": "tg-gpt4telegrambot",
+    "title": "GPT4Telegrambot",
+    "type": "bot",
+    "deeplink": "https://t.me/gpt4telegrambot",
+    "shortDescription": "Комбайн для чата и генерации изображений.",
+    "longDescription": "Универсальный бот совмещает возможности чат‑бота и генерацию изображений; в бесплатной версии имеются ограничения, но он позволяет получить доступ к последним моделям ChatGPT【880709675161667†L45-L49】.",
+    "functions": [
+      "compose",
+      "render"
+    ],
+    "topics": [
+      "ai_ml",
+      "technology",
+      "entertainment"
+    ],
+    "primaryTopic": "ai_ml",
+    "language": "en",
+    "compat": "L0",
+    "audience": "all",
+    "formats": [
+      "text",
+      "image"
+    ],
+    "tags": [
+      "chatgpt"
+    ],
+    "isPromoted": false,
+    "weight": 10
+  },
+  {
+    "id": "tg-yes-ai-bot",
+    "title": "YES AI Bot",
+    "type": "bot",
+    "deeplink": "https://t.me/yes_ai_bot",
+    "shortDescription": "Мультисервисный бот с множеством нейросетей.",
+    "longDescription": "YES AI даёт доступ к нейросетям для генерации и обработки изображений, текста, аудио и видео; объединяет Midjourney, Stable Diffusion, ChatGPT, DALL·E 3 и видео‑модули, имеет удобный интерфейс и сообщество с лайфхаками【398463998964779†L205-L228】【404202511701001†L6-L110】.",
+    "functions": [
+      "compose",
+      "render",
+      "analyze"
+    ],
+    "topics": [
+      "ai_ml",
+      "technology"
+    ],
+    "primaryTopic": "ai_ml",
+    "language": "en",
+    "compat": "L0",
+    "audience": "all",
+    "formats": [
+      "text",
+      "image",
+      "video",
+      "audio"
+    ],
+    "tags": [
+      "multi-model"
+    ],
+    "isPromoted": false,
+    "weight": 10
+  },
+  {
+    "id": "tg-chatgptru-bot",
+    "title": "ChatGPTrue Bot",
+    "type": "bot",
+    "deeplink": "https://t.me/chatgptru_bot",
+    "shortDescription": "Бот‑агрегатор с интуитивным интерфейсом.",
+    "longDescription": "Предоставляет доступ к нескольким моделям, имеет интуитивно понятный интерфейс без рекламы и предлагает разные пакеты токенов для пользователей【398463998964779†L230-L256】.",
+    "functions": [
+      "compose",
+      "render",
+      "analyze"
+    ],
+    "topics": [
+      "ai_ml",
+      "technology"
+    ],
+    "primaryTopic": "ai_ml",
+    "language": "en",
+    "compat": "L0",
+    "audience": "all",
+    "formats": [
+      "text",
+      "image",
+      "video",
+      "audio"
+    ],
+    "tags": [
+      "aggregator"
+    ],
+    "isPromoted": false,
+    "weight": 10
+  },
+  {
+    "id": "tg-bothub-bot",
+    "title": "BotHub Bot",
+    "type": "bot",
+    "deeplink": "https://t.me/bothub_bot",
+    "shortDescription": "Библиотека моделей и шаблонов.",
+    "longDescription": "Сервис собирает множество моделей для текста и видео, предлагает библиотеку шаблонов промптов; обновления выходят медленнее, чем у конкурентов【398463998964779†L259-L283】.",
+    "functions": [
+      "compose",
+      "render",
+      "analyze"
+    ],
+    "topics": [
+      "ai_ml",
+      "technology"
+    ],
+    "primaryTopic": "ai_ml",
+    "language": "en",
+    "compat": "L0",
+    "audience": "all",
+    "formats": [
+      "text",
+      "image",
+      "video",
+      "audio"
+    ],
+    "tags": [
+      "aggregator"
+    ],
+    "isPromoted": false,
+    "weight": 10
+  },
+  {
+    "id": "tg-chatgpt5-bot",
+    "title": "ChatGPT5 Bot",
+    "type": "bot",
+    "deeplink": "https://t.me/chatgpt5_bot",
+    "shortDescription": "Модели GPT‑4o mini и Midjourney в одном боте.",
+    "longDescription": "Бот‑агрегатор включает GPT‑4o mini, Midjourney 5.2/6.0 и другие модели, предлагает готовые шаблоны и подписку для расширенного доступа【398463998964779†L150-L176】.",
+    "functions": [
+      "compose",
+      "render",
+      "analyze"
+    ],
+    "topics": [
+      "ai_ml",
+      "technology"
+    ],
+    "primaryTopic": "ai_ml",
+    "language": "en",
+    "compat": "L0",
+    "audience": "all",
+    "formats": [
+      "text",
+      "image",
+      "video"
+    ],
+    "tags": [
+      "aggregator"
+    ],
+    "isPromoted": false,
+    "weight": 10
+  },
+  {
+    "id": "tg-gptchatbot-agg",
+    "title": "GPT Chat Bot",
+    "type": "bot",
+    "deeplink": "https://t.me/gptchatbot",
+    "shortDescription": "Агрегатор моделей GPT, DeepSeek, Gemini и Sora.",
+    "longDescription": "Сервис объединяет модели GPT, DeepSeek, Gemini и Sora; содержит множество функций для генерации текста, видео и изображений, но в нём встречается реклама【398463998964779†L179-L203】.",
+    "functions": [
+      "compose",
+      "render",
+      "analyze"
+    ],
+    "topics": [
+      "ai_ml",
+      "technology"
+    ],
+    "primaryTopic": "ai_ml",
+    "language": "en",
+    "compat": "L0",
+    "audience": "all",
+    "formats": [
+      "text",
+      "image",
+      "video",
+      "audio"
+    ],
+    "tags": [
+      "aggregator"
+    ],
+    "isPromoted": false,
+    "weight": 10
+  },
+  {
+    "id": "tg-syntx-ai-en",
+    "title": "Syntx AI (EN)",
+    "type": "bot",
+    "deeplink": "https://t.me/syntx_ai_en_bot",
+    "shortDescription": "Мульти‑модельный английский бот.",
+    "longDescription": "Англоязычный вариант Syntx AI даёт бесплатные токены и доступ к моделям для генерации текста, видео, изображений и аудио【398463998964779†L284-L298】.",
+    "functions": [
+      "compose",
+      "render",
+      "analyze"
+    ],
+    "topics": [
+      "ai_ml",
+      "technology"
+    ],
+    "primaryTopic": "ai_ml",
+    "language": "en",
+    "compat": "L0",
+    "audience": "all",
+    "formats": [
+      "text",
+      "image",
+      "video",
+      "audio"
+    ],
+    "tags": [
+      "multi-model"
+    ],
+    "isPromoted": false,
+    "weight": 10
+  },
+  {
+    "id": "tg-mazai-agg",
+    "title": "MazAi Aggregator",
+    "type": "bot",
+    "deeplink": "https://t.me/mazai_agg_bot",
+    "shortDescription": "Агрегатор нейросетей MazAi.",
+    "longDescription": "Англоязычная версия MazAi предоставляет доступ к разным нейросетям для текста, видео, изображений и аудио; включает реферальную программу и автоперевод промптов【398463998964779†L120-L148】.",
+    "functions": [
+      "compose",
+      "render",
+      "analyze"
+    ],
+    "topics": [
+      "ai_ml",
+      "technology"
+    ],
+    "primaryTopic": "ai_ml",
+    "language": "en",
+    "compat": "L0",
+    "audience": "all",
+    "formats": [
+      "text",
+      "image",
+      "video",
+      "audio"
+    ],
+    "tags": [
+      "aggregator"
+    ],
+    "isPromoted": false,
+    "weight": 10
+  },
+  {
+    "id": "tg-midjourney-anna",
+    "title": "Midjourney AnnA",
+    "type": "bot",
+    "deeplink": "https://t.me/midjourney_anna_bot",
+    "shortDescription": "Бот Midjourney для создания артов.",
+    "longDescription": "Известный генератор искусств Midjourney предоставляет стабильный и удобный Telegram‑бот для создания впечатляющих изображений; сервис платный【1844898852683†L367-L372】.",
+    "functions": [
+      "render"
+    ],
+    "topics": [
+      "ai_ml",
+      "art"
+    ],
+    "primaryTopic": "ai_ml",
+    "language": "en",
+    "compat": "L0",
+    "audience": "all",
+    "formats": [
+      "image"
+    ],
+    "tags": [
+      "midjourney"
+    ],
+    "isPromoted": false,
+    "weight": 10
+  },
+  {
+    "id": "tg-texttoimage-bot",
+    "title": "Text to Image Bot",
+    "type": "bot",
+    "deeplink": "https://t.me/texttoimage_bot",
+    "shortDescription": "Бесплатный генератор изображений из текста.",
+    "longDescription": "Этот бесплатный бот предоставляет генерацию изображений на базе Stable Diffusion XL 1.0, V2 и V1‑5; создаёт реалистичные картинки за секунды, но может работать нестабильно【1844898852683†L373-L379】.",
+    "functions": [
+      "render"
+    ],
+    "topics": [
+      "ai_ml",
+      "art"
+    ],
+    "primaryTopic": "ai_ml",
+    "language": "en",
+    "compat": "L0",
+    "audience": "all",
+    "formats": [
+      "image"
+    ],
+    "tags": [
+      "image-generation"
+    ],
+    "isPromoted": false,
+    "weight": 10
+  },
+  {
+    "id": "tg-artfabricai",
+    "title": "ArtfabricAI Bot",
+    "type": "bot",
+    "deeplink": "https://t.me/OpenFabricAI",
+    "shortDescription": "Простой AI‑бот для создания артов.",
+    "longDescription": "Бот от Openfabric позволяет с помощью команды /image и описания бесплатно создавать уникальные картины, но количество генераций ограничено по времени; подходит для быстрой визуализации идей【1844898852683†L383-L392】.",
+    "functions": [
+      "render"
+    ],
+    "topics": [
+      "ai_ml",
+      "art"
+    ],
+    "primaryTopic": "ai_ml",
+    "language": "en",
+    "compat": "L0",
+    "audience": "all",
+    "formats": [
+      "image"
+    ],
+    "tags": [
+      "art-creation"
+    ],
+    "isPromoted": false,
+    "weight": 10
+  },
+  {
+    "id": "tg-marc-bot",
+    "title": "MARC Bot",
+    "type": "bot",
+    "deeplink": "https://t.me/marcbot",
+    "shortDescription": "Официальный бот OpenAI с голосовыми заметками.",
+    "longDescription": "Официальный бот OpenAI поддерживает модели GPT‑3 и GPT‑4; позволяет записывать голосовые заметки, автоматически разделяет длинные ответы, делает подсветку синтаксиса и помогает транскрибировать устные идеи【1844898852683†L404-L409】.",
+    "functions": [
+      "compose",
+      "analyze"
+    ],
+    "topics": [
+      "ai_ml",
+      "technology",
+      "productivity"
+    ],
+    "primaryTopic": "ai_ml",
+    "language": "en",
+    "compat": "L0",
+    "audience": "all",
+    "formats": [
+      "text",
+      "audio"
+    ],
+    "tags": [
+      "openai"
+    ],
+    "isPromoted": false,
+    "weight": 10
+  },
+  {
+    "id": "tg-savedaybot",
+    "title": "SaveDay AI Bot",
+    "type": "bot",
+    "deeplink": "https://t.me/SaveDayBot",
+    "shortDescription": "Бот для сохранения и конспектов контента.",
+    "longDescription": "Бот ищет и конспектирует контент: статьи, подкасты, видео YouTube, PDF и веб‑страницы; обеспечивает удобное хранение и делится материалами, улучшая продуктивность【1844898852683†L421-L428】.",
+    "functions": [
+      "analyze",
+      "extract",
+      "compose",
+      "search"
+    ],
+    "topics": [
+      "ai_ml",
+      "productivity"
+    ],
+    "primaryTopic": "ai_ml",
+    "language": "en",
+    "compat": "L0",
+    "audience": "all",
+    "formats": [
+      "text",
+      "pdf",
+      "audio",
+      "video"
+    ],
+    "tags": [
+      "content-management"
+    ],
+    "isPromoted": false,
+    "weight": 10
+  },
+  {
+    "id": "tg-ai-text-to-speech",
+    "title": "AI Text to Speech Bot",
+    "type": "bot",
+    "deeplink": "https://t.me/ai_text2speechbot",
+    "shortDescription": "Преобразует текст в естественную речь.",
+    "longDescription": "Этот бот превращает написанный текст в голосовое аудио, создавая естественное и точное произношение для прослушивания и озвучивания【1844898852683†L430-L437】.",
+    "functions": [
+      "render"
+    ],
+    "topics": [
+      "ai_ml",
+      "music",
+      "productivity"
+    ],
+    "primaryTopic": "ai_ml",
+    "language": "en",
+    "compat": "L0",
+    "audience": "all",
+    "formats": [
+      "audio"
+    ],
+    "tags": [
+      "text-to-speech"
+    ],
+    "isPromoted": false,
+    "weight": 10
+  },
+  {
+    "id": "tg-ai-english-practice",
+    "title": "AI English Practice Bot",
+    "type": "bot",
+    "deeplink": "https://t.me/engpr_bot",
+    "shortDescription": "Персонализированное изучение английского языка.",
+    "longDescription": "Бот имитирует человеческое общение и с помощью NLP создаёт упражнения, объяснения и персональные программы, помогая улучшать владение английским языком и расширять словарь【1844898852683†L448-L457】.",
+    "functions": [
+      "compose",
+      "analyze"
+    ],
+    "topics": [
+      "ai_ml",
+      "education"
+    ],
+    "primaryTopic": "ai_ml",
+    "language": "en",
+    "compat": "L0",
+    "audience": "all",
+    "formats": [
+      "text"
+    ],
+    "tags": [
+      "language-learning"
+    ],
+    "isPromoted": false,
+    "weight": 10
+  },
+  {
+    "id": "tg-eddy-travels",
+    "title": "Eddy Travels Bot",
+    "type": "bot",
+    "deeplink": "https://t.me/eddytravels_bot",
+    "shortDescription": "AI‑помощник для путешествий.",
+    "longDescription": "AI‑бот помогает искать перелёты, гостиницы, рестораны и экскурсии, предоставляя лучшие предложения и поддерживая голосовой поиск; полезен путешественникам【1844898852683†L461-L468】.",
+    "functions": [
+      "search",
+      "analyze"
+    ],
+    "topics": [
+      "ai_ml",
+      "lifestyle"
+    ],
+    "primaryTopic": "ai_ml",
+    "language": "en",
+    "compat": "L0",
+    "audience": "all",
+    "formats": [
+      "text"
+    ],
+    "tags": [
+      "travel"
+    ],
+    "isPromoted": false,
+    "weight": 10
+  },
+  {
+    "id": "tg-morty-ai",
+    "title": "Morty AI Bot",
+    "type": "bot",
+    "deeplink": "https://t.me/morty_ai_bot",
+    "shortDescription": "Многофункциональный бот: скрапинг, музыка, видео и чат.",
+    "longDescription": "Многофункциональный бот позволяет парсить сайты, воспроизводить музыку, скачивать видео и аудио с YouTube, выполнять функции AI‑чат‑бота и создавать изображения; известен своей высокой скоростью и точными ответами【1844898852683†L471-L477】.",
+    "functions": [
+      "compose",
+      "search",
+      "render",
+      "analyze",
+      "extract"
+    ],
+    "topics": [
+      "ai_ml",
+      "technology",
+      "entertainment"
+    ],
+    "primaryTopic": "ai_ml",
+    "language": "en",
+    "compat": "L0",
+    "audience": "all",
+    "formats": [
+      "text",
+      "image",
+      "audio",
+      "video"
+    ],
+    "tags": [
+      "multifunctional"
+    ],
+    "isPromoted": false,
+    "weight": 10
+  }
+]

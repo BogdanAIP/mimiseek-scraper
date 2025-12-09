@@ -1,0 +1,1607 @@
+[
+  {
+    "id": "tg-neurs_ai_bot",
+    "title": "Neurs.AI",
+    "type": "miniapp",
+    "deeplink": "https://t.me/neurs_ai_bot",
+    "shortDescription": "Мультифункциональное мини‑приложение для доступа к GPT‑4o, Claude‑3, Gemini, Midjourney, Dall‑E 3 и другим ИИ‑моделям.",
+    "longDescription": "Neurs.AI позиционируется как мини‑приложение №1 по доступу к нескольким современным ИИ‑моделям. Пользователи получают удобный интерфейс для работы с GPT‑4o, Claude‑3, Gemini, Midjourney и Dall‑E 3, сочетая генерацию текста и изображений в одном месте. По данным findmini.app у сервиса около 26 тыс. ежемесячных пользователей, поддерживаются русская и английская локали【323099906256006†L24-L76】.",
+    "functions": [
+      "compose",
+      "render",
+      "analyze"
+    ],
+    "topics": [
+      "ai_ml",
+      "technology",
+      "productivity"
+    ],
+    "primaryTopic": "ai_ml",
+    "language": "ru",
+    "compat": "L0",
+    "audience": "all",
+    "formats": [
+      "text",
+      "image"
+    ],
+    "tags": [
+      "found_via:findmini",
+      "ru-miniapp",
+      "multi-model"
+    ],
+    "isPromoted": false,
+    "weight": 10
+  },
+  {
+    "id": "tg-videotoanimebot",
+    "title": "Painter | Writer",
+    "type": "miniapp",
+    "deeplink": "https://t.me/videotoanimebot",
+    "shortDescription": "Бот‑творец: стилизует фотографии и сочиняет стихи, истории и мемы по изображениям.",
+    "longDescription": "Мини‑приложение «Painter | Writer» позволяет оживлять изображения: достаточно отправить картинку — и бот предложит стилизовать её или сочинить на основе изображения стих, историю или мем. Создатели подчеркивают простоту использования: отправьте изображение и выберите нужную кнопку【326487014673220†L46-L49】.",
+    "functions": [
+      "render",
+      "compose"
+    ],
+    "topics": [
+      "ai_ml",
+      "art",
+      "entertainment"
+    ],
+    "primaryTopic": "ai_ml",
+    "language": "ru",
+    "compat": "L0",
+    "audience": "all",
+    "formats": [
+      "image",
+      "text"
+    ],
+    "tags": [
+      "found_via:findmini",
+      "ru-miniapp",
+      "creative"
+    ],
+    "isPromoted": false,
+    "weight": 10
+  },
+  {
+    "id": "tg-agnchatgpt_bot",
+    "title": "Agineer Ai",
+    "type": "miniapp",
+    "deeplink": "https://t.me/agnchatgpt_bot",
+    "shortDescription": "Многофункциональный ИИ‑ассистент для генерации текстов, стихов и кода.",
+    "longDescription": "Agineer Ai позиционирует себя как инструмент, упрощающий жизнь: пользователи могут запросить стихи на тему инопланетян, сгенерировать код на Python или решить другую задачу. Это одно из самых популярных мини‑приложений findmini.app: оно обслуживает свыше 100 тыс. пользователей в месяц и поддерживает английский интерфейс【26227812167660†L28-L66】.",
+    "functions": [
+      "compose",
+      "analyze"
+    ],
+    "topics": [
+      "ai_ml",
+      "technology",
+      "productivity"
+    ],
+    "primaryTopic": "ai_ml",
+    "language": "en",
+    "compat": "L0",
+    "audience": "all",
+    "formats": [
+      "text",
+      "text"
+    ],
+    "tags": [
+      "found_via:findmini",
+      "en-miniapp",
+      "assistant"
+    ],
+    "isPromoted": false,
+    "weight": 10
+  },
+  {
+    "id": "tg-jarvisbot_ai_bot",
+    "title": "JarvisBot",
+    "type": "miniapp",
+    "deeplink": "https://t.me/jarvisbot_ai_bot",
+    "shortDescription": "Игровая платформа, где пользователи улучшают модель и GPU, чтобы построить мирового бота.",
+    "longDescription": "JarvisBot превращает обучение моделей в игру: пользователи модернизируют виртуальный GPU и модель, чтобы улучшить обучение, и получают вознаграждение за вклад. Описание сервиса призывает «прокачивать GPU и модель» и собирать награды, чтобы совместно создать глобального бота【979871333329150†L46-L61】. Мини‑приложение насчитывает более 58 тыс. активных пользователей и доступно на английском языке.",
+    "functions": [
+      "analyze",
+      "automate"
+    ],
+    "topics": [
+      "ai_ml",
+      "games",
+      "technology"
+    ],
+    "primaryTopic": "ai_ml",
+    "language": "en",
+    "compat": "L0",
+    "audience": "all",
+    "formats": [
+      "text"
+    ],
+    "tags": [
+      "found_via:findmini",
+      "en-miniapp",
+      "game"
+    ],
+    "isPromoted": false,
+    "weight": 10
+  },
+  {
+    "id": "tg-aivoice_tgbot",
+    "title": "AI Voice — Voice to Text | Text to Voice",
+    "type": "miniapp",
+    "deeplink": "https://t.me/aivoice_tgbot",
+    "shortDescription": "Конвертация аудио в текст и текста в голос за секунды.",
+    "longDescription": "AI Voice — это бесплатный и простой бот, превращающий голосовые сообщения в текст и обратно. Сервис позволяет в считанные секунды расшифровать аудио или озвучить текст, поддерживая русский и английский языки, и насчитывает более 20 тыс. ежемесячных пользователей【399201472532058†L45-L49】【399201472532058†L27-L60】.",
+    "functions": [
+      "extract",
+      "render",
+      "analyze"
+    ],
+    "topics": [
+      "ai_ml",
+      "productivity",
+      "technology"
+    ],
+    "primaryTopic": "ai_ml",
+    "language": "ru",
+    "compat": "L0",
+    "audience": "all",
+    "formats": [
+      "audio",
+      "text"
+    ],
+    "tags": [
+      "found_via:findmini",
+      "ru-miniapp",
+      "transcription"
+    ],
+    "isPromoted": false,
+    "weight": 10
+  },
+  {
+    "id": "tg-starai_ton",
+    "title": "StarAI",
+    "type": "miniapp",
+    "deeplink": "https://t.me/starai_ton",
+    "shortDescription": "Чат‑и‑заработай: говорите с ИИ‑аватарами и зарабатывайте токены.",
+    "longDescription": "StarAI — это talk‑to‑earn мини‑игра, в которой пользователи общаются с ИИ‑аватарами, зарабатывая монеты и карточки. Ежедневный чек‑ин увеличивает награду, а проект привлекает более 900 тыс. пользователей в месяц【752128293123226†L26-L52】【752128293123226†L60-L63】. Интерфейс доступен на английском языке.",
+    "functions": [
+      "compose",
+      "integrate"
+    ],
+    "topics": [
+      "ai_ml",
+      "games",
+      "crypto_web3"
+    ],
+    "primaryTopic": "ai_ml",
+    "language": "en",
+    "compat": "L0",
+    "audience": "all",
+    "formats": [
+      "text"
+    ],
+    "tags": [
+      "found_via:findmini",
+      "en-miniapp",
+      "tap-to-earn"
+    ],
+    "isPromoted": false,
+    "weight": 10
+  },
+  {
+    "id": "tg-luciddreams_bot",
+    "title": "Lucid Dreams (18+)",
+    "type": "miniapp",
+    "deeplink": "https://t.me/luciddreams_bot",
+    "shortDescription": "Игра‑чат с ИИ‑генерируемыми образами виртуальных девушек. Только 18+.",
+    "longDescription": "Lucid Dreams — это игра‑чат для взрослых, в которой пользователи общаются с ИИ‑генерированными виртуальными девушками и просматривают создаваемые ботом фотографии. На странице приложения подчёркивается, что персонажи вымышленные, а всё показанное — придумано【285774137443155†L24-L47】. В проекте более 1,5 млн активных пользователей, поддерживаются русский и английский языки【285774137443155†L55-L58】.",
+    "functions": [
+      "compose",
+      "render"
+    ],
+    "topics": [
+      "ai_ml",
+      "entertainment",
+      "games"
+    ],
+    "primaryTopic": "ai_ml",
+    "language": "ru",
+    "compat": "L0",
+    "audience": "18+",
+    "formats": [
+      "text",
+      "image"
+    ],
+    "tags": [
+      "found_via:findmini",
+      "ru-miniapp",
+      "adult"
+    ],
+    "isPromoted": false,
+    "weight": 10
+  },
+  {
+    "id": "tg-campus_ai_bot",
+    "title": "Кампус Хаб",
+    "type": "miniapp",
+    "deeplink": "https://t.me/campus_ai_bot",
+    "shortDescription": "Студенческая платформа: материалы, ИИ‑копилот и помощь от тьюторов.",
+    "longDescription": "«Кампус Хаб» — российское образовательное мини‑приложение для студентов. Оно даёт доступ к более чем 2 млн учебных материалов, включает первого студенческого AI‑копилота и предоставляет помощь тьюторов по 150 предметам. По данным findmini.app, у сервиса около 66 тыс. ежемесячных пользователей【420542914830757†L48-L58】【420542914830757†L70-L73】.",
+    "functions": [
+      "analyze",
+      "compose",
+      "search"
+    ],
+    "topics": [
+      "ai_ml",
+      "education",
+      "productivity"
+    ],
+    "primaryTopic": "ai_ml",
+    "language": "ru",
+    "compat": "L0",
+    "audience": "all",
+    "formats": [
+      "text",
+      "video"
+    ],
+    "tags": [
+      "found_via:findmini",
+      "ru-miniapp",
+      "education"
+    ],
+    "isPromoted": false,
+    "weight": 10
+  },
+  {
+    "id": "tg-copilot_ton_bot",
+    "title": "Microsoft Copilot",
+    "type": "miniapp",
+    "deeplink": "https://t.me/copilot_ton_bot",
+    "shortDescription": "Помощник от Microsoft: повышает продуктивность, творит и помогает понять информацию.",
+    "longDescription": "Microsoft Copilot использует возможности искусственного интеллекта, чтобы повышать продуктивность, раскрывать творческий потенциал и помогать пользователям разбираться в информации. На странице мини‑приложения отмечается, что сервис популярный (более 63 тыс. пользователей) и доступен на английском языке【635893131237865†L27-L50】【635893131237865†L57-L60】.",
+    "functions": [
+      "analyze",
+      "compose",
+      "search"
+    ],
+    "topics": [
+      "ai_ml",
+      "productivity",
+      "technology"
+    ],
+    "primaryTopic": "ai_ml",
+    "language": "en",
+    "compat": "L0",
+    "audience": "all",
+    "formats": [
+      "text"
+    ],
+    "tags": [
+      "found_via:findmini",
+      "en-miniapp",
+      "assistant"
+    ],
+    "isPromoted": false,
+    "weight": 10
+  },
+  {
+    "id": "tg-jugemu_ai",
+    "title": "Jugemu.ai – Ask to Earn",
+    "type": "miniapp",
+    "deeplink": "https://t.me/jugemu_ai",
+    "shortDescription": "Доступ к 18 моделям ИИ через блокчейн TON с заданиями на получение токенов.",
+    "longDescription": "Jugemu.ai предоставляет доступ к 18 моделям искусственного интеллекта, интегрированным через блокчейн TON. Пользователи могут сравнивать разные модели, выполнять задания и зарабатывать баллы (tap‑to‑earn). На странице отмечены бесплатный доступ и наличие более 22 тыс. активных пользователей【72734628976709†L28-L66】【72734628976709†L70-L77】.",
+    "functions": [
+      "integrate",
+      "compose",
+      "render",
+      "analyze"
+    ],
+    "topics": [
+      "ai_ml",
+      "crypto_web3",
+      "technology"
+    ],
+    "primaryTopic": "ai_ml",
+    "language": "en",
+    "compat": "L0",
+    "audience": "all",
+    "formats": [
+      "text",
+      "image"
+    ],
+    "tags": [
+      "found_via:findmini",
+      "en-miniapp",
+      "blockchain"
+    ],
+    "isPromoted": false,
+    "weight": 10
+  },
+  {
+    "id": "tg-gptdevbot",
+    "title": "GPTDevBot (GptTg ai assistant audio)",
+    "type": "miniapp",
+    "deeplink": "https://t.me/gptdevbot",
+    "shortDescription": "Голосовой ассистент и чат‑бот на базе GPT с интеграцией DALL·E 3.",
+    "longDescription": "GPTDevBot — это продвинутый голосовой ассистент и чат‑бот, построенный на актуальной GPT‑модели. Бот позволяет общаться, получать информацию и даже создавать изображения с помощью DALL·E 3. Количество активных пользователей превышает 21 тыс. человек【167617870718838†L46-L53】【167617870718838†L61-L64】.",
+    "functions": [
+      "compose",
+      "search",
+      "render"
+    ],
+    "topics": [
+      "ai_ml",
+      "productivity",
+      "technology"
+    ],
+    "primaryTopic": "ai_ml",
+    "language": "en",
+    "compat": "L0",
+    "audience": "all",
+    "formats": [
+      "audio",
+      "image",
+      "text"
+    ],
+    "tags": [
+      "found_via:findmini",
+      "en-miniapp",
+      "assistant"
+    ],
+    "isPromoted": false,
+    "weight": 10
+  },
+  {
+    "id": "tg-fakeface_ai_bot",
+    "title": "fakeface — AI Bot",
+    "type": "miniapp",
+    "deeplink": "https://t.me/fakeface_ai_bot",
+    "shortDescription": "Мультифункциональный бот: ChatGPT, Deepfake, Suno и Ideogram в одном приложении.",
+    "longDescription": "fakeface — бесплатный мини‑бот, объединяющий возможности ChatGPT, Deepfake, Suno AI и Ideogram. Пользователь может генерировать текст, создавать дипфейки, генерировать музыку и изображения, пользуясь всеми инструментами в одном сервисе【246449573583700†L28-L49】【246449573583700†L56-L59】. Поддерживаются русская и английская локали, активность превышает 14 тыс. пользователей.",
+    "functions": [
+      "render",
+      "compose",
+      "analyze"
+    ],
+    "topics": [
+      "ai_ml",
+      "entertainment",
+      "technology"
+    ],
+    "primaryTopic": "ai_ml",
+    "language": "ru",
+    "compat": "L0",
+    "audience": "all",
+    "formats": [
+      "text",
+      "image",
+      "audio"
+    ],
+    "tags": [
+      "found_via:findmini",
+      "ru-miniapp",
+      "multitool"
+    ],
+    "isPromoted": false,
+    "weight": 10
+  },
+  {
+    "id": "tg-deepclonevoicebot",
+    "title": "Deep Clone Voice",
+    "type": "miniapp",
+    "deeplink": "https://t.me/deepclonevoicebot",
+    "shortDescription": "Клонирование голоса: запишите голос, и бот создаст его копию для озвучки других текстов.",
+    "longDescription": "Deep Clone Voice — мини‑приложение для создания клонов голоса. Пользователь записывает образец, после чего может озвучивать другой голос или текст этим клоном. На findmini.app указано, что бот собирает более 14 тыс. ежемесячных пользователей【688336632452066†L28-L52】【688336632452066†L61-L64】.",
+    "functions": [
+      "extract",
+      "render"
+    ],
+    "topics": [
+      "ai_ml",
+      "entertainment",
+      "technology"
+    ],
+    "primaryTopic": "ai_ml",
+    "language": "en",
+    "compat": "L0",
+    "audience": "all",
+    "formats": [
+      "audio",
+      "text"
+    ],
+    "tags": [
+      "found_via:findmini",
+      "en-miniapp",
+      "voice"
+    ],
+    "isPromoted": false,
+    "weight": 10
+  },
+  {
+    "id": "tg-aisongbot",
+    "title": "AI music | Song generator",
+    "type": "miniapp",
+    "deeplink": "https://t.me/aisongbot",
+    "shortDescription": "Создание музыки и песен: превращайте текст в песни и инструментальные композиции.",
+    "longDescription": "Мини‑приложение AI music позволяет генерировать музыку и песни. Пользователь может написать текст, который бот превратит в песню, создать инструментальную композицию или поделиться полученным треком с друзьями【312897856557216†L29-L53】【312897856557216†L60-L63】. По данным сервиса, у приложения свыше 14 тыс. активных пользователей.",
+    "functions": [
+      "render"
+    ],
+    "topics": [
+      "ai_ml",
+      "music",
+      "entertainment"
+    ],
+    "primaryTopic": "ai_ml",
+    "language": "en",
+    "compat": "L0",
+    "audience": "all",
+    "formats": [
+      "audio",
+      "text"
+    ],
+    "tags": [
+      "found_via:findmini",
+      "en-miniapp",
+      "music"
+    ],
+    "isPromoted": false,
+    "weight": 10
+  },
+  {
+    "id": "tg-laborx_ai_bot",
+    "title": "LaborX AI Jobs",
+    "type": "miniapp",
+    "deeplink": "https://t.me/laborx_ai_bot",
+    "shortDescription": "Поиск Web3‑вакансий: бот анализирует резюме и подбирает подходящие предложения.",
+    "longDescription": "LaborX AI Jobs использует искусственный интеллект для анализа загруженного резюме и подбирает персонализированные возможности трудоустройства в сфере Web3. Сервис позволяет соискателям быстрее находить релевантные вакансии, анализируя их навыки и предпочтения【517801106086814†L29-L50】【517801106086814†L59-L63】.",
+    "functions": [
+      "analyze",
+      "search"
+    ],
+    "topics": [
+      "ai_ml",
+      "business",
+      "economy"
+    ],
+    "primaryTopic": "ai_ml",
+    "language": "en",
+    "compat": "L0",
+    "audience": "all",
+    "formats": [
+      "text"
+    ],
+    "tags": [
+      "found_via:findmini",
+      "en-miniapp",
+      "jobs"
+    ],
+    "isPromoted": false,
+    "weight": 10
+  },
+  {
+    "id": "tg-alaya_ai_bot",
+    "title": "AlayaAI",
+    "type": "miniapp",
+    "deeplink": "https://t.me/alaya_ai_bot",
+    "shortDescription": "Сервис для заработка токенов за выполнение задач по аннотированию данных.",
+    "longDescription": "AlayaAI — продукт, который позволяет пользователям получать вознаграждение за выполнение заданий по аннотированию данных для обучения ИИ. Описание указывает, что за выполнение заданий начисляются токены, а приложение ориентировано на аудиторию, интересующуюся задачами машинного обучения【341678430264866†L27-L32】【341678430264866†L56-L58】.",
+    "functions": [
+      "analyze",
+      "integrate"
+    ],
+    "topics": [
+      "ai_ml",
+      "productivity",
+      "crypto_web3"
+    ],
+    "primaryTopic": "ai_ml",
+    "language": "en",
+    "compat": "L0",
+    "audience": "all",
+    "formats": [
+      "text"
+    ],
+    "tags": [
+      "found_via:findmini",
+      "en-miniapp",
+      "earn"
+    ],
+    "isPromoted": false,
+    "weight": 10
+  },
+  {
+    "id": "tg-wanderlust_ai_bot",
+    "title": "WANDERLUST",
+    "type": "miniapp",
+    "deeplink": "https://t.me/wanderlust_ai_bot",
+    "shortDescription": "Путешествуйте по‑новому: бот подскажет интересные места рядом с вами.",
+    "longDescription": "WANDERLUST — ИИ‑компаньон для путешествий. Пользователи отправляют своё местоположение и получают список популярных мест поблизости. Сервис позиционируется как помощник для поиска вдохновляющих направлений【61437048086686†L45-L52】【61437048086686†L61-L63】.",
+    "functions": [
+      "search",
+      "analyze"
+    ],
+    "topics": [
+      "ai_ml",
+      "lifestyle",
+      "lifestyle"
+    ],
+    "primaryTopic": "ai_ml",
+    "language": "en",
+    "compat": "L0",
+    "audience": "all",
+    "formats": [
+      "text"
+    ],
+    "tags": [
+      "found_via:findmini",
+      "en-miniapp",
+      "travel"
+    ],
+    "isPromoted": false,
+    "weight": 10
+  },
+  {
+    "id": "tg-mypaal_bot",
+    "title": "MyPaal",
+    "type": "miniapp",
+    "deeplink": "https://t.me/mypaal_bot",
+    "shortDescription": "Персональный ассистент и аналитик крипто‑рынка для групп и отдельных пользователей.",
+    "longDescription": "MyPaal — это продвинутый ИИ‑ассистент для групповых чатов и индивидуальных пользователей, совмещающий персонализированную помощь с анализом криптовалют. Приложение умеет предоставлять актуальные данные и инсайты, достаточно добавить бота администратором группы【998835521622904†L28-L49】【998835521622904†L58-L60】.",
+    "functions": [
+      "analyze",
+      "compose"
+    ],
+    "topics": [
+      "ai_ml",
+      "business",
+      "crypto_web3"
+    ],
+    "primaryTopic": "ai_ml",
+    "language": "en",
+    "compat": "L0",
+    "audience": "all",
+    "formats": [
+      "text"
+    ],
+    "tags": [
+      "found_via:findmini",
+      "en-miniapp",
+      "assistant"
+    ],
+    "isPromoted": false,
+    "weight": 10
+  },
+  {
+    "id": "tg-icryptoai_bot",
+    "title": "iCryptoAI Bot",
+    "type": "miniapp",
+    "deeplink": "https://t.me/icryptoai_bot",
+    "shortDescription": "ИИ‑бот — крипто‑гуру, помогающий выявлять потенциал роста токенов.",
+    "longDescription": "iCryptoAI — криптовалютный бот, который позиционируется как крипто‑гуру: он помогает выявлять потенциал роста токенов и предоставляет пользователям аналитические сведения о рынке криптовалют【165024495234150†L26-L50】【165024495234150†L58-L60】.",
+    "functions": [
+      "analyze",
+      "search"
+    ],
+    "topics": [
+      "ai_ml",
+      "business",
+      "crypto_web3"
+    ],
+    "primaryTopic": "ai_ml",
+    "language": "en",
+    "compat": "L0",
+    "audience": "all",
+    "formats": [
+      "text"
+    ],
+    "tags": [
+      "found_via:findmini",
+      "en-miniapp",
+      "crypto"
+    ],
+    "isPromoted": false,
+    "weight": 10
+  },
+  {
+    "id": "tg-tideflowstudio_bot",
+    "title": "TideFlow Studio",
+    "type": "miniapp",
+    "deeplink": "https://t.me/tideflowstudio_bot",
+    "shortDescription": "PVP‑игра для трейдинга: соревнуйтесь и зарабатывайте награды.",
+    "longDescription": "TideFlow Studio называется #1 игровым приложением для торговли на Telegram. Пользователи соревнуются в PvP‑формате, торгуя активами и получая награды. Приложение доступно на английском и русском языках【729882100495553†L29-L49】【729882100495553†L57-L60】.",
+    "functions": [
+      "analyze",
+      "render",
+      "automate"
+    ],
+    "topics": [
+      "ai_ml",
+      "games",
+      "crypto_web3"
+    ],
+    "primaryTopic": "ai_ml",
+    "language": "ru",
+    "compat": "L0",
+    "audience": "all",
+    "formats": [
+      "text"
+    ],
+    "tags": [
+      "found_via:findmini",
+      "ru-miniapp",
+      "trading"
+    ],
+    "isPromoted": false,
+    "weight": 10
+  },
+  {
+    "id": "tg-orbofi_bot",
+    "title": "Orbofi",
+    "type": "miniapp",
+    "deeplink": "https://t.me/orbofi_bot",
+    "shortDescription": "Платформа для создания ИИ‑компаньонов и клонов, отвечающих на вопросы и генерирующих контент.",
+    "longDescription": "Orbofi — это площадка, где пользователи могут создавать и взаимодействовать с ИИ‑компаньонами и клонами. Клоны отвечают на вопросы, генерируют изображения, пишут код и выполняют другие запросы, а также позволяют клонировать голоса. Приложение ориентировано на англоязычную аудиторию【442502144652800†L29-L52】【442502144652800†L61-L62】.",
+    "functions": [
+      "compose",
+      "render",
+      "analyze"
+    ],
+    "topics": [
+      "ai_ml",
+      "entertainment",
+      "technology"
+    ],
+    "primaryTopic": "ai_ml",
+    "language": "en",
+    "compat": "L0",
+    "audience": "all",
+    "formats": [
+      "text",
+      "image",
+      "audio"
+    ],
+    "tags": [
+      "found_via:findmini",
+      "en-miniapp",
+      "companion"
+    ],
+    "isPromoted": false,
+    "weight": 10
+  },
+  {
+    "id": "tg-biolink_protector_bot",
+    "title": "BioLink Protector",
+    "type": "miniapp",
+    "deeplink": "https://t.me/biolink_protector_bot",
+    "shortDescription": "Антиспам‑бот для групп: блокирует пользователей с ссылками в профиле.",
+    "longDescription": "BioLink Protector — это AI‑бот для управления телеграм‑группами. Он автоматически блокирует пользователей, у которых в профиле есть ссылки, предотвращая спам и мошенничество. Бот ориентирован на англоязычных администраторов сообществ【330295433069436†L28-L51】【330295433069436†L61-L62】.",
+    "functions": [
+      "automate",
+      "integrate",
+      "analyze"
+    ],
+    "topics": [
+      "ai_ml",
+      "productivity",
+      "technology"
+    ],
+    "primaryTopic": "ai_ml",
+    "language": "en",
+    "compat": "L0",
+    "audience": "all",
+    "formats": [
+      "text"
+    ],
+    "tags": [
+      "found_via:findmini",
+      "en-miniapp",
+      "security"
+    ],
+    "isPromoted": false,
+    "weight": 10
+  },
+  {
+    "id": "tg-typox_ai_bot",
+    "title": "TypoCurator (TypoX AI Bot)",
+    "type": "miniapp",
+    "deeplink": "https://t.me/typox_ai_bot",
+    "shortDescription": "Web3‑бот для вопросов и ответов, использующий ИИ и команду /typo.",
+    "longDescription": "TypoCurator — это AI‑бот для Web3‑сообщества, который отвечает на вопросы пользователей с помощью команды /typo. В описании упоминаются будущие функции: рыночные апдейты, раздачи токенов и другие on‑chain‑события【20957114579322†L48-L74】【20957114579322†L86-L88】.",
+    "functions": [
+      "search",
+      "analyze"
+    ],
+    "topics": [
+      "ai_ml",
+      "technology",
+      "crypto_web3"
+    ],
+    "primaryTopic": "ai_ml",
+    "language": "en",
+    "compat": "L0",
+    "audience": "all",
+    "formats": [
+      "text"
+    ],
+    "tags": [
+      "found_via:findmini",
+      "en-miniapp",
+      "web3"
+    ],
+    "isPromoted": false,
+    "weight": 10
+  },
+  {
+    "id": "tg-glow_ton_bot",
+    "title": "Glow",
+    "type": "miniapp",
+    "deeplink": "https://t.me/glow_ton_bot",
+    "shortDescription": "Секретные сообщения и игра Glow Jump для заработка токенов.",
+    "longDescription": "Glow позиционируется как приватный мини‑клиент Telegram: он скрывает сообщения от посторонних и позволяет участвовать в игре Glow Jump, зарабатывая токены. В описании подчеркиваются механики конфиденциальности и игровой элемент, ориентированный на русских и английских пользователей【576904621605922†L29-L67】【576904621605922†L76-L79】.",
+    "functions": [
+      "automate",
+      "compose"
+    ],
+    "topics": [
+      "ai_ml",
+      "games",
+      "crypto_web3"
+    ],
+    "primaryTopic": "ai_ml",
+    "language": "ru",
+    "compat": "L0",
+    "audience": "all",
+    "formats": [
+      "text",
+      "image"
+    ],
+    "tags": [
+      "found_via:findmini",
+      "ru-miniapp",
+      "privacy"
+    ],
+    "isPromoted": false,
+    "weight": 10
+  },
+  {
+    "id": "tg-mindflake_bot",
+    "title": "MindFlake AI",
+    "type": "miniapp",
+    "deeplink": "https://t.me/mindflake_bot",
+    "shortDescription": "Клик‑игра: улучшайте своих AI‑персонажей и получайте доход от технологий.",
+    "longDescription": "MindFlake AI — это игра, где пользователи кликают по персонажам, чтобы улучшать свои собственные ИИ и получать прибыль от современных технологий. Проект ориентирован на игровую аудиторию и доступен на английском языке【815282618045596†L28-L50】【815282618045596†L59-L62】.",
+    "functions": [
+      "analyze"
+    ],
+    "topics": [
+      "ai_ml",
+      "games",
+      "crypto_web3"
+    ],
+    "primaryTopic": "ai_ml",
+    "language": "en",
+    "compat": "L0",
+    "audience": "all",
+    "formats": [
+      "text"
+    ],
+    "tags": [
+      "found_via:findmini",
+      "en-miniapp",
+      "game"
+    ],
+    "isPromoted": false,
+    "weight": 10
+  },
+  {
+    "id": "tg-stabilityworldbot",
+    "title": "Stability World AI Bot",
+    "type": "miniapp",
+    "deeplink": "https://t.me/stabilityworldbot",
+    "shortDescription": "AI‑студия для генерации изображений, видео, смены стиля и подмены лиц.",
+    "longDescription": "Stability World AI Bot предлагает комплексный набор инструментов для создания контента: преобразование текста в изображение и видео, перенос стиля, подмену лица и другие функции. Пользователям ежедневно выдаются бесплатные кредиты, а активное использование может приносить вознаграждение до 25 тыс. долларов【430477469744953†L28-L65】【430477469744953†L74-L76】.",
+    "functions": [
+      "render",
+      "compose",
+      "visualize"
+    ],
+    "topics": [
+      "ai_ml",
+      "art",
+      "video"
+    ],
+    "primaryTopic": "ai_ml",
+    "language": "en",
+    "compat": "L0",
+    "audience": "all",
+    "formats": [
+      "image",
+      "video",
+      "text"
+    ],
+    "tags": [
+      "found_via:findmini",
+      "en-miniapp",
+      "creative"
+    ],
+    "isPromoted": false,
+    "weight": 10
+  },
+  {
+    "id": "tg-oldgptbot",
+    "title": "oldGPT",
+    "type": "miniapp",
+    "deeplink": "https://t.me/oldgptbot",
+    "shortDescription": "Альтернатива ChatGPT‑4: бесплатный доступ к мощному ИИ.",
+    "longDescription": "oldGPT позиционируется как бесплатная альтернатива ChatGPT‑4. Мини‑приложение позволяет пользователям пользоваться возможностями крупной языковой модели без платы и поддерживает русский и английский интерфейсы【287632944565562†L27-L30】【287632944565562†L54-L57】.",
+    "functions": [
+      "compose",
+      "analyze"
+    ],
+    "topics": [
+      "ai_ml",
+      "technology",
+      "productivity"
+    ],
+    "primaryTopic": "ai_ml",
+    "language": "ru",
+    "compat": "L0",
+    "audience": "all",
+    "formats": [
+      "text"
+    ],
+    "tags": [
+      "found_via:findmini",
+      "ru-miniapp",
+      "llm"
+    ],
+    "isPromoted": false,
+    "weight": 10
+  },
+  {
+    "id": "tg-cupiee_bot",
+    "title": "Cupiee Mini",
+    "type": "miniapp",
+    "deeplink": "https://t.me/cupiee_bot",
+    "shortDescription": "Эмоциональный AI‑питомец на блокчейне TON: развивайте и зарабатывайте.",
+    "longDescription": "Cupiee Mini — это AI‑питомец, живущий в блокчейне TON. Пользователи могут растить и прокачивать своего питомца, приглашать друзей и получать реальные награды. Сервис ориентирован на англоязычную аудиторию【212273248254027†L28-L50】【212273248254027†L58-L60】.",
+    "functions": [
+      "compose",
+      "analyze"
+    ],
+    "topics": [
+      "ai_ml",
+      "games",
+      "crypto_web3"
+    ],
+    "primaryTopic": "ai_ml",
+    "language": "en",
+    "compat": "L0",
+    "audience": "all",
+    "formats": [
+      "text"
+    ],
+    "tags": [
+      "found_via:findmini",
+      "en-miniapp",
+      "pet"
+    ],
+    "isPromoted": false,
+    "weight": 10
+  },
+  {
+    "id": "tg-facemem_bot",
+    "title": "FaceMem",
+    "type": "miniapp",
+    "deeplink": "https://t.me/facemem_bot",
+    "shortDescription": "Меняет лица в мемах и создаёт стикеры с помощью ИИ.",
+    "longDescription": "FaceMem — бот, который заменяет лица в мемах и создаёт забавные стикеры. Используя ИИ, он быстро подставляет лицо пользователя в выбранный шаблон и генерирует новый мем. Мини‑приложение поддерживает русский и английский языки【604164340000186†L26-L47】【604164340000186†L56-L59】.",
+    "functions": [
+      "render",
+      "edit"
+    ],
+    "topics": [
+      "ai_ml",
+      "entertainment",
+      "art"
+    ],
+    "primaryTopic": "ai_ml",
+    "language": "ru",
+    "compat": "L0",
+    "audience": "all",
+    "formats": [
+      "image",
+      "text"
+    ],
+    "tags": [
+      "found_via:findmini",
+      "ru-miniapp",
+      "memes"
+    ],
+    "isPromoted": false,
+    "weight": 10
+  },
+  {
+    "id": "tg-neurahub_app",
+    "title": "Neurahub | Multi‑modal AI Suite",
+    "type": "miniapp",
+    "deeplink": "https://t.me/neurahub_app",
+    "shortDescription": "Мультимодальная AI‑платформа для текста, изображений, видео и кода.",
+    "longDescription": "Neurahub представляет собой мультимодальный AI‑комплекс, который объединяет генерацию текста, изображений, видео и кода. Сервис позиционируется как единая точка для инноваций, интеграции и творчества, ориентированная на англоязычных пользователей【236935149070055†L46-L53】【236935149070055†L62-L64】.",
+    "functions": [
+      "compose",
+      "render",
+      "analyze",
+      "visualize"
+    ],
+    "topics": [
+      "ai_ml",
+      "technology",
+      "productivity"
+    ],
+    "primaryTopic": "ai_ml",
+    "language": "en",
+    "compat": "L0",
+    "audience": "all",
+    "formats": [
+      "text",
+      "image",
+      "video",
+      "text"
+    ],
+    "tags": [
+      "found_via:findmini",
+      "en-miniapp",
+      "multimodal"
+    ],
+    "isPromoted": false,
+    "weight": 10
+  },
+  {
+    "id": "tg-chatcoin_bot",
+    "title": "ChatCoin",
+    "type": "miniapp",
+    "deeplink": "https://t.me/chatcoin_bot",
+    "shortDescription": "Первая платформа chat‑to‑earn: общайтесь, инвестируйте в ИИ‑персонажей и зарабатывайте $CHAT.",
+    "longDescription": "ChatCoin называется первой платформой chat‑to‑earn в экосистеме TON. Пользователи общаются, создают и инвестируют в AI‑персонажей, получая токены $CHAT за активность. По данным findmini.app, у сервиса более 206 тыс. ежемесячных пользователей【401526515614423†L48-L53】【401526515614423†L64-L66】.",
+    "functions": [
+      "compose",
+      "integrate"
+    ],
+    "topics": [
+      "ai_ml",
+      "crypto_web3",
+      "games"
+    ],
+    "primaryTopic": "ai_ml",
+    "language": "en",
+    "compat": "L0",
+    "audience": "all",
+    "formats": [
+      "text"
+    ],
+    "tags": [
+      "found_via:findmini",
+      "en-miniapp",
+      "chat-to-earn"
+    ],
+    "isPromoted": false,
+    "weight": 10
+  },
+  {
+    "id": "tg-avatarify_ai_bot",
+    "title": "Avatarify – AI Face Animator",
+    "type": "miniapp",
+    "deeplink": "https://t.me/avatarify_ai_bot",
+    "shortDescription": "Заставьте фотографию петь: бот превращает снимок в поющий видеоклип.",
+    "longDescription": "Avatarify — это мини‑приложение, которое оживляет фотографию, заставляя её петь. Пользователь отправляет фото, выбирает песню — и получает видеоролик, где изображение 'поёт'. Сервис популярен среди русскоязычных пользователей и имеет около 91 тыс. ежемесячных пользователей【551694964913734†L45-L53】【551694964913734†L61-L63】.",
+    "functions": [
+      "render"
+    ],
+    "topics": [
+      "ai_ml",
+      "entertainment",
+      "music"
+    ],
+    "primaryTopic": "ai_ml",
+    "language": "ru",
+    "compat": "L0",
+    "audience": "all",
+    "formats": [
+      "video",
+      "image",
+      "audio"
+    ],
+    "tags": [
+      "found_via:findmini",
+      "ru-miniapp",
+      "singing"
+    ],
+    "isPromoted": false,
+    "weight": 10
+  },
+  {
+    "id": "tg-tapcgpt_bot",
+    "title": "TapCGPT",
+    "type": "miniapp",
+    "deeplink": "https://t.me/tapcgpt_bot",
+    "shortDescription": "Станьте AI‑предпринимателем: тапайте, развивайте алгоритмы и растите империю.",
+    "longDescription": "TapCGPT — это игровое мини‑приложение, где пользователи становятся предпринимателями в сфере ИИ. Нажимая на экран, они развивают алгоритмы, улучшают роботов и выстраивают собственную империю. У приложения более 67 тыс. активных пользователей【392795821619437†L45-L52】【392795821619437†L59-L62】.",
+    "functions": [
+      "analyze",
+      "automate"
+    ],
+    "topics": [
+      "ai_ml",
+      "games",
+      "business"
+    ],
+    "primaryTopic": "ai_ml",
+    "language": "en",
+    "compat": "L0",
+    "audience": "all",
+    "formats": [
+      "text"
+    ],
+    "tags": [
+      "found_via:findmini",
+      "en-miniapp",
+      "idle-game"
+    ],
+    "isPromoted": false,
+    "weight": 10
+  },
+  {
+    "id": "tg-hybridminiapp_bot",
+    "title": "Hybrid Mini App",
+    "type": "miniapp",
+    "deeplink": "https://t.me/hybridminiapp_bot",
+    "shortDescription": "Создавайте и используйте ИИ‑агентов в экосистеме Web3, зарабатывайте очки Hybrid.",
+    "longDescription": "Hybrid Mini App — платформа для создания и использования ИИ‑агентов в Web3. Пользователи могут открывать продукты Hybrid, зарабатывать Hybrid Points, просматривать популярные ИИ‑агенты и выполнять социальные задания. Приложение насчитывает порядка 95 тыс. пользователей и поддерживает русский и английский языки【182568460450530†L47-L62】【182568460450530†L71-L74】.",
+    "functions": [
+      "integrate",
+      "compose",
+      "analyze"
+    ],
+    "topics": [
+      "ai_ml",
+      "technology",
+      "crypto_web3"
+    ],
+    "primaryTopic": "ai_ml",
+    "language": "ru",
+    "compat": "L0",
+    "audience": "all",
+    "formats": [
+      "text"
+    ],
+    "tags": [
+      "found_via:findmini",
+      "ru-miniapp",
+      "agents"
+    ],
+    "isPromoted": false,
+    "weight": 10
+  },
+  {
+    "id": "tg-innoprog_bot",
+    "title": "INNOPROG",
+    "type": "miniapp",
+    "deeplink": "https://t.me/innoprog_bot",
+    "shortDescription": "Образовательная платформа: курсы по IT c подробной структурой и поддержкой.",
+    "longDescription": "INNOPROG — русскоязычное мини‑приложение для обучения IT. Оно предлагает чётко структурированные материалы, короткие видеоуроки, индивидуальные занятия с преподавателями, круглосуточную поддержку и выдает сертификат по окончании. По завершении курсов доступна стажировка в IT‑компаниях【326237061284031†L44-L66】【326237061284031†L68-L70】.",
+    "functions": [
+      "analyze",
+      "compose",
+      "search"
+    ],
+    "topics": [
+      "ai_ml",
+      "education",
+      "technology"
+    ],
+    "primaryTopic": "ai_ml",
+    "language": "ru",
+    "compat": "L0",
+    "audience": "all",
+    "formats": [
+      "video",
+      "text"
+    ],
+    "tags": [
+      "found_via:findmini",
+      "ru-miniapp",
+      "education"
+    ],
+    "isPromoted": false,
+    "weight": 10
+  },
+  {
+    "id": "tg-fin_ton_bot",
+    "title": "FIN – AI Financial Assistant",
+    "type": "miniapp",
+    "deeplink": "https://t.me/fin_ton_bot",
+    "shortDescription": "Финансовый ассистент: распознаёт аудио‑транзакции, отвечает на вопросы и поощряет рекомендациями.",
+    "longDescription": "FIN — ИИ‑финансовый ассистент, который может конвертировать аудио в транзакции, показывать операции, отвечать на финансовые вопросы и предлагает реферальную программу. Приложение поддерживает русский и английский языки и предназначено для пользователей крипто‑экосистемы TON【880528900269309†L45-L62】【880528900269309†L70-L73】.",
+    "functions": [
+      "analyze",
+      "integrate",
+      "automate"
+    ],
+    "topics": [
+      "ai_ml",
+      "business",
+      "economy"
+    ],
+    "primaryTopic": "ai_ml",
+    "language": "ru",
+    "compat": "L0",
+    "audience": "all",
+    "formats": [
+      "audio",
+      "text"
+    ],
+    "tags": [
+      "found_via:findmini",
+      "ru-miniapp",
+      "finance"
+    ],
+    "isPromoted": false,
+    "weight": 10
+  },
+  {
+    "id": "tg-gigogram_bot",
+    "title": "GigoGram – Your Profile Secrets",
+    "type": "miniapp",
+    "deeplink": "https://t.me/gigogram_bot",
+    "shortDescription": "Анализ профиля Telegram: сканирует аватар, имя и посты для создания отчёта.",
+    "longDescription": "GigoGram сканирует аватар, имя, описание и посты пользователя, чтобы предоставить уникальный ИИ‑анализ Telegram‑профиля. Приложение поддерживает русский и английский языки и акцентирует внимание на персонализированном профиле【791732174111262†L29-L50】【791732174111262†L57-L59】.",
+    "functions": [
+      "analyze",
+      "extract"
+    ],
+    "topics": [
+      "ai_ml",
+      "productivity",
+      "technology"
+    ],
+    "primaryTopic": "ai_ml",
+    "language": "ru",
+    "compat": "L0",
+    "audience": "all",
+    "formats": [
+      "text",
+      "image"
+    ],
+    "tags": [
+      "found_via:findmini",
+      "ru-miniapp",
+      "profile"
+    ],
+    "isPromoted": false,
+    "weight": 10
+  },
+  {
+    "id": "tg-guardify_ai_bot",
+    "title": "Guardify AI",
+    "type": "miniapp",
+    "deeplink": "https://t.me/guardify_ai_bot",
+    "shortDescription": "AI‑менеджер группы: обнаруживает мошенничество и спам с помощью интеллектуальных фильтров.",
+    "longDescription": "Guardify AI — бот‑управляющий, который использует искусственный интеллект для защиты групп от спама и мошенничества. Он предлагает настраиваемые триггеры, встроенный модуль вирусности и моментальный покупочный бот, чтобы повысить безопасность сообществ【522046097126097†L46-L54】【522046097126097†L61-L63】.",
+    "functions": [
+      "automate",
+      "analyze"
+    ],
+    "topics": [
+      "ai_ml",
+      "productivity",
+      "technology"
+    ],
+    "primaryTopic": "ai_ml",
+    "language": "en",
+    "compat": "L0",
+    "audience": "all",
+    "formats": [
+      "text"
+    ],
+    "tags": [
+      "found_via:findmini",
+      "en-miniapp",
+      "security"
+    ],
+    "isPromoted": false,
+    "weight": 10
+  },
+  {
+    "id": "tg-palm_ai_bot",
+    "title": "PaLM AI",
+    "type": "miniapp",
+    "deeplink": "https://t.me/palm_ai_bot",
+    "shortDescription": "Мульти‑инструмент: NFT‑минтинг, ИИ‑ассистент, смарт‑поиск и анализ токенов.",
+    "longDescription": "PaLM AI — это универсальный мини‑инструмент с рядом функций: он позволяет выпускать NFT из сгенерированных изображений без газовых сборов, предоставляет ИИ‑ассистент с текстовым и графическим вводом, осуществляет умный поиск по Google и YouTube, анализирует токены ERC20 и позволяет оставлять голосовые сообщения. Сервис ориентирован на англоязычных пользователей【79040197915399†L44-L53】【79040197915399†L64-L67】.",
+    "functions": [
+      "compose",
+      "render",
+      "analyze",
+      "search"
+    ],
+    "topics": [
+      "ai_ml",
+      "technology",
+      "crypto_web3"
+    ],
+    "primaryTopic": "ai_ml",
+    "language": "en",
+    "compat": "L0",
+    "audience": "all",
+    "formats": [
+      "text",
+      "image",
+      "audio"
+    ],
+    "tags": [
+      "found_via:findmini",
+      "en-miniapp",
+      "multitool"
+    ],
+    "isPromoted": false,
+    "weight": 10
+  },
+  {
+    "id": "tg-whalebrain_bot",
+    "title": "WhaleBrain Bot",
+    "type": "miniapp",
+    "deeplink": "https://t.me/whalebrain_bot",
+    "shortDescription": "Индикатор рынка: ИИ‑чат для анализа криптовалют и отслеживания китов.",
+    "longDescription": "WhaleBrain Bot — русскоязычный ассистент, предлагающий аналитические инсайты о криптовалютном рынке. Бот использует обученный ИИ‑чат для обзора лидеров рынка, мониторит транзакции 'китов', динамику портфеля и предоставляет срочные обновления【507816750503436†L46-L55】【507816750503436†L63-L66】.",
+    "functions": [
+      "analyze",
+      "visualize",
+      "search"
+    ],
+    "topics": [
+      "ai_ml",
+      "business",
+      "crypto_web3"
+    ],
+    "primaryTopic": "ai_ml",
+    "language": "ru",
+    "compat": "L0",
+    "audience": "all",
+    "formats": [
+      "text"
+    ],
+    "tags": [
+      "found_via:findmini",
+      "ru-miniapp",
+      "crypto"
+    ],
+    "isPromoted": false,
+    "weight": 10
+  },
+  {
+    "id": "tg-tearline_bot",
+    "title": "Tearline Bot",
+    "type": "miniapp",
+    "deeplink": "https://t.me/tearline_bot",
+    "shortDescription": "Web3‑вопрос–ответ: дефицитные ответы, выходящие за рамки GPT.",
+    "longDescription": "Tearline Bot — мини‑приложение для Web3‑комьюнити, предлагающее ответы на вопросы, которые могут быть сложнее стандартных запросов к GPT. Сервис позиционируется как источник 'degen‑уровня' ответов и имеет около 942 тыс. активных пользователей. Он поддерживает русский и английский языки【995336611710781†L28-L56】.",
+    "functions": [
+      "search",
+      "analyze"
+    ],
+    "topics": [
+      "ai_ml",
+      "crypto_web3",
+      "technology"
+    ],
+    "primaryTopic": "ai_ml",
+    "language": "ru",
+    "compat": "L0",
+    "audience": "all",
+    "formats": [
+      "text"
+    ],
+    "tags": [
+      "found_via:findmini",
+      "ru-miniapp",
+      "web3"
+    ],
+    "isPromoted": false,
+    "weight": 10
+  },
+  {
+    "id": "tg-renestra_ai_bot",
+    "title": "Renestra AI – Image Generator",
+    "type": "miniapp",
+    "deeplink": "https://t.me/renestra_ai_bot",
+    "shortDescription": "Создавайте своё цифровое alter ego: изображения в стилях воина, короля или фантазийного героя.",
+    "longDescription": "Renestra AI позволяет создавать изображения пользователя в различных стилях — от стильного и воинственного до королевского или фэнтезийного героя. Нужно выбрать стиль и нажать кнопку 'Сгенерировать изображение'【343172029389101†L44-L53】【343172029389101†L56-L57】. Поддерживаются русский и английский языки.",
+    "functions": [
+      "render"
+    ],
+    "topics": [
+      "ai_ml",
+      "art",
+      "photography"
+    ],
+    "primaryTopic": "ai_ml",
+    "language": "ru",
+    "compat": "L0",
+    "audience": "all",
+    "formats": [
+      "image",
+      "text"
+    ],
+    "tags": [
+      "found_via:findmini",
+      "ru-miniapp",
+      "portrait"
+    ],
+    "isPromoted": false,
+    "weight": 10
+  },
+  {
+    "id": "tg-voix_recognizer_bot",
+    "title": "Voix – Recognizer",
+    "type": "miniapp",
+    "deeplink": "https://t.me/voix_recognizer_bot",
+    "shortDescription": "Транскрибирование голосовых, аудио и видео сообщений на 7 языках.",
+    "longDescription": "Voix — это AI‑бот для транскрибирования: он превращает голосовые, аудио и видеосообщения в текст на семи языках. Разработчики обещают быстрые и точные транскрипции и поддерживают русский и английский интерфейсы【380083091888117†L55-L88】【380083091888117†L105-L107】. У сервиса более 30 тыс. активных пользователей.",
+    "functions": [
+      "extract"
+    ],
+    "topics": [
+      "ai_ml",
+      "productivity",
+      "technology"
+    ],
+    "primaryTopic": "ai_ml",
+    "language": "ru",
+    "compat": "L0",
+    "audience": "all",
+    "formats": [
+      "audio",
+      "video",
+      "text"
+    ],
+    "tags": [
+      "found_via:findmini",
+      "ru-miniapp",
+      "transcription"
+    ],
+    "isPromoted": false,
+    "weight": 10
+  },
+  {
+    "id": "tg-wellzy_ai_bot",
+    "title": "Wellzy AI",
+    "type": "miniapp",
+    "deeplink": "https://t.me/wellzy_ai_bot",
+    "shortDescription": "Диетолог‑бот: эксперт по здоровому питанию с возможностью заработать.",
+    "longDescription": "Wellzy AI позиционирует себя как персональный диетолог, помогающий пользователям питаться правильно и получать за это вознаграждения. Хотя описание на findmini.app короткое, в нём подчеркивается, что бот — 'AI nutrition expert' и поддерживает русскую и английскую локализацию【981432623490136†L45-L49】【981432623490136†L56-L59】.",
+    "functions": [
+      "analyze",
+      "compose"
+    ],
+    "topics": [
+      "ai_ml",
+      "health",
+      "lifestyle"
+    ],
+    "primaryTopic": "ai_ml",
+    "language": "ru",
+    "compat": "L0",
+    "audience": "all",
+    "formats": [
+      "text"
+    ],
+    "tags": [
+      "found_via:findmini",
+      "ru-miniapp",
+      "health"
+    ],
+    "isPromoted": false,
+    "weight": 10
+  },
+  {
+    "id": "tg-maia_me_bot",
+    "title": "MAIA.Me",
+    "type": "miniapp",
+    "deeplink": "https://t.me/maia_me_bot",
+    "shortDescription": "Создавайте цифровых персонажей и делитесь ими с друзьями.",
+    "longDescription": "MAIA.Me позволяет пользователям создавать уникальных цифровых AI‑персонажей, обмениваться ими с друзьями и исследовать персонажи сообщества. Приложение подходит для русскоязычных и англоязычных пользователей【921965399771864†L29-L52】【921965399771864†L61-L64】.",
+    "functions": [
+      "compose",
+      "render"
+    ],
+    "topics": [
+      "ai_ml",
+      "entertainment",
+      "technology"
+    ],
+    "primaryTopic": "ai_ml",
+    "language": "ru",
+    "compat": "L0",
+    "audience": "all",
+    "formats": [
+      "text",
+      "image"
+    ],
+    "tags": [
+      "found_via:findmini",
+      "ru-miniapp",
+      "characters"
+    ],
+    "isPromoted": false,
+    "weight": 10
+  },
+  {
+    "id": "tg-chaingpt_ai_bot",
+    "title": "ChainGPT AI",
+    "type": "miniapp",
+    "deeplink": "https://t.me/chaingpt_ai_bot",
+    "shortDescription": "Модель для задач блокчейна: генерация и аудит смарт‑контрактов, анализ и трейдинг.",
+    "longDescription": "ChainGPT — это специализированная модель для блокчейн‑ и криптовалютных задач. Мини‑приложение предоставляет исследование по Web3 и крипто, генерацию и аудит смарт‑контрактов без кода, технический анализ, автоматическую торговлю и создание NFT‑арта【708268129831824†L45-L60】【708268129831824†L68-L71】. Поддерживаются русский и английский языки.",
+    "functions": [
+      "analyze",
+      "compose",
+      "search"
+    ],
+    "topics": [
+      "ai_ml",
+      "crypto_web3",
+      "technology"
+    ],
+    "primaryTopic": "ai_ml",
+    "language": "ru",
+    "compat": "L0",
+    "audience": "all",
+    "formats": [
+      "text",
+      "text"
+    ],
+    "tags": [
+      "found_via:findmini",
+      "ru-miniapp",
+      "blockchain"
+    ],
+    "isPromoted": false,
+    "weight": 10
+  },
+  {
+    "id": "tg-neron_ai_bot",
+    "title": "Neron AI",
+    "type": "miniapp",
+    "deeplink": "https://t.me/neron_ai_bot",
+    "shortDescription": "Творческий AI‑хаб: задавайте вопросы голосом, текстом или фото как другу.",
+    "longDescription": "Neron AI — это русскоязычный хаб для творчества с ИИ. Пользователь может задавать вопросы голосом, текстом или даже фотографией, получая ответы так, словно беседует с другом【284420018655147†L44-L48】【284420018655147†L56-L59】.",
+    "functions": [
+      "compose",
+      "analyze",
+      "render"
+    ],
+    "topics": [
+      "ai_ml",
+      "entertainment",
+      "technology"
+    ],
+    "primaryTopic": "ai_ml",
+    "language": "ru",
+    "compat": "L0",
+    "audience": "all",
+    "formats": [
+      "text",
+      "audio",
+      "image"
+    ],
+    "tags": [
+      "found_via:findmini",
+      "ru-miniapp",
+      "creative"
+    ],
+    "isPromoted": false,
+    "weight": 10
+  },
+  {
+    "id": "tg-nekomori_alicebot",
+    "title": "Alice AI Girlfriend",
+    "type": "miniapp",
+    "deeplink": "https://t.me/nekomori_alicebot",
+    "shortDescription": "Виртуальная подруга на базе ИИ: чат, создание собственных ботов и возможность заработка.",
+    "longDescription": "Alice AI Girlfriend — мини‑приложение на платформе Nekomori, позволяющее общаться с виртуальной подругой и создавать собственных ботов. Пользователи получают 100 бесплатных сообщений в неделю, могут настроить уровень цензуры и даже зарабатывать, создавая своих персонажей【283252756496020†L28-L49】【283252756496020†L58-L60】. Поддерживаются английский, русский, испанский и португальский языки.",
+    "functions": [
+      "compose",
+      "analyze"
+    ],
+    "topics": [
+      "ai_ml",
+      "entertainment",
+      "games"
+    ],
+    "primaryTopic": "ai_ml",
+    "language": "ru",
+    "compat": "L0",
+    "audience": "all",
+    "formats": [
+      "text"
+    ],
+    "tags": [
+      "found_via:findmini",
+      "ru-miniapp",
+      "virtual-girlfriend"
+    ],
+    "isPromoted": false,
+    "weight": 10
+  },
+  {
+    "id": "tg-storychainquests_bot",
+    "title": "StoryChain Quests",
+    "type": "miniapp",
+    "deeplink": "https://t.me/storychainquests_bot",
+    "shortDescription": "Децентрализованная платформа AI‑историй: создавайте аватары, голосуйте за контент и выполняйте задания.",
+    "longDescription": "StoryChain Quests — децентрализованная платформа, где пользователи зарабатывают, взаимодействуя с AI‑историями. Здесь можно создавать аватары, генерировать истории (которые затем минтятся на Base Mainnet), листать и оценивать работы (swipe‑to‑earn) и выполнять социальные задания. По данным findmini.app, у сервиса более 150 тыс. пользователей и он поддерживает русскую и английскую локали【140267534933826†L26-L61】【140267534933826†L70-L73】.",
+    "functions": [
+      "compose",
+      "render",
+      "integrate"
+    ],
+    "topics": [
+      "ai_ml",
+      "games",
+      "crypto_web3"
+    ],
+    "primaryTopic": "ai_ml",
+    "language": "ru",
+    "compat": "L0",
+    "audience": "all",
+    "formats": [
+      "text",
+      "image"
+    ],
+    "tags": [
+      "found_via:findmini",
+      "ru-miniapp",
+      "story"
+    ],
+    "isPromoted": false,
+    "weight": 10
+  },
+  {
+    "id": "tg-aiig_image_bot",
+    "title": "AIIG – AI Image Generator",
+    "type": "miniapp",
+    "deeplink": "https://t.me/aiig_image_bot",
+    "shortDescription": "Персональный AI‑художник: генерирует изображения по описанию и оживляет фото.",
+    "longDescription": "AIIG — русскоязычное мини‑приложение, выступающее персональным AI‑художником. Пользователь описывает идею, выбирает стиль, а бот генерирует изображение и может анимировать фотографию【429360962026928†L46-L58】【429360962026928†L66-L69】.",
+    "functions": [
+      "render"
+    ],
+    "topics": [
+      "ai_ml",
+      "art",
+      "photography"
+    ],
+    "primaryTopic": "ai_ml",
+    "language": "ru",
+    "compat": "L0",
+    "audience": "all",
+    "formats": [
+      "image",
+      "text"
+    ],
+    "tags": [
+      "found_via:findmini",
+      "ru-miniapp",
+      "image"
+    ],
+    "isPromoted": false,
+    "weight": 10
+  }
+]
