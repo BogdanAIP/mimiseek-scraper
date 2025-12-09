@@ -1,0 +1,1537 @@
+{
+"resources": [
+{
+"id": "tg-techguide",
+"title": "Tech Guide",
+"type": "channel",
+"deeplink": "https://t.me/techguide",
+"shortDescription": "Новости технологий и советы для разработчиков.",
+"longDescription": "Канал делится свежими новостями из мира технологий, подборками ресурсов и советами для разработчиков, охватывая программирование, железо и общие тренды.",
+"functions": [
+"publish"
+],
+"topics": [
+"technology",
+"open_source"
+],
+"primaryTopic": "technology",
+"language": "en",
+"compat": "L0",
+"audience": "all",
+"formats": [
+"text"
+],
+"tags": [
+"developer",
+"programming"
+],
+"isPromoted": false,
+"weight": 10
+},
+{
+"id": "tg-linuxgram",
+"title": "Linuxgram",
+"type": "channel",
+"deeplink": "https://t.me/linuxgram",
+"shortDescription": "Новости о Linux и open‑source.",
+"longDescription": "Сообщество, посвящённое Linux и open‑source проектам: новости, руководства, обсуждения дистрибутивов и инструментов.",
+"functions": [
+"publish"
+],
+"topics": [
+"technology",
+"open_source"
+],
+"primaryTopic": "technology",
+"language": "en",
+"compat": "L0",
+"audience": "all",
+"formats": [
+"text"
+],
+"tags": [
+"developer",
+"programming"
+],
+"isPromoted": false,
+"weight": 10
+},
+{
+"id": "tg-technohacker",
+"title": "Technohacker",
+"type": "channel",
+"deeplink": "https://t.me/technohacker",
+"shortDescription": "Секреты хакинга и кибербезопасности.",
+"longDescription": "Канал освещает темы хакинга, кибербезопасности и приватности. Подходит для начинающих и опытных специалистов по безопасности.",
+"functions": [
+"publish"
+],
+"topics": [
+"technology",
+"open_source"
+],
+"primaryTopic": "technology",
+"language": "en",
+"compat": "L0",
+"audience": "all",
+"formats": [
+"text"
+],
+"tags": [
+"developer",
+"programming"
+],
+"isPromoted": false,
+"weight": 10
+},
+{
+"id": "tg-programmingebooks",
+"title": "Programming eBooks",
+"type": "channel",
+"deeplink": "https://t.me/programmingebooks",
+"shortDescription": "Собрание e‑book по программированию.",
+"longDescription": "Канал делится бесплатными книгами и учебными материалами по различным языкам программирования и технологиям.",
+"functions": [
+"publish"
+],
+"topics": [
+"technology",
+"open_source"
+],
+"primaryTopic": "technology",
+"language": "en",
+"compat": "L0",
+"audience": "all",
+"formats": [
+"text"
+],
+"tags": [
+"developer",
+"programming"
+],
+"isPromoted": false,
+"weight": 10
+},
+{
+"id": "tg-progchallenges",
+"title": "Programming Challenges",
+"type": "channel",
+"deeplink": "https://t.me/progchallenges",
+"shortDescription": "Задачи для тренировки алгоритмов.",
+"longDescription": "Канал публикует ежедневные задачи по алгоритмам и структурами данных, предлагая способ развивать навыки кодирования.",
+"functions": [
+"publish"
+],
+"topics": [
+"technology",
+"open_source"
+],
+"primaryTopic": "technology",
+"language": "en",
+"compat": "L0",
+"audience": "all",
+"formats": [
+"text"
+],
+"tags": [
+"developer",
+"programming"
+],
+"isPromoted": false,
+"weight": 10
+},
+{
+"id": "tg-programmingtips",
+"title": "Programming Tips",
+"type": "channel",
+"deeplink": "https://t.me/programmingtips",
+"shortDescription": "Полезные советы по программированию.",
+"longDescription": "Практические советы, рекомендации и лайфхаки для разработчиков всех уровней, включая лучшие практики и шаблоны кода.",
+"functions": [
+"publish"
+],
+"topics": [
+"technology",
+"open_source"
+],
+"primaryTopic": "technology",
+"language": "en",
+"compat": "L0",
+"audience": "all",
+"formats": [
+"text"
+],
+"tags": [
+"developer",
+"programming"
+],
+"isPromoted": false,
+"weight": 10
+},
+{
+"id": "tg-devchampions",
+"title": "Dev Champions",
+"type": "channel",
+"deeplink": "https://t.me/devchampions",
+"shortDescription": "Сообщество разработчиков и обмен опытом.",
+"longDescription": "Канал посвящён профессиональному росту программистов: интервью с экспертами, обзоры курсов и обсуждение новых технологий.",
+"functions": [
+"publish"
+],
+"topics": [
+"technology",
+"open_source"
+],
+"primaryTopic": "technology",
+"language": "en",
+"compat": "L0",
+"audience": "all",
+"formats": [
+"text"
+],
+"tags": [
+"developer",
+"programming"
+],
+"isPromoted": false,
+"weight": 10
+},
+{
+"id": "tg-geekschannel",
+"title": "Geeks Channel",
+"type": "channel",
+"deeplink": "https://t.me/geekschannel",
+"shortDescription": "Обзор IT‑новостей и мемы для программистов.",
+"longDescription": "Здесь публикуются новости IT‑индустрии, интересные факты и юмор для программистов, объединяя сообщество гиков.",
+"functions": [
+"publish"
+],
+"topics": [
+"technology",
+"open_source"
+],
+"primaryTopic": "technology",
+"language": "en",
+"compat": "L0",
+"audience": "all",
+"formats": [
+"text"
+],
+"tags": [
+"developer",
+"programming"
+],
+"isPromoted": false,
+"weight": 10
+},
+{
+"id": "tg-machinelearningworld",
+"title": "Machine Learning World",
+"type": "channel",
+"deeplink": "https://t.me/machinelearningworld",
+"shortDescription": "Мир машинного обучения и AI.",
+"longDescription": "Канал собирает статьи, курсы и видеоуроки по машинному обучению и искусственному интеллекту для практиков и исследователей.",
+"functions": [
+"publish"
+],
+"topics": [
+"technology",
+"open_source"
+],
+"primaryTopic": "technology",
+"language": "en",
+"compat": "L0",
+"audience": "all",
+"formats": [
+"text"
+],
+"tags": [
+"developer",
+"programming"
+],
+"isPromoted": false,
+"weight": 10
+},
+{
+"id": "tg-codingnews",
+"title": "Coding News",
+"type": "channel",
+"deeplink": "https://t.me/codingnews",
+"shortDescription": "Обновления в мире программирования.",
+"longDescription": "Лента с актуальными новостями из мира разработки: релизы языков, фреймворков, библиотеки и тенденции.",
+"functions": [
+"publish"
+],
+"topics": [
+"technology",
+"open_source"
+],
+"primaryTopic": "technology",
+"language": "en",
+"compat": "L0",
+"audience": "all",
+"formats": [
+"text"
+],
+"tags": [
+"developer",
+"programming"
+],
+"isPromoted": false,
+"weight": 10
+},
+{
+"id": "tg-cspchannel",
+"title": "Computer Science & Programming",
+"type": "channel",
+"deeplink": "https://t.me/cspchannel",
+"shortDescription": "Материалы по CS и программированию.",
+"longDescription": "Канал охватывает темы компьютерных наук: алгоритмы, теория, практические руководства и ресурсы для изучения.",
+"functions": [
+"publish"
+],
+"topics": [
+"technology",
+"open_source"
+],
+"primaryTopic": "technology",
+"language": "en",
+"compat": "L0",
+"audience": "all",
+"formats": [
+"text"
+],
+"tags": [
+"developer",
+"programming"
+],
+"isPromoted": false,
+"weight": 10
+},
+{
+"id": "tg-webdevchannel",
+"title": "Web Dev",
+"type": "channel",
+"deeplink": "https://t.me/webdevchannel",
+"shortDescription": "Новости и ресурсы для веб‑разработчиков.",
+"longDescription": "Тематический канал по веб‑разработке: HTML, CSS, JavaScript, фреймворки и советы по фронтенду и бэкенду.",
+"functions": [
+"publish"
+],
+"topics": [
+"technology",
+"open_source"
+],
+"primaryTopic": "technology",
+"language": "en",
+"compat": "L0",
+"audience": "all",
+"formats": [
+"text"
+],
+"tags": [
+"developer",
+"programming"
+],
+"isPromoted": false,
+"weight": 10
+},
+{
+"id": "tg-frontendworld",
+"title": "Front End World",
+"type": "channel",
+"deeplink": "https://t.me/frontendworld",
+"shortDescription": "Все о фронтенд‑разработке.",
+"longDescription": "Сообщество фронтенд‑разработчиков: новости, инструменты, лучшие практики и обсуждения библиотек.",
+"functions": [
+"publish"
+],
+"topics": [
+"technology",
+"open_source"
+],
+"primaryTopic": "technology",
+"language": "en",
+"compat": "L0",
+"audience": "all",
+"formats": [
+"text"
+],
+"tags": [
+"developer",
+"programming"
+],
+"isPromoted": false,
+"weight": 10
+},
+{
+"id": "tg-thefrontend",
+"title": "TheFrontEnd",
+"type": "channel",
+"deeplink": "https://t.me/thefrontend",
+"shortDescription": "Фронтенд советы и подборки.",
+"longDescription": "Канал публикует статьи и руководства по фронтенду, делится подборками ресурсов и новостей.",
+"functions": [
+"publish"
+],
+"topics": [
+"technology",
+"open_source"
+],
+"primaryTopic": "technology",
+"language": "en",
+"compat": "L0",
+"audience": "all",
+"formats": [
+"text"
+],
+"tags": [
+"developer",
+"programming"
+],
+"isPromoted": false,
+"weight": 10
+},
+{
+"id": "tg-iosdevchannel",
+"title": "iOS Dev",
+"type": "channel",
+"deeplink": "https://t.me/iosdevchannel",
+"shortDescription": "Новости и ресурсы для iOS‑разработчиков.",
+"longDescription": "Канал сосредоточен на разработке для платформы iOS: Swift, Xcode, новости Apple и примеры кода.",
+"functions": [
+"publish"
+],
+"topics": [
+"technology",
+"open_source"
+],
+"primaryTopic": "technology",
+"language": "en",
+"compat": "L0",
+"audience": "all",
+"formats": [
+"text"
+],
+"tags": [
+"developer",
+"programming"
+],
+"isPromoted": false,
+"weight": 10
+},
+{
+"id": "tg-androidreid",
+"title": "Android ReId",
+"type": "channel",
+"deeplink": "https://t.me/androidreid",
+"shortDescription": "Темы по Android‑разработке.",
+"longDescription": "Канал для разработчиков Android: новости, tutorials, советы по Java/Kotlin и обсуждение фреймворков.",
+"functions": [
+"publish"
+],
+"topics": [
+"technology",
+"open_source"
+],
+"primaryTopic": "technology",
+"language": "en",
+"compat": "L0",
+"audience": "all",
+"formats": [
+"text"
+],
+"tags": [
+"developer",
+"programming"
+],
+"isPromoted": false,
+"weight": 10
+},
+{
+"id": "tg-applehash",
+"title": "Apple#",
+"type": "channel",
+"deeplink": "https://t.me/applehash",
+"shortDescription": "Фокус на экосистеме Apple.",
+"longDescription": "Сообщество обсуждает новости Apple, разработки под macOS и iOS, публикует обзоры устройств и софта.",
+"functions": [
+"publish"
+],
+"topics": [
+"technology",
+"open_source"
+],
+"primaryTopic": "technology",
+"language": "en",
+"compat": "L0",
+"audience": "all",
+"formats": [
+"text"
+],
+"tags": [
+"developer",
+"programming"
+],
+"isPromoted": false,
+"weight": 10
+},
+{
+"id": "tg-appleusersgroup",
+"title": "Apple Users Group",
+"type": "channel",
+"deeplink": "https://t.me/appleusersgroup",
+"shortDescription": "Группа пользователей Apple и разработчиков.",
+"longDescription": "Канал объединяет пользователей Apple для обмена опытом и советами по разработке и использованию техники.",
+"functions": [
+"publish"
+],
+"topics": [
+"technology",
+"open_source"
+],
+"primaryTopic": "technology",
+"language": "en",
+"compat": "L0",
+"audience": "all",
+"formats": [
+"text"
+],
+"tags": [
+"developer",
+"programming"
+],
+"isPromoted": false,
+"weight": 10
+},
+{
+"id": "tg-pythongroup",
+"title": "Python",
+"type": "channel",
+"deeplink": "https://t.me/pythongroup",
+"shortDescription": "Канал по языку Python и библиотекам.",
+"longDescription": "Материалы, уроки и примеры по Python: от основ до продвинутых тем, включая фреймворки и работу с данными.",
+"functions": [
+"publish"
+],
+"topics": [
+"technology",
+"open_source"
+],
+"primaryTopic": "technology",
+"language": "en",
+"compat": "L0",
+"audience": "all",
+"formats": [
+"text"
+],
+"tags": [
+"developer",
+"programming"
+],
+"isPromoted": false,
+"weight": 10
+},
+{
+"id": "tg-cppgroup",
+"title": "C/C++ Group",
+"type": "channel",
+"deeplink": "https://t.me/cppgroup",
+"shortDescription": "Обсуждение языков C и C++.",
+"longDescription": "Сообщество для обмена знаниями и решения задач по C/C++, включая компиляторы, стандарты и оптимизацию.",
+"functions": [
+"publish"
+],
+"topics": [
+"technology",
+"open_source"
+],
+"primaryTopic": "technology",
+"language": "en",
+"compat": "L0",
+"audience": "all",
+"formats": [
+"text"
+],
+"tags": [
+"developer",
+"programming"
+],
+"isPromoted": false,
+"weight": 10
+},
+{
+"id": "tg-amazingphp",
+"title": "Amazing PHP",
+"type": "channel",
+"deeplink": "https://t.me/amazingphp",
+"shortDescription": "Ресурсы и советы по PHP.",
+"longDescription": "Канал публикует новости, уроки и задачи по PHP, охватывая современные фреймворки и лучшие практики.",
+"functions": [
+"publish"
+],
+"topics": [
+"technology",
+"open_source"
+],
+"primaryTopic": "technology",
+"language": "en",
+"compat": "L0",
+"audience": "all",
+"formats": [
+"text"
+],
+"tags": [
+"developer",
+"programming"
+],
+"isPromoted": false,
+"weight": 10
+},
+{
+"id": "tg-angulardevelopers",
+"title": "Angular Developers",
+"type": "channel",
+"deeplink": "https://t.me/angulardevelopers",
+"shortDescription": "Сообщество Angular‑разработчиков.",
+"longDescription": "Здесь делятся новостями, туториалами и примерами для фреймворка Angular и экосистемы.",
+"functions": [
+"publish"
+],
+"topics": [
+"technology",
+"open_source"
+],
+"primaryTopic": "technology",
+"language": "en",
+"compat": "L0",
+"audience": "all",
+"formats": [
+"text"
+],
+"tags": [
+"developer",
+"programming"
+],
+"isPromoted": false,
+"weight": 10
+},
+{
+"id": "tg-bsdgroup",
+"title": "BSD Group",
+"type": "channel",
+"deeplink": "https://t.me/bsdgroup",
+"shortDescription": "Новости про BSD и системы на его основе.",
+"longDescription": "Канал посвящён BSD‑системам: FreeBSD, OpenBSD, NetBSD, советы по настройке и администрированию.",
+"functions": [
+"publish"
+],
+"topics": [
+"technology",
+"open_source"
+],
+"primaryTopic": "technology",
+"language": "en",
+"compat": "L0",
+"audience": "all",
+"formats": [
+"text"
+],
+"tags": [
+"developer",
+"programming"
+],
+"isPromoted": false,
+"weight": 10
+},
+{
+"id": "tg-programmerjokes",
+"title": "Programming Jokes",
+"type": "channel",
+"deeplink": "https://t.me/programmerjokes",
+"shortDescription": "Юмор и мемы для программистов.",
+"longDescription": "Канал собирает смешные мемы, шутки и карикатуры, связанные с программированием и IT‑культурой.",
+"functions": [
+"publish"
+],
+"topics": [
+"technology",
+"open_source"
+],
+"primaryTopic": "technology",
+"language": "en",
+"compat": "L0",
+"audience": "all",
+"formats": [
+"text"
+],
+"tags": [
+"developer",
+"programming"
+],
+"isPromoted": false,
+"weight": 10
+},
+{
+"id": "tg-artofprogramming",
+"title": "The Art of Programming",
+"type": "channel",
+"deeplink": "https://t.me/artofprogramming",
+"shortDescription": "Советы и новости о программировании.",
+"longDescription": "Канал делится новостями, советами и материалами для программистов разных уровней: от новичков до профессионалов.",
+"functions": [
+"publish"
+],
+"topics": [
+"technology",
+"open_source"
+],
+"primaryTopic": "technology",
+"language": "en",
+"compat": "L0",
+"audience": "all",
+"formats": [
+"text"
+],
+"tags": [
+"developer",
+"programming"
+],
+"isPromoted": false,
+"weight": 10
+},
+{
+"id": "tg-javascript_tutorial",
+"title": "JavaScript Tutorial",
+"type": "channel",
+"deeplink": "https://t.me/javascript_tutorial",
+"shortDescription": "Учебные материалы по JavaScript.",
+"longDescription": "Канал публикует обучающие материалы, задачи и примеры кода для освоения JavaScript и сопутствующих технологий.",
+"functions": [
+"publish"
+],
+"topics": [
+"technology",
+"open_source"
+],
+"primaryTopic": "technology",
+"language": "en",
+"compat": "L0",
+"audience": "all",
+"formats": [
+"text"
+],
+"tags": [
+"developer",
+"programming"
+],
+"isPromoted": false,
+"weight": 10
+},
+{
+"id": "tg-cybertechchannel",
+"title": "Cyber Tech",
+"type": "channel",
+"deeplink": "https://t.me/cybertechchannel",
+"shortDescription": "Канал о кибертехнологиях и обучении.",
+"longDescription": "Сообщество освещает курсы, новости и материалы по кибербезопасности, хакерским техникам и исследованию уязвимостей.",
+"functions": [
+"publish"
+],
+"topics": [
+"technology",
+"open_source"
+],
+"primaryTopic": "technology",
+"language": "en",
+"compat": "L0",
+"audience": "all",
+"formats": [
+"text"
+],
+"tags": [
+"developer",
+"programming"
+],
+"isPromoted": false,
+"weight": 10
+},
+{
+"id": "tg-thedevs",
+"title": "The Devs",
+"type": "channel",
+"deeplink": "https://t.me/thedevs",
+"shortDescription": "Сообщество для разработчиков и дизайнеров.",
+"longDescription": "Канал публикует уроки кодирования, статьи по UX/UI‑дизайну, вакансии и обсуждения технологий.",
+"functions": [
+"publish"
+],
+"topics": [
+"technology",
+"open_source"
+],
+"primaryTopic": "technology",
+"language": "en",
+"compat": "L0",
+"audience": "all",
+"formats": [
+"text"
+],
+"tags": [
+"developer",
+"programming"
+],
+"isPromoted": false,
+"weight": 10
+},
+{
+"id": "tg-clang",
+"title": "C Language",
+"type": "channel",
+"deeplink": "https://t.me/clang",
+"shortDescription": "Задачи и инструкции по языку C.",
+"longDescription": "Канал предоставляет задания, инструкции и теорию для изучающих язык C, охватывая базовые и продвинутые темы.",
+"functions": [
+"publish"
+],
+"topics": [
+"technology",
+"open_source"
+],
+"primaryTopic": "technology",
+"language": "en",
+"compat": "L0",
+"audience": "all",
+"formats": [
+"text"
+],
+"tags": [
+"developer",
+"programming"
+],
+"isPromoted": false,
+"weight": 10
+},
+{
+"id": "tg-zeroqodecommunity",
+"title": "Zeroqode Community",
+"type": "channel",
+"deeplink": "https://t.me/zeroqodecommunity",
+"shortDescription": "Сообщество нулевого кода и no‑code проектов.",
+"longDescription": "Канал, посвящённый no‑code разработке: обсуждение платформ, обмен опытом, новости и поддержка проектов без программирования.",
+"functions": [
+"publish"
+],
+"topics": [
+"technology",
+"open_source"
+],
+"primaryTopic": "technology",
+"language": "en",
+"compat": "L0",
+"audience": "all",
+"formats": [
+"text"
+],
+"tags": [
+"developer",
+"programming"
+],
+"isPromoted": false,
+"weight": 10
+},
+{
+"id": "tg-pomodoro_timer_bot",
+"title": "Pomodoro Timer Bot",
+"type": "bot",
+"deeplink": "https://t.me/pomodoro_timer_bot",
+"shortDescription": "Таймер для техники Pomodoro.",
+"longDescription": "Бот помогает управлять временем, создавая циклы работы и отдыха по методу Pomodoro, чтобы повысить концентрацию и продуктивность.",
+"functions": [
+"automate"
+],
+"topics": [
+"productivity"
+],
+"primaryTopic": "productivity",
+"language": "multi",
+"compat": "L0",
+"audience": "all",
+"formats": [
+"text"
+],
+"tags": [
+"productivity",
+"task",
+"automation"
+],
+"isPromoted": false,
+"weight": 10
+},
+{
+"id": "tg-skeddybot",
+"title": "Skeddy Bot",
+"type": "bot",
+"deeplink": "https://t.me/skeddybot",
+"shortDescription": "Голосовые и текстовые напоминания.",
+"longDescription": "Бот позволяет планировать задачи естественным языком и получать напоминания в нужное время, упрощая управление повседневными делами.",
+"functions": [
+"automate"
+],
+"topics": [
+"productivity"
+],
+"primaryTopic": "productivity",
+"language": "multi",
+"compat": "L0",
+"audience": "all",
+"formats": [
+"text"
+],
+"tags": [
+"productivity",
+"task",
+"automation"
+],
+"isPromoted": false,
+"weight": 10
+},
+{
+"id": "tg-feedreaderbot",
+"title": "Feed Reader Bot",
+"type": "bot",
+"deeplink": "https://t.me/feedreaderbot",
+"shortDescription": "Подписка на RSS‑каналы.",
+"longDescription": "Бот читает RSS‑ленты и отправляет обновления прямо в Telegram, позволяя следить за новостями и блогами в одном месте.",
+"functions": [
+"publish",
+"search"
+],
+"topics": [
+"productivity"
+],
+"primaryTopic": "productivity",
+"language": "multi",
+"compat": "L0",
+"audience": "all",
+"formats": [
+"text"
+],
+"tags": [
+"productivity",
+"task",
+"automation"
+],
+"isPromoted": false,
+"weight": 10
+},
+{
+"id": "tg-filetobot",
+"title": "File to Bot",
+"type": "bot",
+"deeplink": "https://t.me/filetobot",
+"shortDescription": "Хранение файлов в Telegram.",
+"longDescription": "Сервис для загрузки и хранения файлов всех типов в облаке Telegram с быстрым доступом и возможностью делиться ссылками.",
+"functions": [
+"integrate"
+],
+"topics": [
+"productivity"
+],
+"primaryTopic": "productivity",
+"language": "multi",
+"compat": "L0",
+"audience": "all",
+"formats": [
+"text"
+],
+"tags": [
+"productivity",
+"task",
+"automation"
+],
+"isPromoted": false,
+"weight": 10
+},
+{
+"id": "tg-fileconverterbot",
+"title": "File Converter Bot",
+"type": "bot",
+"deeplink": "https://t.me/fileconverterbot",
+"shortDescription": "Конвертация файлов в разные форматы.",
+"longDescription": "Бот позволяет конвертировать документы, изображения и другие файлы между различными форматами прямо в чате Telegram.",
+"functions": [
+"render"
+],
+"topics": [
+"productivity"
+],
+"primaryTopic": "productivity",
+"language": "multi",
+"compat": "L0",
+"audience": "all",
+"formats": [
+"text"
+],
+"tags": [
+"productivity",
+"task",
+"automation"
+],
+"isPromoted": false,
+"weight": 10
+},
+{
+"id": "tg-getmediabot",
+"title": "GetMediaBot",
+"type": "bot",
+"deeplink": "https://t.me/getmediabot",
+"shortDescription": "Загрузка медиа из интернета.",
+"longDescription": "Бот извлекает фото, видео и аудио с веб‑страниц и социальных сетей, предоставляя их для просмотра и скачивания.",
+"functions": [
+"extract"
+],
+"topics": [
+"productivity"
+],
+"primaryTopic": "productivity",
+"language": "multi",
+"compat": "L0",
+"audience": "all",
+"formats": [
+"text",
+"image",
+"video",
+"audio"
+],
+"tags": [
+"productivity",
+"task",
+"automation"
+],
+"isPromoted": false,
+"weight": 10
+},
+{
+"id": "tg-url2imgbot",
+"title": "URL2IMG Bot",
+"type": "bot",
+"deeplink": "https://t.me/url2imgbot",
+"shortDescription": "Скриншоты веб‑страниц.",
+"longDescription": "Этот бот преобразует URL‑адреса в скриншоты или изображения, что удобно для создания превью и сохранения копий страниц.",
+"functions": [
+"render"
+],
+"topics": [
+"productivity"
+],
+"primaryTopic": "productivity",
+"language": "multi",
+"compat": "L0",
+"audience": "all",
+"formats": [
+"text",
+"image"
+],
+"tags": [
+"productivity",
+"task",
+"automation"
+],
+"isPromoted": false,
+"weight": 10
+},
+{
+"id": "tg-zoom_bot",
+"title": "Zoom Bot",
+"type": "bot",
+"deeplink": "https://t.me/zoom_bot",
+"shortDescription": "Интеграция с Zoom.",
+"longDescription": "Бот позволяет создавать встречи в Zoom из чата Telegram, управлять ссылками и получать уведомления о звонках.",
+"functions": [
+"integrate"
+],
+"topics": [
+"productivity"
+],
+"primaryTopic": "productivity",
+"language": "multi",
+"compat": "L0",
+"audience": "all",
+"formats": [
+"text"
+],
+"tags": [
+"productivity",
+"task",
+"automation"
+],
+"isPromoted": false,
+"weight": 10
+},
+{
+"id": "tg-combot",
+"title": "Combot",
+"type": "bot",
+"deeplink": "https://t.me/combot",
+"shortDescription": "Аналитика и модерация чатов.",
+"longDescription": "Combot предоставляет статистику, инструменты модерации и автоматизацию для Telegram‑групп, улучшая управление сообществом.",
+"functions": [
+"analyze",
+"automate",
+"visualize"
+],
+"topics": [
+"productivity"
+],
+"primaryTopic": "productivity",
+"language": "multi",
+"compat": "L0",
+"audience": "all",
+"formats": [
+"text"
+],
+"tags": [
+"productivity",
+"task",
+"automation"
+],
+"isPromoted": false,
+"weight": 10
+},
+{
+"id": "tg-pollbot",
+"title": "PollBot",
+"type": "bot",
+"deeplink": "https://t.me/pollbot",
+"shortDescription": "Создание опросов в Telegram.",
+"longDescription": "Бот помогает создавать и управлять опросами в чатах, собирая мнения участников легко и быстро.",
+"functions": [
+"publish"
+],
+"topics": [
+"productivity"
+],
+"primaryTopic": "productivity",
+"language": "multi",
+"compat": "L0",
+"audience": "all",
+"formats": [
+"text"
+],
+"tags": [
+"productivity",
+"task",
+"automation"
+],
+"isPromoted": false,
+"weight": 10
+},
+{
+"id": "tg-livegrambot",
+"title": "Livegram Bot",
+"type": "bot",
+"deeplink": "https://t.me/livegrambot",
+"shortDescription": "Бот для рассылок и чат‑ботов.",
+"longDescription": "Livegram позволяет создавать ботов для поддержки клиентов, отправки рассылок и управления диалогами с пользователями.",
+"functions": [
+"publish",
+"integrate"
+],
+"topics": [
+"productivity"
+],
+"primaryTopic": "productivity",
+"language": "multi",
+"compat": "L0",
+"audience": "all",
+"formats": [
+"text"
+],
+"tags": [
+"productivity",
+"task",
+"automation"
+],
+"isPromoted": false,
+"weight": 10
+},
+{
+"id": "tg-aibgremoverbot",
+"title": "AI Background Remover Bot",
+"type": "bot",
+"deeplink": "https://t.me/aibgremoverbot",
+"shortDescription": "Удаление фона с изображений.",
+"longDescription": "Используя машинное обучение, бот автоматически удаляет фон с фотографий, облегчая подготовку изображений для презентаций и дизайна.",
+"functions": [
+"edit"
+],
+"topics": [
+"productivity"
+],
+"primaryTopic": "productivity",
+"language": "multi",
+"compat": "L0",
+"audience": "all",
+"formats": [
+"text",
+"image"
+],
+"tags": [
+"productivity",
+"task",
+"automation"
+],
+"isPromoted": false,
+"weight": 10
+},
+{
+"id": "tg-airtrack_bot",
+"title": "AirTrack",
+"type": "bot",
+"deeplink": "https://t.me/airtrack_bot",
+"shortDescription": "Поиск дешёвых авиабилетов.",
+"longDescription": "Бот мониторит цены на авиабилеты, находит выгодные предложения и уведомляет об акциях и скидках.",
+"functions": [
+"search"
+],
+"topics": [
+"productivity"
+],
+"primaryTopic": "productivity",
+"language": "multi",
+"compat": "L0",
+"audience": "all",
+"formats": [
+"text"
+],
+"tags": [
+"productivity",
+"task",
+"automation"
+],
+"isPromoted": false,
+"weight": 10
+},
+{
+"id": "tg-pricetracker_bot",
+"title": "Price Tracker & Alert Bot",
+"type": "bot",
+"deeplink": "https://t.me/pricetracker_bot",
+"shortDescription": "Отслеживание цен и уведомления.",
+"longDescription": "Бот отслеживает изменения цен на товары и услуги, сообщает о снижениях и помогает делать выгодные покупки.",
+"functions": [
+"search",
+"analyze"
+],
+"topics": [
+"productivity"
+],
+"primaryTopic": "productivity",
+"language": "multi",
+"compat": "L0",
+"audience": "all",
+"formats": [
+"text"
+],
+"tags": [
+"productivity",
+"task",
+"automation"
+],
+"isPromoted": false,
+"weight": 10
+},
+{
+"id": "tg-tweetitbot",
+"title": "TweetItBot",
+"type": "bot",
+"deeplink": "https://t.me/tweetitbot",
+"shortDescription": "Постинг твитов через Telegram.",
+"longDescription": "С помощью этого бота можно отправлять твиты прямо из Telegram, планировать публикации и управлять несколькими аккаунтами.",
+"functions": [
+"publish",
+"automate"
+],
+"topics": [
+"productivity"
+],
+"primaryTopic": "productivity",
+"language": "multi",
+"compat": "L0",
+"audience": "all",
+"formats": [
+"text"
+],
+"tags": [
+"productivity",
+"task",
+"automation"
+],
+"isPromoted": false,
+"weight": 10
+},
+{
+"id": "tg-trello_bot",
+"title": "Trello Bot",
+"type": "bot",
+"deeplink": "https://t.me/trello_bot",
+"shortDescription": "Связь с Trello для задач.",
+"longDescription": "Бот интегрируется с Trello, позволяя создавать, обновлять и отслеживать задачи в досках прямо из Telegram.",
+"functions": [
+"integrate",
+"automate"
+],
+"topics": [
+"productivity"
+],
+"primaryTopic": "productivity",
+"language": "multi",
+"compat": "L0",
+"audience": "all",
+"formats": [
+"text"
+],
+"tags": [
+"productivity",
+"task",
+"automation"
+],
+"isPromoted": false,
+"weight": 10
+},
+{
+"id": "tg-progress_bot",
+"title": "Progress Bot",
+"type": "bot",
+"deeplink": "https://t.me/progress_bot",
+"shortDescription": "Отслеживание привычек и ежедневных задач.",
+"longDescription": "Бот фиксирует привычки и ежедневный прогресс, отправляет напоминания и помогает поддерживать последовательность в работе.",
+"functions": [
+"automate",
+"analyze"
+],
+"topics": [
+"productivity"
+],
+"primaryTopic": "productivity",
+"language": "multi",
+"compat": "L0",
+"audience": "all",
+"formats": [
+"text"
+],
+"tags": [
+"productivity",
+"task",
+"automation"
+],
+"isPromoted": false,
+"weight": 10
+},
+{
+"id": "tg-accountability_bot",
+"title": "Accountability Bot",
+"type": "bot",
+"deeplink": "https://t.me/accountability_bot",
+"shortDescription": "Командный контроль задач.",
+"longDescription": "Бот настроен на регулярные проверки и обновления задач, поддерживая прозрачность и ответственность в работе команд.",
+"functions": [
+"automate"
+],
+"topics": [
+"productivity"
+],
+"primaryTopic": "productivity",
+"language": "multi",
+"compat": "L0",
+"audience": "all",
+"formats": [
+"text"
+],
+"tags": [
+"productivity",
+"task",
+"automation"
+],
+"isPromoted": false,
+"weight": 10
+},
+{
+"id": "tg-streaks_bot",
+"title": "Streaks Bot",
+"type": "bot",
+"deeplink": "https://t.me/streaks_bot",
+"shortDescription": "Отслеживание ежедневных серий задач.",
+"longDescription": "Бот отправляет ежедневные напоминания, увеличивает ваш стрик при выполнении задач и предлагает гибкие настройки периодичности.",
+"functions": [
+"automate"
+],
+"topics": [
+"productivity"
+],
+"primaryTopic": "productivity",
+"language": "multi",
+"compat": "L0",
+"audience": "all",
+"formats": [
+"text"
+],
+"tags": [
+"productivity",
+"task",
+"automation"
+],
+"isPromoted": false,
+"weight": 10
+},
+{
+"id": "tg-teleexpensetracker_bot",
+"title": "TeleExpense Tracker",
+"type": "bot",
+"deeplink": "https://t.me/teleexpensetracker_bot",
+"shortDescription": "Учёт расходов в Telegram.",
+"longDescription": "Бот помогает вести учёт финансов: запись трат, синхронизация с Google Sheets, напоминания, регулярные платежи и отчёты по месяцам.",
+"functions": [
+"analyze",
+"automate",
+"visualize"
+],
+"topics": [
+"productivity"
+],
+"primaryTopic": "productivity",
+"language": "multi",
+"compat": "L0",
+"audience": "all",
+"formats": [
+"text",
+"csv"
+],
+"tags": [
+"productivity",
+"task",
+"automation"
+],
+"isPromoted": false,
+"weight": 10
+}
+],
+"grouped": {
+"technology": {
+"channels": [
+"tg-techguide",
+"tg-linuxgram",
+"tg-technohacker",
+"tg-programmingebooks",
+"tg-progchallenges",
+"tg-programmingtips",
+"tg-devchampions",
+"tg-geekschannel",
+"tg-machinelearningworld",
+"tg-codingnews",
+"tg-cspchannel",
+"tg-webdevchannel",
+"tg-frontendworld",
+"tg-thefrontend",
+"tg-iosdevchannel",
+"tg-androidreid",
+"tg-applehash",
+"tg-appleusersgroup",
+"tg-pythongroup",
+"tg-cppgroup",
+"tg-amazingphp",
+"tg-angulardevelopers",
+"tg-bsdgroup",
+"tg-programmerjokes",
+"tg-artofprogramming",
+"tg-javascript_tutorial",
+"tg-cybertechchannel",
+"tg-thedevs",
+"tg-clang",
+"tg-zeroqodecommunity"
+],
+"bots": [],
+"miniapps": [],
+"services": []
+},
+"productivity": {
+"channels": [],
+"bots": [
+"tg-pomodoro_timer_bot",
+"tg-skeddybot",
+"tg-feedreaderbot",
+"tg-filetobot",
+"tg-fileconverterbot",
+"tg-getmediabot",
+"tg-url2imgbot",
+"tg-zoom_bot",
+"tg-combot",
+"tg-pollbot",
+"tg-livegrambot",
+"tg-aibgremoverbot",
+"tg-airtrack_bot",
+"tg-pricetracker_bot",
+"tg-tweetitbot",
+"tg-trello_bot",
+"tg-progress_bot",
+"tg-accountability_bot",
+"tg-streaks_bot",
+"tg-teleexpensetracker_bot"
+],
+"miniapps": [],
+"services": []
+}
+},
+"digest_markdown": "## 💻 Dev‑каналы (technology)\n\n- Tech Guide — https://t.me/techguide
+ \n Новости технологий и советы для разработчиков.\n\n- Linuxgram — https://t.me/linuxgram
+ \n Новости о Linux и open‑source.\n\n- Technohacker — https://t.me/technohacker
+ \n Секреты хакинга и кибербезопасности.\n\n- Programming eBooks — https://t.me/programmingebooks
+ \n Собрание e‑book по программированию.\n\n- Programming Challenges — https://t.me/progchallenges
+ \n Задачи для тренировки алгоритмов.\n\n- Programming Tips — https://t.me/programmingtips
+ \n Полезные советы по программированию.\n\n- Dev Champions — https://t.me/devchampions
+ \n Сообщество разработчиков и обмен опытом.\n\n- Geeks Channel — https://t.me/geekschannel
+ \n Обзор IT‑новостей и мемы для программистов.\n\n- Machine Learning World — https://t.me/machinelearningworld
+ \n Мир машинного обучения и AI.\n\n- Coding News — https://t.me/codingnews
+ \n Обновления в мире программирования.\n\n- Computer Science & Programming — https://t.me/cspchannel
+ \n Материалы по CS и программированию.\n\n- Web Dev — https://t.me/webdevchannel
+ \n Новости и ресурсы для веб‑разработчиков.\n\n- Front End World — https://t.me/frontendworld
+ \n Все о фронтенд‑разработке.\n\n- TheFrontEnd — https://t.me/thefrontend
+ \n Фронтенд советы и подборки.\n\n- iOS Dev — https://t.me/iosdevchannel
+ \n Новости и ресурсы для iOS‑разработчиков.\n\n- Android ReId — https://t.me/androidreid
+ \n Темы по Android‑разработке.\n\n- Apple# — https://t.me/applehash
+ \n Фокус на экосистеме Apple.\n\n- Apple Users Group — https://t.me/appleusersgroup
+ \n Группа пользователей Apple и разработчиков.\n\n- Python — https://t.me/pythongroup
+ \n Канал по языку Python и библиотекам.\n\n- C/C++ Group — https://t.me/cppgroup
+ \n Обсуждение языков C и C++.\n\n- Amazing PHP — https://t.me/amazingphp
+ \n Ресурсы и советы по PHP.\n\n- Angular Developers — https://t.me/angulardevelopers
+ \n Сообщество Angular‑разработчиков.\n\n- BSD Group — https://t.me/bsdgroup
+ \n Новости про BSD и системы на его основе.\n\n- Programming Jokes — https://t.me/programmerjokes
+ \n Юмор и мемы для программистов.\n\n- The Art of Programming — https://t.me/artofprogramming
+ \n Советы и новости о программировании.\n\n- JavaScript Tutorial — https://t.me/javascript_tutorial
+ \n Учебные материалы по JavaScript.\n\n- Cyber Tech — https://t.me/cybertechchannel
+ \n Канал о кибертехнологиях и обучении.\n\n- The Devs — https://t.me/thedevs
+ \n Сообщество для разработчиков и дизайнеров.\n\n- C Language — https://t.me/clang
+ \n Задачи и инструкции по языку C.\n\n- Zeroqode Community — https://t.me/zeroqodecommunity
+ \n Сообщество нулевого кода и no‑code проектов.\n\n## 📈 Productivity боты (productivity)\n\n- Pomodoro Timer Bot — https://t.me/pomodoro_timer_bot
+ \n Таймер для техники Pomodoro.\n\n- Skeddy Bot — https://t.me/skeddybot
+ \n Голосовые и текстовые напоминания.\n\n- Feed Reader Bot — https://t.me/feedreaderbot
+ \n Подписка на RSS‑каналы.\n\n- File to Bot — https://t.me/filetobot
+ \n Хранение файлов в Telegram.\n\n- File Converter Bot — https://t.me/fileconverterbot
+ \n Конвертация файлов в разные форматы.\n\n- GetMediaBot — https://t.me/getmediabot
+ \n Загрузка медиа из интернета.\n\n- URL2IMG Bot — https://t.me/url2imgbot
+ \n Скриншоты веб‑страниц.\n\n- Zoom Bot — https://t.me/zoom_bot
+ \n Интеграция с Zoom.\n\n- Combot — https://t.me/combot
+ \n Аналитика и модерация чатов.\n\n- PollBot — https://t.me/pollbot
+ \n Создание опросов в Telegram.\n\n- Livegram Bot — https://t.me/livegrambot
+ \n Бот для рассылок и чат‑ботов.\n\n- AI Background Remover Bot — https://t.me/aibgremoverbot
+ \n Удаление фона с изображений.\n\n- AirTrack — https://t.me/airtrack_bot
+ \n Поиск дешёвых авиабилетов.\n\n- Price Tracker & Alert Bot — https://t.me/pricetracker_bot
+ \n Отслеживание цен и уведомления.\n\n- TweetItBot — https://t.me/tweetitbot
+ \n Постинг твитов через Telegram.\n\n- Trello Bot — https://t.me/trello_bot
+ \n Связь с Trello для задач.\n\n- Progress Bot — https://t.me/progress_bot
+ \n Отслеживание привычек и ежедневных задач.\n\n- Accountability Bot — https://t.me/accountability_bot
+ \n Командный контроль задач.\n\n- Streaks Bot — https://t.me/streaks_bot
+ \n Отслеживание ежедневных серий задач.\n\n- TeleExpense Tracker — https://t.me/teleexpensetracker_bot
+ \n Учёт расходов в Telegram."
+}
