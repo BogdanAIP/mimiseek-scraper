@@ -1,0 +1,1482 @@
+[
+  {
+    "id": "tg-musictop",
+    "title": "Music TOP",
+    "type": "channel",
+    "deeplink": "https://t.me/musictop",
+    "shortDescription": "Канал с современной музыкой и новым звучанием без рекламы.",
+    "longDescription": "Music TOP — телеграм‑канал, где публикуют актуальные композиции с современным звучанием. Здесь нет навязчивой рекламы, только свежие треки разных жанров【370801480946347†L48-L53】.",
+    "functions": [
+      "publish"
+    ],
+    "topics": [
+      "music"
+    ],
+    "primaryTopic": "music",
+    "language": "ru",
+    "compat": "L0",
+    "audience": "all",
+    "formats": [
+      "audio",
+      "text"
+    ],
+    "tags": [
+      "ru-channel"
+    ],
+    "isPromoted": false,
+    "weight": 10
+  },
+  {
+    "id": "tg-muztv",
+    "title": "MUZ-TV",
+    "type": "channel",
+    "deeplink": "https://t.me/muztv",
+    "shortDescription": "Официальный канал МУЗ‑ТВ с новостями шоу‑бизнеса.",
+    "longDescription": "Канал MUZ‑TV публикует свежие новости шоу‑бизнеса, эксклюзивные материалы, а также фото и видео российских звёзд в легком юмористическом стиле【370801480946347†L59-L63】.",
+    "functions": [
+      "publish"
+    ],
+    "topics": [
+      "music"
+    ],
+    "primaryTopic": "music",
+    "language": "ru",
+    "compat": "L0",
+    "audience": "all",
+    "formats": [
+      "video",
+      "audio",
+      "text"
+    ],
+    "tags": [
+      "ru-channel"
+    ],
+    "isPromoted": false,
+    "weight": 10
+  },
+  {
+    "id": "tg-vkmusic_channel",
+    "title": "VK Music Playlists",
+    "type": "channel",
+    "deeplink": "https://t.me/vkmusic_channel",
+    "shortDescription": "Канал для новых релизов и тематических плейлистов от VK Music.",
+    "longDescription": "VK Music Playlists — канал, где публикуют свежие релизы и тематические плейлисты. В ленте появляются как новинки, так и проверенные временем треки【370801480946347†L67-L70】.",
+    "functions": [
+      "publish"
+    ],
+    "topics": [
+      "music"
+    ],
+    "primaryTopic": "music",
+    "language": "ru",
+    "compat": "L0",
+    "audience": "all",
+    "formats": [
+      "audio",
+      "text"
+    ],
+    "tags": [
+      "ru-channel"
+    ],
+    "isPromoted": false,
+    "weight": 10
+  },
+  {
+    "id": "tg-yandexmusic_live",
+    "title": "Yandex Music Live",
+    "type": "channel",
+    "deeplink": "https://t.me/yandexmusic_live",
+    "shortDescription": "Официальный канал сервиса Яндекс Музыка с интервью и хит‑парадами.",
+    "longDescription": "Yandex Music Live — официальная площадка Яндекс Музыки. Здесь регулярно публикуют эксклюзивные интервью с популярными артистами, бэкстейдж и факты о клипах, подборки топ‑треков и клипов, а также свежие музыкальные новости【370801480946347†L76-L83】.",
+    "functions": [
+      "publish"
+    ],
+    "topics": [
+      "music"
+    ],
+    "primaryTopic": "music",
+    "language": "ru",
+    "compat": "L0",
+    "audience": "all",
+    "formats": [
+      "audio",
+      "video",
+      "text"
+    ],
+    "tags": [
+      "ru-channel"
+    ],
+    "isPromoted": false,
+    "weight": 10
+  },
+  {
+    "id": "tg-muscarx",
+    "title": "Muscarx",
+    "type": "channel",
+    "deeplink": "https://t.me/muscarx",
+    "shortDescription": "Треки для автомобиля и путешествий.",
+    "longDescription": "Канал Muscarx рекомендует композиции, которые приятно слушать в автомобиле или в наушниках. Посты помогают создать атмосферу поездки, превращая дорогу в саундтрек【370801480946347†L88-L93】.",
+    "functions": [
+      "publish"
+    ],
+    "topics": [
+      "music"
+    ],
+    "primaryTopic": "music",
+    "language": "ru",
+    "compat": "L0",
+    "audience": "all",
+    "formats": [
+      "audio",
+      "text"
+    ],
+    "tags": [
+      "ru-channel"
+    ],
+    "isPromoted": false,
+    "weight": 10
+  },
+  {
+    "id": "tg-trek_remix",
+    "title": "Trek Remix",
+    "type": "channel",
+    "deeplink": "https://t.me/trek_remix",
+    "shortDescription": "Горячие новинки современной российской музыки.",
+    "longDescription": "Trek Remix — канал для любителей современной российской музыки. Здесь публикуют горячие новинки звёзд и свежие треки начинающих исполнителей【370801480946347†L95-L99】.",
+    "functions": [
+      "publish"
+    ],
+    "topics": [
+      "music"
+    ],
+    "primaryTopic": "music",
+    "language": "ru",
+    "compat": "L0",
+    "audience": "all",
+    "formats": [
+      "audio",
+      "text"
+    ],
+    "tags": [
+      "ru-channel"
+    ],
+    "isPromoted": false,
+    "weight": 10
+  },
+  {
+    "id": "tg-vkmusic_online",
+    "title": "VK Music Online",
+    "type": "channel",
+    "deeplink": "https://t.me/vkmusic_online",
+    "shortDescription": "Новости VK Music: даты релизов, анонсы концертов и фото исполнителей.",
+    "longDescription": "VK Music Online — официальный канал VK Music, где сообщают о выходе альбомов и клипов, объявляют даты концертов и делятся фото и видео из жизни артистов【370801480946347†L101-L107】.",
+    "functions": [
+      "publish"
+    ],
+    "topics": [
+      "music"
+    ],
+    "primaryTopic": "music",
+    "language": "ru",
+    "compat": "L0",
+    "audience": "all",
+    "formats": [
+      "audio",
+      "video",
+      "text"
+    ],
+    "tags": [
+      "ru-channel"
+    ],
+    "isPromoted": false,
+    "weight": 10
+  },
+  {
+    "id": "tg-radiorecord",
+    "title": "Radio Record",
+    "type": "channel",
+    "deeplink": "https://t.me/radiorecord",
+    "shortDescription": "Канал клубной радиостанции Radio Record: электронная музыка и шоу‑биз.",
+    "longDescription": "Radio Record — официальный канал радиостанции, посвящённой электронной музыке. Здесь публикуются хиты клубной сцены, новости шоу‑бизнеса и даже информация о пробках【370801480946347†L111-L123】.",
+    "functions": [
+      "publish"
+    ],
+    "topics": [
+      "music"
+    ],
+    "primaryTopic": "music",
+    "language": "ru",
+    "compat": "L0",
+    "audience": "all",
+    "formats": [
+      "audio",
+      "text"
+    ],
+    "tags": [
+      "ru-channel"
+    ],
+    "isPromoted": false,
+    "weight": 10
+  },
+  {
+    "id": "tg-europaplus_radio",
+    "title": "Europa Plus Radio",
+    "type": "channel",
+    "deeplink": "https://t.me/europaplus_radio",
+    "shortDescription": "Музыкальный канал радиостанции Европа Плюс — хиты и новости шоу‑бизнеса.",
+    "longDescription": "Europa Plus Radio — телеграм‑канал популярной радиостанции, где публикуют актуальные хиты, новости отечественного и мирового шоу‑бизнеса и информацию о дорожной обстановке【370801480946347†L111-L123】.",
+    "functions": [
+      "publish"
+    ],
+    "topics": [
+      "music"
+    ],
+    "primaryTopic": "music",
+    "language": "ru",
+    "compat": "L0",
+    "audience": "all",
+    "formats": [
+      "audio",
+      "text"
+    ],
+    "tags": [
+      "ru-channel"
+    ],
+    "isPromoted": false,
+    "weight": 10
+  },
+  {
+    "id": "tg-avtoradioru",
+    "title": "Avtoradio",
+    "type": "channel",
+    "deeplink": "https://t.me/avtoradioru",
+    "shortDescription": "Канал Авторадио с хитовыми композициями, новостями и дорожной информацией.",
+    "longDescription": "Avtoradio — официальный канал одноимённой радиостанции. Здесь можно найти самые популярные песни, узнавать новости шоу‑бизнеса и получать информацию о пробках【370801480946347†L111-L123】.",
+    "functions": [
+      "publish"
+    ],
+    "topics": [
+      "music"
+    ],
+    "primaryTopic": "music",
+    "language": "ru",
+    "compat": "L0",
+    "audience": "all",
+    "formats": [
+      "audio",
+      "text"
+    ],
+    "tags": [
+      "ru-channel"
+    ],
+    "isPromoted": false,
+    "weight": 10
+  },
+  {
+    "id": "tg-fmusbot",
+    "title": "FMUS Bot",
+    "type": "bot",
+    "deeplink": "https://t.me/fmusbot",
+    "shortDescription": "Простой бот для поиска трека по названию с быстрой выдачей MP3.",
+    "longDescription": "FMUS Bot быстро находит музыку: нужно отправить название песни, и бот возвращает MP3‑файл без лишних деталей. Отличается минимализмом и скоростью【901461576506353†L54-L56】.",
+    "functions": [
+      "search",
+      "publish"
+    ],
+    "topics": [
+      "music"
+    ],
+    "primaryTopic": "music",
+    "language": "ru",
+    "compat": "L0",
+    "audience": "all",
+    "formats": [
+      "audio",
+      "text"
+    ],
+    "tags": [
+      "ru-bot"
+    ],
+    "isPromoted": false,
+    "weight": 10
+  },
+  {
+    "id": "tg-kdmusic_bot",
+    "title": "KDMusic Bot",
+    "type": "bot",
+    "deeplink": "https://t.me/KDMusic_Bot",
+    "shortDescription": "Бот, ищущий музыку в VK, YouTube и базах Telegram.",
+    "longDescription": "KDMusic Bot ищет и отправляет музыку из различных источников — VK, YouTube, Telegram. Пользователь вводит название, а бот предлагает варианты треков【901461576506353†L48-L49】.",
+    "functions": [
+      "search",
+      "publish"
+    ],
+    "topics": [
+      "music"
+    ],
+    "primaryTopic": "music",
+    "language": "ru",
+    "compat": "L0",
+    "audience": "all",
+    "formats": [
+      "audio",
+      "text"
+    ],
+    "tags": [
+      "ru-bot"
+    ],
+    "isPromoted": false,
+    "weight": 10
+  },
+  {
+    "id": "tg-buddy_music_bot",
+    "title": "Buddy Music Bot",
+    "type": "bot",
+    "deeplink": "https://t.me/Buddy_music_bot",
+    "shortDescription": "Популярный бот для поиска и скачивания треков MP3.",
+    "longDescription": "Buddy Music Bot — один из самых популярных ботов для поиска и скачивания музыки. Он может играть песни прямо в чате, показывает обложки альбомов и позволяет выбрать нужный вариант【901461576506353†L36-L40】.",
+    "functions": [
+      "search",
+      "publish"
+    ],
+    "topics": [
+      "music"
+    ],
+    "primaryTopic": "music",
+    "language": "ru",
+    "compat": "L0",
+    "audience": "all",
+    "formats": [
+      "audio",
+      "text"
+    ],
+    "tags": [
+      "ru-bot"
+    ],
+    "isPromoted": false,
+    "weight": 10
+  },
+  {
+    "id": "tg-vkm_bot",
+    "title": "VK Music Search Bot",
+    "type": "bot",
+    "deeplink": "https://t.me/vkm_bot",
+    "shortDescription": "Бот ищет треки по названию через VK и YouTube, выдавая несколько вариантов.",
+    "longDescription": "VK Music Search Bot ищет песни по названию через базы ВКонтакте и YouTube, предлагает несколько вариантов, из которых пользователь выбирает нужный【901461576506353†L45-L46】.",
+    "functions": [
+      "search",
+      "publish"
+    ],
+    "topics": [
+      "music"
+    ],
+    "primaryTopic": "music",
+    "language": "ru",
+    "compat": "L0",
+    "audience": "all",
+    "formats": [
+      "audio",
+      "text"
+    ],
+    "tags": [
+      "ru-bot"
+    ],
+    "isPromoted": false,
+    "weight": 10
+  },
+  {
+    "id": "tg-melobot",
+    "title": "Melo Bot",
+    "type": "bot",
+    "deeplink": "https://t.me/melobot",
+    "shortDescription": "Бот для поиска музыки по названию, исполнителю или тексту.",
+    "longDescription": "Melo Bot позволяет находить композиции по названию, имени исполнителя или фрагменту текста. Работает быстро и выдаёт результаты в формате MP3【901461576506353†L51-L52】.",
+    "functions": [
+      "search",
+      "publish"
+    ],
+    "topics": [
+      "music"
+    ],
+    "primaryTopic": "music",
+    "language": "ru",
+    "compat": "L0",
+    "audience": "all",
+    "formats": [
+      "audio",
+      "text"
+    ],
+    "tags": [
+      "ru-bot"
+    ],
+    "isPromoted": false,
+    "weight": 10
+  },
+  {
+    "id": "tg-audiobot",
+    "title": "AudioBot",
+    "type": "bot",
+    "deeplink": "https://t.me/audiobot",
+    "shortDescription": "Простой бот для поиска и скачивания MP3.",
+    "longDescription": "AudioBot — удобный бот для поиска MP3‑файлов. Интерфейс минималистичен, бот часто обновляется и стабильно работает【901461576506353†L58-L59】.",
+    "functions": [
+      "search",
+      "publish"
+    ],
+    "topics": [
+      "music"
+    ],
+    "primaryTopic": "music",
+    "language": "ru",
+    "compat": "L0",
+    "audience": "all",
+    "formats": [
+      "audio",
+      "text"
+    ],
+    "tags": [
+      "ru-bot"
+    ],
+    "isPromoted": false,
+    "weight": 10
+  },
+  {
+    "id": "tg-audio_kingdom",
+    "title": "AUDIO_KINGDOM",
+    "type": "channel",
+    "deeplink": "https://t.me/AUDIO_KINGDOM",
+    "shortDescription": "Канал современного музыкального контента без рекламы.",
+    "longDescription": "AUDIO_KINGDOM — канал с подборками современной музыки. Подписчики ценят его стиль и отсутствие рекламы【901461576506353†L63-L65】.",
+    "functions": [
+      "publish"
+    ],
+    "topics": [
+      "music"
+    ],
+    "primaryTopic": "music",
+    "language": "ru",
+    "compat": "L0",
+    "audience": "all",
+    "formats": [
+      "audio",
+      "text"
+    ],
+    "tags": [
+      "ru-channel"
+    ],
+    "isPromoted": false,
+    "weight": 10
+  },
+  {
+    "id": "tg-shazammusicchartsbot",
+    "title": "Shazam Music Charts Bot",
+    "type": "bot",
+    "deeplink": "https://t.me/ShazamMusicChartsBot",
+    "shortDescription": "Бот показывает актуальные чарты Shazam по странам и регионам.",
+    "longDescription": "Shazam Music Charts Bot помогает открывать для себя новые хиты. Он отображает топы Shazam по России, Европе, США и другим регионам, что позволяет следить за трендами【901461576506353†L70-L73】.",
+    "functions": [
+      "search",
+      "publish"
+    ],
+    "topics": [
+      "music"
+    ],
+    "primaryTopic": "music",
+    "language": "multi",
+    "compat": "L0",
+    "audience": "all",
+    "formats": [
+      "audio",
+      "text"
+    ],
+    "tags": [
+      "multi-bot"
+    ],
+    "isPromoted": false,
+    "weight": 10
+  },
+  {
+    "id": "tg-radiobot",
+    "title": "RadioBot",
+    "type": "bot",
+    "deeplink": "https://t.me/RadioBot",
+    "shortDescription": "Бот с доступом к записям эфира популярных радиостанций.",
+    "longDescription": "RadioBot предоставляет доступ к архивным записям эфира известных радиостанций, которые можно сохранять и слушать в любое время【901461576506353†L75-L77】.",
+    "functions": [
+      "search",
+      "publish"
+    ],
+    "topics": [
+      "music"
+    ],
+    "primaryTopic": "music",
+    "language": "ru",
+    "compat": "L0",
+    "audience": "all",
+    "formats": [
+      "audio",
+      "text"
+    ],
+    "tags": [
+      "ru-bot"
+    ],
+    "isPromoted": false,
+    "weight": 10
+  },
+  {
+    "id": "tg-vkmusic_bot",
+    "title": "VKMusic Download Bot",
+    "type": "bot",
+    "deeplink": "https://t.me/vkmusic_bot",
+    "shortDescription": "Бот скачивает музыку из ВКонтакте по ссылке на трек или плейлист.",
+    "longDescription": "VKMusic Download Bot позволяет скачивать музыкальные файлы из ВКонтакте, просто отправив ссылку на трек или плейлист. Бот загружает MP3‑файлы прямо в чат【901461576506353†L81-L82】.",
+    "functions": [
+      "search",
+      "publish"
+    ],
+    "topics": [
+      "music"
+    ],
+    "primaryTopic": "music",
+    "language": "ru",
+    "compat": "L0",
+    "audience": "all",
+    "formats": [
+      "audio",
+      "text"
+    ],
+    "tags": [
+      "ru-bot"
+    ],
+    "isPromoted": false,
+    "weight": 10
+  },
+  {
+    "id": "tg-ytbaudiobot",
+    "title": "YtbAudioBot",
+    "type": "bot",
+    "deeplink": "https://t.me/YtbAudioBot",
+    "shortDescription": "Бот для быстрой загрузки MP3 из роликов YouTube.",
+    "longDescription": "YtbAudioBot преобразует видео с YouTube в MP3‑формат. Пользователю достаточно отправить ссылку на ролик, чтобы получить аудио файл【901461576506353†L84-L86】.",
+    "functions": [
+      "extract",
+      "publish"
+    ],
+    "topics": [
+      "music"
+    ],
+    "primaryTopic": "music",
+    "language": "multi",
+    "compat": "L0",
+    "audience": "all",
+    "formats": [
+      "audio",
+      "text"
+    ],
+    "tags": [
+      "multi-bot"
+    ],
+    "isPromoted": false,
+    "weight": 10
+  },
+  {
+    "id": "tg-youtubedlbot",
+    "title": "Youtubedl Bot",
+    "type": "bot",
+    "deeplink": "https://t.me/youtubedlbot",
+    "shortDescription": "Бот скачивает аудио с YouTube в выбранном качестве.",
+    "longDescription": "Youtubedl Bot загружает аудио дорожки из видео YouTube, предлагая выбрать качество. Подходит даже для длинных роликов【901461576506353†L92-L93】.",
+    "functions": [
+      "extract",
+      "publish"
+    ],
+    "topics": [
+      "music"
+    ],
+    "primaryTopic": "music",
+    "language": "multi",
+    "compat": "L0",
+    "audience": "all",
+    "formats": [
+      "audio",
+      "text"
+    ],
+    "tags": [
+      "multi-bot"
+    ],
+    "isPromoted": false,
+    "weight": 10
+  },
+  {
+    "id": "tg-spotify_down_bot",
+    "title": "Spotify Down Bot",
+    "type": "bot",
+    "deeplink": "https://t.me/spotify_down_bot",
+    "shortDescription": "Бот скачивает музыку с Spotify, сохраняя метаданные.",
+    "longDescription": "Spotify Down Bot позволяет загружать треки с сервиса Spotify в формате MP3, сохраняя информацию об исполнителе и альбоме【901461576506353†L95-L96】.",
+    "functions": [
+      "extract",
+      "publish"
+    ],
+    "topics": [
+      "music"
+    ],
+    "primaryTopic": "music",
+    "language": "multi",
+    "compat": "L0",
+    "audience": "all",
+    "formats": [
+      "audio",
+      "text"
+    ],
+    "tags": [
+      "multi-bot"
+    ],
+    "isPromoted": false,
+    "weight": 10
+  },
+  {
+    "id": "tg-musconvbot",
+    "title": "MusConv Bot",
+    "type": "bot",
+    "deeplink": "https://t.me/musconvbot",
+    "shortDescription": "Бот переносит музыкальные библиотеки между платформами.",
+    "longDescription": "MusConv Bot может синхронизировать вашу медиатеку между VK, YouTube, Telegram и Яндекс Музыкой. Бот авторизуется, загружает списки и переносит их на нужную платформу【901461576506353†L100-L102】.",
+    "functions": [
+      "integrate",
+      "automate"
+    ],
+    "topics": [
+      "music"
+    ],
+    "primaryTopic": "music",
+    "language": "multi",
+    "compat": "L0",
+    "audience": "all",
+    "formats": [
+      "audio",
+      "text"
+    ],
+    "tags": [
+      "multi-bot"
+    ],
+    "isPromoted": false,
+    "weight": 10
+  },
+  {
+    "id": "tg-vk2tg_bot",
+    "title": "VK2TG Bot",
+    "type": "bot",
+    "deeplink": "https://t.me/vk2tg_bot",
+    "shortDescription": "Переносит музыку из ВКонтакте в Telegram.",
+    "longDescription": "VK2TG Bot упрощает перенос ваших плейлистов из социальной сети ВКонтакте в Telegram. Достаточно авторизоваться и выбрать нужные плейлисты【901461576506353†L104-L105】.",
+    "functions": [
+      "integrate",
+      "automate"
+    ],
+    "topics": [
+      "music"
+    ],
+    "primaryTopic": "music",
+    "language": "multi",
+    "compat": "L0",
+    "audience": "all",
+    "formats": [
+      "audio",
+      "text"
+    ],
+    "tags": [
+      "multi-bot"
+    ],
+    "isPromoted": false,
+    "weight": 10
+  },
+  {
+    "id": "tg-vk2yd_bot",
+    "title": "VK2YD Bot",
+    "type": "bot",
+    "deeplink": "https://t.me/vk2yd_bot",
+    "shortDescription": "Переносит треки из VK в Яндекс Музыку.",
+    "longDescription": "VK2YD Bot переносит плейлисты и отдельные треки из ВКонтакте в Яндекс Музыку, помогая быстро заполнить коллекцию【901461576506353†L107-L108】.",
+    "functions": [
+      "integrate",
+      "automate"
+    ],
+    "topics": [
+      "music"
+    ],
+    "primaryTopic": "music",
+    "language": "multi",
+    "compat": "L0",
+    "audience": "all",
+    "formats": [
+      "audio",
+      "text"
+    ],
+    "tags": [
+      "multi-bot"
+    ],
+    "isPromoted": false,
+    "weight": 10
+  },
+  {
+    "id": "tg-voicechangerbot",
+    "title": "Voice Changer Bot",
+    "type": "bot",
+    "deeplink": "https://t.me/voicechangerbot",
+    "shortDescription": "Бот изменяет голос и позволяет накладывать эффекты на аудио.",
+    "longDescription": "Voice Changer Bot даёт возможность изменять голос при звонках или в аудиосообщениях: загружайте аудио, меняйте тембр, скорость и накладывайте эффекты【901461576506353†L111-L113】.",
+    "functions": [
+      "edit",
+      "publish"
+    ],
+    "topics": [
+      "music"
+    ],
+    "primaryTopic": "music",
+    "language": "multi",
+    "compat": "L0",
+    "audience": "all",
+    "formats": [
+      "audio",
+      "text"
+    ],
+    "tags": [
+      "multi-bot"
+    ],
+    "isPromoted": false,
+    "weight": 10
+  },
+  {
+    "id": "tg-audioconvertbot",
+    "title": "Audio Convert Bot",
+    "type": "bot",
+    "deeplink": "https://t.me/audioconvertbot",
+    "shortDescription": "Бот для нарезки, конвертации и обрезки аудио.",
+    "longDescription": "Audio Convert Bot позволяет обрезать, конвертировать и нарезать музыкальные файлы. Полезен, когда нужно подготовить мелодию для звонка или уведомления【901461576506353†L115-L116】.",
+    "functions": [
+      "edit",
+      "publish"
+    ],
+    "topics": [
+      "music"
+    ],
+    "primaryTopic": "music",
+    "language": "multi",
+    "compat": "L0",
+    "audience": "all",
+    "formats": [
+      "audio",
+      "text"
+    ],
+    "tags": [
+      "multi-bot"
+    ],
+    "isPromoted": false,
+    "weight": 10
+  },
+  {
+    "id": "tg-melodistbot",
+    "title": "Melodist Bot",
+    "type": "bot",
+    "deeplink": "https://t.me/melodistbot",
+    "shortDescription": "Бот генерирует мелодии по стилю или настроению.",
+    "longDescription": "Melodist Bot (также известный как Suno в Telegram) генерирует уникальные музыкальные мелодии. Пользователь выбирает жанр, настроение или эмоцию, и бот создаёт трек【901461576506353†L119-L125】.",
+    "functions": [
+      "render"
+    ],
+    "topics": [
+      "music"
+    ],
+    "primaryTopic": "music",
+    "language": "multi",
+    "compat": "L0",
+    "audience": "all",
+    "formats": [
+      "audio"
+    ],
+    "tags": [
+      "multi-bot"
+    ],
+    "isPromoted": false,
+    "weight": 10
+  },
+  {
+    "id": "tg-aiva_music_bot",
+    "title": "AIVA Music Bot",
+    "type": "bot",
+    "deeplink": "https://t.me/aiva_music_bot",
+    "shortDescription": "AI‑бот для генерации композиций по жанру, инструменту и настроению.",
+    "longDescription": "AIVA Music Bot использует искусственный интеллект для создания музыкальных произведений. Пользователь выбирает жанр, инструмент и настроение, а бот генерирует оригинальный трек【901461576506353†L132-L134】.",
+    "functions": [
+      "render"
+    ],
+    "topics": [
+      "music"
+    ],
+    "primaryTopic": "music",
+    "language": "multi",
+    "compat": "L0",
+    "audience": "all",
+    "formats": [
+      "audio"
+    ],
+    "tags": [
+      "multi-bot"
+    ],
+    "isPromoted": false,
+    "weight": 10
+  },
+  {
+    "id": "tg-youtubedlbot_ex",
+    "title": "Youtubedl Bot",
+    "type": "bot",
+    "deeplink": "https://t.me/youtubedlbot",
+    "shortDescription": "Бот скачивает аудио с YouTube с выбором качества.",
+    "longDescription": "Youtubedl Bot позволяет загружать аудио дорожки из YouTube‑роликов, предлагая несколько вариантов качества и поддерживая длинные видео【901461576506353†L92-L93】.",
+    "functions": [
+      "extract",
+      "publish"
+    ],
+    "topics": [
+      "music"
+    ],
+    "primaryTopic": "music",
+    "language": "multi",
+    "compat": "L0",
+    "audience": "all",
+    "formats": [
+      "audio",
+      "text"
+    ],
+    "tags": [
+      "multi-bot"
+    ],
+    "isPromoted": false,
+    "weight": 10
+  },
+  {
+    "id": "tg-sergeycanemusic",
+    "title": "Лента Кейна",
+    "type": "channel",
+    "deeplink": "https://t.me/sergeycanemusic",
+    "shortDescription": "Редактор Comma Сергей Кейн делится любимой музыкой и пересказывает зарубежные статьи.",
+    "longDescription": "Канал «Лента Кейна» ведёт Сергей Кейн, главный редактор сайта Comma. Он редко, но метко делится музыкой, которая ему нравится, и пересказывает зарубежные материалы: посты о менеджере Depeche Mode и интервью Греты Гервиг с Флоренс Уэлч【924544291530487†L49-L54】.",
+    "functions": [
+      "publish"
+    ],
+    "topics": [
+      "music"
+    ],
+    "primaryTopic": "music",
+    "language": "ru",
+    "compat": "L0",
+    "audience": "all",
+    "formats": [
+      "audio",
+      "text"
+    ],
+    "tags": [
+      "uk-channel"
+    ],
+    "isPromoted": false,
+    "weight": 10
+  },
+  {
+    "id": "tg-voicemedia",
+    "title": "VOICE",
+    "type": "channel",
+    "deeplink": "https://t.me/voicemedia",
+    "shortDescription": "Журналисты обсуждают феномены русского рэпа и пост‑советской музыки.",
+    "longDescription": "VOICE — канал, в котором журналисты Владимир Завьялов и Николай Овчинников по очереди рассказывают о феноменах русского рэпа и музыки пост‑советских стран и вспоминают свои любимые группы【924544291530487†L58-L62】.",
+    "functions": [
+      "publish"
+    ],
+    "topics": [
+      "music"
+    ],
+    "primaryTopic": "music",
+    "language": "ru",
+    "compat": "L0",
+    "audience": "all",
+    "formats": [
+      "audio",
+      "text"
+    ],
+    "tags": [
+      "uk-channel"
+    ],
+    "isPromoted": false,
+    "weight": 10
+  },
+  {
+    "id": "tg-musicgeek",
+    "title": "Музыкальный гик",
+    "type": "channel",
+    "deeplink": "https://t.me/musicgeek",
+    "shortDescription": "Канал Алексея Бондаренко о зарубежной и украинской музыке.",
+    "longDescription": "Музыкальный гик — личный канал Алексея Бондаренко, главного редактора Liroom. Он субъективно рассказывает о зарубежной и украинской музыке и ведёт рубрику ‘100 альбомов украинской музыки’【924544291530487†L66-L71】.",
+    "functions": [
+      "publish"
+    ],
+    "topics": [
+      "music"
+    ],
+    "primaryTopic": "music",
+    "language": "ru",
+    "compat": "L0",
+    "audience": "all",
+    "formats": [
+      "audio",
+      "text"
+    ],
+    "tags": [
+      "ua-channel"
+    ],
+    "isPromoted": false,
+    "weight": 10
+  },
+  {
+    "id": "tg-muzyaka",
+    "title": "САУНД",
+    "type": "channel",
+    "deeplink": "https://t.me/muzyaka",
+    "shortDescription": "Канал о музыкальных инструментах, звучании и любимых треках автора.",
+    "longDescription": "САУНД — канал, полезный не только меломанам, но и музыкантам. Его создатель Арсений Шкунов рассказывает об инструментах, создании звучания и делится любимой музыкой【924544291530487†L76-L80】.",
+    "functions": [
+      "publish"
+    ],
+    "topics": [
+      "music"
+    ],
+    "primaryTopic": "music",
+    "language": "ru",
+    "compat": "L0",
+    "audience": "all",
+    "formats": [
+      "audio",
+      "text"
+    ],
+    "tags": [
+      "ua-channel"
+    ],
+    "isPromoted": false,
+    "weight": 10
+  },
+  {
+    "id": "tg-sashavarenitsa",
+    "title": "Много Воды",
+    "type": "channel",
+    "deeplink": "https://t.me/sashavarenitsa",
+    "shortDescription": "Лонгриды PR‑технолога Саши Вареницы о музыке, ‘Евровидении’ и культурных феноменах.",
+    "longDescription": "Много Воды — канал PR‑технолога Саши Вареницы, где он публикует большие тексты о культурных явлениях: от конкурса ‘Евровидение’ до героев соцсетей и новой украинской музыки【924544291530487†L86-L89】.",
+    "functions": [
+      "publish"
+    ],
+    "topics": [
+      "music"
+    ],
+    "primaryTopic": "music",
+    "language": "ru",
+    "compat": "L0",
+    "audience": "all",
+    "formats": [
+      "audio",
+      "text"
+    ],
+    "tags": [
+      "ua-channel"
+    ],
+    "isPromoted": false,
+    "weight": 10
+  },
+  {
+    "id": "tg-icanhearmusic",
+    "title": "I Can Hear Music",
+    "type": "channel",
+    "deeplink": "https://t.me/icanhearmusic",
+    "shortDescription": "Новости поп‑индустрии и еженедельные чартовые сводки США и Британии.",
+    "longDescription": "Канал I Can Hear Music ведёт журналистка Анна‑Мария Османова. Она рассказывает о новостях поп‑индустрии и каждую неделю публикует сводки чартов США и Великобритании【924544291530487†L93-L98】.",
+    "functions": [
+      "publish"
+    ],
+    "topics": [
+      "music"
+    ],
+    "primaryTopic": "music",
+    "language": "ru",
+    "compat": "L0",
+    "audience": "all",
+    "formats": [
+      "audio",
+      "text"
+    ],
+    "tags": [
+      "ua-channel"
+    ],
+    "isPromoted": false,
+    "weight": 10
+  },
+  {
+    "id": "tg-mr_connolly",
+    "title": "Почему я люблю Фрэнка Заппу?",
+    "type": "channel",
+    "deeplink": "https://t.me/mr_connolly",
+    "shortDescription": "Канал Артёма Рисухина об ‘странной’ музыке маленьких лейблов и SoundCloud‑поколения.",
+    "longDescription": "Почему я люблю Фрэнка Заппу? — канал журналиста Артёма Рисухина, посвящённый необычной, ‘странной’ музыке. Автор рассказывает об артистах маленьких независимых лейблов, музыкантах поколения SoundCloud и Bandcamp【924544291530487†L103-L106】.",
+    "functions": [
+      "publish"
+    ],
+    "topics": [
+      "music"
+    ],
+    "primaryTopic": "music",
+    "language": "ru",
+    "compat": "L0",
+    "audience": "all",
+    "formats": [
+      "audio",
+      "text"
+    ],
+    "tags": [
+      "ua-channel"
+    ],
+    "isPromoted": false,
+    "weight": 10
+  },
+  {
+    "id": "tg-hrtbrkr",
+    "title": "Heartbreaker Station",
+    "type": "channel",
+    "deeplink": "https://t.me/HRTBRKR",
+    "shortDescription": "Радиоведущий Ярослав Муха повествует о любимых группах и интересных фактах.",
+    "longDescription": "Heartbreaker Station — канал Ярослава Мухи, ведущего радио ‘Аристократы’. В повествовательной форме он рассказывает о своих любимых группах и делится любопытными фактами【924544291530487†L110-L114】.",
+    "functions": [
+      "publish"
+    ],
+    "topics": [
+      "music"
+    ],
+    "primaryTopic": "music",
+    "language": "ru",
+    "compat": "L0",
+    "audience": "all",
+    "formats": [
+      "audio",
+      "text"
+    ],
+    "tags": [
+      "ua-channel"
+    ],
+    "isPromoted": false,
+    "weight": 10
+  },
+  {
+    "id": "tg-lvhtg",
+    "title": "Без Лишних Слов",
+    "type": "channel",
+    "deeplink": "https://t.me/lvhtg",
+    "shortDescription": "Киевский меломан делится любимой музыкой и подборками свежих альбомов.",
+    "longDescription": "Без Лишних Слов — канал меломана Максима Комлева. С понедельника по четверг он рассказывает, что слушает сам, а в пятницу делает подборку свежих альбомов — отличный источник новых релизов【924544291530487†L119-L123】.",
+    "functions": [
+      "publish"
+    ],
+    "topics": [
+      "music"
+    ],
+    "primaryTopic": "music",
+    "language": "ru",
+    "compat": "L0",
+    "audience": "all",
+    "formats": [
+      "audio",
+      "text"
+    ],
+    "tags": [
+      "ua-channel"
+    ],
+    "isPromoted": false,
+    "weight": 10
+  },
+  {
+    "id": "tg-v_potemkahfm",
+    "title": "Чушь в массы",
+    "type": "channel",
+    "deeplink": "https://t.me/v_potemkahFM",
+    "shortDescription": "Кристина Сарханянц рассказывает о музыке от лёгкого инди до тяжёлого джаза.",
+    "longDescription": "Чушь в массы — авторский канал журналистки Кристины Сарханянц. Она говорит о музыке в самых разных проявлениях: от лёгких работ St. Vincent до тяжёлого металла с джазовыми элементами【924544291530487†L129-L131】.",
+    "functions": [
+      "publish"
+    ],
+    "topics": [
+      "music"
+    ],
+    "primaryTopic": "music",
+    "language": "ru",
+    "compat": "L0",
+    "audience": "all",
+    "formats": [
+      "audio",
+      "text"
+    ],
+    "tags": [
+      "ua-channel"
+    ],
+    "isPromoted": false,
+    "weight": 10
+  },
+  {
+    "id": "tg-btwmusicblog",
+    "title": "btw.",
+    "type": "channel",
+    "deeplink": "https://t.me/btwmusicblog",
+    "shortDescription": "Диджей Нил Тарасов делится подкастами и рекомендует альбомы, анонсирует концерты.",
+    "longDescription": "btw. — канал диджея и музыканта Нила Тарасова. Он выкладывает собственный подкаст, каждую неделю рекомендует альбомы к прослушиванию и публикует анонсы концертов【924544291530487†L137-L139】.",
+    "functions": [
+      "publish"
+    ],
+    "topics": [
+      "music"
+    ],
+    "primaryTopic": "music",
+    "language": "ru",
+    "compat": "L0",
+    "audience": "all",
+    "formats": [
+      "audio",
+      "text"
+    ],
+    "tags": [
+      "ua-channel"
+    ],
+    "isPromoted": false,
+    "weight": 10
+  },
+  {
+    "id": "tg-thequietplace",
+    "title": "Тихое Место",
+    "type": "channel",
+    "deeplink": "https://t.me/thequietplace",
+    "shortDescription": "Канал о поп‑музыке, хип‑хопе и русском рэпе.",
+    "longDescription": "Тихое Место — канал студента‑айтишника Александра Куликовского. В свободное время он рассказывает о поп‑музыке, хип‑хопе и русском рэпе, выбирая показательные и интересные примеры【924544291530487†L145-L147】.",
+    "functions": [
+      "publish"
+    ],
+    "topics": [
+      "music"
+    ],
+    "primaryTopic": "music",
+    "language": "ru",
+    "compat": "L0",
+    "audience": "all",
+    "formats": [
+      "audio",
+      "text"
+    ],
+    "tags": [
+      "ua-channel"
+    ],
+    "isPromoted": false,
+    "weight": 10
+  },
+  {
+    "id": "tg-ehainahuy",
+    "title": "Надо Ехать",
+    "type": "channel",
+    "deeplink": "https://t.me/ehainahuy",
+    "shortDescription": "Канал о мировых музыкальных фестивалях и турах артистов.",
+    "longDescription": "Надо Ехать — канал пяти друзей-фестивальщиков, которые ежедневно публикуют анонсы мировых музыкальных фестивалей и туров артистов, помогая подписчикам планировать путешествия【924544291530487†L151-L155】.",
+    "functions": [
+      "publish"
+    ],
+    "topics": [
+      "music"
+    ],
+    "primaryTopic": "music",
+    "language": "ru",
+    "compat": "L0",
+    "audience": "all",
+    "formats": [
+      "audio",
+      "text"
+    ],
+    "tags": [
+      "ua-channel"
+    ],
+    "isPromoted": false,
+    "weight": 10
+  },
+  {
+    "id": "tg-rare_90s_hip_hop",
+    "title": "Rare 90's Hip-Hop",
+    "type": "channel",
+    "deeplink": "https://t.me/rare_90s_hip_hop",
+    "shortDescription": "Плейлист любимого хип‑хопа 90‑х — бесплатно и много треков.",
+    "longDescription": "Канал Rare 90's Hip-Hop содержит огромный и бесплатный плейлист любимого хип‑хопа 1990‑х годов. Создатель делится любимыми треками для братьев и сестёр【585119441470752†L26-L27】.",
+    "functions": [
+      "publish"
+    ],
+    "topics": [
+      "music"
+    ],
+    "primaryTopic": "music",
+    "language": "en",
+    "compat": "L0",
+    "audience": "all",
+    "formats": [
+      "audio",
+      "text"
+    ],
+    "tags": [
+      "en-channel"
+    ],
+    "isPromoted": false,
+    "weight": 10
+  },
+  {
+    "id": "tg-eurodiscoteka",
+    "title": "Class Eurodance Music",
+    "type": "channel",
+    "deeplink": "https://t.me/eurodiscoteka",
+    "shortDescription": "Канал с танцевальными хитами 1980‑х, 1990‑х и 2000‑х.",
+    "longDescription": "Class Eurodance Music — канал, в котором собраны танцевальные хиты 1980‑х, 1990‑х и 2000‑х годов. Подборка порадует любителей классического евродэнса【841146165456158†L26-L27】.",
+    "functions": [
+      "publish"
+    ],
+    "topics": [
+      "music"
+    ],
+    "primaryTopic": "music",
+    "language": "en",
+    "compat": "L0",
+    "audience": "all",
+    "formats": [
+      "audio",
+      "text"
+    ],
+    "tags": [
+      "multi-channel"
+    ],
+    "isPromoted": false,
+    "weight": 10
+  },
+  {
+    "id": "tg-ele_music",
+    "title": "Electronic Music",
+    "type": "channel",
+    "deeplink": "https://t.me/Ele_music",
+    "shortDescription": "Канал для любителей электронной музыки, с тщательно отобранными треками.",
+    "longDescription": "Electronic Music — канал для поклонников электронной музыки. Администраторы выкладывают только отобранные композиции, чтобы каждый нашёл трек по настроению【179324239570245†L26-L27】.",
+    "functions": [
+      "publish"
+    ],
+    "topics": [
+      "music"
+    ],
+    "primaryTopic": "music",
+    "language": "multi",
+    "compat": "L0",
+    "audience": "all",
+    "formats": [
+      "audio",
+      "text"
+    ],
+    "tags": [
+      "multi-channel"
+    ],
+    "isPromoted": false,
+    "weight": 10
+  },
+  {
+    "id": "tg-vevocom",
+    "title": "VEVO",
+    "type": "channel",
+    "deeplink": "https://t.me/VEVOcom",
+    "shortDescription": "Канал с HD‑клипов VEVO и музыкальными видео.",
+    "longDescription": "VEVO — канал, который даёт возможность смотреть HD‑клипы и музыкальные видео. Подписчики могут наслаждаться клипами известных артистов【850870612647282†L26-L27】.",
+    "functions": [
+      "publish"
+    ],
+    "topics": [
+      "music"
+    ],
+    "primaryTopic": "music",
+    "language": "en",
+    "compat": "L0",
+    "audience": "all",
+    "formats": [
+      "video",
+      "audio",
+      "text"
+    ],
+    "tags": [
+      "en-channel"
+    ],
+    "isPromoted": false,
+    "weight": 10
+  },
+  {
+    "id": "tg-rammstein",
+    "title": "Rammstein",
+    "type": "channel",
+    "deeplink": "https://t.me/rammstein",
+    "shortDescription": "Официальный канал группы Rammstein — новости и обновления.",
+    "longDescription": "Rammstein — официальный канал немецкой группы. Здесь публикуют новости, анонсы концертов и ссылки на официальные ресурсы【317209027847368†L26-L27】.",
+    "functions": [
+      "publish"
+    ],
+    "topics": [
+      "music"
+    ],
+    "primaryTopic": "music",
+    "language": "de",
+    "compat": "L0",
+    "audience": "all",
+    "formats": [
+      "audio",
+      "video",
+      "text"
+    ],
+    "tags": [
+      "de-channel"
+    ],
+    "isPromoted": false,
+    "weight": 10
+  },
+  {
+    "id": "tg-breakbeatmusic",
+    "title": "Breakbeat Music",
+    "type": "channel",
+    "deeplink": "https://t.me/breakbeatmusic",
+    "shortDescription": "Любительский канал бесплатной breakbeat‑музыки от JJMillon.",
+    "longDescription": "Breakbeat Music — любительский канал музыканта JJMillon с бесплатной музыкой в стиле breakbeat. Подходит для тех, кто ищет редкие брейкс‑треки【220476136801218†L26-L27】.",
+    "functions": [
+      "publish"
+    ],
+    "topics": [
+      "music"
+    ],
+    "primaryTopic": "music",
+    "language": "en",
+    "compat": "L0",
+    "audience": "all",
+    "formats": [
+      "audio",
+      "text"
+    ],
+    "tags": [
+      "en-channel"
+    ],
+    "isPromoted": false,
+    "weight": 10
+  },
+  {
+    "id": "tg-musicglory",
+    "title": "MusicGlory",
+    "type": "channel",
+    "deeplink": "https://t.me/MusicGlory",
+    "shortDescription": "Канал с качественными аудио‑записями и подборками.",
+    "longDescription": "MusicGlory — канал, который позиционирует себя как ‘High Quality Zone’. Здесь публикуют качественные записи и подборки для ценителей музыки【238646186336410†L26-L27】.",
+    "functions": [
+      "publish"
+    ],
+    "topics": [
+      "music"
+    ],
+    "primaryTopic": "music",
+    "language": "en",
+    "compat": "L0",
+    "audience": "all",
+    "formats": [
+      "audio",
+      "text"
+    ],
+    "tags": [
+      "en-channel"
+    ],
+    "isPromoted": false,
+    "weight": 10
+  },
+  {
+    "id": "tg-audioconvertbot_ex",
+    "title": "Audio Convert Bot",
+    "type": "bot",
+    "deeplink": "https://t.me/audioconvertbot",
+    "shortDescription": "Бот для обрезки и конвертации музыкальных файлов.",
+    "longDescription": "Audio Convert Bot позволяет редактировать аудиофайлы: обрезать, конвертировать и создавать мелодии для звонков. Удобный инструмент для подготовки персональных треков【901461576506353†L115-L116】.",
+    "functions": [
+      "edit"
+    ],
+    "topics": [
+      "music"
+    ],
+    "primaryTopic": "music",
+    "language": "multi",
+    "compat": "L0",
+    "audience": "all",
+    "formats": [
+      "audio",
+      "text"
+    ],
+    "tags": [
+      "multi-bot"
+    ],
+    "isPromoted": false,
+    "weight": 10
+  },
+  {
+    "id": "tg-vk2yd_bot_ex",
+    "title": "VK2YD Bot",
+    "type": "bot",
+    "deeplink": "https://t.me/vk2yd_bot",
+    "shortDescription": "Бот переносит музыку из ВКонтакте в Яндекс Музыку.",
+    "longDescription": "VK2YD Bot упрощает перенос треков и плейлистов из ВКонтакте в Яндекс Музыку, экономя время и позволяя управлять коллекциями на разных сервисах【901461576506353†L107-L108】.",
+    "functions": [
+      "integrate",
+      "automate"
+    ],
+    "topics": [
+      "music"
+    ],
+    "primaryTopic": "music",
+    "language": "multi",
+    "compat": "L0",
+    "audience": "all",
+    "formats": [
+      "audio",
+      "text"
+    ],
+    "tags": [
+      "multi-bot"
+    ],
+    "isPromoted": false,
+    "weight": 10
+  },
+  {
+    "id": "tg-youtubedlbot_alt",
+    "title": "Youtubedl Bot",
+    "type": "bot",
+    "deeplink": "https://t.me/youtubedlbot",
+    "shortDescription": "Скачивание аудио с YouTube с выбором качества.",
+    "longDescription": "Youtubedl Bot поддерживает скачивание аудиодорожек из YouTube‑роликов с возможностью выбора качества и удобен даже для часовых видео【901461576506353†L92-L93】.",
+    "functions": [
+      "extract"
+    ],
+    "topics": [
+      "music"
+    ],
+    "primaryTopic": "music",
+    "language": "multi",
+    "compat": "L0",
+    "audience": "all",
+    "formats": [
+      "audio",
+      "text"
+    ],
+    "tags": [
+      "multi-bot"
+    ],
+    "isPromoted": false,
+    "weight": 10
+  }
+]

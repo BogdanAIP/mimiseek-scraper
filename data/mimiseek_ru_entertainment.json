@@ -1,0 +1,1552 @@
+{
+  "resources": [
+    {
+      "id": "tg-leoday",
+      "title": "Леонардо Дайвинчик",
+      "type": "channel",
+      "deeplink": "https://t.me/leoday",
+      "shortDescription": "Крупнейший русскоязычный канал с мемами и сатирой.",
+      "longDescription": "Леонардо Дайвинчик — один из самых популярных мем‑каналов в русскоязычном Telegram. Здесь публикуются смешные мемы, юмористические ролики и сатирические заметки на актуальные темы, что делает его обязательным местом для любителей качественного юмора.",
+      "functions": [
+        "publish"
+      ],
+      "topics": [
+        "entertainment"
+      ],
+      "primaryTopic": "entertainment",
+      "language": "ru",
+      "compat": "L0",
+      "audience": "all",
+      "formats": [
+        "text",
+        "image",
+        "video"
+      ],
+      "tags": [
+        "memes",
+        "humor",
+        "ru-channel"
+      ],
+      "isPromoted": false,
+      "weight": 10
+    },
+    {
+      "id": "tg-memachh",
+      "title": "МЕМАЧ",
+      "type": "channel",
+      "deeplink": "https://t.me/memachh",
+      "shortDescription": "Один из крупнейших мем‑каналов, собирающий подборки из разных соцсетей.",
+      "longDescription": "МЕМАЧ — популярный канал с миллионами подписчиков, который ежедневно собирает смешные картинки, видео и посты из Telegram, TikTok, Instagram и других площадок. Канал оперативно публикует актуальные мемы и необычный юмор, привлекая широкую аудиторию.",
+      "functions": [
+        "publish"
+      ],
+      "topics": [
+        "entertainment"
+      ],
+      "primaryTopic": "entertainment",
+      "language": "ru",
+      "compat": "L0",
+      "audience": "all",
+      "formats": [
+        "text",
+        "image",
+        "video"
+      ],
+      "tags": [
+        "memes",
+        "humor",
+        "ru-channel"
+      ],
+      "isPromoted": false,
+      "weight": 10
+    },
+    {
+      "id": "tg-dvachannel",
+      "title": "Двач",
+      "type": "channel",
+      "deeplink": "https://t.me/dvachannel",
+      "shortDescription": "Официальный канал имиджборда 2ch.su с пользовательскими мемами.",
+      "longDescription": "Двач — официальный Telegram‑канал популярной имиджборды 2ch.su. На канале публикуются оригинальные мемы, созданные пользователями, острый юмор и актуальные обсуждения, что привлекает миллионы подписчиков.",
+      "functions": [
+        "publish"
+      ],
+      "topics": [
+        "entertainment"
+      ],
+      "primaryTopic": "entertainment",
+      "language": "ru",
+      "compat": "L0",
+      "audience": "all",
+      "formats": [
+        "text",
+        "image",
+        "video"
+      ],
+      "tags": [
+        "memes",
+        "humor",
+        "ru-channel"
+      ],
+      "isPromoted": false,
+      "weight": 10
+    },
+    {
+      "id": "tg-femalememes",
+      "title": "Female Memes",
+      "type": "channel",
+      "deeplink": "https://t.me/femalememes",
+      "shortDescription": "Мемы и юмор для девушек.",
+      "longDescription": "Female Memes — канал, посвящённый мемам и шуткам, адресованным в первую очередь женской аудитории. Здесь публикуются забавные картинки, видео и тексты на темы, которые близки девушкам, с лёгкой ироничной подачей.",
+      "functions": [
+        "publish"
+      ],
+      "topics": [
+        "entertainment"
+      ],
+      "primaryTopic": "entertainment",
+      "language": "ru",
+      "compat": "L0",
+      "audience": "all",
+      "formats": [
+        "text",
+        "image",
+        "video"
+      ],
+      "tags": [
+        "memes",
+        "humor",
+        "women",
+        "ru-channel"
+      ],
+      "isPromoted": false,
+      "weight": 10
+    },
+    {
+      "id": "tg-batek_official",
+      "title": "BATEK_OFFICIAL",
+      "type": "channel",
+      "deeplink": "https://t.me/batek_official",
+      "shortDescription": "Сатирический канал о постсоветской действительности с мерчем.",
+      "longDescription": "BATEK_OFFICIAL — авторский канал, публикующий сатирические мемы и шутки о постсоветских реалиях. Контент сопровождается узнаваемым стилем и мерчем для фанатов, что выделяет канал среди других юмористических ресурсов.",
+      "functions": [
+        "publish"
+      ],
+      "topics": [
+        "entertainment"
+      ],
+      "primaryTopic": "entertainment",
+      "language": "ru",
+      "compat": "L0",
+      "audience": "all",
+      "formats": [
+        "text",
+        "image"
+      ],
+      "tags": [
+        "memes",
+        "satire",
+        "ru-channel"
+      ],
+      "isPromoted": false,
+      "weight": 10
+    },
+    {
+      "id": "tg-relax_hr",
+      "title": "Relax HR #hrIT",
+      "type": "channel",
+      "deeplink": "https://t.me/relax_hr",
+      "shortDescription": "Мемы и шутки о работе HR и IT.",
+      "longDescription": "Relax HR #hrIT — канал для рекрутеров и айтишников, где публикуют смешные мемы о подборе персонала, интервью и жизни в офисе. Подписчики делятся собственными историями, вакансий здесь нет — только юмор【948223031971636†L140-L159】.",
+      "functions": [
+        "publish"
+      ],
+      "topics": [
+        "entertainment",
+        "business"
+      ],
+      "primaryTopic": "entertainment",
+      "language": "ru",
+      "compat": "L0",
+      "audience": "all",
+      "formats": [
+        "text",
+        "image"
+      ],
+      "tags": [
+        "memes",
+        "HR",
+        "IT",
+        "ru-channel"
+      ],
+      "isPromoted": false,
+      "weight": 10
+    },
+    {
+      "id": "tg-recruiting_life",
+      "title": "Recruiting and Life",
+      "type": "channel",
+      "deeplink": "https://t.me/recruiting_life",
+      "shortDescription": "Мемы о рекрутинге и кандидатах.",
+      "longDescription": "Recruiting and Life — канал с мемами и шутками о рекрутинге: здесь высмеивают работу рекрутеров, переговоры с кандидатами, смешные вакансии и рабочие будни. Встречаются и видео‑мемы с тонким юмором【948223031971636†L167-L180】.",
+      "functions": [
+        "publish"
+      ],
+      "topics": [
+        "entertainment",
+        "business"
+      ],
+      "primaryTopic": "entertainment",
+      "language": "ru",
+      "compat": "L0",
+      "audience": "all",
+      "formats": [
+        "text",
+        "image",
+        "video"
+      ],
+      "tags": [
+        "memes",
+        "recruiting",
+        "ru-channel"
+      ],
+      "isPromoted": false,
+      "weight": 10
+    },
+    {
+      "id": "tg-hr_memes",
+      "title": "HR Memes",
+      "type": "channel",
+      "deeplink": "https://t.me/hr_memes",
+      "shortDescription": "Мемы и шутки для HR‑специалистов.",
+      "longDescription": "HR Memes — сообщество для специалистов по подбору персонала и HR, где публикуют шутки про собеседования, кандидатов и ежедневные задачи. Канал сочетает смешные картинки, видео и истории из реальной практики【948223031971636†L189-L203】.",
+      "functions": [
+        "publish"
+      ],
+      "topics": [
+        "entertainment",
+        "business"
+      ],
+      "primaryTopic": "entertainment",
+      "language": "ru",
+      "compat": "L0",
+      "audience": "all",
+      "formats": [
+        "text",
+        "image",
+        "video"
+      ],
+      "tags": [
+        "memes",
+        "HR",
+        "ru-channel"
+      ],
+      "isPromoted": false,
+      "weight": 10
+    },
+    {
+      "id": "tg-client",
+      "title": "Клиент (Colleagues)",
+      "type": "channel",
+      "deeplink": "https://t.me/client",
+      "shortDescription": "Юмор из офисной жизни: фразы про коллег.",
+      "longDescription": "Канал «Клиент» — источник коротких смешных фраз и ситуаций из корпоративной жизни. Посты обычно начинаются со слова «коллеги», что делает их узнаваемыми и позволяет подписчикам легко идентифицировать себя с героями этих ситуаций【948223031971636†L208-L219】.",
+      "functions": [
+        "publish"
+      ],
+      "topics": [
+        "entertainment",
+        "business"
+      ],
+      "primaryTopic": "entertainment",
+      "language": "ru",
+      "compat": "L0",
+      "audience": "all",
+      "formats": [
+        "text"
+      ],
+      "tags": [
+        "office",
+        "humor",
+        "ru-channel"
+      ],
+      "isPromoted": false,
+      "weight": 10
+    },
+    {
+      "id": "tg-uvoleno",
+      "title": "Уволено",
+      "type": "channel",
+      "deeplink": "https://t.me/uvoleno",
+      "shortDescription": "Мемы о работе, интервью и коллегах.",
+      "longDescription": "Канал «Уволено» публикует шутки, мемы и смешные истории о работе, собеседованиях и офисной культуре. Здесь высмеивают нелепые ситуации на рабочих местах и взаимоотношения между коллегами【948223031971636†L225-L234】.",
+      "functions": [
+        "publish"
+      ],
+      "topics": [
+        "entertainment",
+        "business"
+      ],
+      "primaryTopic": "entertainment",
+      "language": "ru",
+      "compat": "L0",
+      "audience": "all",
+      "formats": [
+        "text",
+        "image"
+      ],
+      "tags": [
+        "memes",
+        "office",
+        "ru-channel"
+      ],
+      "isPromoted": false,
+      "weight": 10
+    },
+    {
+      "id": "tg-ithumor",
+      "title": "IT Humor",
+      "type": "channel",
+      "deeplink": "https://t.me/ithumor",
+      "shortDescription": "Мемы и шутки о программистах и технологиях.",
+      "longDescription": "IT Humor — популярный канал для программистов и айтишников. Здесь публикуют мемы о программировании, технологиях, офисной жизни и айтишной культуре. В канале регулярно появляются опросы и обсуждения【948223031971636†L265-L276】.",
+      "functions": [
+        "publish"
+      ],
+      "topics": [
+        "entertainment",
+        "technology"
+      ],
+      "primaryTopic": "entertainment",
+      "language": "ru",
+      "compat": "L0",
+      "audience": "all",
+      "formats": [
+        "text",
+        "image",
+        "video"
+      ],
+      "tags": [
+        "IT",
+        "memes",
+        "ru-channel"
+      ],
+      "isPromoted": false,
+      "weight": 10
+    },
+    {
+      "id": "tg-raby_galernye",
+      "title": "Рабы галерные",
+      "type": "channel",
+      "deeplink": "https://t.me/raby_galernye",
+      "shortDescription": "Мемы о жизни программиста и корпоративной рутине.",
+      "longDescription": "Канал «Рабы галерные» иронизирует над буднями программиста: здесь публикуют шутки, видео и картинки о работе в крупных IT‑компаниях, дедлайнах, сборках и смешных ситуациях из мира разработки【948223031971636†L284-L294】.",
+      "functions": [
+        "publish"
+      ],
+      "topics": [
+        "entertainment",
+        "technology"
+      ],
+      "primaryTopic": "entertainment",
+      "language": "ru",
+      "compat": "L0",
+      "audience": "all",
+      "formats": [
+        "text",
+        "image",
+        "video"
+      ],
+      "tags": [
+        "programming",
+        "memes",
+        "ru-channel"
+      ],
+      "isPromoted": false,
+      "weight": 10
+    },
+    {
+      "id": "tg-mamkin_programmist",
+      "title": "Мамкин программист",
+      "type": "channel",
+      "deeplink": "https://t.me/mamkin_programmist",
+      "shortDescription": "Мемы про жизнь начинающего программиста.",
+      "longDescription": "«Мамкин программист» — канал для тех, кто только начинает свой путь в IT. Здесь собирают мемы и шутки о первых шагах в программировании, учебе, первых заказах и смешных провалах на фрилансе【948223031971636†L300-L309】.",
+      "functions": [
+        "publish"
+      ],
+      "topics": [
+        "entertainment",
+        "technology"
+      ],
+      "primaryTopic": "entertainment",
+      "language": "ru",
+      "compat": "L0",
+      "audience": "all",
+      "formats": [
+        "text",
+        "image"
+      ],
+      "tags": [
+        "programming",
+        "memes",
+        "ru-channel"
+      ],
+      "isPromoted": false,
+      "weight": 10
+    },
+    {
+      "id": "tg-konvert",
+      "title": "Конверт",
+      "type": "channel",
+      "deeplink": "https://t.me/konvert",
+      "shortDescription": "Мемы о маркетинге, email и рекламе.",
+      "longDescription": "Конверт — маркетинговый канал, в котором публикуют весёлые мемы, забавные истории о рекламе и email‑маркетинге, а также полезные советы по продвижению. Мемы здесь чередуются с аналитическими материалами【948223031971636†L315-L323】.",
+      "functions": [
+        "publish"
+      ],
+      "topics": [
+        "entertainment",
+        "business"
+      ],
+      "primaryTopic": "entertainment",
+      "language": "ru",
+      "compat": "L0",
+      "audience": "all",
+      "formats": [
+        "text",
+        "image",
+        "video"
+      ],
+      "tags": [
+        "marketing",
+        "memes",
+        "ru-channel"
+      ],
+      "isPromoted": false,
+      "weight": 10
+    },
+    {
+      "id": "tg-dankestmemes",
+      "title": "Dankest Memes / Данкест Мемы",
+      "type": "channel",
+      "deeplink": "https://t.me/dankestmemes",
+      "shortDescription": "Подборка мемов на любую тему.",
+      "longDescription": "Канал «Dankest Memes / Данкест Мемы» публикует самые свежие мемы и шутки на разнообразные темы — от кино и игр до повседневных ситуаций. Зрители находят здесь как классические мемы, так и уникальные подборки【948223031971636†L331-L341】.",
+      "functions": [
+        "publish"
+      ],
+      "topics": [
+        "entertainment"
+      ],
+      "primaryTopic": "entertainment",
+      "language": "ru",
+      "compat": "L0",
+      "audience": "all",
+      "formats": [
+        "text",
+        "image",
+        "video"
+      ],
+      "tags": [
+        "memes",
+        "ru-channel"
+      ],
+      "isPromoted": false,
+      "weight": 10
+    },
+    {
+      "id": "tg-tvitota",
+      "title": "Tvitota",
+      "type": "channel",
+      "deeplink": "https://t.me/tvitota",
+      "shortDescription": "Мемы и забавные посты из Twitter.",
+      "longDescription": "Канал Tvitota собирает юмористические твиты, комментарии и мемы из социальной сети Twitter. Здесь можно найти подборки забавных постов, необычных реакций и остроумных шуток【948223031971636†L345-L353】.",
+      "functions": [
+        "publish"
+      ],
+      "topics": [
+        "entertainment"
+      ],
+      "primaryTopic": "entertainment",
+      "language": "ru",
+      "compat": "L0",
+      "audience": "all",
+      "formats": [
+        "text",
+        "image"
+      ],
+      "tags": [
+        "twitter",
+        "memes",
+        "ru-channel"
+      ],
+      "isPromoted": false,
+      "weight": 10
+    },
+    {
+      "id": "tg-memepedia",
+      "title": "Мемапедия (Mamapedia)",
+      "type": "channel",
+      "deeplink": "https://t.me/memepedia",
+      "shortDescription": "Канал о мемах и культуре мемов.",
+      "longDescription": "Мемапедия — канал для тех, кто хочет знать больше о происхождении мемов. Здесь публикуются истории появления популярных мемов, аналитика интернет‑культуры и подборки известных шуток【948223031971636†L361-L371】.",
+      "functions": [
+        "publish",
+        "analyze"
+      ],
+      "topics": [
+        "entertainment",
+        "culture"
+      ],
+      "primaryTopic": "entertainment",
+      "language": "ru",
+      "compat": "L0",
+      "audience": "all",
+      "formats": [
+        "text",
+        "image"
+      ],
+      "tags": [
+        "memes",
+        "analysis",
+        "ru-channel"
+      ],
+      "isPromoted": false,
+      "weight": 10
+    },
+    {
+      "id": "tg-abstractmemes",
+      "title": "Abstract Memes for the Elite",
+      "type": "channel",
+      "deeplink": "https://t.me/abstractmemes",
+      "shortDescription": "Абстрактные мемы о новостях, сериалах и играх.",
+      "longDescription": "Канал «Abstract Memes for the Elite» посвящён более сложным и абстрактным шуткам о новостях, сериалах, животных и видеоиграх. Подписчики наслаждаются интеллектуальным юмором с тонкими отсылками【948223031971636†L377-L387】.",
+      "functions": [
+        "publish"
+      ],
+      "topics": [
+        "entertainment",
+        "culture"
+      ],
+      "primaryTopic": "entertainment",
+      "language": "ru",
+      "compat": "L0",
+      "audience": "all",
+      "formats": [
+        "text",
+        "image",
+        "video"
+      ],
+      "tags": [
+        "abstract",
+        "memes",
+        "ru-channel"
+      ],
+      "isPromoted": false,
+      "weight": 10
+    },
+    {
+      "id": "tg-memnatasha",
+      "title": "МЕМНАТАША (MemNatasha)",
+      "type": "channel",
+      "deeplink": "https://t.me/memnatasha",
+      "shortDescription": "Мемы о котах с именем Наташа.",
+      "longDescription": "МЕМНАТАША — тематический канал для любителей котиков. Здесь публикуются забавные картинки и видео с котами, в которых фигурирует персонаж Наташа, иронично комментирующий происходящее【948223031971636†L394-L404】.",
+      "functions": [
+        "publish"
+      ],
+      "topics": [
+        "entertainment",
+        "animals"
+      ],
+      "primaryTopic": "entertainment",
+      "language": "ru",
+      "compat": "L0",
+      "audience": "all",
+      "formats": [
+        "text",
+        "image",
+        "video"
+      ],
+      "tags": [
+        "cats",
+        "memes",
+        "ru-channel"
+      ],
+      "isPromoted": false,
+      "weight": 10
+    },
+    {
+      "id": "tg-sukruma",
+      "title": "Sukruma Channel",
+      "type": "channel",
+      "deeplink": "https://t.me/sukruma",
+      "shortDescription": "Мемы и смешные картинки с животными.",
+      "longDescription": "Sukruma — канал с мемами про животных, где можно найти смешные картинки и видео с котиками, собаками и другими питомцами. Контент подходит для поднятия настроения【948223031971636†L412-L420】.",
+      "functions": [
+        "publish"
+      ],
+      "topics": [
+        "entertainment",
+        "animals"
+      ],
+      "primaryTopic": "entertainment",
+      "language": "ru",
+      "compat": "L0",
+      "audience": "all",
+      "formats": [
+        "image",
+        "video"
+      ],
+      "tags": [
+        "animals",
+        "memes",
+        "ru-channel"
+      ],
+      "isPromoted": false,
+      "weight": 10
+    },
+    {
+      "id": "tg-gifki_ot_droidi",
+      "title": "Gifки от Droidi",
+      "type": "channel",
+      "deeplink": "https://t.me/gifki_ot_droidi",
+      "shortDescription": "Гифки с забавными животными и ситуациями.",
+      "longDescription": "Канал «Gifки от Droidi» публикует короткие анимированные гифки с животными и забавными сценами. Подписчики найдут здесь много милых и смешных клипов【948223031971636†L426-L434】.",
+      "functions": [
+        "publish"
+      ],
+      "topics": [
+        "entertainment",
+        "animals"
+      ],
+      "primaryTopic": "entertainment",
+      "language": "ru",
+      "compat": "L0",
+      "audience": "all",
+      "formats": [
+        "video"
+      ],
+      "tags": [
+        "gifs",
+        "animals",
+        "ru-channel"
+      ],
+      "isPromoted": false,
+      "weight": 10
+    },
+    {
+      "id": "tg-delaimemes",
+      "title": "Делай мемы: шаблоны",
+      "type": "channel",
+      "deeplink": "https://t.me/delaimemes",
+      "shortDescription": "Шаблоны для создания мемов и роликов.",
+      "longDescription": "«Делай мемы: шаблоны» — канал, где публикуются видео и изображенные шаблоны для создания мемов. Подписчики получают доступ к заготовкам для популярного юмора и могут создавать свои ролики【948223031971636†L441-L452】.",
+      "functions": [
+        "publish",
+        "render"
+      ],
+      "topics": [
+        "entertainment"
+      ],
+      "primaryTopic": "entertainment",
+      "language": "ru",
+      "compat": "L0",
+      "audience": "all",
+      "formats": [
+        "image",
+        "video"
+      ],
+      "tags": [
+        "templates",
+        "memes",
+        "ru-channel"
+      ],
+      "isPromoted": false,
+      "weight": 10
+    },
+    {
+      "id": "tg-memes_without_caption",
+      "title": "Мемы без подписи | Видеошаблоны",
+      "type": "channel",
+      "deeplink": "https://t.me/memes_without_caption",
+      "shortDescription": "Канал с видеошаблонами для мемов без текста.",
+      "longDescription": "«Мемы без подписи | Видеошаблоны» собирает короткие видеошаблоны для создания мемов. Подписчики могут добавить свой текст или озвучку, чтобы сделать собственный смешной ролик【948223031971636†L459-L468】.",
+      "functions": [
+        "publish",
+        "render"
+      ],
+      "topics": [
+        "entertainment"
+      ],
+      "primaryTopic": "entertainment",
+      "language": "ru",
+      "compat": "L0",
+      "audience": "all",
+      "formats": [
+        "video"
+      ],
+      "tags": [
+        "templates",
+        "videos",
+        "ru-channel"
+      ],
+      "isPromoted": false,
+      "weight": 10
+    },
+    {
+      "id": "tg-memes_from_reels",
+      "title": "Мемы из Reels | Шаблоны",
+      "type": "channel",
+      "deeplink": "https://t.me/memes_from_reels",
+      "shortDescription": "Шаблоны видео из Reels для создания мемов.",
+      "longDescription": "Канал «Мемы из Reels | Шаблоны» публикует оригинальные видеошаблоны из Reels, которые можно использовать для создания мемов. Подписчики получают свежий видеоконтент для своих шуток【948223031971636†L475-L482】.",
+      "functions": [
+        "publish",
+        "render"
+      ],
+      "topics": [
+        "entertainment"
+      ],
+      "primaryTopic": "entertainment",
+      "language": "ru",
+      "compat": "L0",
+      "audience": "all",
+      "formats": [
+        "video"
+      ],
+      "tags": [
+        "reels",
+        "templates",
+        "ru-channel"
+      ],
+      "isPromoted": false,
+      "weight": 10
+    },
+    {
+      "id": "tg-eto_nado",
+      "title": "Это надо обыграть",
+      "type": "channel",
+      "deeplink": "https://t.me/eto_nado",
+      "shortDescription": "Канал с мем‑трендами и советами по обыгрыванию шаблонов.",
+      "longDescription": "«Это надо обыграть» — канал, посвящённый трендам мемов и способам их обыгрывания. Здесь публикуют инструкции, идеи и примеры, как удачно использовать популярные шаблоны для создания собственного юмора【948223031971636†L490-L501】.",
+      "functions": [
+        "publish",
+        "compose"
+      ],
+      "topics": [
+        "entertainment",
+        "education"
+      ],
+      "primaryTopic": "entertainment",
+      "language": "ru",
+      "compat": "L0",
+      "audience": "all",
+      "formats": [
+        "text",
+        "video"
+      ],
+      "tags": [
+        "tutorials",
+        "memes",
+        "ru-channel"
+      ],
+      "isPromoted": false,
+      "weight": 10
+    },
+    {
+      "id": "tg-zadornoB",
+      "title": "ZadornoB",
+      "type": "channel",
+      "deeplink": "https://t.me/zadornoB",
+      "shortDescription": "Сообщество поклонников сатирика Михаила Задорнова.",
+      "longDescription": "Канал ZadornoB объединяет поклонников знаменитого сатирика Михаила Задорнова. Здесь публикуют его лучшие выступления и цитаты, демонстрируя, что сатирические произведения остаются актуальными【300035194833673†L44-L47】.",
+      "functions": [
+        "publish"
+      ],
+      "topics": [
+        "entertainment",
+        "culture"
+      ],
+      "primaryTopic": "entertainment",
+      "language": "ru",
+      "compat": "L0",
+      "audience": "all",
+      "formats": [
+        "text",
+        "video"
+      ],
+      "tags": [
+        "satire",
+        "classics",
+        "ru-channel"
+      ],
+      "isPromoted": false,
+      "weight": 10
+    },
+    {
+      "id": "tg-kvn_official",
+      "title": "KVN Official",
+      "type": "channel",
+      "deeplink": "https://t.me/kvn",
+      "shortDescription": "Официальный канал Международного союза КВН.",
+      "longDescription": "KVN Official — официальный канал Международного союза КВН. Подписчики находят здесь свежие новости, видеозаписи игр и анонсы, а девиз «КВН — это навсегда» подчеркивает вечную популярность юмористической игры【300035194833673†L52-L55】.",
+      "functions": [
+        "publish"
+      ],
+      "topics": [
+        "entertainment",
+        "sports"
+      ],
+      "primaryTopic": "entertainment",
+      "language": "ru",
+      "compat": "L0",
+      "audience": "all",
+      "formats": [
+        "text",
+        "video"
+      ],
+      "tags": [
+        "kvn",
+        "humor",
+        "ru-channel"
+      ],
+      "isPromoted": false,
+      "weight": 10
+    },
+    {
+      "id": "tg-botcharov",
+      "title": "Botcharov",
+      "type": "channel",
+      "deeplink": "https://t.me/botcharov",
+      "shortDescription": "Авторский канал юмориста Андрея Бочарова.",
+      "longDescription": "Botcharov — канал юмориста Андрея Бочарова, предназначенный для тех, кто хочет улыбнуться и иметь трезвый взгляд на окружающую действительность. Здесь публикуются шутки, рассуждения и ироничные заметки автора【300035194833673†L58-L62】.",
+      "functions": [
+        "publish"
+      ],
+      "topics": [
+        "entertainment",
+        "culture"
+      ],
+      "primaryTopic": "entertainment",
+      "language": "ru",
+      "compat": "L0",
+      "audience": "all",
+      "formats": [
+        "text"
+      ],
+      "tags": [
+        "author",
+        "humor",
+        "ru-channel"
+      ],
+      "isPromoted": false,
+      "weight": 10
+    },
+    {
+      "id": "tg-luka_elkov",
+      "title": "Luka E*ков",
+      "type": "channel",
+      "deeplink": "https://t.me/luka_elkov",
+      "shortDescription": "Подборка абсурдных заголовков, твитов и видео с комментариями.",
+      "longDescription": "Luka E*ков — юмористический канал, где собирают абсурдные заголовки, твиты и видеоролики, снабжая их острыми комментариями. Подписчики наслаждаются подборками из мира абсурда и интернет‑кричащих заголовков【300035194833673†L66-L69】.",
+      "functions": [
+        "publish"
+      ],
+      "topics": [
+        "entertainment"
+      ],
+      "primaryTopic": "entertainment",
+      "language": "ru",
+      "compat": "L0",
+      "audience": "all",
+      "formats": [
+        "text",
+        "image",
+        "video"
+      ],
+      "tags": [
+        "absurd",
+        "humor",
+        "ru-channel"
+      ],
+      "isPromoted": false,
+      "weight": 10
+    },
+    {
+      "id": "tg-sanyavfloride",
+      "title": "Саня во Флориде",
+      "type": "channel",
+      "deeplink": "https://t.me/sanyavfloride",
+      "shortDescription": "Сатира на американских политиков и жизнь в США от блогера в эмиграции.",
+      "longDescription": "Саня во Флориде — авторский канал блогера, переехавшего в США. Он публикует сатирические посты и мемы о жизни в Америке и американских политиках, предлагая русскоязычной аудитории взгляд изнутри【300035194833673†L72-L76】.",
+      "functions": [
+        "publish"
+      ],
+      "topics": [
+        "entertainment",
+        "culture"
+      ],
+      "primaryTopic": "entertainment",
+      "language": "ru",
+      "compat": "L0",
+      "audience": "all",
+      "formats": [
+        "text",
+        "image",
+        "video"
+      ],
+      "tags": [
+        "satire",
+        "USA",
+        "ru-channel"
+      ],
+      "isPromoted": false,
+      "weight": 10
+    },
+    {
+      "id": "tg-underpyar",
+      "title": "UnderPyar",
+      "type": "channel",
+      "deeplink": "https://t.me/underpyar",
+      "shortDescription": "Ироничный канал о журналистике, PR и маркетинге.",
+      "longDescription": "UnderPyar — канал, где обсуждают журналистику, PR и маркетинг через призму иронии и стёба. Авторы находят нелепые примеры и cringe‑истории, создавая оригинальный контент для специалистов и любителей медиа【300035194833673†L79-L83】.",
+      "functions": [
+        "publish"
+      ],
+      "topics": [
+        "entertainment",
+        "business"
+      ],
+      "primaryTopic": "entertainment",
+      "language": "ru",
+      "compat": "L0",
+      "audience": "all",
+      "formats": [
+        "text"
+      ],
+      "tags": [
+        "media",
+        "marketing",
+        "humor",
+        "ru-channel"
+      ],
+      "isPromoted": false,
+      "weight": 10
+    },
+    {
+      "id": "tg-zhuchkovmemes",
+      "title": "Жучков Business Memes",
+      "type": "channel",
+      "deeplink": "https://t.me/zhuchkovmemes",
+      "shortDescription": "Авторские мемы о бизнесе, недвижимости и продажах.",
+      "longDescription": "Жучков Business Memes — авторский канал, в котором публикуются мемы о бизнесе, недвижимости, маркетинге и продажах. Контент сочетает саркастичный юмор с инсайтами предпринимателей【300035194833673†L86-L90】.",
+      "functions": [
+        "publish"
+      ],
+      "topics": [
+        "entertainment",
+        "business"
+      ],
+      "primaryTopic": "entertainment",
+      "language": "ru",
+      "compat": "L0",
+      "audience": "all",
+      "formats": [
+        "text",
+        "image"
+      ],
+      "tags": [
+        "business",
+        "memes",
+        "ru-channel"
+      ],
+      "isPromoted": false,
+      "weight": 10
+    },
+    {
+      "id": "tg-digitalsatire",
+      "title": "Digital Satire",
+      "type": "channel",
+      "deeplink": "https://t.me/digitalsatire",
+      "shortDescription": "Сатира и мемы о новостях и технологиях.",
+      "longDescription": "Digital Satire предлагает новый взгляд на события и технологии, используя сатиру и цифровой юмор. Подписчики находят здесь остроумные мемы на актуальные темы и оригинальные комментарии【300035194833673†L92-L96】.",
+      "functions": [
+        "publish"
+      ],
+      "topics": [
+        "entertainment",
+        "technology"
+      ],
+      "primaryTopic": "entertainment",
+      "language": "ru",
+      "compat": "L0",
+      "audience": "all",
+      "formats": [
+        "text",
+        "image",
+        "video"
+      ],
+      "tags": [
+        "digital",
+        "satire",
+        "ru-channel"
+      ],
+      "isPromoted": false,
+      "weight": 10
+    },
+    {
+      "id": "tg-notbeckhamday",
+      "title": "Not Beckham's Day",
+      "type": "channel",
+      "deeplink": "https://t.me/notbeckhamday",
+      "shortDescription": "Ежедневные мемы о спорте и футболе.",
+      "longDescription": "Not Beckham's Day — канал, который каждый день публикует мемы о спортивных событиях и футболе. Шутки предназначены для всех, кто любит спорт и хочет посмотреть на игры под юмористическим углом【300035194833673†L100-L104】.",
+      "functions": [
+        "publish"
+      ],
+      "topics": [
+        "entertainment",
+        "sports"
+      ],
+      "primaryTopic": "entertainment",
+      "language": "ru",
+      "compat": "L0",
+      "audience": "all",
+      "formats": [
+        "text",
+        "image",
+        "video"
+      ],
+      "tags": [
+        "sports",
+        "memes",
+        "ru-channel"
+      ],
+      "isPromoted": false,
+      "weight": 10
+    },
+    {
+      "id": "tg-usaty_resistance",
+      "title": "Усатый резистанс (Mustache Resistance)",
+      "type": "channel",
+      "deeplink": "https://t.me/usaty_resistance",
+      "shortDescription": "Авторские шутки и футбольный юмор.",
+      "longDescription": "Канал «Усатый резистанс» специализируется на футбольном юморе. Автор публикует меткие шутки, обсуждает актуальные матчи и делится личными мыслями о спорте, что привлекает любителей оригинальной подачи【300035194833673†L106-L110】.",
+      "functions": [
+        "publish"
+      ],
+      "topics": [
+        "entertainment",
+        "sports"
+      ],
+      "primaryTopic": "entertainment",
+      "language": "ru",
+      "compat": "L0",
+      "audience": "all",
+      "formats": [
+        "text",
+        "image"
+      ],
+      "tags": [
+        "football",
+        "memes",
+        "ru-channel"
+      ],
+      "isPromoted": false,
+      "weight": 10
+    },
+    {
+      "id": "tg-callback",
+      "title": "Мы вам перезвоним (We'll call you back)",
+      "type": "channel",
+      "deeplink": "https://t.me/callback",
+      "shortDescription": "Смешные истории и мемы о корпоративной культуре.",
+      "longDescription": "Канал «Мы вам перезвоним» публикует забавные истории, мемы и рассуждения о корпоративной культуре, цифровых профессиях и маркетинге. Автор делится своим опытом офисной жизни и иронично рассматривает ежедневные ситуации【300035194833673†L119-L124】.",
+      "functions": [
+        "publish"
+      ],
+      "topics": [
+        "entertainment",
+        "business"
+      ],
+      "primaryTopic": "entertainment",
+      "language": "ru",
+      "compat": "L0",
+      "audience": "all",
+      "formats": [
+        "text",
+        "image"
+      ],
+      "tags": [
+        "office",
+        "humor",
+        "ru-channel"
+      ],
+      "isPromoted": false,
+      "weight": 10
+    },
+    {
+      "id": "tg-sarcasm_orgasm",
+      "title": "ЭкспертОШНА по мемам (Sarcasm_Orgasm)",
+      "type": "channel",
+      "deeplink": "https://t.me/sarcasm_orgasm",
+      "shortDescription": "Подборки мемов, которые подходят для фразы «Это мы?».",
+      "longDescription": "ЭкспертОШНА по мемам — канал с забавными мемами, которыми хочется поделиться с друзьями. Здесь собираются картинки и видео, вызывающие вопросы «Это мы?», что делает контент близким и понятным для подписчиков【300035194833673†L128-L132】.",
+      "functions": [
+        "publish"
+      ],
+      "topics": [
+        "entertainment"
+      ],
+      "primaryTopic": "entertainment",
+      "language": "ru",
+      "compat": "L0",
+      "audience": "all",
+      "formats": [
+        "text",
+        "image"
+      ],
+      "tags": [
+        "memes",
+        "funny",
+        "ru-channel"
+      ],
+      "isPromoted": false,
+      "weight": 10
+    },
+    {
+      "id": "tg-uboynyhumor",
+      "title": "Убойный юмор",
+      "type": "channel",
+      "deeplink": "https://t.me/uboynyhumor",
+      "shortDescription": "Коллекция смешных видео на любые темы.",
+      "longDescription": "«Убойный юмор» — канал с большой подборкой смешных видеороликов. Здесь публикуются короткие клипы на разные темы, позволяя подписчикам быстро поднять настроение【300035194833673†L134-L137】.",
+      "functions": [
+        "publish"
+      ],
+      "topics": [
+        "entertainment"
+      ],
+      "primaryTopic": "entertainment",
+      "language": "ru",
+      "compat": "L0",
+      "audience": "all",
+      "formats": [
+        "video"
+      ],
+      "tags": [
+        "video",
+        "humor",
+        "ru-channel"
+      ],
+      "isPromoted": false,
+      "weight": 10
+    },
+    {
+      "id": "tg-darwinawards",
+      "title": "Darwin Awards",
+      "type": "channel",
+      "deeplink": "https://t.me/darwinawards",
+      "shortDescription": "Чёрный юмор и истории о людях, претендующих на премию Дарвина.",
+      "longDescription": "Канал Darwin Awards публикует забавные и иногда абсурдные истории о людях, совершающих глупые поступки, достойные премии Дарвина. Контент наполнен ироничным и тёмным юмором, поэтому подходит для аудитории 18+【300035194833673†L140-L146】.",
+      "functions": [
+        "publish"
+      ],
+      "topics": [
+        "entertainment"
+      ],
+      "primaryTopic": "entertainment",
+      "language": "ru",
+      "compat": "L0",
+      "audience": "18+",
+      "formats": [
+        "text",
+        "video"
+      ],
+      "tags": [
+        "dark",
+        "humor",
+        "ru-channel"
+      ],
+      "isPromoted": false,
+      "weight": 10
+    },
+    {
+      "id": "tg-memy_kotiki",
+      "title": "Мемы про котиков",
+      "type": "channel",
+      "deeplink": "https://t.me/memy_kotiki",
+      "shortDescription": "Канал с шутками о котах и смешными картинками.",
+      "longDescription": "«Мемы про котиков» — канал, посвящённый котам и забавным ситуациям с ними. Здесь публикуют картинки, видео и шутки о кошачьих привычках и их взаимодействии с людьми【300035194833673†L148-L152】.",
+      "functions": [
+        "publish"
+      ],
+      "topics": [
+        "entertainment",
+        "animals"
+      ],
+      "primaryTopic": "entertainment",
+      "language": "ru",
+      "compat": "L0",
+      "audience": "all",
+      "formats": [
+        "image",
+        "video"
+      ],
+      "tags": [
+        "cats",
+        "memes",
+        "ru-channel"
+      ],
+      "isPromoted": false,
+      "weight": 10
+    },
+    {
+      "id": "tg-paper_airplane",
+      "title": "Paper Airplane",
+      "type": "channel",
+      "deeplink": "https://t.me/paper_airplane",
+      "shortDescription": "Безобидные шутки, мемы, комиксы и видео.",
+      "longDescription": "Paper Airplane — канал с безобидными шутками и мемами, которые можно отправлять родным и друзьям. Здесь найдутся смешные видео, картинки и комиксы для всей семьи【300035194833673†L190-L194】.",
+      "functions": [
+        "publish"
+      ],
+      "topics": [
+        "entertainment"
+      ],
+      "primaryTopic": "entertainment",
+      "language": "ru",
+      "compat": "L0",
+      "audience": "all",
+      "formats": [
+        "text",
+        "image",
+        "video"
+      ],
+      "tags": [
+        "family",
+        "humor",
+        "ru-channel"
+      ],
+      "isPromoted": false,
+      "weight": 10
+    },
+    {
+      "id": "tg-standup_tnt",
+      "title": "StandUp TNT",
+      "type": "channel",
+      "deeplink": "https://t.me/standup_tnt",
+      "shortDescription": "Официальный канал юмористического шоу «StandUp» на ТНТ.",
+      "longDescription": "StandUp TNT — официальный канал популярного телевизионного шоу «StandUp» на ТНТ. Канал делится выступлениями комиков, анонсами концертов и закулисными материалами для поклонников стендап‑комедии【300035194833673†L211-L214】.",
+      "functions": [
+        "publish"
+      ],
+      "topics": [
+        "entertainment"
+      ],
+      "primaryTopic": "entertainment",
+      "language": "ru",
+      "compat": "L0",
+      "audience": "all",
+      "formats": [
+        "video"
+      ],
+      "tags": [
+        "standup",
+        "official",
+        "ru-channel"
+      ],
+      "isPromoted": false,
+      "weight": 10
+    },
+    {
+      "id": "tg-ivanabramov",
+      "title": "Ivan Abramov Stand Up",
+      "type": "channel",
+      "deeplink": "https://t.me/ivanabramov",
+      "shortDescription": "Официальный канал стендап-комика Ивана Абрамова.",
+      "longDescription": "Канал Ивана Абрамова — участника шоу «StandUp» и популярного комика. Здесь публикуются ролики с его выступлений, анонсы шоу и личные заметки, что позволяет поклонникам следить за творчеством артиста【300035194833673†L241-L245】.",
+      "functions": [
+        "publish"
+      ],
+      "topics": [
+        "entertainment"
+      ],
+      "primaryTopic": "entertainment",
+      "language": "ru",
+      "compat": "L0",
+      "audience": "all",
+      "formats": [
+        "video"
+      ],
+      "tags": [
+        "standup",
+        "author",
+        "ru-channel"
+      ],
+      "isPromoted": false,
+      "weight": 10
+    },
+    {
+      "id": "tg-stikolschik_bot",
+      "title": "Стикольщик (Stikolschik) Bot",
+      "type": "bot",
+      "deeplink": "https://t.me/stikolschik_bot",
+      "shortDescription": "Бот, который подбирает подходящие стикеры и гифки к сообщениям.",
+      "longDescription": "Стикольщик — бот, который отвечает на сообщения подходящими по смыслу стикерами и гифками. Его можно добавить в чат, чтобы получить подборку реакции и пополнить коллекцию забавных анимаций【141597880499298†L36-L38】.",
+      "functions": [
+        "publish"
+      ],
+      "topics": [
+        "entertainment"
+      ],
+      "primaryTopic": "entertainment",
+      "language": "ru",
+      "compat": "L0",
+      "audience": "all",
+      "formats": [
+        "image",
+        "video"
+      ],
+      "tags": [
+        "stickers",
+        "gif",
+        "bot"
+      ],
+      "isPromoted": false,
+      "weight": 10
+    },
+    {
+      "id": "tg-voices_of_strangers_bot",
+      "title": "Voices of Strangers Bot",
+      "type": "bot",
+      "deeplink": "https://t.me/voicesofstrangers_bot",
+      "shortDescription": "Бот отправляет голосовые сообщения от незнакомцев для развлечения.",
+      "longDescription": "Voices of Strangers — бот для любителей голосовых сообщений. Пользователь запускает бот и получает случайные голосовые записи от незнакомцев — от песен до забавных признаний — что делает общение необычным【141597880499298†L42-L45】.",
+      "functions": [
+        "publish"
+      ],
+      "topics": [
+        "entertainment"
+      ],
+      "primaryTopic": "entertainment",
+      "language": "ru",
+      "compat": "L0",
+      "audience": "all",
+      "formats": [
+        "audio"
+      ],
+      "tags": [
+        "voice",
+        "bot",
+        "fun"
+      ],
+      "isPromoted": false,
+      "weight": 10
+    },
+    {
+      "id": "tg-aleshka_memes_bot",
+      "title": "Мемезатор «Алешенька» Bot",
+      "type": "bot",
+      "deeplink": "https://t.me/aleshka_memes_bot",
+      "shortDescription": "Бот превращает любые фотографии в мемы, добавляя подпись.",
+      "longDescription": "Мемезатор «Алешенька» — бот, который превращает любую отправленную фотографию в мем, добавляя к ней забавную подпись. Его можно подключить к групповому чату: бот будет меметизировать изображения, помеченные словом «мем»【141597880499298†L49-L52】.",
+      "functions": [
+        "render"
+      ],
+      "topics": [
+        "entertainment"
+      ],
+      "primaryTopic": "entertainment",
+      "language": "ru",
+      "compat": "L0",
+      "audience": "all",
+      "formats": [
+        "image"
+      ],
+      "tags": [
+        "memes",
+        "generator",
+        "bot"
+      ],
+      "isPromoted": false,
+      "weight": 10
+    },
+    {
+      "id": "tg-emojinate_bot",
+      "title": "Emojinate Bot",
+      "type": "bot",
+      "deeplink": "https://t.me/emojinate_bot",
+      "shortDescription": "Бот скрещивает два эмодзи и превращает их в уникальный стикер.",
+      "longDescription": "Emojinate — бот, который соединяет два эмодзи и превращает их в новый стикер. Пользователи могут получить забавные комбинации вроде плаксивых объятий, какашечного клоуна или ковбоев‑вишенок【141597880499298†L54-L57】.",
+      "functions": [
+        "render"
+      ],
+      "topics": [
+        "entertainment"
+      ],
+      "primaryTopic": "entertainment",
+      "language": "ru",
+      "compat": "L0",
+      "audience": "all",
+      "formats": [
+        "image"
+      ],
+      "tags": [
+        "emoji",
+        "stickers",
+        "bot"
+      ],
+      "isPromoted": false,
+      "weight": 10
+    },
+    {
+      "id": "tg-deepfaker_bot",
+      "title": "DeepFaker Bot",
+      "type": "bot",
+      "deeplink": "https://t.me/deepfaker_bot",
+      "shortDescription": "Бесплатный бот для создания дипфейк‑видео.",
+      "longDescription": "DeepFaker Bot — бот, который бесплатно создаёт дипфейк‑видео, объединяя загруженные ролик и фото. Пользователям нужно подождать несколько минут, чтобы получить результат, но возможности для создания смешных гифок и коротких видео окупают ожидание【141597880499298†L72-L76】.",
+      "functions": [
+        "render"
+      ],
+      "topics": [
+        "entertainment",
+        "technology"
+      ],
+      "primaryTopic": "entertainment",
+      "language": "ru",
+      "compat": "L0",
+      "audience": "all",
+      "formats": [
+        "video"
+      ],
+      "tags": [
+        "deepfake",
+        "bot",
+        "video"
+      ],
+      "isPromoted": false,
+      "weight": 10
+    },
+    {
+      "id": "tg-pranker_bot",
+      "title": "Pranker Bot",
+      "type": "bot",
+      "deeplink": "https://t.me/pranker_bot",
+      "shortDescription": "Бот для разыгрывания друзей по телефону с готовыми сценариями.",
+      "longDescription": "Pranker — бот, который помогает разыгрывать знакомых по телефону. Пользователь выбирает сценарий: бот может позвонить от имени соседей, работников секс‑шопа, коллектора или армейского друга. После разговора бот отправляет аудиозапись розыгрыша, что делает развлечения безопасными и весёлыми【141597880499298†L79-L84】.",
+      "functions": [
+        "publish"
+      ],
+      "topics": [
+        "entertainment"
+      ],
+      "primaryTopic": "entertainment",
+      "language": "ru",
+      "compat": "L0",
+      "audience": "all",
+      "formats": [
+        "audio"
+      ],
+      "tags": [
+        "prank",
+        "bot",
+        "humor"
+      ],
+      "isPromoted": false,
+      "weight": 10
+    },
+    {
+      "id": "tg-notcoubbot",
+      "title": "Not Coub Bot",
+      "type": "bot",
+      "deeplink": "https://t.me/notcoubbot",
+      "shortDescription": "Бот для создания мемов и коубов из коротких видео.",
+      "longDescription": "Not Coub Bot — сервис, позволяющий быстро создавать мемы и коубы из видео. Пользователь выбирает шаблон и загружает короткий ролик, бот накладывает клипы и выдаёт готовый коуб, а также позволяет использовать собственные шаблоны для творчества【916914167789618†L133-L142】.",
+      "functions": [
+        "render"
+      ],
+      "topics": [
+        "entertainment",
+        "video"
+      ],
+      "primaryTopic": "entertainment",
+      "language": "ru",
+      "compat": "L0",
+      "audience": "all",
+      "formats": [
+        "video"
+      ],
+      "tags": [
+        "memes",
+        "video",
+        "bot"
+      ],
+      "isPromoted": false,
+      "weight": 10
+    }
+  ],
+  "grouped": {
+    "entertainment": {
+      "channels": [
+        "tg-leoday",
+        "tg-memachh",
+        "tg-dvachannel",
+        "tg-femalememes",
+        "tg-batek_official",
+        "tg-relax_hr",
+        "tg-recruiting_life",
+        "tg-hr_memes",
+        "tg-client",
+        "tg-uvoleno",
+        "tg-ithumor",
+        "tg-raby_galernye",
+        "tg-mamkin_programmist",
+        "tg-konvert",
+        "tg-dankestmemes",
+        "tg-tvitota",
+        "tg-memepedia",
+        "tg-abstractmemes",
+        "tg-memnatasha",
+        "tg-sukruma",
+        "tg-gifki_ot_droidi",
+        "tg-delaimemes",
+        "tg-memes_without_caption",
+        "tg-memes_from_reels",
+        "tg-eto_nado",
+        "tg-zadornoB",
+        "tg-kvn_official",
+        "tg-botcharov",
+        "tg-luka_elkov",
+        "tg-sanyavfloride",
+        "tg-underpyar",
+        "tg-zhuchkovmemes",
+        "tg-digitalsatire",
+        "tg-notbeckhamday",
+        "tg-usaty_resistance",
+        "tg-callback",
+        "tg-sarcasm_orgasm",
+        "tg-uboynyhumor",
+        "tg-darwinawards",
+        "tg-memy_kotiki",
+        "tg-paper_airplane",
+        "tg-standup_tnt",
+        "tg-ivanabramov"
+      ],
+      "bots": [
+        "tg-stikolschik_bot",
+        "tg-voices_of_strangers_bot",
+        "tg-aleshka_memes_bot",
+        "tg-emojinate_bot",
+        "tg-deepfaker_bot",
+        "tg-pranker_bot",
+        "tg-notcoubbot"
+      ],
+      "miniapps": [],
+      "services": []
+    }
+  },
+  "digest_markdown": "## 🎭 Юмор и развлечения (entertainment)\n- **Леонардо Дайвинчик** — https://t.me/leoday  \n  Крупнейший русскоязычный канал с мемами и сатирой.\n- **МЕМАЧ** — https://t.me/memachh  \n  Один из крупнейших мем‑каналов, собирающий подборки из разных соцсетей.\n- **Двач** — https://t.me/dvachannel  \n  Официальный канал имиджборда 2ch.su с пользовательскими мемами.\n- **Female Memes** — https://t.me/femalememes  \n  Мемы и юмор для девушек.\n- **BATEK_OFFICIAL** — https://t.me/batek_official  \n  Сатирический канал о постсоветской действительности с мерчем.\n- **Relax HR #hrIT** — https://t.me/relax_hr  \n  Мемы и шутки о работе HR и IT.\n- **Recruiting and Life** — https://t.me/recruiting_life  \n  Мемы о рекрутинге и кандидатах.\n- **HR Memes** — https://t.me/hr_memes  \n  Мемы и шутки для HR‑специалистов.\n- **Клиент (Colleagues)** — https://t.me/client  \n  Юмор из офисной жизни: фразы про коллег.\n- **Уволено** — https://t.me/uvoleno  \n  Мемы о работе, интервью и коллегах.\n- **IT Humor** — https://t.me/ithumor  \n  Мемы и шутки о программистах и технологиях.\n- **Рабы галерные** — https://t.me/raby_galernye  \n  Мемы о жизни программиста и корпоративной рутине.\n- **Мамкин программист** — https://t.me/mamkin_programmist  \n  Мемы про жизнь начинающего программиста.\n- **Конверт** — https://t.me/konvert  \n  Мемы о маркетинге, email и рекламе.\n- **Dankest Memes / Данкест Мемы** — https://t.me/dankestmemes  \n  Подборка мемов на любую тему.\n- **Tvitota** — https://t.me/tvitota  \n  Мемы и забавные посты из Twitter.\n- **Мемапедия (Mamapedia)** — https://t.me/memepedia  \n  Канал о мемах и культуре мемов.\n- **Abstract Memes for the Elite** — https://t.me/abstractmemes  \n  Абстрактные мемы о новостях, сериалах и играх.\n- **МЕМНАТАША (MemNatasha)** — https://t.me/memnatasha  \n  Мемы о котах с именем Наташа.\n- **Sukruma Channel** — https://t.me/sukruma  \n  Мемы и смешные картинки с животными.\n- **Gifки от Droidi** — https://t.me/gifki_ot_droidi  \n  Гифки с забавными животными и ситуациями.\n- **Делай мемы: шаблоны** — https://t.me/delaimemes  \n  Шаблоны для создания мемов и роликов.\n- **Мемы без подписи | Видеошаблоны** — https://t.me/memes_without_caption  \n  Канал с видеошаблонами для мемов без текста.\n- **Мемы из Reels | Шаблоны** — https://t.me/memes_from_reels  \n  Шаблоны видео из Reels для создания мемов.\n- **Это надо обыграть** — https://t.me/eto_nado  \n  Канал с мем‑трендами и советами по обыгрыванию шаблонов.\n- **ZadornoB** — https://t.me/zadornoB  \n  Сообщество поклонников сатирика Михаила Задорнова.\n- **KVN Official** — https://t.me/kvn  \n  Официальный канал Международного союза КВН.\n- **Botcharov** — https://t.me/botcharov  \n  Авторский канал юмориста Андрея Бочарова.\n- **Luka E*ков** — https://t.me/luka_elkov  \n  Подборка абсурдных заголовков, твитов и видео с комментариями.\n- **Саня во Флориде** — https://t.me/sanyavfloride  \n  Сатира на американских политиков и жизнь в США от блогера в эмиграции.\n- **UnderPyar** — https://t.me/underpyar  \n  Ироничный канал о журналистике, PR и маркетинге.\n- **Жучков Business Memes** — https://t.me/zhuchkovmemes  \n  Авторские мемы о бизнесе, недвижимости и продажах.\n- **Digital Satire** — https://t.me/digitalsatire  \n  Сатира и мемы о новостях и технологиях.\n- **Not Beckham's Day** — https://t.me/notbeckhamday  \n  Ежедневные мемы о спорте и футболе.\n- **Усатый резистанс (Mustache Resistance)** — https://t.me/usaty_resistance  \n  Авторские шутки и футбольный юмор.\n- **Мы вам перезвоним (We'll call you back)** — https://t.me/callback  \n  Смешные истории и мемы о корпоративной культуре.\n- **ЭкспертОШНА по мемам (Sarcasm_Orgasm)** — https://t.me/sarcasm_orgasm  \n  Подборки мемов, которые подходят для фразы «Это мы?».\n- **Убойный юмор** — https://t.me/uboynyhumor  \n  Коллекция смешных видео на любые темы.\n- **Darwin Awards** — https://t.me/darwinawards  \n  Чёрный юмор и истории о людях, претендующих на премию Дарвина.\n- **Мемы про котиков** — https://t.me/memy_kotiki  \n  Канал с шутками о котах и смешными картинками.\n- **Paper Airplane** — https://t.me/paper_airplane  \n  Безобидные шутки, мемы, комиксы и видео.\n- **StandUp TNT** — https://t.me/standup_tnt  \n  Официальный канал юмористического шоу «StandUp» на ТНТ.\n- **Ivan Abramov Stand Up** — https://t.me/ivanabramov  \n  Официальный канал стендап-комика Ивана Абрамова.\n- **Стикольщик (Stikolschik) Bot** — https://t.me/stikolschik_bot  \n  Бот, который подбирает подходящие стикеры и гифки к сообщениям.\n- **Voices of Strangers Bot** — https://t.me/voicesofstrangers_bot  \n  Бот отправляет голосовые сообщения от незнакомцев для развлечения.\n- **Мемезатор «Алешенька» Bot** — https://t.me/aleshka_memes_bot  \n  Бот превращает любые фотографии в мемы, добавляя подпись.\n- **Emojinate Bot** — https://t.me/emojinate_bot  \n  Бот скрещивает два эмодзи и превращает их в уникальный стикер.\n- **DeepFaker Bot** — https://t.me/deepfaker_bot  \n  Бесплатный бот для создания дипфейк‑видео.\n- **Pranker Bot** — https://t.me/pranker_bot  \n  Бот для разыгрывания друзей по телефону с готовыми сценариями.\n- **Not Coub Bot** — https://t.me/notcoubbot  \n  Бот для создания мемов и коубов из коротких видео."
+}

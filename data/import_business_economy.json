@@ -1,0 +1,1409 @@
+[
+  {
+    "id": "tg-knigi_na_million",
+    "title": "Книги на миллион",
+    "type": "channel",
+    "deeplink": "https://t.me/knigi_na_million",
+    "shortDescription": "Обзоры книг по предпринимательству, финансам и историям успеха.",
+    "longDescription": "Канал публикует обзоры на книги по предпринимательству, финансам и истории успеха. Главная идея — «Прослушал‑Внедрил=Стал лучше», что позволяет быстро усваивать знания и внедрять их в собственные бизнес‑процессы【757993965121722†L122-L125】.",
+    "functions": [
+      "publish"
+    ],
+    "topics": [
+      "business"
+    ],
+    "primaryTopic": "business",
+    "language": "ru",
+    "compat": "L0",
+    "audience": "all",
+    "formats": [
+      "text"
+    ],
+    "tags": [
+      "books",
+      "entrepreneurship"
+    ],
+    "isPromoted": false,
+    "weight": 10
+  },
+  {
+    "id": "tg-willday",
+    "title": "WillDay — эксперименты с сайтами и трафиком",
+    "type": "channel",
+    "deeplink": "https://t.me/willday",
+    "shortDescription": "Канал о тестировании элементов сайтов для увеличения продаж.",
+    "longDescription": "Автор проводит A/B‑тесты различных элементов сайта — иконок, квизов, шаблонов — и публикует результаты. Контент поможет тем, кто хочет увеличить продажи через сайт 【757993965121722†L136-L138】.",
+    "functions": [
+      "publish"
+    ],
+    "topics": [
+      "business",
+      "technology"
+    ],
+    "primaryTopic": "business",
+    "language": "ru",
+    "compat": "L0",
+    "audience": "all",
+    "formats": [
+      "text"
+    ],
+    "tags": [
+      "growth",
+      "experiments"
+    ],
+    "isPromoted": false,
+    "weight": 10
+  },
+  {
+    "id": "tg-oskarhartmann",
+    "title": "Оскар Хартманн",
+    "type": "channel",
+    "deeplink": "https://t.me/oskarhartmann",
+    "shortDescription": "Канал серийного предпринимателя Оскара Хартманна.",
+    "longDescription": "Оскар Хартманн — серийный предприниматель, сооснователь проектов KupiVIP.ru, Carprice, CarFix. На канале он делится личным опытом, даёт рекомендации и мотивирует становиться лучше【757993965121722†L149-L151】.",
+    "functions": [
+      "publish"
+    ],
+    "topics": [
+      "business"
+    ],
+    "primaryTopic": "business",
+    "language": "ru",
+    "compat": "L0",
+    "audience": "all",
+    "formats": [
+      "text"
+    ],
+    "tags": [
+      "entrepreneurship",
+      "personal-experience"
+    ],
+    "isPromoted": false,
+    "weight": 10
+  },
+  {
+    "id": "tg-productradar",
+    "title": "Product Radar – стартапы России",
+    "type": "channel",
+    "deeplink": "https://t.me/productradar",
+    "shortDescription": "Площадка для продвижения стартапов с кейсами и подкастами.",
+    "longDescription": "Канал продвигает российские стартапы. Автор Дмитрий Беговатов делится кейсами, подкастами с успешными предпринимателями и собственными инсайтами и идеями【757993965121722†L162-L165】.",
+    "functions": [
+      "publish"
+    ],
+    "topics": [
+      "business",
+      "technology"
+    ],
+    "primaryTopic": "business",
+    "language": "ru",
+    "compat": "L0",
+    "audience": "all",
+    "formats": [
+      "text"
+    ],
+    "tags": [
+      "startups",
+      "podcasts"
+    ],
+    "isPromoted": false,
+    "weight": 10
+  },
+  {
+    "id": "tg-temnaya_storona",
+    "title": "Темная сторона / Темнографика",
+    "type": "channel",
+    "deeplink": "https://t.me/temnaya_storona",
+    "shortDescription": "Канал Аркадия Морейниса о стартапах и маркетинге.",
+    "longDescription": "Автор Аркадий Морейнис делится идеями и советами по развитию стартапов, маркетингу и бизнесу. В рубрике «Идея дня» описывается суть идеи и способы её реализации, предостерегая от типичных ошибок в бизнесе【757993965121722†L176-L180】.",
+    "functions": [
+      "publish"
+    ],
+    "topics": [
+      "business"
+    ],
+    "primaryTopic": "business",
+    "language": "ru",
+    "compat": "L0",
+    "audience": "all",
+    "formats": [
+      "text"
+    ],
+    "tags": [
+      "startups",
+      "ideas",
+      "marketing"
+    ],
+    "isPromoted": false,
+    "weight": 10
+  },
+  {
+    "id": "tg-indeks_dyatla",
+    "title": "Индекс дятла",
+    "type": "channel",
+    "deeplink": "https://t.me/indeks_dyatla",
+    "shortDescription": "Канал о запуске и развитии продуктов и стартапов.",
+    "longDescription": "Автор Андрей Торбичев, партнёр фонда «Месторождение» и руководитель Академии трекеров, рассказывает о запуске и развитии продуктов, поиске ценности, командах и привлечении инвестиций【757993965121722†L191-L193】.",
+    "functions": [
+      "publish"
+    ],
+    "topics": [
+      "business"
+    ],
+    "primaryTopic": "business",
+    "language": "ru",
+    "compat": "L0",
+    "audience": "all",
+    "formats": [
+      "text"
+    ],
+    "tags": [
+      "startups",
+      "product-development"
+    ],
+    "isPromoted": false,
+    "weight": 10
+  },
+  {
+    "id": "tg-sberstartup",
+    "title": "СберСтартап",
+    "type": "channel",
+    "deeplink": "https://t.me/sberstartup",
+    "shortDescription": "Сообщество стартапов Сбера: советы экспертов и новости венчурного рынка.",
+    "longDescription": "Канал стартап‑сообщества Сбера публикует советы экспертов, новости венчурного рынка, специальные предложения для IT‑стартапов и кейсы участников сообщества【757993965121722†L204-L206】.",
+    "functions": [
+      "publish"
+    ],
+    "topics": [
+      "business"
+    ],
+    "primaryTopic": "business",
+    "language": "ru",
+    "compat": "L0",
+    "audience": "all",
+    "formats": [
+      "text"
+    ],
+    "tags": [
+      "startups",
+      "venture"
+    ],
+    "isPromoted": false,
+    "weight": 10
+  },
+  {
+    "id": "tg-nikita_androsov",
+    "title": "Никита Андросов",
+    "type": "channel",
+    "deeplink": "https://t.me/nikita_androsov",
+    "shortDescription": "Блог основателя Ingate о бизнесе и личных мыслях.",
+    "longDescription": "Основатель и владелец Ingate объясняет непонятные термины, делится опытом построения бизнеса и публикует личные мысли и идеи【757993965121722†L217-L220】.",
+    "functions": [
+      "publish"
+    ],
+    "topics": [
+      "business"
+    ],
+    "primaryTopic": "business",
+    "language": "ru",
+    "compat": "L0",
+    "audience": "all",
+    "formats": [
+      "text"
+    ],
+    "tags": [
+      "personal-experience",
+      "marketing"
+    ],
+    "isPromoted": false,
+    "weight": 10
+  },
+  {
+    "id": "tg-mihail_dashkiev",
+    "title": "Михаил Дашкиев",
+    "type": "channel",
+    "deeplink": "https://t.me/mihail_dashkiev",
+    "shortDescription": "Канал предпринимателя для новичков и опытных бизнесменов.",
+    "longDescription": "Канал полезен для предпринимателей на любом этапе: Михаил делится бизнес‑опытом, инсайтами и концепциями, которые могут вдохновить как начинающих, так и опытных бизнесменов【757993965121722†L231-L233】.",
+    "functions": [
+      "publish"
+    ],
+    "topics": [
+      "business"
+    ],
+    "primaryTopic": "business",
+    "language": "ru",
+    "compat": "L0",
+    "audience": "all",
+    "formats": [
+      "text"
+    ],
+    "tags": [
+      "entrepreneurship"
+    ],
+    "isPromoted": false,
+    "weight": 10
+  },
+  {
+    "id": "tg-businessfather",
+    "title": "Business Father",
+    "type": "channel",
+    "deeplink": "https://t.me/businessfather",
+    "shortDescription": "Бизнес‑журнал о запуске и развитии бизнеса.",
+    "longDescription": "Бизнес‑журнал, где публикуется актуальная информация по запуску и развитию собственного бизнеса, предназначенный для предпринимателей и тех, кто мечтает им стать【757993965121722†L245-L247】.",
+    "functions": [
+      "publish"
+    ],
+    "topics": [
+      "business"
+    ],
+    "primaryTopic": "business",
+    "language": "ru",
+    "compat": "L0",
+    "audience": "all",
+    "formats": [
+      "text"
+    ],
+    "tags": [
+      "journal"
+    ],
+    "isPromoted": false,
+    "weight": 10
+  },
+  {
+    "id": "tg-russian_it_business",
+    "title": "Русский ИТ бизнес",
+    "type": "channel",
+    "deeplink": "https://t.me/russian_it_business",
+    "shortDescription": "Опыт построения ИТ‑бизнеса в России без лишней маркетинговой мишуры.",
+    "longDescription": "Автор ежедневно делится личным опытом о том, как построить ИТ‑бизнес в России с нуля. Публикации содержат цифры и факты и лишены лишней маркетинговой мишуры【757993965121722†L257-L258】.",
+    "functions": [
+      "publish"
+    ],
+    "topics": [
+      "business",
+      "technology"
+    ],
+    "primaryTopic": "business",
+    "language": "ru",
+    "compat": "L0",
+    "audience": "all",
+    "formats": [
+      "text"
+    ],
+    "tags": [
+      "it-business"
+    ],
+    "isPromoted": false,
+    "weight": 10
+  },
+  {
+    "id": "tg-grebenyuk",
+    "title": "Михаил Гребенюк",
+    "type": "channel",
+    "deeplink": "https://t.me/grebenyuk",
+    "shortDescription": "Истории успеха и провалов, инструменты B2B продаж.",
+    "longDescription": "Предприниматель и коуч Михаил Гребенюк, основатель Grebenuk Resulting, делится историями успеха и провалов, а также рабочими инструментами для создания B2B отделов продаж【757993965121722†L269-L271】.",
+    "functions": [
+      "publish"
+    ],
+    "topics": [
+      "business"
+    ],
+    "primaryTopic": "business",
+    "language": "ru",
+    "compat": "L0",
+    "audience": "all",
+    "formats": [
+      "text"
+    ],
+    "tags": [
+      "b2b",
+      "sales"
+    ],
+    "isPromoted": false,
+    "weight": 10
+  },
+  {
+    "id": "tg-biznes_idei_20",
+    "title": "Бизнес Идеи 2.0",
+    "type": "channel",
+    "deeplink": "https://t.me/biznes_idei_20",
+    "shortDescription": "Фабрика идей для старта собственного бизнеса.",
+    "longDescription": "Канал – настоящая фабрика идей для старта собственного бизнеса. Здесь можно найти вдохновение для различных проектов и ниш【757993965121722†L282-L283】.",
+    "functions": [
+      "publish"
+    ],
+    "topics": [
+      "business"
+    ],
+    "primaryTopic": "business",
+    "language": "ru",
+    "compat": "L0",
+    "audience": "all",
+    "formats": [
+      "text"
+    ],
+    "tags": [
+      "ideas"
+    ],
+    "isPromoted": false,
+    "weight": 10
+  },
+  {
+    "id": "tg-nochnoy_pisarevsky",
+    "title": "Ночной Писаревский",
+    "type": "channel",
+    "deeplink": "https://t.me/nochnoy_pisarevsky",
+    "shortDescription": "Откровенные истории о боли предпринимательства.",
+    "longDescription": "Алексей Писаревский пишет откровенно о боли предпринимательства. Истории из жизни, связанные с работой и личными переживаниями, раскрывают реальные вызовы бизнеса【757993965121722†L294-L296】.",
+    "functions": [
+      "publish"
+    ],
+    "topics": [
+      "business"
+    ],
+    "primaryTopic": "business",
+    "language": "ru",
+    "compat": "L0",
+    "audience": "all",
+    "formats": [
+      "text"
+    ],
+    "tags": [
+      "personal-story",
+      "entrepreneurship"
+    ],
+    "isPromoted": false,
+    "weight": 10
+  },
+  {
+    "id": "tg-b2b_seller_notes",
+    "title": "Заметки продавца B2B",
+    "type": "channel",
+    "deeplink": "https://t.me/b2b_seller_notes",
+    "shortDescription": "Практические приёмы B2B‑продаж и холодный поиск.",
+    "longDescription": "Автор Тарас Алтунин делится практическими приёмами B2B‑продаж и опытом по 'холодному' поиску клиентов【757993965121722†L307-L308】.",
+    "functions": [
+      "publish"
+    ],
+    "topics": [
+      "business"
+    ],
+    "primaryTopic": "business",
+    "language": "ru",
+    "compat": "L0",
+    "audience": "all",
+    "formats": [
+      "text"
+    ],
+    "tags": [
+      "sales",
+      "b2b"
+    ],
+    "isPromoted": false,
+    "weight": 10
+  },
+  {
+    "id": "tg-startup_day",
+    "title": "Стартап дня",
+    "type": "channel",
+    "deeplink": "https://t.me/startup_day",
+    "shortDescription": "Канал Александра Горного: каждый пост — описание стартапа.",
+    "longDescription": "Александр Горный анализирует стартапы: в каждом посте он описывает бизнес‑модель, выделяет отличия и отмечает достижения проекта【757993965121722†L319-L321】.",
+    "functions": [
+      "publish",
+      "analyze"
+    ],
+    "topics": [
+      "business"
+    ],
+    "primaryTopic": "business",
+    "language": "ru",
+    "compat": "L0",
+    "audience": "all",
+    "formats": [
+      "text"
+    ],
+    "tags": [
+      "startups",
+      "analysis"
+    ],
+    "isPromoted": false,
+    "weight": 10
+  },
+  {
+    "id": "tg-oleg_torbosov",
+    "title": "Oleg Torbosov",
+    "type": "channel",
+    "deeplink": "https://t.me/oleg_torbosov",
+    "shortDescription": "Реальная недвижимость и маркетинг глазами Олега Торбосова.",
+    "longDescription": "Олег Торбосов публикует обзоры дорогой недвижимости, маркетинговые ролики известных компаний, а также делится стихами, притчами и наблюдениями из жизни【757993965121722†L332-L334】.",
+    "functions": [
+      "publish"
+    ],
+    "topics": [
+      "business",
+      "economy"
+    ],
+    "primaryTopic": "business",
+    "language": "ru",
+    "compat": "L0",
+    "audience": "all",
+    "formats": [
+      "text"
+    ],
+    "tags": [
+      "real-estate",
+      "marketing",
+      "personal"
+    ],
+    "isPromoted": false,
+    "weight": 10
+  },
+  {
+    "id": "tg-kyrillic",
+    "title": "kyrillic",
+    "type": "channel",
+    "deeplink": "https://t.me/kyrillic",
+    "shortDescription": "Заметки сооснователя стартапа Beau о собственном опыте.",
+    "longDescription": "Канал Кирилла Куликова, сооснователя стартапа Beau (YC S21), посвящён его личному опыту. Автор не делает дайджестов и новостных подборок, а делится только тем, что прожил сам【757993965121722†L345-L347】.",
+    "functions": [
+      "publish"
+    ],
+    "topics": [
+      "business"
+    ],
+    "primaryTopic": "business",
+    "language": "ru",
+    "compat": "L0",
+    "audience": "all",
+    "formats": [
+      "text"
+    ],
+    "tags": [
+      "personal-experience",
+      "startup"
+    ],
+    "isPromoted": false,
+    "weight": 10
+  },
+  {
+    "id": "tg-maxim_spiridonov",
+    "title": "Максим Спиридонов",
+    "type": "channel",
+    "deeplink": "https://t.me/maxim_spiridonov",
+    "shortDescription": "Канал о бизнесе, лидерстве и будущем.",
+    "longDescription": "Телеграм‑канал серийного предпринимателя Максима Спиридонова, сооснователя бизнес‑клуба Reforma и экосистемы Wonder Family. Он пишет о бизнесе, лидерстве и будущем【757993965121722†L358-L360】.",
+    "functions": [
+      "publish"
+    ],
+    "topics": [
+      "business"
+    ],
+    "primaryTopic": "business",
+    "language": "ru",
+    "compat": "L0",
+    "audience": "all",
+    "formats": [
+      "text"
+    ],
+    "tags": [
+      "leadership",
+      "future"
+    ],
+    "isPromoted": false,
+    "weight": 10
+  },
+  {
+    "id": "tg-oper_shtab_rybakov_igor",
+    "title": "ОПЕРШТАБ РЫБАКОВ ИГОРЬ",
+    "type": "channel",
+    "deeplink": "https://t.me/oper_shtab_rybakov_igor",
+    "shortDescription": "Советы и практики от Игоря Рыбакова для преодоления трудностей.",
+    "longDescription": "Известный предприниматель Игорь Рыбаков делится историями, советами и практиками по преодолению трудностей и достижению высоких результатов в бизнесе【757993965121722†L371-L374】.",
+    "functions": [
+      "publish"
+    ],
+    "topics": [
+      "business"
+    ],
+    "primaryTopic": "business",
+    "language": "ru",
+    "compat": "L0",
+    "audience": "all",
+    "formats": [
+      "text"
+    ],
+    "tags": [
+      "advice",
+      "entrepreneurship"
+    ],
+    "isPromoted": false,
+    "weight": 10
+  },
+  {
+    "id": "tg-venchur_po_ponyatiyam",
+    "title": "Венчур по понятиям",
+    "type": "channel",
+    "deeplink": "https://t.me/venchur_po_ponyatiyam",
+    "shortDescription": "Знания о венчурном инвестировании и управлении стартапами.",
+    "longDescription": "Алмас Абулхаиров делится опытом и накопленными знаниями в области венчурного инвестирования и управления ситуациями в стартапах【757993965121722†L413-L415】.",
+    "functions": [
+      "publish"
+    ],
+    "topics": [
+      "business",
+      "economy"
+    ],
+    "primaryTopic": "business",
+    "language": "ru",
+    "compat": "L0",
+    "audience": "all",
+    "formats": [
+      "text"
+    ],
+    "tags": [
+      "venture",
+      "investment"
+    ],
+    "isPromoted": false,
+    "weight": 10
+  },
+  {
+    "id": "tg-rb_ru",
+    "title": "RB.RU",
+    "type": "channel",
+    "deeplink": "https://t.me/rb_ru",
+    "shortDescription": "Новости про бизнес, технологии, карьеру и предпринимателей.",
+    "longDescription": "Канал публикует новости про бизнес, технологии, карьеру и предпринимателей. Это один из лучших источников, чтобы быть в курсе событий в технологичном мире【757993965121722†L426-L428】.",
+    "functions": [
+      "publish"
+    ],
+    "topics": [
+      "business",
+      "technology"
+    ],
+    "primaryTopic": "business",
+    "language": "ru",
+    "compat": "L0",
+    "audience": "all",
+    "formats": [
+      "text"
+    ],
+    "tags": [
+      "news",
+      "tech"
+    ],
+    "isPromoted": false,
+    "weight": 10
+  },
+  {
+    "id": "tg-kumar_solo",
+    "title": "Kumar & Solo",
+    "type": "channel",
+    "deeplink": "https://t.me/kumar_solo",
+    "shortDescription": "Откровенный опыт создания IT‑бизнеса на непривычном рынке.",
+    "longDescription": "Роман Кумар Виас и Саша Соловьев делятся опытом создания IT‑бизнеса на непривычном рынке, рассказывают о вызовах, победах и методах работы, которые помогают развиваться【757993965121722†L439-L441】.",
+    "functions": [
+      "publish"
+    ],
+    "topics": [
+      "business",
+      "technology"
+    ],
+    "primaryTopic": "business",
+    "language": "ru",
+    "compat": "L0",
+    "audience": "all",
+    "formats": [
+      "text"
+    ],
+    "tags": [
+      "it",
+      "startups"
+    ],
+    "isPromoted": false,
+    "weight": 10
+  },
+  {
+    "id": "tg-russian_venture",
+    "title": "Русский венчур",
+    "type": "channel",
+    "deeplink": "https://t.me/russian_venture",
+    "shortDescription": "Инсайты и разборы сделок в венчурной индустрии.",
+    "longDescription": "Канал ищет инсайты в мире стартапов и венчурного бизнеса, разбирает все сделки IT с участием российских игроков и делится мастер‑идеями и лайфхаками для успешного предпринимательства【757993965121722†L452-L454】.",
+    "functions": [
+      "publish"
+    ],
+    "topics": [
+      "business",
+      "economy"
+    ],
+    "primaryTopic": "business",
+    "language": "ru",
+    "compat": "L0",
+    "audience": "all",
+    "formats": [
+      "text"
+    ],
+    "tags": [
+      "venture",
+      "startups",
+      "analysis"
+    ],
+    "isPromoted": false,
+    "weight": 10
+  },
+  {
+    "id": "tg-edinorog",
+    "title": "The Edinorog",
+    "type": "channel",
+    "deeplink": "https://t.me/edinorog",
+    "shortDescription": "Разбор стартапов, новости и интервью с экспертами.",
+    "longDescription": "Канал Дмитрия Филонова посвящен венчурной тематике: разбираются стартапы, освещаются новости минувшей недели, публикуются интервью с экспертами и работает рубрика «О мой питч»【757993965121722†L465-L467】.",
+    "functions": [
+      "publish"
+    ],
+    "topics": [
+      "business",
+      "economy"
+    ],
+    "primaryTopic": "business",
+    "language": "ru",
+    "compat": "L0",
+    "audience": "all",
+    "formats": [
+      "text"
+    ],
+    "tags": [
+      "venture",
+      "news",
+      "pitch"
+    ],
+    "isPromoted": false,
+    "weight": 10
+  },
+  {
+    "id": "tg-fanat_servisa",
+    "title": "Фанат Сервиса",
+    "type": "channel",
+    "deeplink": "https://t.me/fanat_servisa",
+    "shortDescription": "О бизнесе и клиентском опыте для нового поколения предпринимателей.",
+    "longDescription": "Канал для предпринимателей нового поколения, которые хотят создавать уникальный клиентский опыт. Автор делится размышлениями о бизнесе, осознанном подходе и создании предприятий с глубоким смыслом【757993965121722†L478-L480】.",
+    "functions": [
+      "publish"
+    ],
+    "topics": [
+      "business",
+      "economy"
+    ],
+    "primaryTopic": "business",
+    "language": "ru",
+    "compat": "L0",
+    "audience": "all",
+    "formats": [
+      "text"
+    ],
+    "tags": [
+      "customer-experience",
+      "service"
+    ],
+    "isPromoted": false,
+    "weight": 10
+  },
+  {
+    "id": "tg-businessinsider",
+    "title": "Business Insider",
+    "type": "channel",
+    "deeplink": "https://t.me/businessinsider",
+    "shortDescription": "Глобальные бизнес‑новости для предпринимателей.",
+    "longDescription": "Канал Business Insider делится важными мировыми бизнес‑новостями, помогая предпринимателям оставаться в курсе событий【710741340284475†L307-L311】.",
+    "functions": [
+      "publish"
+    ],
+    "topics": [
+      "business",
+      "economy"
+    ],
+    "primaryTopic": "business",
+    "language": "en",
+    "compat": "L0",
+    "audience": "all",
+    "formats": [
+      "text"
+    ],
+    "tags": [
+      "news",
+      "global"
+    ],
+    "isPromoted": false,
+    "weight": 10
+  },
+  {
+    "id": "tg-bloomberg_business",
+    "title": "Bloomberg Business",
+    "type": "channel",
+    "deeplink": "https://t.me/bloomberg_business",
+    "shortDescription": "Международные новости бизнеса и финансов.",
+    "longDescription": "Канал Bloomberg Business помогает вам быть в курсе последних бизнес‑новостей со всего мира【710741340284475†L314-L318】.",
+    "functions": [
+      "publish"
+    ],
+    "topics": [
+      "business",
+      "economy"
+    ],
+    "primaryTopic": "economy",
+    "language": "en",
+    "compat": "L0",
+    "audience": "all",
+    "formats": [
+      "text"
+    ],
+    "tags": [
+      "finance",
+      "news"
+    ],
+    "isPromoted": false,
+    "weight": 10
+  },
+  {
+    "id": "tg-cnbc_international",
+    "title": "CNBC International",
+    "type": "channel",
+    "deeplink": "https://t.me/cnbc_international",
+    "shortDescription": "Новости международного бизнеса под одной крышей.",
+    "longDescription": "CNBC International собирает все международные бизнес‑новости на одной площадке. Новости приходят из штаб‑квартир в Сингапуре, Абу‑Даби и Лондоне【710741340284475†L320-L324】.",
+    "functions": [
+      "publish"
+    ],
+    "topics": [
+      "business",
+      "economy"
+    ],
+    "primaryTopic": "business",
+    "language": "en",
+    "compat": "L0",
+    "audience": "all",
+    "formats": [
+      "text"
+    ],
+    "tags": [
+      "news",
+      "global"
+    ],
+    "isPromoted": false,
+    "weight": 10
+  },
+  {
+    "id": "tg-growth_hacks",
+    "title": "Growth Hacks",
+    "type": "channel",
+    "deeplink": "https://t.me/growth_hacks",
+    "shortDescription": "Бизнес‑советы и стратегии самосовершенствования.",
+    "longDescription": "Growth Hacks предлагает экспертные бизнес‑советы и стратегии развития, направленные на самосовершенствование и рост предпринимателей【710741340284475†L329-L333】.",
+    "functions": [
+      "publish"
+    ],
+    "topics": [
+      "business"
+    ],
+    "primaryTopic": "business",
+    "language": "en",
+    "compat": "L0",
+    "audience": "all",
+    "formats": [
+      "text"
+    ],
+    "tags": [
+      "tips",
+      "growth"
+    ],
+    "isPromoted": false,
+    "weight": 10
+  },
+  {
+    "id": "tg-marketing_channel",
+    "title": "Marketing",
+    "type": "channel",
+    "deeplink": "https://t.me/marketing_channel",
+    "shortDescription": "Маркетинг‑советы, идеи для бизнеса и премиальные e‑книги.",
+    "longDescription": "Канал предназначен для маркетологов и владельцев онлайн‑бизнеса: здесь публикуют советы по маркетингу, бизнес‑идеи и премиальные e‑книги【710741340284475†L336-L341】.",
+    "functions": [
+      "publish"
+    ],
+    "topics": [
+      "business"
+    ],
+    "primaryTopic": "business",
+    "language": "en",
+    "compat": "L0",
+    "audience": "all",
+    "formats": [
+      "text"
+    ],
+    "tags": [
+      "marketing",
+      "ebooks"
+    ],
+    "isPromoted": false,
+    "weight": 10
+  },
+  {
+    "id": "tg-digital_marketing_seo",
+    "title": "Digital Marketing Strategies & SEO",
+    "type": "channel",
+    "deeplink": "https://t.me/digital_marketing_seo",
+    "shortDescription": "Стратегии цифрового маркетинга и статистика SEO.",
+    "longDescription": "Этот канал делится стратегиями цифрового маркетинга и данными по SEO, что полезно для бизнеса в онлайне【710741340284475†L343-L347】.",
+    "functions": [
+      "publish"
+    ],
+    "topics": [
+      "business"
+    ],
+    "primaryTopic": "business",
+    "language": "en",
+    "compat": "L0",
+    "audience": "all",
+    "formats": [
+      "text"
+    ],
+    "tags": [
+      "seo",
+      "digital-marketing"
+    ],
+    "isPromoted": false,
+    "weight": 10
+  },
+  {
+    "id": "tg-crypto_channel",
+    "title": "Crypto",
+    "type": "channel",
+    "deeplink": "https://t.me/crypto_channel",
+    "shortDescription": "Новости и тренды криптовалютного рынка.",
+    "longDescription": "Канал «Crypto» предназначен для криптоинвесторов: он помогает следить за новостями и трендами отрасли【710741340284475†L352-L356】.",
+    "functions": [
+      "publish"
+    ],
+    "topics": [
+      "business",
+      "economy"
+    ],
+    "primaryTopic": "economy",
+    "language": "en",
+    "compat": "L0",
+    "audience": "all",
+    "formats": [
+      "text"
+    ],
+    "tags": [
+      "crypto",
+      "investment"
+    ],
+    "isPromoted": false,
+    "weight": 10
+  },
+  {
+    "id": "tg-stock_market_insights",
+    "title": "Stock Market Insights",
+    "type": "channel",
+    "deeplink": "https://t.me/stock_market_insights",
+    "shortDescription": "Тренды фондового рынка для инвесторов.",
+    "longDescription": "Канал делится последними трендами на фондовом рынке, помогая инвесторам принимать обоснованные решения【710741340284475†L359-L364】.",
+    "functions": [
+      "publish"
+    ],
+    "topics": [
+      "business",
+      "economy"
+    ],
+    "primaryTopic": "economy",
+    "language": "en",
+    "compat": "L0",
+    "audience": "all",
+    "formats": [
+      "text"
+    ],
+    "tags": [
+      "stocks",
+      "investment"
+    ],
+    "isPromoted": false,
+    "weight": 10
+  },
+  {
+    "id": "tg-dhan_stock_trading",
+    "title": "Dhan – Stock Trading & Investing",
+    "type": "channel",
+    "deeplink": "https://t.me/dhan_stock_trading",
+    "shortDescription": "Экспертиза в индийских акциях, ETF, товарах и валюте.",
+    "longDescription": "Dhan предоставляет информацию и экспертизу по индийским акциям, ETF, товарам и валюте для трейдеров и инвесторов【710741340284475†L366-L370】.",
+    "functions": [
+      "publish"
+    ],
+    "topics": [
+      "business",
+      "economy"
+    ],
+    "primaryTopic": "economy",
+    "language": "en",
+    "compat": "L0",
+    "audience": "all",
+    "formats": [
+      "text"
+    ],
+    "tags": [
+      "investing",
+      "india"
+    ],
+    "isPromoted": false,
+    "weight": 10
+  },
+  {
+    "id": "tg-fi_us_stocks",
+    "title": "Fi‑US Stocks",
+    "type": "channel",
+    "deeplink": "https://t.me/fi_us_stocks",
+    "shortDescription": "Новости и аналитика по американским акциям и ETF.",
+    "longDescription": "Канал помогает оставаться в курсе последних новостей и аналитики по акциям США и ETF【710741340284475†L373-L377】.",
+    "functions": [
+      "publish"
+    ],
+    "topics": [
+      "business",
+      "economy"
+    ],
+    "primaryTopic": "economy",
+    "language": "en",
+    "compat": "L0",
+    "audience": "all",
+    "formats": [
+      "text"
+    ],
+    "tags": [
+      "stocks",
+      "us"
+    ],
+    "isPromoted": false,
+    "weight": 10
+  },
+  {
+    "id": "tg-trade_startup",
+    "title": "Trade Start‑Up",
+    "type": "channel",
+    "deeplink": "https://t.me/trade_startup",
+    "shortDescription": "Основы трейдинга с помощью книг и обучающих материалов.",
+    "longDescription": "В этом канале можно получить базовые знания по трейдингу через книги и другие полезные материалы【710741340284475†L380-L385】.",
+    "functions": [
+      "publish"
+    ],
+    "topics": [
+      "business",
+      "economy"
+    ],
+    "primaryTopic": "business",
+    "language": "en",
+    "compat": "L0",
+    "audience": "all",
+    "formats": [
+      "text"
+    ],
+    "tags": [
+      "trading",
+      "education"
+    ],
+    "isPromoted": false,
+    "weight": 10
+  },
+  {
+    "id": "tg-business_lessons",
+    "title": "Business Lessons™",
+    "type": "channel",
+    "deeplink": "https://t.me/business_lessons",
+    "shortDescription": "Уроки по бизнесу, коммуникации и жизненным навыкам.",
+    "longDescription": "Канал предлагает уроки по бизнесу, советы, навыки коммуникации, этику и осознанность для стартап‑владельцев【710741340284475†L389-L394】.",
+    "functions": [
+      "publish",
+      "analyze"
+    ],
+    "topics": [
+      "business"
+    ],
+    "primaryTopic": "business",
+    "language": "en",
+    "compat": "L0",
+    "audience": "all",
+    "formats": [
+      "text"
+    ],
+    "tags": [
+      "lessons",
+      "tips"
+    ],
+    "isPromoted": false,
+    "weight": 10
+  },
+  {
+    "id": "tg-entrepreneur_mindset",
+    "title": "Entrepreneur Mindset‑Business Ideas",
+    "type": "channel",
+    "deeplink": "https://t.me/entrepreneur_mindset",
+    "shortDescription": "Идеи и советы по индивидуальному росту и успеху.",
+    "longDescription": "Канал предоставляет идеи и советы по индивидуальному росту и успеху в бизнесе и предпринимательстве【710741340284475†L396-L400】.",
+    "functions": [
+      "publish"
+    ],
+    "topics": [
+      "business"
+    ],
+    "primaryTopic": "business",
+    "language": "en",
+    "compat": "L0",
+    "audience": "all",
+    "formats": [
+      "text"
+    ],
+    "tags": [
+      "mindset",
+      "success"
+    ],
+    "isPromoted": false,
+    "weight": 10
+  },
+  {
+    "id": "tg-business_lessons_tips",
+    "title": "Business Lessons & Tips",
+    "type": "channel",
+    "deeplink": "https://t.me/business_lessons_tips",
+    "shortDescription": "Последние истории успеха от владельцев бизнеса.",
+    "longDescription": "Канал делится последними историями успеха владельцев бизнеса, вдохновляя других предпринимателей 【710741340284475†L403-L407】.",
+    "functions": [
+      "publish"
+    ],
+    "topics": [
+      "business"
+    ],
+    "primaryTopic": "business",
+    "language": "en",
+    "compat": "L0",
+    "audience": "all",
+    "formats": [
+      "text"
+    ],
+    "tags": [
+      "success",
+      "stories"
+    ],
+    "isPromoted": false,
+    "weight": 10
+  },
+  {
+    "id": "tg-business_inspiration",
+    "title": "Business Inspiration & Knowledge",
+    "type": "channel",
+    "deeplink": "https://t.me/business_inspiration",
+    "shortDescription": "Цитаты, идеи и вдохновение для бизнеса.",
+    "longDescription": "Канал предлагает цитаты, идеи, вдохновение и советы по бизнесу, являясь одним из лучших каналов для поиска бизнес‑идей【710741340284475†L410-L415】.",
+    "functions": [
+      "publish"
+    ],
+    "topics": [
+      "business"
+    ],
+    "primaryTopic": "business",
+    "language": "en",
+    "compat": "L0",
+    "audience": "all",
+    "formats": [
+      "text"
+    ],
+    "tags": [
+      "inspiration",
+      "ideas"
+    ],
+    "isPromoted": false,
+    "weight": 10
+  },
+  {
+    "id": "tg-business_class",
+    "title": "Business Class",
+    "type": "channel",
+    "deeplink": "https://t.me/business_class",
+    "shortDescription": "Разбор бизнес‑идей, криптовалют и цифровых финансов.",
+    "longDescription": "Канал Business Class разбирает бизнес‑идеи, криптовалюты и цифровые финансы, предлагая краткие обзоры и анализ【710741340284475†L424-L428】.",
+    "functions": [
+      "publish",
+      "analyze"
+    ],
+    "topics": [
+      "business",
+      "economy"
+    ],
+    "primaryTopic": "business",
+    "language": "en",
+    "compat": "L0",
+    "audience": "all",
+    "formats": [
+      "text"
+    ],
+    "tags": [
+      "crypto",
+      "digital-finance"
+    ],
+    "isPromoted": false,
+    "weight": 10
+  },
+  {
+    "id": "tg-unscripted_entrepreneurial_network",
+    "title": "The Unscripted Entrepreneurial Network",
+    "type": "channel",
+    "deeplink": "https://t.me/unscripted_entrepreneurial_network",
+    "shortDescription": "Стратегии богатства для предпринимателей быстрого роста.",
+    "longDescription": "Сеть The Unscripted Entrepreneurial Network MJ DeMarco предоставляет стратегии бизнеса и богатства для предпринимателей, стремящихся к быстрому росту【710741340284475†L438-L443】.",
+    "functions": [
+      "publish"
+    ],
+    "topics": [
+      "business"
+    ],
+    "primaryTopic": "business",
+    "language": "en",
+    "compat": "L0",
+    "audience": "all",
+    "formats": [
+      "text"
+    ],
+    "tags": [
+      "strategy",
+      "wealth"
+    ],
+    "isPromoted": false,
+    "weight": 10
+  },
+  {
+    "id": "tg-business_entrepreneur_marketing",
+    "title": "Business | Entrepreneur | Marketing",
+    "type": "channel",
+    "deeplink": "https://t.me/business_entrepreneur_marketing",
+    "shortDescription": "Конспекты и уроки по бизнесу, стартапам и маркетингу.",
+    "longDescription": "Канал предлагает лучшие конспекты и уроки по бизнесу, стартапам и маркетингу, рассказывая о книгах и уроках на эти темы【710741340284475†L445-L449】.",
+    "functions": [
+      "publish"
+    ],
+    "topics": [
+      "business"
+    ],
+    "primaryTopic": "business",
+    "language": "en",
+    "compat": "L0",
+    "audience": "all",
+    "formats": [
+      "text"
+    ],
+    "tags": [
+      "summaries",
+      "lessons"
+    ],
+    "isPromoted": false,
+    "weight": 10
+  },
+  {
+    "id": "tg-chatgpt_ai_news",
+    "title": "Chat GPT | AI News",
+    "type": "channel",
+    "deeplink": "https://t.me/chatgpt_ai_news",
+    "shortDescription": "Новости об AI и советы по использованию ChatGPT.",
+    "longDescription": "Канал собирает всё о ChatGPT, публикует последние новости об искусственном интеллекте и делится советами по использованию инструментов【710741340284475†L469-L473】.",
+    "functions": [
+      "publish"
+    ],
+    "topics": [
+      "business",
+      "technology"
+    ],
+    "primaryTopic": "business",
+    "language": "en",
+    "compat": "L0",
+    "audience": "all",
+    "formats": [
+      "text"
+    ],
+    "tags": [
+      "ai",
+      "news",
+      "chatgpt"
+    ],
+    "isPromoted": false,
+    "weight": 10
+  },
+  {
+    "id": "tg-ai_news",
+    "title": "AI News",
+    "type": "channel",
+    "deeplink": "https://t.me/ai_news",
+    "shortDescription": "Краткие новости об искусственном интеллекте.",
+    "longDescription": "Канал AI News предоставляет небольшие выдержки ежедневных новостей о искусственном интеллекте【710741340284475†L476-L479】.",
+    "functions": [
+      "publish"
+    ],
+    "topics": [
+      "business",
+      "technology"
+    ],
+    "primaryTopic": "business",
+    "language": "en",
+    "compat": "L0",
+    "audience": "all",
+    "formats": [
+      "text"
+    ],
+    "tags": [
+      "ai",
+      "news"
+    ],
+    "isPromoted": false,
+    "weight": 10
+  },
+  {
+    "id": "tg-men_money_mindset",
+    "title": "Men Money Mindset",
+    "type": "channel",
+    "deeplink": "https://t.me/men_money_mindset",
+    "shortDescription": "Личная эффективность: финансы, здоровье и мудрость.",
+    "longDescription": "Канал Men Money Mindset помогает стать более богатой, здоровой и мудрой версией себя, делясь советами по финансам, фитнесу и развитию мышления【710741340284475†L486-L490】.",
+    "functions": [
+      "publish"
+    ],
+    "topics": [
+      "business",
+      "lifestyle"
+    ],
+    "primaryTopic": "business",
+    "language": "en",
+    "compat": "L0",
+    "audience": "all",
+    "formats": [
+      "text"
+    ],
+    "tags": [
+      "mindset",
+      "personal-development"
+    ],
+    "isPromoted": false,
+    "weight": 10
+  },
+  {
+    "id": "tg-alex_growth",
+    "title": "Alex: SEO, Domains & Growth",
+    "type": "channel",
+    "deeplink": "https://t.me/alex_growth",
+    "shortDescription": "SEO, доменные имена и рост для соло‑фандеров.",
+    "longDescription": "Канал соло‑предпринимателя Алекса, который делится стратегиями роста, SEO и флиппинга доменов, а также советами по созданию продуктов【936821016112505†L52-L59】.",
+    "functions": [
+      "publish"
+    ],
+    "topics": [
+      "business",
+      "technology"
+    ],
+    "primaryTopic": "business",
+    "language": "en",
+    "compat": "L0",
+    "audience": "all",
+    "formats": [
+      "text"
+    ],
+    "tags": [
+      "seo",
+      "growth",
+      "domains"
+    ],
+    "isPromoted": false,
+    "weight": 10
+  },
+  {
+    "id": "tg-grow_telegram",
+    "title": "Grow Your Telegram Channel, Bot, or Mini App",
+    "type": "channel",
+    "deeplink": "https://t.me/grow_telegram",
+    "shortDescription": "Советы по росту телеграм‑каналов, ботов и мини‑приложений.",
+    "longDescription": "Канал помогает владельцам телеграм‑каналов, ботов и мини‑приложений разрабатывать стратегии роста и монетизации, делясь практическими советами и примерами【936821016112505†L64-L74】.",
+    "functions": [
+      "publish"
+    ],
+    "topics": [
+      "business",
+      "technology"
+    ],
+    "primaryTopic": "business",
+    "language": "en",
+    "compat": "L0",
+    "audience": "all",
+    "formats": [
+      "text"
+    ],
+    "tags": [
+      "telegram",
+      "growth"
+    ],
+    "isPromoted": false,
+    "weight": 10
+  },
+  {
+    "id": "tg-startups_ventures",
+    "title": "Startups & Ventures",
+    "type": "channel",
+    "deeplink": "https://t.me/startups_ventures",
+    "shortDescription": "Тренды мирового стартап‑движения и новости венчурного капитала.",
+    "longDescription": "Канал Startups & Ventures сообщает о глобальных трендах в сфере стартапов и венчурном финансировании, освещая новости о финансировании и инсайты из экосистемы【936821016112505†L79-L84】.",
+    "functions": [
+      "publish"
+    ],
+    "topics": [
+      "business",
+      "economy"
+    ],
+    "primaryTopic": "business",
+    "language": "en",
+    "compat": "L0",
+    "audience": "all",
+    "formats": [
+      "text"
+    ],
+    "tags": [
+      "startups",
+      "venture"
+    ],
+    "isPromoted": false,
+    "weight": 10
+  },
+  {
+    "id": "tg-solo_founders",
+    "title": "Solo Founders",
+    "type": "channel",
+    "deeplink": "https://t.me/solo_founders",
+    "shortDescription": "Сообщество для соло‑предпринимателей.",
+    "longDescription": "Канал Solo Founders — это пространство для соло‑предпринимателей, где они обмениваются опытом, советами и ресурсами, помогая друг другу строить бизнес【936821016112505†L90-L96】.",
+    "functions": [
+      "publish"
+    ],
+    "topics": [
+      "business"
+    ],
+    "primaryTopic": "business",
+    "language": "en",
+    "compat": "L0",
+    "audience": "all",
+    "formats": [
+      "text"
+    ],
+    "tags": [
+      "community",
+      "entrepreneurs"
+    ],
+    "isPromoted": false,
+    "weight": 10
+  }
+]

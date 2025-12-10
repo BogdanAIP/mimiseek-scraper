@@ -1,0 +1,1379 @@
+[
+  {
+    "id": "tg-novoeslovo",
+    "title": "Новое слово",
+    "type": "channel",
+    "deeplink": "https://t.me/novoeslovo",
+    "shortDescription": "Каждый день по пять новых слов для пополнения словарного запаса.",
+    "longDescription": "Канал посвящён изучению языка: ежедневно в нём публикуют по пять новых русских и иностранных слов с пояснениями и примерами использования, помогая читателям расширить словарный запас и закрепить лексику.",
+    "functions": [
+      "publish"
+    ],
+    "topics": [
+      "education",
+      "culture"
+    ],
+    "primaryTopic": "education",
+    "language": "ru",
+    "compat": "L0",
+    "audience": "all",
+    "formats": [
+      "text"
+    ],
+    "tags": [
+      "language-learning",
+      "vocabulary"
+    ],
+    "isPromoted": false,
+    "weight": 10
+  },
+  {
+    "id": "tg-slangbang",
+    "title": "Slang Bang",
+    "type": "channel",
+    "deeplink": "https://t.me/slangbang",
+    "shortDescription": "Английский сленг и выражения, которых нет в учебниках.",
+    "longDescription": "Канал обучает современному английскому: здесь публикуют повседневные идиомы, разговорные выражения и сленг, которые редко встречаются в учебниках. Все слова сопровождаются пояснениями и примерами.",
+    "functions": [
+      "publish"
+    ],
+    "topics": [
+      "education",
+      "culture"
+    ],
+    "primaryTopic": "education",
+    "language": "ru",
+    "compat": "L0",
+    "audience": "all",
+    "formats": [
+      "text"
+    ],
+    "tags": [
+      "language-learning",
+      "english"
+    ],
+    "isPromoted": false,
+    "weight": 10
+  },
+  {
+    "id": "tg-dailyeng",
+    "title": "Daily English",
+    "type": "channel",
+    "deeplink": "https://t.me/dailyeng",
+    "shortDescription": "Мемы с переводом, грамматика и тематические слова для изучения английского.",
+    "longDescription": "Канал использует юмор и визуальные материалы для изучения английского: подписчики получают мемы с переводом, разбор грамматических тем, подборки слов по темам и небольшие тесты для закрепления материала.",
+    "functions": [
+      "publish"
+    ],
+    "topics": [
+      "education",
+      "culture"
+    ],
+    "primaryTopic": "education",
+    "language": "ru",
+    "compat": "L0",
+    "audience": "all",
+    "formats": [
+      "text"
+    ],
+    "tags": [
+      "language-learning",
+      "english"
+    ],
+    "isPromoted": false,
+    "weight": 10
+  },
+  {
+    "id": "tg-wow_english",
+    "title": "Wow English",
+    "type": "channel",
+    "deeplink": "https://t.me/wow_english",
+    "shortDescription": "Интерактивные задания и новые слова для расширения словаря.",
+    "longDescription": "Канал предлагает интерактивные упражнения, подборки синонимов и тематические подборки слов, чтобы помочь читателям улучшить словарный запас и практиковать английский язык каждый день.",
+    "functions": [
+      "publish"
+    ],
+    "topics": [
+      "education",
+      "culture"
+    ],
+    "primaryTopic": "education",
+    "language": "ru",
+    "compat": "L0",
+    "audience": "all",
+    "formats": [
+      "text"
+    ],
+    "tags": [
+      "language-learning",
+      "english"
+    ],
+    "isPromoted": false,
+    "weight": 10
+  },
+  {
+    "id": "tg-neperevodimoe",
+    "title": "Непереводимое",
+    "type": "channel",
+    "deeplink": "https://t.me/neperevodimoe",
+    "shortDescription": "Переводит мемы и культурные шутки, объясняет неприводимые обороты.",
+    "longDescription": "Канал помогает разобраться в идиомах и выражениях, которые трудно перевести буквально: авторы берут мемы, шутки и фразы из англоязычного интернета и подробно объясняют их смысл и контекст.",
+    "functions": [
+      "publish"
+    ],
+    "topics": [
+      "education",
+      "culture"
+    ],
+    "primaryTopic": "education",
+    "language": "ru",
+    "compat": "L0",
+    "audience": "all",
+    "formats": [
+      "text"
+    ],
+    "tags": [
+      "language-learning",
+      "translation"
+    ],
+    "isPromoted": false,
+    "weight": 10
+  },
+  {
+    "id": "tg-En_Voc",
+    "title": "En Voc",
+    "type": "channel",
+    "deeplink": "https://t.me/En_Voc",
+    "shortDescription": "Тематические подборки слов, синонимы и цитаты.",
+    "longDescription": "Канал посвящён английской лексике: каждый пост — это подборка слов на определённую тему, синонимические ряды или знаменитые цитаты с переводом, что помогает расширять кругозор и работать над языком.",
+    "functions": [
+      "publish"
+    ],
+    "topics": [
+      "education",
+      "culture"
+    ],
+    "primaryTopic": "education",
+    "language": "ru",
+    "compat": "L0",
+    "audience": "all",
+    "formats": [
+      "text"
+    ],
+    "tags": [
+      "language-learning",
+      "vocabulary"
+    ],
+    "isPromoted": false,
+    "weight": 10
+  },
+  {
+    "id": "tg-daigaku",
+    "title": "Daigaku",
+    "type": "channel",
+    "deeplink": "https://t.me/daigaku",
+    "shortDescription": "Посты по грамматике японского языка.",
+    "longDescription": "Канал делает японский язык понятным: автор публикует уроки по грамматике, объясняет сложные конструкции и даёт советы по изучению японского, что особенно полезно для начинающих.",
+    "functions": [
+      "publish"
+    ],
+    "topics": [
+      "education",
+      "culture"
+    ],
+    "primaryTopic": "education",
+    "language": "ru",
+    "compat": "L0",
+    "audience": "all",
+    "formats": [
+      "text"
+    ],
+    "tags": [
+      "language-learning",
+      "japanese"
+    ],
+    "isPromoted": false,
+    "weight": 10
+  },
+  {
+    "id": "tg-linguisticmadness",
+    "title": "Linguistic Madness",
+    "type": "channel",
+    "deeplink": "https://t.me/linguisticmadness",
+    "shortDescription": "Лингвистика и языки: статьи, мнения и интересные факты.",
+    "longDescription": "Канал для любителей языков и лингвистики: авторы делятся ссылками на статьи, публикуют собственные мнения, разбирают языковые явления и рассказывают любопытные факты об истории и структуре разных языков.",
+    "functions": [
+      "publish"
+    ],
+    "topics": [
+      "education",
+      "culture"
+    ],
+    "primaryTopic": "education",
+    "language": "ru",
+    "compat": "L0",
+    "audience": "all",
+    "formats": [
+      "text"
+    ],
+    "tags": [
+      "language-learning",
+      "linguistics"
+    ],
+    "isPromoted": false,
+    "weight": 10
+  },
+  {
+    "id": "tg-koreaneveryday",
+    "title": "Korean Everyday",
+    "type": "channel",
+    "deeplink": "https://t.me/koreaneveryday",
+    "shortDescription": "Ежедневные слова и грамматика корейского языка.",
+    "longDescription": "Канал рассчитан на тех, кто изучает корейский: ежедневно публикуются новые слова, устойчивые выражения и короткие уроки по грамматике, что помогает в постепенном освоении языка.",
+    "functions": [
+      "publish"
+    ],
+    "topics": [
+      "education",
+      "culture"
+    ],
+    "primaryTopic": "education",
+    "language": "ru",
+    "compat": "L0",
+    "audience": "all",
+    "formats": [
+      "text"
+    ],
+    "tags": [
+      "language-learning",
+      "korean"
+    ],
+    "isPromoted": false,
+    "weight": 10
+  },
+  {
+    "id": "tg-melfm",
+    "title": "Mel.fm",
+    "type": "channel",
+    "deeplink": "https://t.me/melfm",
+    "shortDescription": "Новости и обсуждения в сфере образования простым языком.",
+    "longDescription": "Канал популярного образовательного портала Mel.fm делится новостями и аналитикой о российских школах, вузах и реформах образования. Авторский стиль делает материалы понятными широкому кругу читателей, помогая ориентироваться в гуманитарной повестке.",
+    "functions": [
+      "publish"
+    ],
+    "topics": [
+      "education",
+      "culture"
+    ],
+    "primaryTopic": "education",
+    "language": "ru",
+    "compat": "L0",
+    "audience": "all",
+    "formats": [
+      "text"
+    ],
+    "tags": [
+      "education-news",
+      "analysis"
+    ],
+    "isPromoted": false,
+    "weight": 10
+  },
+  {
+    "id": "tg-lektorium",
+    "title": "Лекториум",
+    "type": "channel",
+    "deeplink": "https://t.me/lektorium",
+    "shortDescription": "Лекции по литературе, философии, экономике и другим дисциплинам.",
+    "longDescription": "‘Лекториум’ — образовательный канал, где публикуются лекции на широкий спектр тем: от литературы и философии до экономики, физики и математики. Канал помогает слушателям расширять кругозор и получать знания от экспертов【630826916929416†L128-L130】.",
+    "functions": [
+      "publish"
+    ],
+    "topics": [
+      "education",
+      "culture"
+    ],
+    "primaryTopic": "education",
+    "language": "ru",
+    "compat": "L0",
+    "audience": "all",
+    "formats": [
+      "text"
+    ],
+    "tags": [
+      "lectures",
+      "humanities"
+    ],
+    "isPromoted": false,
+    "weight": 10
+  },
+  {
+    "id": "tg-philosnote",
+    "title": "Блокнот философа",
+    "type": "channel",
+    "deeplink": "https://t.me/philosnote",
+    "shortDescription": "Сообщество философов: анонсы событий и популяризация философии.",
+    "longDescription": "Канал ‘Блокнот философа’ создан студентами и преподавателями для популяризации философии. Здесь публикуют анонсы конференций, лекций и мероприятий, делятся заметками и ссылками на исследования, приглашая всех интересующихся философией присоединиться к обсуждению【588475353220703†L298-L343】.",
+    "functions": [
+      "publish"
+    ],
+    "topics": [
+      "education",
+      "culture"
+    ],
+    "primaryTopic": "education",
+    "language": "ru",
+    "compat": "L0",
+    "audience": "all",
+    "formats": [
+      "text"
+    ],
+    "tags": [
+      "philosophy",
+      "events"
+    ],
+    "isPromoted": false,
+    "weight": 10
+  },
+  {
+    "id": "tg-vatnikstan",
+    "title": "Ватникстан",
+    "type": "channel",
+    "deeplink": "https://t.me/vatnikstan",
+    "shortDescription": "Исторический канал с фактами и снимками из жизни СССР и России.",
+    "longDescription": "Канал посвящён истории: здесь публикуют редкие фотографии, факты и авторские подборки, посвящённые жизни в СССР и России. Читатели узнают о забытых событиях и культурных феноменах, которые формируют нашу историю.",
+    "functions": [
+      "publish"
+    ],
+    "topics": [
+      "culture",
+      "education"
+    ],
+    "primaryTopic": "culture",
+    "language": "ru",
+    "compat": "L0",
+    "audience": "all",
+    "formats": [
+      "text"
+    ],
+    "tags": [
+      "history",
+      "ussr"
+    ],
+    "isPromoted": false,
+    "weight": 10
+  },
+  {
+    "id": "tg-historyporn",
+    "title": "History Porn",
+    "type": "channel",
+    "deeplink": "https://t.me/historyporn",
+    "shortDescription": "Редкие исторические фотографии со всего мира.",
+    "longDescription": "Канал ‘History Porn’ публикует редкие архивные фотографии и документы из разных эпох и стран. Каждый пост сопровождается кратким контекстом, что позволяет узнать больше о людях и событиях прошлого.",
+    "functions": [
+      "publish"
+    ],
+    "topics": [
+      "culture",
+      "education"
+    ],
+    "primaryTopic": "culture",
+    "language": "ru",
+    "compat": "L0",
+    "audience": "all",
+    "formats": [
+      "text"
+    ],
+    "tags": [
+      "history",
+      "photos"
+    ],
+    "isPromoted": false,
+    "weight": 10
+  },
+  {
+    "id": "tg-historyfacts",
+    "title": "History Facts",
+    "type": "channel",
+    "deeplink": "https://t.me/historyfacts",
+    "shortDescription": "Интересные исторические факты и события.",
+    "longDescription": "Канал делится любопытными фактами о прошлом: важные даты, малоизвестные события, биографии исторических личностей. Публикации помогают расширить исторический кругозор и увидить историю с разных сторон.",
+    "functions": [
+      "publish"
+    ],
+    "topics": [
+      "culture",
+      "education"
+    ],
+    "primaryTopic": "culture",
+    "language": "ru",
+    "compat": "L0",
+    "audience": "all",
+    "formats": [
+      "text"
+    ],
+    "tags": [
+      "history",
+      "facts"
+    ],
+    "isPromoted": false,
+    "weight": 10
+  },
+  {
+    "id": "tg-ussrsssr",
+    "title": "USSRsssr",
+    "type": "channel",
+    "deeplink": "https://t.me/ussrsssr",
+    "shortDescription": "Хроники Советского Союза: фото, видео и документы.",
+    "longDescription": "Этот канал посвящён истории Советского Союза: авторы публикуют фотографии, видеозаписи, выдержки из газет и воспоминания очевидцев, чтобы погрузить читателя в атмосферу эпохи.",
+    "functions": [
+      "publish"
+    ],
+    "topics": [
+      "culture",
+      "education"
+    ],
+    "primaryTopic": "culture",
+    "language": "ru",
+    "compat": "L0",
+    "audience": "all",
+    "formats": [
+      "text"
+    ],
+    "tags": [
+      "history",
+      "ussr"
+    ],
+    "isPromoted": false,
+    "weight": 10
+  },
+  {
+    "id": "tg-project1917",
+    "title": "Project1917",
+    "type": "channel",
+    "deeplink": "https://t.me/project1917",
+    "shortDescription": "Дневник событий 1917 года в режиме реального времени.",
+    "longDescription": "Проект 1917 воссоздаёт календарь революционных событий: каждый день канал публикует тексты, дневниковые записи и газетные заметки, совпадающие по дате с событиями 1917 года. Подписчики получают эффект присутствия в прошлом и лучше понимают историю России.",
+    "functions": [
+      "publish"
+    ],
+    "topics": [
+      "culture",
+      "education"
+    ],
+    "primaryTopic": "culture",
+    "language": "ru",
+    "compat": "L0",
+    "audience": "all",
+    "formats": [
+      "text"
+    ],
+    "tags": [
+      "history",
+      "diary"
+    ],
+    "isPromoted": false,
+    "weight": 10
+  },
+  {
+    "id": "tg-historyrf",
+    "title": "История.РФ",
+    "type": "channel",
+    "deeplink": "https://t.me/historyrf",
+    "shortDescription": "Официальный канал проекта «История.РФ» с фактами о прошлом.",
+    "longDescription": "Официальный канал просветительского проекта ‘История.РФ’ публикует проверенные факты, исторические справки и материалы о российском прошлом. Цель канала — популяризировать исторические знания и противостоять мифам о истории.",
+    "functions": [
+      "publish"
+    ],
+    "topics": [
+      "culture",
+      "education"
+    ],
+    "primaryTopic": "culture",
+    "language": "ru",
+    "compat": "L0",
+    "audience": "all",
+    "formats": [
+      "text"
+    ],
+    "tags": [
+      "history",
+      "official"
+    ],
+    "isPromoted": false,
+    "weight": 10
+  },
+  {
+    "id": "tg-knizhnoe_bratstvo",
+    "title": "Книжное братство",
+    "type": "channel",
+    "deeplink": "https://t.me/knizhnoe_bratstvo",
+    "shortDescription": "Аннотации и подборки биографий, книг по психологии и зарубежной прозе.",
+    "longDescription": "‘Книжное братство’ — крупный книжный канал, где публикуют аннотации и рекомендации по биографической литературе, книгам по самопознанию и психологии, а также обзор зарубежной прозы. Канал помогает выбрать интересную книгу для чтения и делится рецензиями【290037933635682†L60-L67】.",
+    "functions": [
+      "publish"
+    ],
+    "topics": [
+      "culture",
+      "education"
+    ],
+    "primaryTopic": "culture",
+    "language": "ru",
+    "compat": "L0",
+    "audience": "all",
+    "formats": [
+      "text"
+    ],
+    "tags": [
+      "literature",
+      "book-reviews"
+    ],
+    "isPromoted": false,
+    "weight": 10
+  },
+  {
+    "id": "tg-prometa_pro",
+    "title": "Prometa.pro книжки",
+    "type": "channel",
+    "deeplink": "https://t.me/prometa_pro",
+    "shortDescription": "Рецензии на нон‑фикшн, который ещё не перевели на русский.",
+    "longDescription": "Небольшое сообщество любителей книг, где автор публикует рецензии на нон‑фикшн литературу, пока не изданную на русском языке. Канал помогает открыть новые идеи и книги задолго до их официального выхода【290037933635682†L71-L77】.",
+    "functions": [
+      "publish"
+    ],
+    "topics": [
+      "culture"
+    ],
+    "primaryTopic": "culture",
+    "language": "ru",
+    "compat": "L0",
+    "audience": "all",
+    "formats": [
+      "text"
+    ],
+    "tags": [
+      "literature",
+      "non-fiction"
+    ],
+    "isPromoted": false,
+    "weight": 10
+  },
+  {
+    "id": "tg-knigsovet",
+    "title": "KNIGSOVET",
+    "type": "channel",
+    "deeplink": "https://t.me/knigsovet",
+    "shortDescription": "Цитаты и рецензии на нон‑фикшн книги от Дениса Пескова.",
+    "longDescription": "Авторский канал Дениса Пескова, в котором он делится цитатами и собственными рецензиями на нон‑фикшн книги. Публикации помогают выбрать познавательную литературу и узнавать о новинках【290037933635682†L78-L86】.",
+    "functions": [
+      "publish"
+    ],
+    "topics": [
+      "culture",
+      "education"
+    ],
+    "primaryTopic": "culture",
+    "language": "ru",
+    "compat": "L0",
+    "audience": "all",
+    "formats": [
+      "text"
+    ],
+    "tags": [
+      "literature",
+      "non-fiction"
+    ],
+    "isPromoted": false,
+    "weight": 10
+  },
+  {
+    "id": "tg-stonerbookchannel",
+    "title": "Stoner",
+    "type": "channel",
+    "deeplink": "https://t.me/stonerbookchannel",
+    "shortDescription": "Отзывы на художественную и нон‑фикшн литературу от Владимира Панкратова.",
+    "longDescription": "Литературный обозреватель Владимир Панкратов ведёт канал ‘Stoner’, где публикует обзоры как художественных, так и научно‑популярных книг. Канал помогает ориентироваться в литературных новинках и выдаёт честные отзывы【290037933635682†L97-L106】.",
+    "functions": [
+      "publish"
+    ],
+    "topics": [
+      "culture"
+    ],
+    "primaryTopic": "culture",
+    "language": "ru",
+    "compat": "L0",
+    "audience": "all",
+    "formats": [
+      "text"
+    ],
+    "tags": [
+      "literature",
+      "reviews"
+    ],
+    "isPromoted": false,
+    "weight": 10
+  },
+  {
+    "id": "tg-womanwrites",
+    "title": "Женщина пишет",
+    "type": "channel",
+    "deeplink": "https://t.me/womanwrites",
+    "shortDescription": "Обзоры биографий, книг о ментальном здоровье и феминизме от Маши Буровой.",
+    "longDescription": "Канал Маши Буровой посвящён книгам о биографиях, ментальном здоровье, воспитании собак и феминизме. Автор пишет искренние рецензии и делится личными размышлениями, помогая читательницам найти вдохновляющую литературу【290037933635682†L112-L114】.",
+    "functions": [
+      "publish"
+    ],
+    "topics": [
+      "culture",
+      "education"
+    ],
+    "primaryTopic": "culture",
+    "language": "ru",
+    "compat": "L0",
+    "audience": "all",
+    "formats": [
+      "text"
+    ],
+    "tags": [
+      "literature",
+      "feminism"
+    ],
+    "isPromoted": false,
+    "weight": 10
+  },
+  {
+    "id": "tg-mifpub",
+    "title": "Издательство МИФ",
+    "type": "channel",
+    "deeplink": "https://t.me/mifpub",
+    "shortDescription": "Новости и подборки от издательства МИФ: религия, культура, психология.",
+    "longDescription": "Официальный канал издательства ‘МИФ’ сообщает о новинках и акциях, публикует статьи и подборки книг по религии, культуре, политике, психологии и саморазвитию. Подписчики первыми узнают о выходе интересных книг и мероприятиях【290037933635682†L121-L123】.",
+    "functions": [
+      "publish"
+    ],
+    "topics": [
+      "culture",
+      "education"
+    ],
+    "primaryTopic": "culture",
+    "language": "ru",
+    "compat": "L0",
+    "audience": "all",
+    "formats": [
+      "text"
+    ],
+    "tags": [
+      "publisher",
+      "literature"
+    ],
+    "isPromoted": false,
+    "weight": 10
+  },
+  {
+    "id": "tg-hemingwaypozvonit",
+    "title": "Хемингуэй позвонит",
+    "type": "channel",
+    "deeplink": "https://t.me/hemingwaypozvonit",
+    "shortDescription": "Канал о писательском ремесле, чтении и вдохновении.",
+    "longDescription": "‘Хемингуэй позвонит’ — канал о ремесле писателя и искусстве чтения. Автор вдохновляет писать и больше читать, делится практическими советами и литературными лайфхаками, подталкивая развивать собственный литературный вкус【290037933635682†L126-L131】.",
+    "functions": [
+      "publish"
+    ],
+    "topics": [
+      "culture",
+      "education"
+    ],
+    "primaryTopic": "culture",
+    "language": "ru",
+    "compat": "L0",
+    "audience": "all",
+    "formats": [
+      "text"
+    ],
+    "tags": [
+      "writing",
+      "reading"
+    ],
+    "isPromoted": false,
+    "weight": 10
+  },
+  {
+    "id": "tg-dramady_fedorova",
+    "title": "Драмеди",
+    "type": "channel",
+    "deeplink": "https://t.me/dramady_fedorova",
+    "shortDescription": "Обзоры дистопий, хоррора и современной прозы с политическим подтекстом.",
+    "longDescription": "Политтехнолог Анна Фёдорова ведёт канал ‘Драмеди’, где обозревает дистопии, хорроры и современную российскую и зарубежную прозу, дополняя рецензии комментариями о политике, феминизме и актуальных темах【290037933635682†L255-L258】.",
+    "functions": [
+      "publish"
+    ],
+    "topics": [
+      "culture"
+    ],
+    "primaryTopic": "culture",
+    "language": "ru",
+    "compat": "L0",
+    "audience": "all",
+    "formats": [
+      "text"
+    ],
+    "tags": [
+      "literature",
+      "reviews"
+    ],
+    "isPromoted": false,
+    "weight": 10
+  },
+  {
+    "id": "tg-readme_txt",
+    "title": "ReadMe.txt",
+    "type": "channel",
+    "deeplink": "https://t.me/readme_txt",
+    "shortDescription": "Илья Клищин пишет о книгах, переосмысляя русскую классику.",
+    "longDescription": "Автор Илья Клищин делится мыслями о прочитанных книгах, главным образом классической русской литературе. Канал объединяет любителей литературы и помогает вновь открыть для себя произведения школьной программы【290037933635682†L265-L268】.",
+    "functions": [
+      "publish"
+    ],
+    "topics": [
+      "culture"
+    ],
+    "primaryTopic": "culture",
+    "language": "ru",
+    "compat": "L0",
+    "audience": "all",
+    "formats": [
+      "text"
+    ],
+    "tags": [
+      "literature",
+      "classics"
+    ],
+    "isPromoted": false,
+    "weight": 10
+  },
+  {
+    "id": "tg-knizhnybunker",
+    "title": "Книжный бункер",
+    "type": "channel",
+    "deeplink": "https://t.me/knizhnybunker",
+    "shortDescription": "Литературное убежище с рецензиями и рекомендациями.",
+    "longDescription": "Канал ‘Книжный бункер’ предлагает укрыться от повседневности в мире книг: здесь публикуют обзоры интересной художественной литературы, авторские рейтинги и рекомендации. Ведущая называет себя книжным гедонистом и делится любимыми находками【290037933635682†L275-L278】.",
+    "functions": [
+      "publish"
+    ],
+    "topics": [
+      "culture"
+    ],
+    "primaryTopic": "culture",
+    "language": "ru",
+    "compat": "L0",
+    "audience": "all",
+    "formats": [
+      "text"
+    ],
+    "tags": [
+      "literature",
+      "fiction"
+    ],
+    "isPromoted": false,
+    "weight": 10
+  },
+  {
+    "id": "tg-greenlampbooks_plus",
+    "title": "Greenlampbooks+",
+    "type": "channel",
+    "deeplink": "https://t.me/greenlampbooks_plus",
+    "shortDescription": "Списки художественной литературы с краткими обзорами и историями.",
+    "longDescription": "Канал предлагает читателям списки художественной литературы. Каждая рекомендация сопровождается 2–3 предложениями и краткими личными историями от автора Евгении Лисицыной, что делает выбор книги более осознанным【290037933635682†L280-L287】.",
+    "functions": [
+      "publish"
+    ],
+    "topics": [
+      "culture"
+    ],
+    "primaryTopic": "culture",
+    "language": "ru",
+    "compat": "L0",
+    "audience": "all",
+    "formats": [
+      "text"
+    ],
+    "tags": [
+      "literature",
+      "recommendations"
+    ],
+    "isPromoted": false,
+    "weight": 10
+  },
+  {
+    "id": "tg-literaturno",
+    "title": "Литературно",
+    "type": "channel",
+    "deeplink": "https://t.me/literaturno",
+    "shortDescription": "Ежемесячные подборки и обзоры зарубежной прозы.",
+    "longDescription": "Канал литературного портала публикует ежемесячные подборки новинок, обзоры иностранной прозы и результаты литературных премий. Подходит тем, кто следит за современными тенденциями в мировой литературе【290037933635682†L290-L296】.",
+    "functions": [
+      "publish"
+    ],
+    "topics": [
+      "culture"
+    ],
+    "primaryTopic": "culture",
+    "language": "ru",
+    "compat": "L0",
+    "audience": "all",
+    "formats": [
+      "text"
+    ],
+    "tags": [
+      "literature",
+      "foreign"
+    ],
+    "isPromoted": false,
+    "weight": 10
+  },
+  {
+    "id": "tg-korochekniga",
+    "title": "Короче говоря — книга",
+    "type": "channel",
+    "deeplink": "https://t.me/korochekniga",
+    "shortDescription": "Краткие пересказы, цитаты и обзоры классики и современной литературы.",
+    "longDescription": "Канал предоставляет сжатые пересказы известных книг, яркие цитаты и краткие обзоры как классических, так и современных произведений. Подходит тем, кто хочет получить основную суть книги за пару минут【290037933635682†L303-L305】.",
+    "functions": [
+      "publish"
+    ],
+    "topics": [
+      "culture",
+      "education"
+    ],
+    "primaryTopic": "culture",
+    "language": "ru",
+    "compat": "L0",
+    "audience": "all",
+    "formats": [
+      "text"
+    ],
+    "tags": [
+      "literature",
+      "summaries"
+    ],
+    "isPromoted": false,
+    "weight": 10
+  },
+  {
+    "id": "tg-knizhny_lis",
+    "title": "Книжный Лис",
+    "type": "channel",
+    "deeplink": "https://t.me/knizhny_lis",
+    "shortDescription": "Подборки книг и рецензии на фэнтези, хоррор и нон‑фикшн.",
+    "longDescription": "‘Книжный Лис’ делится подборками книг и рецензиями. В центре внимания — жанры фэнтези и хоррор, но также уделяется место нон‑фикшн и детской литературе. Канал помогает подобрать чтение на любой вкус【290037933635682†L311-L313】.",
+    "functions": [
+      "publish"
+    ],
+    "topics": [
+      "culture"
+    ],
+    "primaryTopic": "culture",
+    "language": "ru",
+    "compat": "L0",
+    "audience": "all",
+    "formats": [
+      "text"
+    ],
+    "tags": [
+      "literature",
+      "fantasy"
+    ],
+    "isPromoted": false,
+    "weight": 10
+  },
+  {
+    "id": "tg-mini_knigi",
+    "title": "МиниКниги",
+    "type": "channel",
+    "deeplink": "https://t.me/mini_knigi",
+    "shortDescription": "Краткие пересказы популярных книг за 7–14 минут чтения.",
+    "longDescription": "Канал утверждает, что на чтение книги можно потратить всего 7–14 минут: здесь публикуют краткие пересказы популярных русских и зарубежных произведений, позволяя быстро познакомиться с сюжетом и ключевыми идеями【290037933635682†L321-L323】.",
+    "functions": [
+      "publish"
+    ],
+    "topics": [
+      "culture",
+      "education"
+    ],
+    "primaryTopic": "culture",
+    "language": "ru",
+    "compat": "L0",
+    "audience": "all",
+    "formats": [
+      "text"
+    ],
+    "tags": [
+      "literature",
+      "summaries"
+    ],
+    "isPromoted": false,
+    "weight": 10
+  },
+  {
+    "id": "tg-tolstchetwittera",
+    "title": "Толще твиттера",
+    "type": "channel",
+    "deeplink": "https://t.me/tolstchetwittera",
+    "shortDescription": "Обзоры двух книг каждую неделю с аргументами, зачем их читать.",
+    "longDescription": "Канал журналистки Анастасии Завозовой, в котором каждую неделю рассматриваются две книги. Автор приводил убедительные аргументы, почему стоит читать эти произведения, помогая выбирать достойную литературу【290037933635682†L331-L333】.",
+    "functions": [
+      "publish"
+    ],
+    "topics": [
+      "culture"
+    ],
+    "primaryTopic": "culture",
+    "language": "ru",
+    "compat": "L0",
+    "audience": "all",
+    "formats": [
+      "text"
+    ],
+    "tags": [
+      "literature",
+      "reviews"
+    ],
+    "isPromoted": false,
+    "weight": 10
+  },
+  {
+    "id": "tg-knizhki_i_kotiki",
+    "title": "Книжки и котики",
+    "type": "channel",
+    "deeplink": "https://t.me/knizhki_i_kotiki",
+    "shortDescription": "Книжные обзоры с милыми фотографиями котов.",
+    "longDescription": "Маленький уютный канал, где автор делится отзывами на книги и иногда публикует фотографии своих котиков. Идеален для тех, кто любит уютную атмосферу и чтение【290037933635682†L340-L343】.",
+    "functions": [
+      "publish"
+    ],
+    "topics": [
+      "culture"
+    ],
+    "primaryTopic": "culture",
+    "language": "ru",
+    "compat": "L0",
+    "audience": "all",
+    "formats": [
+      "text"
+    ],
+    "tags": [
+      "literature",
+      "cats"
+    ],
+    "isPromoted": false,
+    "weight": 10
+  },
+  {
+    "id": "tg-mister_darcy_bal",
+    "title": "Мистер Дарси и бал",
+    "type": "channel",
+    "deeplink": "https://t.me/mister_darcy_bal",
+    "shortDescription": "Канал о чтении и английском языке с обзорами художественной литературы.",
+    "longDescription": "Филолог ведёт канал, призывая читать больше, в том числе на английском языке. Автор публикует рецензии на художественные произведения, рассказывает о новинках и популярной нон‑фикшн, помогая улучшать языковые навыки【290037933635682†L345-L352】.",
+    "functions": [
+      "publish"
+    ],
+    "topics": [
+      "culture",
+      "education"
+    ],
+    "primaryTopic": "culture",
+    "language": "ru",
+    "compat": "L0",
+    "audience": "all",
+    "formats": [
+      "text"
+    ],
+    "tags": [
+      "literature",
+      "english"
+    ],
+    "isPromoted": false,
+    "weight": 10
+  },
+  {
+    "id": "tg-knigochervivost",
+    "title": "Книгочервивость",
+    "type": "channel",
+    "deeplink": "https://t.me/knigochervivost",
+    "shortDescription": "Цитаты и личные заметки из прочитанных книг без рекламы.",
+    "longDescription": "Автор этого канала ведёт своеобразный книжный дневник: публикует цитаты и впечатления от прочитанных книг, не размещая рекламы. Это искренний и хаотичный журнал для настоящих книголюбов【290037933635682†L355-L360】.",
+    "functions": [
+      "publish"
+    ],
+    "topics": [
+      "culture"
+    ],
+    "primaryTopic": "culture",
+    "language": "ru",
+    "compat": "L0",
+    "audience": "all",
+    "formats": [
+      "text"
+    ],
+    "tags": [
+      "literature",
+      "quotes"
+    ],
+    "isPromoted": false,
+    "weight": 10
+  },
+  {
+    "id": "tg-literator_channel",
+    "title": "Литератор",
+    "type": "channel",
+    "deeplink": "https://t.me/literator_channel",
+    "shortDescription": "Факты о писателях и поэтах, фотографии библиотек и цитаты.",
+    "longDescription": "‘Литератор’ знакомит с писателями и поэтами: авторы публикуют интересные факты, фотографии библиотек, цитаты и отрывки из произведений. Канал предназначен для ценителей литературы и истории книг【290037933635682†L367-L369】.",
+    "functions": [
+      "publish"
+    ],
+    "topics": [
+      "culture"
+    ],
+    "primaryTopic": "culture",
+    "language": "ru",
+    "compat": "L0",
+    "audience": "all",
+    "formats": [
+      "text"
+    ],
+    "tags": [
+      "literature",
+      "history"
+    ],
+    "isPromoted": false,
+    "weight": 10
+  },
+  {
+    "id": "tg-knizhnymaniac",
+    "title": "Книжный маньяк",
+    "type": "channel",
+    "deeplink": "https://t.me/knizhnymaniac",
+    "shortDescription": "Канал для вдумчивого чтения с фото и цитатами из книг.",
+    "longDescription": "Канал ‘Книжный маньяк’ призывает к осознанному чтению: здесь публикуют красивые фотографии книг, вдохновляющие цитаты и размышления о прочитанном, побуждая уделять книгам больше внимания【290037933635682†L371-L377】.",
+    "functions": [
+      "publish"
+    ],
+    "topics": [
+      "culture"
+    ],
+    "primaryTopic": "culture",
+    "language": "ru",
+    "compat": "L0",
+    "audience": "all",
+    "formats": [
+      "text"
+    ],
+    "tags": [
+      "literature",
+      "inspiration"
+    ],
+    "isPromoted": false,
+    "weight": 10
+  },
+  {
+    "id": "tg-azbooka_knigogoliki",
+    "title": "Азбука. Книгоголики",
+    "type": "channel",
+    "deeplink": "https://t.me/azbooka_knigogoliki",
+    "shortDescription": "Канал издательства Азбука: подборки, рецензии и новости.",
+    "longDescription": "Официальный канал издательства ‘Азбука’ публикует книги недели, рецензии читателей, анонсы новых изданий и новости издательских проектов, помогая книголюбам быть в курсе литературной жизни【290037933635682†L395-L401】.",
+    "functions": [
+      "publish"
+    ],
+    "topics": [
+      "culture"
+    ],
+    "primaryTopic": "culture",
+    "language": "ru",
+    "compat": "L0",
+    "audience": "all",
+    "formats": [
+      "text"
+    ],
+    "tags": [
+      "literature",
+      "publisher"
+    ],
+    "isPromoted": false,
+    "weight": 10
+  },
+  {
+    "id": "tg-cto_ya_prochital",
+    "title": "Что я прочитал — ЭКСМО",
+    "type": "channel",
+    "deeplink": "https://t.me/cto_ya_prochital",
+    "shortDescription": "Редакторы Эксмо делятся любимыми книгами и мемами.",
+    "longDescription": "Редакторы издательства ЭКСМО ведут канал, где делятся впечатлениями о прочитанных книгах, рассказывают о старых и новых произведениях, публикуют комиксы и мемы о книгах, делая канал живым и актуальным【290037933635682†L403-L409】.",
+    "functions": [
+      "publish"
+    ],
+    "topics": [
+      "culture"
+    ],
+    "primaryTopic": "culture",
+    "language": "ru",
+    "compat": "L0",
+    "audience": "all",
+    "formats": [
+      "text"
+    ],
+    "tags": [
+      "literature",
+      "publisher"
+    ],
+    "isPromoted": false,
+    "weight": 10
+  },
+  {
+    "id": "tg-biblioteka_rasskazy_knigi",
+    "title": "Библиотека. Рассказы. Книги",
+    "type": "channel",
+    "deeplink": "https://t.me/biblioteka_rasskazy_knigi",
+    "shortDescription": "Канал с краткими пересказами и редкими обзорами художественной литературы.",
+    "longDescription": "Канал публикует лаконичные пересказы и редкие обзоры художественных произведений, давая возможность быстро составить представление о книге. Подписчики могут узнать о забытых или малоизвестных рассказах и романах【290037933635682†L411-L418】.",
+    "functions": [
+      "publish"
+    ],
+    "topics": [
+      "culture"
+    ],
+    "primaryTopic": "culture",
+    "language": "ru",
+    "compat": "L0",
+    "audience": "all",
+    "formats": [
+      "text"
+    ],
+    "tags": [
+      "literature",
+      "summaries"
+    ],
+    "isPromoted": false,
+    "weight": 10
+  },
+  {
+    "id": "tg-izdatelstvo_ast",
+    "title": "Издательство АСТ",
+    "type": "channel",
+    "deeplink": "https://t.me/izdatelstvo_ast",
+    "shortDescription": "Новости, рекомендации и проекты одного из крупнейших издательств России.",
+    "longDescription": "Официальный канал издательства АСТ делится новостями, книжными рекомендациями и планами проектов. Здесь можно узнать о новых сериях, специзданиях и увидеть закулисье российского книжного рынка【290037933635682†L425-L426】.",
+    "functions": [
+      "publish"
+    ],
+    "topics": [
+      "culture"
+    ],
+    "primaryTopic": "culture",
+    "language": "ru",
+    "compat": "L0",
+    "audience": "all",
+    "formats": [
+      "text"
+    ],
+    "tags": [
+      "literature",
+      "publisher"
+    ],
+    "isPromoted": false,
+    "weight": 10
+  },
+  {
+    "id": "tg-russkiystil",
+    "title": "Русский стиль",
+    "type": "channel",
+    "deeplink": "https://t.me/russkiystil",
+    "shortDescription": "Современная русская культура: арт, мода и народные мотивы.",
+    "longDescription": "Блог о русской культуре современности: авторы показывают арты, русскую моду, граффити, игрушки и скульптуры, вдохновлённые народными мотивами. Канал знакомит с современным творчеством в русском стиле и фольклорными трендами【753035816648429†L109-L112】.",
+    "functions": [
+      "publish"
+    ],
+    "topics": [
+      "culture"
+    ],
+    "primaryTopic": "culture",
+    "language": "ru",
+    "compat": "L0",
+    "audience": "all",
+    "formats": [
+      "text"
+    ],
+    "tags": [
+      "art",
+      "culture"
+    ],
+    "isPromoted": false,
+    "weight": 10
+  },
+  {
+    "id": "tg-monument",
+    "title": "Monument",
+    "type": "channel",
+    "deeplink": "https://t.me/monument",
+    "shortDescription": "Советское монументальное искусство: мозаики, скульптуры и архитектура.",
+    "longDescription": "Канал посвящён всем аспектам советского монументального искусства. Его автор рассказывает о мозаиках, скульптурах и архитектурных деталях различных стилей, публикует фотографии и истории создания знаменитых объектов, что понравится любителям советской эстетики【753035816648429†L113-L119】.",
+    "functions": [
+      "publish"
+    ],
+    "topics": [
+      "culture"
+    ],
+    "primaryTopic": "culture",
+    "language": "ru",
+    "compat": "L0",
+    "audience": "all",
+    "formats": [
+      "text"
+    ],
+    "tags": [
+      "art",
+      "history"
+    ],
+    "isPromoted": false,
+    "weight": 10
+  },
+  {
+    "id": "tg-russkij_zhurnal",
+    "title": "Русский журнал",
+    "type": "channel",
+    "deeplink": "https://t.me/russkij_zhurnal",
+    "shortDescription": "История и культура России в уютном формате.",
+    "longDescription": "Молодой блог об истории и культуре России: здесь сочетаются авторские комментарии с созерцанием исторических и литературных любопытностей. Канал публикует исторические снимки, рассказы о выдающихся личностях и рекомендации книг【753035816648429†L121-L126】.",
+    "functions": [
+      "publish"
+    ],
+    "topics": [
+      "culture"
+    ],
+    "primaryTopic": "culture",
+    "language": "ru",
+    "compat": "L0",
+    "audience": "all",
+    "formats": [
+      "text"
+    ],
+    "tags": [
+      "history",
+      "culture"
+    ],
+    "isPromoted": false,
+    "weight": 10
+  },
+  {
+    "id": "tg-unezhit_dushu",
+    "title": "Унежить душу",
+    "type": "channel",
+    "deeplink": "https://t.me/unezhit_dushu",
+    "shortDescription": "Канал о современном русском дизайне и айдентике.",
+    "longDescription": "Канал посвящён современному русскому дизайну, вдохновлённому национальной идентичностью. Здесь показывают рекламу, вдохновлённую русскими сказками, современную интерпретацию царской моды и другие удивительные примеры дизайна, что радует глаз【753035816648429†L128-L130】.",
+    "functions": [
+      "publish"
+    ],
+    "topics": [
+      "culture"
+    ],
+    "primaryTopic": "culture",
+    "language": "ru",
+    "compat": "L0",
+    "audience": "all",
+    "formats": [
+      "text"
+    ],
+    "tags": [
+      "design",
+      "culture"
+    ],
+    "isPromoted": false,
+    "weight": 10
+  },
+  {
+    "id": "tg-polka_project",
+    "title": "Полка",
+    "type": "channel",
+    "deeplink": "https://t.me/polka_project",
+    "shortDescription": "Блог образовательного проекта о русской литературе.",
+    "longDescription": "Канал образовательного проекта ‘Полка’ полностью посвящён важнейшим произведениям русской литературы и их авторам. Подписчики могут заново открыть отечественные шедевры и узнать об истории их создания благодаря увлекательным обзорам【753035816648429†L132-L136】.",
+    "functions": [
+      "publish"
+    ],
+    "topics": [
+      "culture",
+      "education"
+    ],
+    "primaryTopic": "culture",
+    "language": "ru",
+    "compat": "L0",
+    "audience": "all",
+    "formats": [
+      "text"
+    ],
+    "tags": [
+      "literature",
+      "education"
+    ],
+    "isPromoted": false,
+    "weight": 10
+  },
+  {
+    "id": "tg-book_quotes",
+    "title": "Books",
+    "type": "channel",
+    "deeplink": "https://t.me/book_quotes",
+    "shortDescription": "Коллекция цитат из литературных произведений.",
+    "longDescription": "Канал публикует вдохновляющие цитаты из литературных произведений классических и современных авторов. Подписчики могут открыть для себя новые книги через короткие фрагменты текста, которые мотивируют к чтению【290037933635682†L379-L386】.",
+    "functions": [
+      "publish"
+    ],
+    "topics": [
+      "culture"
+    ],
+    "primaryTopic": "culture",
+    "language": "ru",
+    "compat": "L0",
+    "audience": "all",
+    "formats": [
+      "text"
+    ],
+    "tags": [
+      "literature",
+      "quotes"
+    ],
+    "isPromoted": false,
+    "weight": 10
+  },
+  {
+    "id": "tg-uyutnaya_biblioteka",
+    "title": "Уютная библиотека",
+    "type": "channel",
+    "deeplink": "https://t.me/uyutnaya_biblioteka",
+    "shortDescription": "Небольшие аннотации на русскую и зарубежную литературу.",
+    "longDescription": "Этот канал публикует короткие аннотации на русскую и зарубежную литературу, помогая выбрать книгу для душевного отдыха. Каждый пост включает основные сведения о сюжете и атмосфере произведения【290037933635682†L388-L394】.",
+    "functions": [
+      "publish"
+    ],
+    "topics": [
+      "culture"
+    ],
+    "primaryTopic": "culture",
+    "language": "ru",
+    "compat": "L0",
+    "audience": "all",
+    "formats": [
+      "text"
+    ],
+    "tags": [
+      "literature",
+      "annotations"
+    ],
+    "isPromoted": false,
+    "weight": 10
+  }
+]

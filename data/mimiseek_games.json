@@ -1,0 +1,1466 @@
+{
+  "resources": [
+    {
+      "id": "tg-gamee",
+      "title": "Gamee",
+      "type": "bot",
+      "deeplink": "https://t.me/gamee",
+      "shortDescription": "Платформа с десятками игр: аркады, головоломки и викторины.",
+      "longDescription": "Gamee — игровой бот, предлагающий десятки аркадных и головоломок. Достаточно вызвать @gamee, чтобы выбрать игру и бросить вызов друзьям. Бот поддерживает таблицы лидеров и инструкции по каждой игре, что делает его простым и увлекательным для совместного досуга【538781860772156†L36-L42】.",
+      "functions": [
+        "render",
+        "publish"
+      ],
+      "topics": [
+        "games"
+      ],
+      "primaryTopic": "games",
+      "language": "multi",
+      "compat": "L0",
+      "audience": "all",
+      "formats": [
+        "text"
+      ],
+      "tags": [
+        "en-bot",
+        "game-platform"
+      ],
+      "isPromoted": false,
+      "weight": 10
+    },
+    {
+      "id": "tg-gamebot",
+      "title": "GameBot",
+      "type": "bot",
+      "deeplink": "https://t.me/gamebot",
+      "shortDescription": "Бот с набором простых HTML5 игр, который можно вызывать в любом чате.",
+      "longDescription": "GameBot — официальный бот Telegram для запуска простых HTML5 игр. Пользователи могут вызвать @gamebot в любом чате, чтобы сыграть в любимые мини‑игры, соревноваться с друзьями и отслеживать результаты. Бот поддерживает различные жанры, а управление происходит прямо в переписке【538781860772156†L36-L58】.",
+      "functions": [
+        "render",
+        "publish"
+      ],
+      "topics": [
+        "games"
+      ],
+      "primaryTopic": "games",
+      "language": "multi",
+      "compat": "L0",
+      "audience": "all",
+      "formats": [
+        "text"
+      ],
+      "tags": [
+        "multi-bot"
+      ],
+      "isPromoted": false,
+      "weight": 10
+    },
+    {
+      "id": "tg-bfpgamebot",
+      "title": "BFPGameBot",
+      "type": "bot",
+      "deeplink": "https://t.me/bfpgamebot",
+      "shortDescription": "Коллекция HTML5 игр с рейтингами и таблицей лидеров.",
+      "longDescription": "BFPGameBot — бот с подборкой HTML5 игр, которые можно запускать в чате. Бот предлагает игрокам соревноваться в списках лидеров и видеть свои результаты в реальном времени, создавая здоровый дух соревнования【538781860772156†L36-L58】.",
+      "functions": [
+        "render",
+        "publish"
+      ],
+      "topics": [
+        "games"
+      ],
+      "primaryTopic": "games",
+      "language": "multi",
+      "compat": "L0",
+      "audience": "all",
+      "formats": [
+        "text"
+      ],
+      "tags": [
+        "multi-bot"
+      ],
+      "isPromoted": false,
+      "weight": 10
+    },
+    {
+      "id": "tg-inlinegamesbot",
+      "title": "InlineGamesBot",
+      "type": "bot",
+      "deeplink": "https://t.me/inlinegamesbot",
+      "shortDescription": "Бот для запуска мини‑игр прямо в диалогах через inline‑команды.",
+      "longDescription": "InlineGamesBot — бот, который позволяет играть в различные мини‑игры с помощью inline‑команд. Пользователь вводит @inlinegamesbot в поле ввода чата, выбирает игру, и бот выводит игровой интерфейс. В набор входят настольные и аркадные игры с общими таблицами лидеров【538781860772156†L36-L58】.",
+      "functions": [
+        "render",
+        "publish"
+      ],
+      "topics": [
+        "games"
+      ],
+      "primaryTopic": "games",
+      "language": "multi",
+      "compat": "L0",
+      "audience": "all",
+      "formats": [
+        "text"
+      ],
+      "tags": [
+        "multi-bot"
+      ],
+      "isPromoted": false,
+      "weight": 10
+    },
+    {
+      "id": "tg-pipisa-bot",
+      "title": "Pipisa Bot",
+      "type": "bot",
+      "deeplink": "https://t.me/pipisa_bot",
+      "shortDescription": "Ироничный бот с юмором 18+; каждый день меняет ваш виртуальный размер и ведёт рейтинги.",
+      "longDescription": "Pipisa Bot — игровой бот с оттенком иронии, в котором пользователи раз в сутки используют команду \\dick, чтобы узнать виртуальный размер. Бот ведёт личные и групповые рейтинги, предлагает покупку дополнительных попыток и дарит бонусы. Игра ориентирована на взрослую аудиторию и используется для веселья в групповых чатах【378443289527826†L28-L56】.",
+      "functions": [
+        "render",
+        "publish"
+      ],
+      "topics": [
+        "games"
+      ],
+      "primaryTopic": "games",
+      "language": "ru",
+      "compat": "L0",
+      "audience": "18+",
+      "formats": [
+        "text"
+      ],
+      "tags": [
+        "ru-bot",
+        "adult-humor"
+      ],
+      "isPromoted": false,
+      "weight": 10
+    },
+    {
+      "id": "tg-kruzchatbot",
+      "title": "KruzChatBot",
+      "type": "bot",
+      "deeplink": "https://t.me/kruzchatbot",
+      "shortDescription": "Геймифицированный бот для групповых чатов с простыми играми и развлечениями.",
+      "longDescription": "KruzChatBot — бот, который добавляет в групповые чаты простые мини‑игры и интерактивные активности. Пользователи могут вызывать игры через команды и соревноваться друг с другом, а также подписываться на новости разработчика через связанные каналы【202808963785006†L40-L60】.",
+      "functions": [
+        "render",
+        "publish"
+      ],
+      "topics": [
+        "games"
+      ],
+      "primaryTopic": "games",
+      "language": "ru",
+      "compat": "L0",
+      "audience": "all",
+      "formats": [
+        "text"
+      ],
+      "tags": [
+        "ru-bot",
+        "chat-games"
+      ],
+      "isPromoted": false,
+      "weight": 10
+    },
+    {
+      "id": "tg-upcookiebot",
+      "title": "UpCookieBot",
+      "type": "bot",
+      "deeplink": "https://t.me/upcookiebot",
+      "shortDescription": "Кликер по поеданию печенек с локальными и глобальными таблицами лидеров.",
+      "longDescription": "UpCookieBot (Печеньеметр) — увлекательный кликер, в котором нужно “съедать” виртуальные печеньки, нажимая кнопку. Бот отслеживает количество поеденных печенек, формирует локальные и глобальные рейтинги и периодически дарит бесплатные печеньки, чтобы продолжать игру【897828354312381†L40-L60】.",
+      "functions": [
+        "render",
+        "publish"
+      ],
+      "topics": [
+        "games"
+      ],
+      "primaryTopic": "games",
+      "language": "ru",
+      "compat": "L0",
+      "audience": "all",
+      "formats": [
+        "text"
+      ],
+      "tags": [
+        "ru-bot",
+        "clicker"
+      ],
+      "isPromoted": false,
+      "weight": 10
+    },
+    {
+      "id": "tg-whiskeyusebot",
+      "title": "WhiskeyUseBot",
+      "type": "bot",
+      "deeplink": "https://t.me/whiskeyusebot",
+      "shortDescription": "Шуточный бот‑симулятор виртуального виски для компаний и друзей.",
+      "longDescription": "WhiskeyUseBot — игра‑симулятор, в которой участники могут “выпить” виртуального виски раз в час командой /whiskey. Бот ведёт счёт выпитого, показывает статистику игроков и формирует рейтинги, что делает игру весёлым дополнением к общению в группах【733852347632809†L40-L60】.",
+      "functions": [
+        "render",
+        "publish"
+      ],
+      "topics": [
+        "games"
+      ],
+      "primaryTopic": "games",
+      "language": "ru",
+      "compat": "L0",
+      "audience": "18+",
+      "formats": [
+        "text"
+      ],
+      "tags": [
+        "ru-bot",
+        "drinking-game"
+      ],
+      "isPromoted": false,
+      "weight": 10
+    },
+    {
+      "id": "tg-vodupbot",
+      "title": "VodUpBot",
+      "type": "bot",
+      "deeplink": "https://t.me/vodupbot",
+      "shortDescription": "Симулятор выпивания виртуальной водки с рейтингами и реферальной системой.",
+      "longDescription": "VodUpBot — аналог виски‑бота, предлагающий участникам “выпить” виртуальную водку командой /vodka раз в час. Бот подсчитывает количество выпитых “рюмок”, формирует таблицы лидеров и поощряет приглашение друзей, что делает игру популярным развлечением в неформальных чатах【150812689706221†L40-L55】.",
+      "functions": [
+        "render",
+        "publish"
+      ],
+      "topics": [
+        "games"
+      ],
+      "primaryTopic": "games",
+      "language": "ru",
+      "compat": "L0",
+      "audience": "18+",
+      "formats": [
+        "text"
+      ],
+      "tags": [
+        "ru-bot",
+        "drinking-game"
+      ],
+      "isPromoted": false,
+      "weight": 10
+    },
+    {
+      "id": "tg-waive",
+      "title": "Waive Game Bot",
+      "type": "bot",
+      "deeplink": "https://t.me/waive_game_bot",
+      "shortDescription": "Многофункциональный бот с играми для чатов и каналов.",
+      "longDescription": "Waive — игровой бот, который предлагает разнообразные мини‑игры и задания прямо в чате. С помощью команд пользователи могут запускать игры, сражаться с друзьями и следить за новостями разработчика, для чего существуют отдельный чат и канал поддержки【659295304751729†L40-L58】.",
+      "functions": [
+        "render",
+        "publish"
+      ],
+      "topics": [
+        "games"
+      ],
+      "primaryTopic": "games",
+      "language": "ru",
+      "compat": "L0",
+      "audience": "all",
+      "formats": [
+        "text"
+      ],
+      "tags": [
+        "ru-bot",
+        "multi-game"
+      ],
+      "isPromoted": false,
+      "weight": 10
+    },
+    {
+      "id": "tg-soccerstrike",
+      "title": "Soccer Strike",
+      "type": "miniapp",
+      "deeplink": "https://t.me/soccerstrikebot",
+      "shortDescription": "Мини‑игра про футбол: забивайте голы и устанавливайте рекорды.",
+      "longDescription": "Soccer Strike — аркадная футбольная мини‑игра внутри Telegram. Игроки настраивают точность и силу удара, стремясь забить как можно больше голов. Игра проста в освоении и рассчитана на короткие игровые сессии, подходит футбольным фанатам【162773269567405†L40-L56】.",
+      "functions": [
+        "render",
+        "publish"
+      ],
+      "topics": [
+        "games"
+      ],
+      "primaryTopic": "games",
+      "language": "multi",
+      "compat": "L0",
+      "audience": "all",
+      "formats": [
+        "html"
+      ],
+      "tags": [
+        "miniapp",
+        "football"
+      ],
+      "isPromoted": false,
+      "weight": 10
+    },
+    {
+      "id": "tg-smktadventbot",
+      "title": "SMKT Advent Bot",
+      "type": "miniapp",
+      "deeplink": "https://t.me/smkt_advent_bot",
+      "shortDescription": "Адвент‑календарь от «Самоката» с ежедневными мини‑играми и призами.",
+      "longDescription": "SMKT Advent Bot — сезонный бот‑календарь, созданный сервисом доставки «Самокат». В течение месяца пользователи каждый день открывают новый мини‑квест, участвуют в играх и получают призы и бонусы, что превращает рекламную кампанию в увлекательное развлечение【345795613740793†L40-L56】.",
+      "functions": [
+        "render",
+        "publish"
+      ],
+      "topics": [
+        "games"
+      ],
+      "primaryTopic": "games",
+      "language": "ru",
+      "compat": "L0",
+      "audience": "all",
+      "formats": [
+        "html"
+      ],
+      "tags": [
+        "ru-miniapp",
+        "advent"
+      ],
+      "isPromoted": false,
+      "weight": 10
+    },
+    {
+      "id": "tg-rataccountbot",
+      "title": "RatAccountBot",
+      "type": "bot",
+      "deeplink": "https://t.me/rataccountbot",
+      "shortDescription": "Игра «Ловец крыс»: охотьтесь на виртуальных крыс, дуэли и лидерборды.",
+      "longDescription": "RatAccountBot — игровой бот, в котором пользователи охотятся на виртуальных крыс с помощью команды /rat. Игра включает PvP‑дуэли, таблицы лидеров, статистику и систему донатов для поддержки развития. Соревновательный процесс увлекает и позволяет сражаться с друзьями【157277691612127†L40-L62】.",
+      "functions": [
+        "render",
+        "publish"
+      ],
+      "topics": [
+        "games"
+      ],
+      "primaryTopic": "games",
+      "language": "ru",
+      "compat": "L0",
+      "audience": "all",
+      "formats": [
+        "text"
+      ],
+      "tags": [
+        "ru-bot",
+        "pvp"
+      ],
+      "isPromoted": false,
+      "weight": 10
+    },
+    {
+      "id": "tg-notcoin",
+      "title": "Notcoin",
+      "type": "miniapp",
+      "deeplink": "https://t.me/notcoin_bot",
+      "shortDescription": "Популярная tap‑to‑earn игра на базе TON: зарабатывайте монеты нажатием.",
+      "longDescription": "Notcoin — игра в формате tap‑to‑earn, интегрированная с блокчейном TON. Игроки зарабатывают токены, нажимая на виртуальную монету, выполняют миссии и задания, участвуют в рейтингах и могут обналичивать заработанные коины. Игра привлекла десятки миллионов пользователей и позволяет легко войти в мир Web3【485148049596741†L14-L47】【485148049596741†L54-L72】.",
+      "functions": [
+        "render",
+        "publish"
+      ],
+      "topics": [
+        "games",
+        "crypto_web3"
+      ],
+      "primaryTopic": "games",
+      "language": "multi",
+      "compat": "L0",
+      "audience": "all",
+      "formats": [
+        "html"
+      ],
+      "tags": [
+        "tap-to-earn",
+        "ton"
+      ],
+      "isPromoted": false,
+      "weight": 10
+    },
+    {
+      "id": "tg-hamsterkombat",
+      "title": "Hamster Kombat",
+      "type": "miniapp",
+      "deeplink": "https://t.me/hamster_kombat_bot",
+      "shortDescription": "Viral tap‑to‑earn игра: развивайте крипто‑биржу с участием хомяков.",
+      "longDescription": "Hamster Kombat — вирусная игра внутри Telegram, в которой игроки нажимают на хомяка, чтобы зарабатывать монеты, управляют виртуальной крипто‑биржей, покупают апгрейды и соревнуются в рейтингах. Игра, расширяющая модель Notcoin, привлекает сотни миллионов пользователей и обещает новые сезоны с токеном HAMSTER【724196039020256†L1549-L1576】.",
+      "functions": [
+        "render",
+        "publish"
+      ],
+      "topics": [
+        "games",
+        "crypto_web3"
+      ],
+      "primaryTopic": "games",
+      "language": "multi",
+      "compat": "L0",
+      "audience": "all",
+      "formats": [
+        "html"
+      ],
+      "tags": [
+        "tap-to-earn",
+        "ton"
+      ],
+      "isPromoted": false,
+      "weight": 10
+    },
+    {
+      "id": "tg-totalglitch",
+      "title": "Total Glitch",
+      "type": "miniapp",
+      "deeplink": "https://t.me/totalglitch_bot",
+      "shortDescription": "Необычная игра‑головоломка: матч‑3 с элементами боя и юмором.",
+      "longDescription": "Total Glitch — игра, сочетающая механики match‑3 и файтинга. Сюжет основан на сатирической истории, в которой игрок спасает героя с помощью комбинаций из трёх символов; каждая удачная комбинация наносит удар противнику. Игра выделяется юмором и неожиданными отсылками, что делает её уникальной среди телеграм‑мини‑приложений【478170605269941†L240-L250】.",
+      "functions": [
+        "render",
+        "publish"
+      ],
+      "topics": [
+        "games"
+      ],
+      "primaryTopic": "games",
+      "language": "multi",
+      "compat": "L0",
+      "audience": "all",
+      "formats": [
+        "html"
+      ],
+      "tags": [
+        "miniapp",
+        "match-3"
+      ],
+      "isPromoted": false,
+      "weight": 10
+    },
+    {
+      "id": "tg-tapswap",
+      "title": "TapSwap",
+      "type": "miniapp",
+      "deeplink": "https://t.me/tapswap_bot",
+      "shortDescription": "Простой кликер для заработка TAPS‑коинов через ежедневные задания.",
+      "longDescription": "TapSwap — вирусный кликер‑бот в Telegram. Пользователи нажимают на кнопку, чтобы накапливать TAPS‑коины, выполняют ежедневные задания, участвуют в таблицах лидеров и могут обменивать заработанные монеты на награды. Игра проста и мотивирует возвращаться каждый день【478170605269941†L268-L279】.",
+      "functions": [
+        "render",
+        "publish"
+      ],
+      "topics": [
+        "games",
+        "crypto_web3"
+      ],
+      "primaryTopic": "games",
+      "language": "multi",
+      "compat": "L0",
+      "audience": "all",
+      "formats": [
+        "html"
+      ],
+      "tags": [
+        "tap-to-earn"
+      ],
+      "isPromoted": false,
+      "weight": 10
+    },
+    {
+      "id": "tg-catizen",
+      "title": "Catizen",
+      "type": "miniapp",
+      "deeplink": "https://t.me/catizenbot",
+      "shortDescription": "Гибрид питомцев и стратегии: собирайте котов и стройте город.",
+      "longDescription": "Catizen — мини‑игра, где пользователи собирают коллекцию кошек, совмещая их для создания новых видов, и параллельно строят собственный город. Игра сочетает элементы коллекционирования и градостроительства, привлекая как фанатов тамагочи, так и любителей стратегии【478170605269941†L295-L307】.",
+      "functions": [
+        "render",
+        "publish"
+      ],
+      "topics": [
+        "games"
+      ],
+      "primaryTopic": "games",
+      "language": "multi",
+      "compat": "L0",
+      "audience": "all",
+      "formats": [
+        "html"
+      ],
+      "tags": [
+        "miniapp",
+        "cats"
+      ],
+      "isPromoted": false,
+      "weight": 10
+    },
+    {
+      "id": "tg-xempire",
+      "title": "X Empire",
+      "type": "miniapp",
+      "deeplink": "https://t.me/empirebot",
+      "shortDescription": "Кликер об Илон‑Маске: стройте собственную империю и зарабатывайте токены.",
+      "longDescription": "X Empire (ранее Musk Empire) — телеграм‑игра, в которой пользователи строят виртуальную империю, прокачивают навыки и инвестируют в акционную биржу. Система кликера позволяет зарабатывать внутриигровые монеты, а продуманная экономика даёт возможность обменять их на токены. Игра вдохновлена образом Илона Маска и включает элементы анти‑бот защиты【478170605269941†L325-L335】.",
+      "functions": [
+        "render",
+        "publish"
+      ],
+      "topics": [
+        "games",
+        "crypto_web3"
+      ],
+      "primaryTopic": "games",
+      "language": "multi",
+      "compat": "L0",
+      "audience": "all",
+      "formats": [
+        "html"
+      ],
+      "tags": [
+        "tap-to-earn",
+        "empire"
+      ],
+      "isPromoted": false,
+      "weight": 10
+    },
+    {
+      "id": "tg-bombie",
+      "title": "Bombie",
+      "type": "miniapp",
+      "deeplink": "https://t.me/bombie_bot",
+      "shortDescription": "Постапокалиптический кликер с лутбоксами и боями против зомби.",
+      "longDescription": "Bombie — игра в стиле постапокалипсиса, где игроки открывают ящики, получают экипировку и токены $Bombie, а также сражаются с боссами и в PvP‑аренах. Игра сочетает элементы лутбоксов и героев, позволяя прокачивать персонажей и собирать редкие предметы【478170605269941†L353-L369】.",
+      "functions": [
+        "render",
+        "publish"
+      ],
+      "topics": [
+        "games",
+        "crypto_web3"
+      ],
+      "primaryTopic": "games",
+      "language": "multi",
+      "compat": "L0",
+      "audience": "all",
+      "formats": [
+        "html"
+      ],
+      "tags": [
+        "miniapp",
+        "loot-box"
+      ],
+      "isPromoted": false,
+      "weight": 10
+    },
+    {
+      "id": "tg-boxingstarx",
+      "title": "Boxing Star X",
+      "type": "miniapp",
+      "deeplink": "https://t.me/boxingstarx_bot",
+      "shortDescription": "Динамичная боксёрская игра с NFT‑костюмами и PvP‑боями.",
+      "longDescription": "Boxing Star X — телеграм‑игра, в которой пользователи участвуют в боях на ринге, развивают бойца и используют NFT‑костюмы. Игра предлагает PvP‑матчи, одиночные режимы и возможность зарабатывать внутриигровые токены, а также разнообразные тактики и апгрейды【478170605269941†L386-L403】.",
+      "functions": [
+        "render",
+        "publish"
+      ],
+      "topics": [
+        "games",
+        "crypto_web3"
+      ],
+      "primaryTopic": "games",
+      "language": "multi",
+      "compat": "L0",
+      "audience": "all",
+      "formats": [
+        "html"
+      ],
+      "tags": [
+        "miniapp",
+        "nft"
+      ],
+      "isPromoted": false,
+      "weight": 10
+    },
+    {
+      "id": "tg-chessbot",
+      "title": "Chess Bot",
+      "type": "bot",
+      "deeplink": "https://t.me/chessbot",
+      "shortDescription": "Шахматы в Telegram: играйте против друзей или ИИ.",
+      "longDescription": "Chess Bot — бот, который позволяет играть в шахматы прямо в чате. Пользователи могут начать партию, приглашая друзей или соревнуясь с ботом, просматривать шахматную доску и делать ходы, не выходя из приложения【478170605269941†L413-L420】.",
+      "functions": [
+        "render",
+        "publish"
+      ],
+      "topics": [
+        "games"
+      ],
+      "primaryTopic": "games",
+      "language": "multi",
+      "compat": "L0",
+      "audience": "all",
+      "formats": [
+        "text"
+      ],
+      "tags": [
+        "chess",
+        "board-game"
+      ],
+      "isPromoted": false,
+      "weight": 10
+    },
+    {
+      "id": "tg-quizarium",
+      "title": "Quizarium",
+      "type": "bot",
+      "deeplink": "https://t.me/quizarium",
+      "shortDescription": "Бот‑викторина: задаёт вопросы и начисляет очки за скорость ответа.",
+      "longDescription": "Quizarium — один из самых популярных викторинных ботов Telegram. Он задаёт вопрос и даёт игрокам минуту, чтобы написать правильный ответ. Бот может подсказывать, а быстрая реакция приносит больше очков. По итогам раунда побеждает тот, кто набрал больше баллов【478170605269941†L438-L446】.",
+      "functions": [
+        "render",
+        "publish"
+      ],
+      "topics": [
+        "games"
+      ],
+      "primaryTopic": "games",
+      "language": "multi",
+      "compat": "L0",
+      "audience": "all",
+      "formats": [
+        "text"
+      ],
+      "tags": [
+        "quiz",
+        "bot"
+      ],
+      "isPromoted": false,
+      "weight": 10
+    },
+    {
+      "id": "tg-qube2048",
+      "title": "Qube 2048",
+      "type": "miniapp",
+      "deeplink": "https://t.me/qube2048_bot",
+      "shortDescription": "Гибрид 2048 и шутера: складывайте кубы и обстреливайте ряды.",
+      "longDescription": "Qube 2048 — мини‑игра, сочетающая механику 2048 и шутера. Ряды кубов движутся к игроку, и нужно складывать одинаковые числа, чтобы получать более крупные и зарабатывать очки. Комбо‑атаки и усиления помогают набрать больше баллов, а игра удерживает внимание динамикой【478170605269941†L457-L472】.",
+      "functions": [
+        "render",
+        "publish"
+      ],
+      "topics": [
+        "games"
+      ],
+      "primaryTopic": "games",
+      "language": "multi",
+      "compat": "L0",
+      "audience": "all",
+      "formats": [
+        "html"
+      ],
+      "tags": [
+        "miniapp",
+        "puzzle"
+      ],
+      "isPromoted": false,
+      "weight": 10
+    },
+    {
+      "id": "tg-spaceorbit",
+      "title": "Space Orbit",
+      "type": "miniapp",
+      "deeplink": "https://t.me/spaceorbitgame",
+      "shortDescription": "Минималистичная реакция: управляйте капсулой, избегайте астероидов.",
+      "longDescription": "Space Orbit — реакционная мини‑игра с неоновой графикой. Игрок управляет капсулой, облетающей планету, собирает точки и избегает снарядов. Простое управление и нарастающая сложность делают игру захватывающей для коротких сессий【478170605269941†L486-L494】.",
+      "functions": [
+        "render",
+        "publish"
+      ],
+      "topics": [
+        "games"
+      ],
+      "primaryTopic": "games",
+      "language": "multi",
+      "compat": "L0",
+      "audience": "all",
+      "formats": [
+        "html"
+      ],
+      "tags": [
+        "miniapp",
+        "reaction"
+      ],
+      "isPromoted": false,
+      "weight": 10
+    },
+    {
+      "id": "tg-greatgamer",
+      "title": "GreatGamer",
+      "type": "channel",
+      "deeplink": "https://t.me/greatgamer",
+      "shortDescription": "Новости, обзоры и аналитика для геймеров.",
+      "longDescription": "GreatGamer — новостной канал для любителей видеоигр. Здесь публикуют свежие новости, обзоры игр, результаты опросов и информацию о скидках. Канал отличается глубокой аналитикой и несколькими постами каждую неделю【524544586026108†L36-L43】.",
+      "functions": [
+        "publish"
+      ],
+      "topics": [
+        "games"
+      ],
+      "primaryTopic": "games",
+      "language": "ru",
+      "compat": "L0",
+      "audience": "all",
+      "formats": [
+        "text"
+      ],
+      "tags": [
+        "ru-channel",
+        "news"
+      ],
+      "isPromoted": false,
+      "weight": 10
+    },
+    {
+      "id": "tg-vgmuseum",
+      "title": "VGmuseum",
+      "type": "channel",
+      "deeplink": "https://t.me/VGmuseum",
+      "shortDescription": "Ностальгический канал про старые игры и игровую культуру.",
+      "longDescription": "VGMuseum — канал для ценителей ретро-игр. Авторы публикуют уникальный контент о старых проектах, истории игровых серий и забавные факты из прошлого. Посты выходят редко, но всегда вызивают ностальгию【524544586026108†L49-L61】.",
+      "functions": [
+        "publish"
+      ],
+      "topics": [
+        "games"
+      ],
+      "primaryTopic": "games",
+      "language": "ru",
+      "compat": "L0",
+      "audience": "all",
+      "formats": [
+        "text"
+      ],
+      "tags": [
+        "ru-channel",
+        "retro"
+      ],
+      "isPromoted": false,
+      "weight": 10
+    },
+    {
+      "id": "tg-gamerbay",
+      "title": "Gamerbay",
+      "type": "channel",
+      "deeplink": "https://t.me/gamerbay",
+      "shortDescription": "Канал о видеоиграх и технологиях, используемых при их создании.",
+      "longDescription": "Gamerbay — канал, посвящённый играм и технологиям разработки. Здесь публикуют новости, анонсы релизов, обзоры и забавные мемы. Посты появляются ежедневно, что делает канал полезным для геймеров и разработчиков【524544586026108†L65-L71】.",
+      "functions": [
+        "publish"
+      ],
+      "topics": [
+        "games"
+      ],
+      "primaryTopic": "games",
+      "language": "ru",
+      "compat": "L0",
+      "audience": "all",
+      "formats": [
+        "text"
+      ],
+      "tags": [
+        "ru-channel",
+        "news"
+      ],
+      "isPromoted": false,
+      "weight": 10
+    },
+    {
+      "id": "tg-gamer",
+      "title": "Геймер",
+      "type": "channel",
+      "deeplink": "https://t.me/gamer",
+      "shortDescription": "Объявления о релизах, новости и скидки на игры.",
+      "longDescription": "Канал «Геймер» публикует объявления о выходе новых игр, новости индустрии, календари релизов и информацию о скидках. Благодаря нескольким постам в день он помогает следить за актуальными событиями игрового мира【472523816511695†L138-L141】.",
+      "functions": [
+        "publish"
+      ],
+      "topics": [
+        "games"
+      ],
+      "primaryTopic": "games",
+      "language": "ru",
+      "compat": "L0",
+      "audience": "all",
+      "formats": [
+        "text"
+      ],
+      "tags": [
+        "ru-channel",
+        "news"
+      ],
+      "isPromoted": false,
+      "weight": 10
+    },
+    {
+      "id": "tg-devmygame",
+      "title": "DevMyGame",
+      "type": "channel",
+      "deeplink": "https://t.me/devmygame",
+      "shortDescription": "Дневник разработчиков: делятся опытом создания игр.",
+      "longDescription": "DevMyGame — канал, в котором команда разработчиков делится процессом создания игр. Подписчики узнают о трудностях и успехах разработки, получают советы и вдохновение. Посты публикуются каждые несколько дней【524544586026108†L94-L100】.",
+      "functions": [
+        "publish"
+      ],
+      "topics": [
+        "games",
+        "education"
+      ],
+      "primaryTopic": "games",
+      "language": "ru",
+      "compat": "L0",
+      "audience": "all",
+      "formats": [
+        "text"
+      ],
+      "tags": [
+        "ru-channel",
+        "dev-blog"
+      ],
+      "isPromoted": false,
+      "weight": 10
+    },
+    {
+      "id": "tg-clashstyle",
+      "title": "ClashStyle",
+      "type": "channel",
+      "deeplink": "https://t.me/clashstyle",
+      "shortDescription": "Канал для фанатов Clash of Clans: новости, советы и обсуждения.",
+      "longDescription": "ClashStyle — сообщество поклонников игры Clash of Clans. В канале публикуют обновления, полезные советы, анализ стратегий и обсуждают последние новости. Он объединяет игроков и помогает улучшать навыки【472523816511695†L103-L109】.",
+      "functions": [
+        "publish"
+      ],
+      "topics": [
+        "games"
+      ],
+      "primaryTopic": "games",
+      "language": "ru",
+      "compat": "L0",
+      "audience": "all",
+      "formats": [
+        "text"
+      ],
+      "tags": [
+        "ru-channel",
+        "community"
+      ],
+      "isPromoted": false,
+      "weight": 10
+    },
+    {
+      "id": "tg-gameworld",
+      "title": "Game World",
+      "type": "channel",
+      "deeplink": "https://t.me/gameworld",
+      "shortDescription": "Канал о новостях видеоигр и киберспорта с качественными постами.",
+      "longDescription": "Game World — новый канал, который публикует качественные посты о видеоиграх и киберспорте: обзоры, новости, анонсы. Здесь освещают турниры и рассказывают об индустрии, помогая читателям оставаться в курсе событий【472523816511695†L119-L125】.",
+      "functions": [
+        "publish"
+      ],
+      "topics": [
+        "games"
+      ],
+      "primaryTopic": "games",
+      "language": "ru",
+      "compat": "L0",
+      "audience": "all",
+      "formats": [
+        "text"
+      ],
+      "tags": [
+        "ru-channel",
+        "esports"
+      ],
+      "isPromoted": false,
+      "weight": 10
+    },
+    {
+      "id": "tg-cybervalhalla",
+      "title": "Cybervalhalla",
+      "type": "channel",
+      "deeplink": "https://t.me/cybervalhalla",
+      "shortDescription": "Новости о разработке и индустрии видеоигр.",
+      "longDescription": "Cybervalhalla — канал, посвящённый индустрии видеоигр и разработке. Здесь рассказывают о новинках, анонсах, технологиях и студиях, а также дают советы начинающим разработчикам【472523816511695†L131-L134】.",
+      "functions": [
+        "publish"
+      ],
+      "topics": [
+        "games",
+        "technology"
+      ],
+      "primaryTopic": "games",
+      "language": "ru",
+      "compat": "L0",
+      "audience": "all",
+      "formats": [
+        "text"
+      ],
+      "tags": [
+        "ru-channel",
+        "development"
+      ],
+      "isPromoted": false,
+      "weight": 10
+    },
+    {
+      "id": "tg-prototypeindie",
+      "title": "Prototype.Indie",
+      "type": "channel",
+      "deeplink": "https://t.me/prototype_indie",
+      "shortDescription": "Канал для инди‑разработчиков: новости, советы и лучшие практики.",
+      "longDescription": "Prototype.Indie — канал для инди‑разработчиков, который предлагает советы, полезные материалы и вдохновляющие истории из мира инди‑игр. Канал помогает ориентироваться в индустрии, находить ресурсы и развивать собственные проекты【112354329394704†L35-L80】.",
+      "functions": [
+        "publish"
+      ],
+      "topics": [
+        "games",
+        "open_source"
+      ],
+      "primaryTopic": "games",
+      "language": "ru",
+      "compat": "L0",
+      "audience": "all",
+      "formats": [
+        "text"
+      ],
+      "tags": [
+        "ru-channel",
+        "indie"
+      ],
+      "isPromoted": false,
+      "weight": 10
+    },
+    {
+      "id": "tg-game-design",
+      "title": "Геймдизайн",
+      "type": "channel",
+      "deeplink": "https://t.me/game_design_channel",
+      "shortDescription": "Обучающий канал о геймдизайне и создании игр.",
+      "longDescription": "Канал «Геймдизайн» посвящён теории и практике создания игр. Здесь публикуют материалы о механиках, сценировании, балансе и управлении командой, а также делятся полезными ссылками и примерами из индустрии【112354329394704†L52-L64】.",
+      "functions": [
+        "publish"
+      ],
+      "topics": [
+        "games",
+        "education"
+      ],
+      "primaryTopic": "games",
+      "language": "ru",
+      "compat": "L0",
+      "audience": "all",
+      "formats": [
+        "text"
+      ],
+      "tags": [
+        "ru-channel",
+        "education"
+      ],
+      "isPromoted": false,
+      "weight": 10
+    },
+    {
+      "id": "tg-gamedev-deserved",
+      "title": "Геймдев, который мы заслужили",
+      "type": "channel",
+      "deeplink": "https://t.me/gamedev_deserved",
+      "shortDescription": "Канал о геймдеве: обсуждения, юмор и вдохновение.",
+      "longDescription": "«Геймдев, который мы заслужили» — канал, в котором профессионалы и любители делятся мыслями о разработке игр, обсуждают проблемы индустрии и делятся полезными советами. Активное сообщество поддерживает друг друга и публикует вдохновляющий контент【112354329394704†L70-L80】.",
+      "functions": [
+        "publish"
+      ],
+      "topics": [
+        "games",
+        "education"
+      ],
+      "primaryTopic": "games",
+      "language": "ru",
+      "compat": "L0",
+      "audience": "all",
+      "formats": [
+        "text"
+      ],
+      "tags": [
+        "ru-channel",
+        "community"
+      ],
+      "isPromoted": false,
+      "weight": 10
+    },
+    {
+      "id": "tg-gamedev",
+      "title": "Разработка игр",
+      "type": "channel",
+      "deeplink": "https://t.me/game_dev_channel",
+      "shortDescription": "Сообщество разработчиков: статьи, материалы и вакансии.",
+      "longDescription": "«Разработка игр» — канал для тех, кто занимается или интересуется разработкой игр. Здесь публикуют статьи и материалы о различных этапах создания игр, делятся опытом и публикуют вакансии и анонсы мероприятий【112354329394704†L82-L94】.",
+      "functions": [
+        "publish"
+      ],
+      "topics": [
+        "games",
+        "education"
+      ],
+      "primaryTopic": "games",
+      "language": "ru",
+      "compat": "L0",
+      "audience": "all",
+      "formats": [
+        "text"
+      ],
+      "tags": [
+        "ru-channel",
+        "dev"
+      ],
+      "isPromoted": false,
+      "weight": 10
+    },
+    {
+      "id": "tg-vot_etot_level",
+      "title": "Вот это уровень!",
+      "type": "channel",
+      "deeplink": "https://t.me/voteto",
+      "shortDescription": "Канал о геймдеве: разбор проектов и интересные кейсы.",
+      "longDescription": "Канал «Вот это уровень!» освещает интересные проекты игровой индустрии, делится кейсами и интервью с разработчиками. Подписчики узнают о ярких стартапах, необычных механиках и получат вдохновение для собственных проектов【112354329394704†L97-L110】.",
+      "functions": [
+        "publish"
+      ],
+      "topics": [
+        "games",
+        "education"
+      ],
+      "primaryTopic": "games",
+      "language": "ru",
+      "compat": "L0",
+      "audience": "all",
+      "formats": [
+        "text"
+      ],
+      "tags": [
+        "ru-channel",
+        "analysis"
+      ],
+      "isPromoted": false,
+      "weight": 10
+    },
+    {
+      "id": "tg-skobelevblog",
+      "title": "Блог Василия Скобелева",
+      "type": "channel",
+      "deeplink": "https://t.me/skobelev_blog",
+      "shortDescription": "Авторский канал ведущего разработчика игр.",
+      "longDescription": "Блог разработчика Василия Скобелева, где он делится мыслями о геймдеве, публикует обучающие материалы, анализирует тренды индустрии и отвечает на вопросы подписчиков【112354329394704†L117-L126】.",
+      "functions": [
+        "publish"
+      ],
+      "topics": [
+        "games",
+        "education"
+      ],
+      "primaryTopic": "games",
+      "language": "ru",
+      "compat": "L0",
+      "audience": "all",
+      "formats": [
+        "text"
+      ],
+      "tags": [
+        "ru-channel",
+        "author"
+      ],
+      "isPromoted": false,
+      "weight": 10
+    },
+    {
+      "id": "tg-gamedev_suffering",
+      "title": "Gamedev Suffering",
+      "type": "channel",
+      "deeplink": "https://t.me/gamedev_suffering",
+      "shortDescription": "Юмор и самокритика о трудностях разработки игр.",
+      "longDescription": "Gamedev Suffering — канал с юмористическим уклоном, посвящённый трудностям и парадоксам разработки игр. Подписчики найдут здесь мемы, забавные ситуации и истории из жизни гейм‑студий【112354329394704†L133-L136】.",
+      "functions": [
+        "publish"
+      ],
+      "topics": [
+        "games",
+        "entertainment"
+      ],
+      "primaryTopic": "games",
+      "language": "ru",
+      "compat": "L0",
+      "audience": "all",
+      "formats": [
+        "text"
+      ],
+      "tags": [
+        "ru-channel",
+        "humor"
+      ],
+      "isPromoted": false,
+      "weight": 10
+    },
+    {
+      "id": "tg-hangbot",
+      "title": "HangBot",
+      "type": "bot",
+      "deeplink": "https://t.me/hangbot",
+      "shortDescription": "Телеграм‑версия игры «Виселица»: угадывайте слова по буквам.",
+      "longDescription": "HangBot — бот, позволяющий играть в классику «Виселица» прямо в Telegram. Чтобы играть вместе, достаточно добавить бота в группу. Бот поддерживает команды /start для начала игры, /stop для остановки, /language для выбора языка и /stats для просмотра статистики побед【20525772203660†L73-L83】.",
+      "functions": [
+        "render",
+        "publish"
+      ],
+      "topics": [
+        "games"
+      ],
+      "primaryTopic": "games",
+      "language": "multi",
+      "compat": "L0",
+      "audience": "all",
+      "formats": [
+        "text"
+      ],
+      "tags": [
+        "word-game",
+        "bot"
+      ],
+      "isPromoted": false,
+      "weight": 10
+    },
+    {
+      "id": "tg-unobot",
+      "title": "UNO Bot",
+      "type": "bot",
+      "deeplink": "https://t.me/unopybot",
+      "shortDescription": "Играй в UNO онлайн: создавайте партии, приглашайте друзей, следите за рейтингом.",
+      "longDescription": "UNO Bot позволяет играть в классическую карточную игру UNO прямо в Telegram. Вы можете начать новую партию командой /new, пригласить игроков через /join, использовать inline‑режим, чтобы видеть руку, и пропускать ход медленных участников командой /skip. Бот поддерживает статистику, рейтинги, многогрупповой режим и несколько языков, обеспечивая полноценный игровой опыт【47797318391230†L64-L76】.",
+      "functions": [
+        "render",
+        "publish"
+      ],
+      "topics": [
+        "games"
+      ],
+      "primaryTopic": "games",
+      "language": "multi",
+      "compat": "L0",
+      "audience": "all",
+      "formats": [
+        "text"
+      ],
+      "tags": [
+        "card-game",
+        "bot"
+      ],
+      "isPromoted": false,
+      "weight": 10
+    },
+    {
+      "id": "tg-dreamers",
+      "title": "Dreamers",
+      "type": "bot",
+      "deeplink": "https://t.me/dreamersbot",
+      "shortDescription": "Игра «Мечтатели»: угадывайте изображения по подсказкам.",
+      "longDescription": "Dreamers — простая игра, в которой игроки по очереди становятся «осознанным мечтателем». Бот показывает набор картинок, а мечтатель даёт подсказку к выбранной картинке. Остальные игроки (Dreamcatchers) должны угадать правильную картинку по подсказке. Каждый правильный ответ приносит очки, и победителем становится игрок с наибольшим количеством очков【175935294062196†L78-L86】.",
+      "functions": [
+        "render",
+        "publish"
+      ],
+      "topics": [
+        "games"
+      ],
+      "primaryTopic": "games",
+      "language": "multi",
+      "compat": "L0",
+      "audience": "all",
+      "formats": [
+        "text"
+      ],
+      "tags": [
+        "board-game",
+        "bot"
+      ],
+      "isPromoted": false,
+      "weight": 10
+    },
+    {
+      "id": "tg-werewolf",
+      "title": "Werewolf Bot",
+      "type": "bot",
+      "deeplink": "https://t.me/werewolfbot",
+      "shortDescription": "Социальная игра: найдите оборотней среди жителей деревни.",
+      "longDescription": "Werewolf Bot — популярная ролевая игра для групп, где участники делятся на жителей деревни и оборотней. Жители пытаются разоблачить и изгнать оборотней, а оборотни — устранить жителей. После каждого раунда бот позволяет голосовать за подозреваемого, а в «Chaos Mode» добавляются дополнительные роли, такие как ангел‑хранитель и серийный убийца【175935294062196†L56-L67】.",
+      "functions": [
+        "render",
+        "publish"
+      ],
+      "topics": [
+        "games",
+        "entertainment"
+      ],
+      "primaryTopic": "games",
+      "language": "multi",
+      "compat": "L0",
+      "audience": "all",
+      "formats": [
+        "text"
+      ],
+      "tags": [
+        "role-playing",
+        "bot"
+      ],
+      "isPromoted": false,
+      "weight": 10
+    },
+    {
+      "id": "tg-chatagainsthumanity",
+      "title": "Chat Against Humanity",
+      "type": "bot",
+      "deeplink": "https://t.me/chat_against_humanity_bot",
+      "shortDescription": "Бот для игры в Cards Against Humanity в Telegram.",
+      "longDescription": "Chat Against Humanity — бот, позволяющий играть в популярную настольную игру Cards Against Humanity прямо в чате. Бот генерирует вопрос, после чего участники выбирают самую смешную или провокационную карточку. Игрок, чья карточка выбрана ведущим, получает очко, и победителем становится тот, кто набрал больше всех очков【175935294062196†L96-L105】.",
+      "functions": [
+        "render",
+        "publish"
+      ],
+      "topics": [
+        "games",
+        "entertainment"
+      ],
+      "primaryTopic": "games",
+      "language": "en",
+      "compat": "L0",
+      "audience": "18+",
+      "formats": [
+        "text"
+      ],
+      "tags": [
+        "party-game",
+        "bot"
+      ],
+      "isPromoted": false,
+      "weight": 10
+    },
+    {
+      "id": "tg-arenagame",
+      "title": "Arena Game RPG",
+      "type": "bot",
+      "deeplink": "https://t.me/arenagametelegrambot",
+      "shortDescription": "Мультиплеерная RPG‑игра: создавайте персонажей и сражайтесь на арене.",
+      "longDescription": "Arena Game RPG — многопользовательская RPG‑игра, в которой игроки создают персонажей, управляют их навыками и инвентарём, выбирают места удара и наносят урон противнику. Побеждая в боях, игроки получают очки навыков, улучшают атакующие и защитные способности и соревнуются с друзьями【175935294062196†L121-L129】.",
+      "functions": [
+        "render",
+        "publish"
+      ],
+      "topics": [
+        "games"
+      ],
+      "primaryTopic": "games",
+      "language": "en",
+      "compat": "L0",
+      "audience": "all",
+      "formats": [
+        "text"
+      ],
+      "tags": [
+        "rpg",
+        "bot"
+      ],
+      "isPromoted": false,
+      "weight": 10
+    },
+    {
+      "id": "tg-pokerbot",
+      "title": "PokerBot",
+      "type": "bot",
+      "deeplink": "https://t.me/pokerbot",
+      "shortDescription": "Играйте в техасский холдем в Телеграм с друзьями и незнакомцами.",
+      "longDescription": "PokerBot позволяет играть в техасский холдем прямо в Telegram. Бот поддерживает игры на 5 человек за столом, приватные столы с повышающимися блайндами и встроенную клавиатуру для ставок. Пользователи могут приглашать друзей, выбирать таймер хода и получать ежедневные бонусы. Бот работает на русском и английском языках и не требует реальных ставок【664604912045806†L14-L47】.",
+      "functions": [
+        "render",
+        "publish"
+      ],
+      "topics": [
+        "games",
+        "entertainment"
+      ],
+      "primaryTopic": "games",
+      "language": "multi",
+      "compat": "L0",
+      "audience": "18+",
+      "formats": [
+        "text"
+      ],
+      "tags": [
+        "card-game",
+        "bot"
+      ],
+      "isPromoted": false,
+      "weight": 10
+    },
+    {
+      "id": "tg-codenames",
+      "title": "Codenames Bot",
+      "type": "bot",
+      "deeplink": "https://t.me/codename_telegram_bot",
+      "shortDescription": "Играйте в Codenames Pictures в Telegram.",
+      "longDescription": "Codenames Bot переносит популярную настольную игру Codenames Pictures в Telegram. Игроки делятся на команды и пытаются угадать секретные слова, ориентируясь на подсказки капитана. Бот управляет игрой, раздаёт карточки и следит за соблюдением правил, позволяя играть прямо в чате【977324017137854†L107-L111】.",
+      "functions": [
+        "render",
+        "publish"
+      ],
+      "topics": [
+        "games",
+        "entertainment"
+      ],
+      "primaryTopic": "games",
+      "language": "multi",
+      "compat": "L0",
+      "audience": "all",
+      "formats": [
+        "text"
+      ],
+      "tags": [
+        "board-game",
+        "bot"
+      ],
+      "isPromoted": false,
+      "weight": 10
+    },
+    {
+      "id": "tg-freeepicgames",
+      "title": "Free On Epic Games Bot",
+      "type": "bot",
+      "deeplink": "https://t.me/freeonepicgamesbot",
+      "shortDescription": "Уведомления о бесплатных играх в Epic Games Store.",
+      "longDescription": "Free On Epic Games — бот, который уведомляет пользователей, когда в магазине Epic Games Store появляются бесплатные игры. Подписавшись на бота, можно оперативно получать сообщения о временно бесплатных раздачах и не пропустить выгодные предложения【108324906302657†L109-L110】.",
+      "functions": [
+        "publish",
+        "search"
+      ],
+      "topics": [
+        "games"
+      ],
+      "primaryTopic": "games",
+      "language": "en",
+      "compat": "L0",
+      "audience": "all",
+      "formats": [
+        "text"
+      ],
+      "tags": [
+        "deals",
+        "bot"
+      ],
+      "isPromoted": false,
+      "weight": 10
+    },
+    {
+      "id": "tg-spacehunt",
+      "title": "SpaceHunt Game",
+      "type": "bot",
+      "deeplink": "https://t.me/spacehuntbot",
+      "shortDescription": "Текстовая космическая стратегия: стройте базу и выполняйте миссии.",
+      "longDescription": "SpaceHunt — текстовая многопользовательская стратегия, напоминающая Ogame и StarCraft. Игроки строят базу, отправляются в миссии, объединяются в гильдии и сражаются за контроль планет. Игра проста в освоении и поддерживает активное сообщество【514508098295388†L109-L111】.",
+      "functions": [
+        "render",
+        "publish"
+      ],
+      "topics": [
+        "games"
+      ],
+      "primaryTopic": "games",
+      "language": "en",
+      "compat": "L0",
+      "audience": "all",
+      "formats": [
+        "text"
+      ],
+      "tags": [
+        "strategy",
+        "bot"
+      ],
+      "isPromoted": false,
+      "weight": 10
+    }
+  ],
+  "grouped": {
+    "games": {
+      "channels": [
+        "tg-greatgamer",
+        "tg-vgmuseum",
+        "tg-gamerbay",
+        "tg-gamer",
+        "tg-devmygame",
+        "tg-clashstyle",
+        "tg-gameworld",
+        "tg-cybervalhalla",
+        "tg-prototypeindie",
+        "tg-game-design",
+        "tg-gamedev-deserved",
+        "tg-gamedev",
+        "tg-vot_etot_level",
+        "tg-skobelevblog",
+        "tg-gamedev_suffering"
+      ],
+      "bots": [
+        "tg-gamee",
+        "tg-gamebot",
+        "tg-bfpgamebot",
+        "tg-inlinegamesbot",
+        "tg-pipisa-bot",
+        "tg-kruzchatbot",
+        "tg-upcookiebot",
+        "tg-whiskeyusebot",
+        "tg-vodupbot",
+        "tg-waive",
+        "tg-rataccountbot",
+        "tg-chessbot",
+        "tg-quizarium",
+        "tg-hangbot",
+        "tg-unobot",
+        "tg-dreamers",
+        "tg-werewolf",
+        "tg-chatagainsthumanity",
+        "tg-arenagame",
+        "tg-pokerbot",
+        "tg-codenames",
+        "tg-freeepicgames",
+        "tg-spacehunt"
+      ],
+      "miniapps": [
+        "tg-soccerstrike",
+        "tg-smktadventbot",
+        "tg-notcoin",
+        "tg-hamsterkombat",
+        "tg-totalglitch",
+        "tg-tapswap",
+        "tg-catizen",
+        "tg-xempire",
+        "tg-bombie",
+        "tg-boxingstarx",
+        "tg-qube2048",
+        "tg-spaceorbit"
+      ],
+      "services": []
+    }
+  },
+  "digest_markdown": "## 🎮 Игры (games)\n- **Gamee** — https://t.me/gamee  \n  Платформа с десятками игр: аркады, головоломки и викторины.\n- **GameBot** — https://t.me/gamebot  \n  Бот с набором простых HTML5 игр, который можно вызывать в любом чате.\n- **BFPGameBot** — https://t.me/bfpgamebot  \n  Коллекция HTML5 игр с рейтингами и таблицей лидеров.\n- **InlineGamesBot** — https://t.me/inlinegamesbot  \n  Бот для запуска мини‑игр прямо в диалогах через inline‑команды.\n- **Pipisa Bot** — https://t.me/pipisa_bot  \n  Ироничный бот с юмором 18+; каждый день меняет ваш виртуальный размер и ведёт рейтинги.\n- **KruzChatBot** — https://t.me/kruzchatbot  \n  Геймифицированный бот для групповых чатов с простыми играми и развлечениями.\n- **UpCookieBot** — https://t.me/upcookiebot  \n  Кликер по поеданию печенек с локальными и глобальными таблицами лидеров.\n- **WhiskeyUseBot** — https://t.me/whiskeyusebot  \n  Шуточный бот‑симулятор виртуального виски для компаний и друзей.\n- **VodUpBot** — https://t.me/vodupbot  \n  Симулятор выпивания виртуальной водки с рейтингами и реферальной системой.\n- **Waive Game Bot** — https://t.me/waive_game_bot  \n  Многофункциональный бот с играми для чатов и каналов.\n- **Soccer Strike** — https://t.me/soccerstrikebot  \n  Мини‑игра про футбол: забивайте голы и устанавливайте рекорды.\n- **SMKT Advent Bot** — https://t.me/smkt_advent_bot  \n  Адвент‑календарь от «Самоката» с ежедневными мини‑играми и призами.\n- **RatAccountBot** — https://t.me/rataccountbot  \n  Игра «Ловец крыс»: охотьтесь на виртуальных крыс, дуэли и лидерборды.\n- **Notcoin** — https://t.me/notcoin_bot  \n  Популярная tap‑to‑earn игра на базе TON: зарабатывайте монеты нажатием.\n- **Hamster Kombat** — https://t.me/hamster_kombat_bot  \n  Viral tap‑to‑earn игра: развивайте крипто‑биржу с участием хомяков.\n- **Total Glitch** — https://t.me/totalglitch_bot  \n  Необычная игра‑головоломка: матч‑3 с элементами боя и юмором.\n- **TapSwap** — https://t.me/tapswap_bot  \n  Простой кликер для заработка TAPS‑коинов через ежедневные задания.\n- **Catizen** — https://t.me/catizenbot  \n  Гибрид питомцев и стратегии: собирайте котов и стройте город.\n- **X Empire** — https://t.me/empirebot  \n  Кликер об Илон‑Маске: стройте собственную империю и зарабатывайте токены.\n- **Bombie** — https://t.me/bombie_bot  \n  Постапокалиптический кликер с лутбоксами и боями против зомби.\n- **Boxing Star X** — https://t.me/boxingstarx_bot  \n  Динамичная боксёрская игра с NFT‑костюмами и PvP‑боями.\n- **Chess Bot** — https://t.me/chessbot  \n  Шахматы в Telegram: играйте против друзей или ИИ.\n- **Quizarium** — https://t.me/quizarium  \n  Бот‑викторина: задаёт вопросы и начисляет очки за скорость ответа.\n- **Qube 2048** — https://t.me/qube2048_bot  \n  Гибрид 2048 и шутера: складывайте кубы и обстреливайте ряды.\n- **Space Orbit** — https://t.me/spaceorbitgame  \n  Минималистичная реакция: управляйте капсулой, избегайте астероидов.\n- **GreatGamer** — https://t.me/greatgamer  \n  Новости, обзоры и аналитика для геймеров.\n- **VGmuseum** — https://t.me/VGmuseum  \n  Ностальгический канал про старые игры и игровую культуру.\n- **Gamerbay** — https://t.me/gamerbay  \n  Канал о видеоиграх и технологиях, используемых при их создании.\n- **Геймер** — https://t.me/gamer  \n  Объявления о релизах, новости и скидки на игры.\n- **DevMyGame** — https://t.me/devmygame  \n  Дневник разработчиков: делятся опытом создания игр.\n- **ClashStyle** — https://t.me/clashstyle  \n  Канал для фанатов Clash of Clans: новости, советы и обсуждения.\n- **Game World** — https://t.me/gameworld  \n  Канал о новостях видеоигр и киберспорта с качественными постами.\n- **Cybervalhalla** — https://t.me/cybervalhalla  \n  Новости о разработке и индустрии видеоигр.\n- **Prototype.Indie** — https://t.me/prototype_indie  \n  Канал для инди‑разработчиков: новости, советы и лучшие практики.\n- **Геймдизайн** — https://t.me/game_design_channel  \n  Обучающий канал о геймдизайне и создании игр.\n- **Геймдев, который мы заслужили** — https://t.me/gamedev_deserved  \n  Канал о геймдеве: обсуждения, юмор и вдохновение.\n- **Разработка игр** — https://t.me/game_dev_channel  \n  Сообщество разработчиков: статьи, материалы и вакансии.\n- **Вот это уровень!** — https://t.me/voteto  \n  Канал о геймдеве: разбор проектов и интересные кейсы.\n- **Блог Василия Скобелева** — https://t.me/skobelev_blog  \n  Авторский канал ведущего разработчика игр.\n- **Gamedev Suffering** — https://t.me/gamedev_suffering  \n  Юмор и самокритика о трудностях разработки игр.\n- **HangBot** — https://t.me/hangbot  \n  Телеграм‑версия игры «Виселица»: угадывайте слова по буквам.\n- **UNO Bot** — https://t.me/unopybot  \n  Играй в UNO онлайн: создавайте партии, приглашайте друзей, следите за рейтингом.\n- **Dreamers** — https://t.me/dreamersbot  \n  Игра «Мечтатели»: угадывайте изображения по подсказкам.\n- **Werewolf Bot** — https://t.me/werewolfbot  \n  Социальная игра: найдите оборотней среди жителей деревни.\n- **Chat Against Humanity** — https://t.me/chat_against_humanity_bot  \n  Бот для игры в Cards Against Humanity в Telegram.\n- **Arena Game RPG** — https://t.me/arenagametelegrambot  \n  Мультиплеерная RPG‑игра: создавайте персонажей и сражайтесь на арене.\n- **PokerBot** — https://t.me/pokerbot  \n  Играйте в техасский холдем в Телеграм с друзьями и незнакомцами.\n- **Codenames Bot** — https://t.me/codename_telegram_bot  \n  Играйте в Codenames Pictures в Telegram.\n- **Free On Epic Games Bot** — https://t.me/freeonepicgamesbot  \n  Уведомления о бесплатных играх в Epic Games Store.\n- **SpaceHunt Game** — https://t.me/spacehuntbot  \n  Текстовая космическая стратегия: стройте базу и выполняйте миссии."
+}

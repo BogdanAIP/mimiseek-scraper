@@ -1,0 +1,1443 @@
+{
+  "resources": [
+    {
+      "id": "tg-40kg",
+      "title": "40KG",
+      "type": "channel",
+      "deeplink": "https://t.me/fortykilogram",
+      "shortDescription": "Канал о похудении с простыми рецептами и домашними тренировками.",
+      "longDescription": "40KG — помощник по похудению: публикует простые рецепты полезных блюд, короткие домашние тренировки, мотивирующие посты и предлагает челленджи, чтобы привести себя в форму вместе с единомышленниками【599976495588113†L254-L261】.",
+      "functions": [
+        "publish"
+      ],
+      "topics": [
+        "sports",
+        "lifestyle"
+      ],
+      "primaryTopic": "sports",
+      "language": "ru",
+      "compat": "L0",
+      "audience": "all",
+      "formats": [
+        "text"
+      ],
+      "tags": [
+        "ru-channel",
+        "fitness"
+      ],
+      "isPromoted": false,
+      "weight": 10
+    },
+    {
+      "id": "tg-begat-prosto",
+      "title": "Бегать просто",
+      "type": "channel",
+      "deeplink": "https://t.me/begatprosto",
+      "shortDescription": "Канал о беге и здоровом образе жизни с советами и лайфхаками.",
+      "longDescription": "Бегать просто — канал, который рассказывает, как изменить тело, избавиться от вредных привычек и улучшить качество жизни; здесь публикуют спортивные лайфхаки и советы по профилактике травм, а бот‑мотивация помогает не проспать утреннюю пробежку【599976495588113†L267-L270】.",
+      "functions": [
+        "publish"
+      ],
+      "topics": [
+        "sports"
+      ],
+      "primaryTopic": "sports",
+      "language": "ru",
+      "compat": "L0",
+      "audience": "all",
+      "formats": [
+        "text"
+      ],
+      "tags": [
+        "ru-channel",
+        "running"
+      ],
+      "isPromoted": false,
+      "weight": 10
+    },
+    {
+      "id": "tg-iz-odessy-s-morkoviu",
+      "title": "Из Одессы с морковью",
+      "type": "channel",
+      "deeplink": "https://t.me/izodessysmor",
+      "shortDescription": "Канал с полезными рецептами и кулинарными экспериментами.",
+      "longDescription": "Из Одессы с морковью — сообщество, где публикуют новые полезные рецепты и даже реконструируют блюда из известных фильмов, сериалов и книг; подписчики могут предлагать идеи и делиться собственными рецептами【599976495588113†L280-L286】.",
+      "functions": [
+        "publish"
+      ],
+      "topics": [
+        "sports",
+        "lifestyle"
+      ],
+      "primaryTopic": "sports",
+      "language": "ru",
+      "compat": "L0",
+      "audience": "all",
+      "formats": [
+        "text"
+      ],
+      "tags": [
+        "ru-channel",
+        "nutrition"
+      ],
+      "isPromoted": false,
+      "weight": 10
+    },
+    {
+      "id": "tg-chempionat",
+      "title": "Чемпионат",
+      "type": "channel",
+      "deeplink": "https://t.me/championat",
+      "shortDescription": "Официальный канал спортивного портала «Чемпионат».",
+      "longDescription": "Чемпионат — официальный канал одноимённого спортивного портала. Здесь публикуют последние новости спорта, эксклюзивные комментарии и инсайды, а также видео и текстовые трансляции крупнейших событий, чтобы подписчики не пропустили самое важное【599976495588113†L293-L300】.",
+      "functions": [
+        "publish"
+      ],
+      "topics": [
+        "sports"
+      ],
+      "primaryTopic": "sports",
+      "language": "ru",
+      "compat": "L0",
+      "audience": "all",
+      "formats": [
+        "text"
+      ],
+      "tags": [
+        "ru-channel",
+        "news"
+      ],
+      "isPromoted": false,
+      "weight": 10
+    },
+    {
+      "id": "tg-0kkal-lowcal-recipes",
+      "title": "0Kkal – Низкокалорийные рецепты",
+      "type": "channel",
+      "deeplink": "https://t.me/zero_kkal",
+      "shortDescription": "Канал с простыми и вкусными низкокалорийными рецептами.",
+      "longDescription": "0Kkal – Низкокалорийные рецепты — канал для желающих перейти на правильное питание. Публикует простые, вкусные и низкокалорийные блюда с подробными пошаговыми инструкциями, благодаря которым справится даже начинающий кулинар【599976495588113†L306-L313】.",
+      "functions": [
+        "publish"
+      ],
+      "topics": [
+        "sports",
+        "health"
+      ],
+      "primaryTopic": "sports",
+      "language": "ru",
+      "compat": "L0",
+      "audience": "all",
+      "formats": [
+        "text"
+      ],
+      "tags": [
+        "ru-channel",
+        "nutrition"
+      ],
+      "isPromoted": false,
+      "weight": 10
+    },
+    {
+      "id": "tg-rocketscienze",
+      "title": "rocketscienZe",
+      "type": "channel",
+      "deeplink": "https://t.me/rocketscienze",
+      "shortDescription": "Канал бегунов с лонгридами о технике, питании и восстановлении.",
+      "longDescription": "rocketscienZe — канал, который ведут бегуны Василий Пермитин и Евгений Пищалов. Они публикуют подробные тексты о технике бега, питании и восстановлении, делятся лайфхаками, отвечают на вопросы читателей и снимают видео【995899754148230†L59-L62】.",
+      "functions": [
+        "publish"
+      ],
+      "topics": [
+        "sports"
+      ],
+      "primaryTopic": "sports",
+      "language": "ru",
+      "compat": "L0",
+      "audience": "all",
+      "formats": [
+        "text"
+      ],
+      "tags": [
+        "ru-channel",
+        "running"
+      ],
+      "isPromoted": false,
+      "weight": 10
+    },
+    {
+      "id": "tg-marafonets",
+      "title": "Марафонец",
+      "type": "channel",
+      "deeplink": "https://t.me/marafonets",
+      "shortDescription": "Официальный канал журнала «Марафонец» с новостями о беге и триатлоне.",
+      "longDescription": "Марафонец — официальный телеграм‑канал одноимённого журнала. Здесь публикуют новости из мира бега и триатлона, анонсы соревнований, полезные материалы и интервью с известными спортсменами【995899754148230†L64-L67】.",
+      "functions": [
+        "publish"
+      ],
+      "topics": [
+        "sports"
+      ],
+      "primaryTopic": "sports",
+      "language": "ru",
+      "compat": "L0",
+      "audience": "all",
+      "formats": [
+        "text"
+      ],
+      "tags": [
+        "ru-channel",
+        "running"
+      ],
+      "isPromoted": false,
+      "weight": 10
+    },
+    {
+      "id": "tg-the-runners",
+      "title": "The Runners",
+      "type": "channel",
+      "deeplink": "https://t.me/therunners",
+      "shortDescription": "Канал о беговых событиях и полезных статьях.",
+      "longDescription": "The Runners — канал, который ведёт сооснователь одноимённого сайта Сергей Черепанов. На канале появляются ссылки на материалы сайта, анонсы и отчёты о мероприятиях, а также полезные статьи для бегунов【995899754148230†L69-L73】.",
+      "functions": [
+        "publish"
+      ],
+      "topics": [
+        "sports"
+      ],
+      "primaryTopic": "sports",
+      "language": "ru",
+      "compat": "L0",
+      "audience": "all",
+      "formats": [
+        "text"
+      ],
+      "tags": [
+        "ru-channel",
+        "running"
+      ],
+      "isPromoted": false,
+      "weight": 10
+    },
+    {
+      "id": "tg-kak-nachat-begat",
+      "title": "Как начать бегать",
+      "type": "group",
+      "deeplink": "https://t.me/kak_nachat_begat",
+      "shortDescription": "Открытая группа для тех, кто хочет начать бегать.",
+      "longDescription": "Как начать бегать — открытая группа, где любой участник может задать вопрос о беге. Опытные спортсмены, включая известного марафонца Леонида Швецова, дают ценные советы начинающим бегунам【995899754148230†L75-L80】.",
+      "functions": [
+        "publish"
+      ],
+      "topics": [
+        "sports"
+      ],
+      "primaryTopic": "sports",
+      "language": "ru",
+      "compat": "L0",
+      "audience": "all",
+      "formats": [
+        "text"
+      ],
+      "tags": [
+        "ru-group",
+        "running"
+      ],
+      "isPromoted": false,
+      "weight": 10
+    },
+    {
+      "id": "tg-ironstar",
+      "title": "IRONSTAR",
+      "type": "channel",
+      "deeplink": "https://t.me/ironstar",
+      "shortDescription": "Официальный канал серии соревнований IronStar.",
+      "longDescription": "IRONSTAR — официальный телеграм‑канал организаторов одноимённой серии соревнований по триатлону. Канал публикует важную информацию для участников и трансляции с мероприятий【995899754148230†L87-L92】.",
+      "functions": [
+        "publish"
+      ],
+      "topics": [
+        "sports"
+      ],
+      "primaryTopic": "sports",
+      "language": "ru",
+      "compat": "L0",
+      "audience": "all",
+      "formats": [
+        "text"
+      ],
+      "tags": [
+        "ru-channel",
+        "triathlon"
+      ],
+      "isPromoted": false,
+      "weight": 10
+    },
+    {
+      "id": "tg-runninggirls",
+      "title": "RunningGirls",
+      "type": "channel",
+      "deeplink": "https://t.me/runninggirls",
+      "shortDescription": "Сообщество для девушек, любящих бег, спорт и здоровье.",
+      "longDescription": "RunningGirls — телеграм‑канал одноимённого бегового сообщества для девушек, основанного амбассадором adidas Екатериной Земской. Здесь публикуются материалы о беге, спорте, здоровье и красоте, а также анонсы мероприятий и полезные ссылки【995899754148230†L93-L97】.",
+      "functions": [
+        "publish"
+      ],
+      "topics": [
+        "sports"
+      ],
+      "primaryTopic": "sports",
+      "language": "ru",
+      "compat": "L0",
+      "audience": "all",
+      "formats": [
+        "text"
+      ],
+      "tags": [
+        "ru-channel",
+        "running"
+      ],
+      "isPromoted": false,
+      "weight": 10
+    },
+    {
+      "id": "tg-rruns-plus",
+      "title": "RRUNS+",
+      "type": "channel",
+      "deeplink": "https://t.me/rrunsplus",
+      "shortDescription": "Канал беговой команды RRUNS с анонсами забегов.",
+      "longDescription": "RRUNS+ — канал беговой команды RRUNS, где публикуют анонсы забегов, новости и ссылки; посты выходят примерно раз в неделю, но регулярно【995899754148230†L99-L104】.",
+      "functions": [
+        "publish"
+      ],
+      "topics": [
+        "sports"
+      ],
+      "primaryTopic": "sports",
+      "language": "ru",
+      "compat": "L0",
+      "audience": "all",
+      "formats": [
+        "text"
+      ],
+      "tags": [
+        "ru-channel",
+        "running"
+      ],
+      "isPromoted": false,
+      "weight": 10
+    },
+    {
+      "id": "tg-begovoi-klub",
+      "title": "Беговой клуб",
+      "type": "channel",
+      "deeplink": "https://t.me/begovoi_klub",
+      "shortDescription": "Канал для бегового сообщества с ссылками на статьи и события.",
+      "longDescription": "Беговой клуб — канал для любителей бега, где публикуют ссылки на статьи, анонсы, отчёты и видео. Его ведёт автор по имени Денис; несмотря на небольшой размер аудитории, канал существует уже больше года【995899754148230†L106-L109】.",
+      "functions": [
+        "publish"
+      ],
+      "topics": [
+        "sports"
+      ],
+      "primaryTopic": "sports",
+      "language": "ru",
+      "compat": "L0",
+      "audience": "all",
+      "formats": [
+        "text"
+      ],
+      "tags": [
+        "ru-channel",
+        "running"
+      ],
+      "isPromoted": false,
+      "weight": 10
+    },
+    {
+      "id": "tg-namochi-mantu",
+      "title": "Намочи манту",
+      "type": "channel",
+      "deeplink": "https://t.me/namochi_mantu",
+      "shortDescription": "Популярный канал о доказательной медицине.",
+      "longDescription": "Намочи манту — один из самых популярных каналов о доказательной медицине. Его авторы объясняют, почему научный подход эффективнее псевдонаучных идей, и помогают читателям ориентироваться в мире медицины【247606751581913†L88-L90】.",
+      "functions": [
+        "publish"
+      ],
+      "topics": [
+        "health"
+      ],
+      "primaryTopic": "health",
+      "language": "ru",
+      "compat": "L0",
+      "audience": "all",
+      "formats": [
+        "text"
+      ],
+      "tags": [
+        "ru-channel",
+        "evidence-based"
+      ],
+      "isPromoted": false,
+      "weight": 10
+    },
+    {
+      "id": "tg-shbmnk",
+      "title": "ШБмнк",
+      "type": "channel",
+      "deeplink": "https://t.me/shbmnk",
+      "shortDescription": "Канал о доказательной медицине и борьбе со стереотипами.",
+      "longDescription": "ШБмнк — авторский канал медицинской журналистки Ольги Кашубиной, популяризирующий доказательную медицину и борющийся со стереотипами. Здесь обсуждают темы от коронавируса до онкологии и делятся ссылками на книги, лекции и подкасты【247606751581913†L91-L92】【574130860721386†L156-L161】.",
+      "functions": [
+        "publish"
+      ],
+      "topics": [
+        "health"
+      ],
+      "primaryTopic": "health",
+      "language": "ru",
+      "compat": "L0",
+      "audience": "all",
+      "formats": [
+        "text"
+      ],
+      "tags": [
+        "ru-channel",
+        "evidence-based"
+      ],
+      "isPromoted": false,
+      "weight": 10
+    },
+    {
+      "id": "tg-oncology-fellow",
+      "title": "Oncology Fellow",
+      "type": "channel",
+      "deeplink": "https://t.me/oncologyfellow",
+      "shortDescription": "«Не страшный» канал о современной онкологии.",
+      "longDescription": "Oncology Fellow — «нестрашный» канал об онкологии, где публикуют медицинскую информацию для врачей‑онкологов и всех, кто интересуется этой сферой. Подписчики узнают о последних исследованиях и подходах в лечении рака【247606751581913†L93-L95】.",
+      "functions": [
+        "publish"
+      ],
+      "topics": [
+        "health"
+      ],
+      "primaryTopic": "health",
+      "language": "ru",
+      "compat": "L0",
+      "audience": "all",
+      "formats": [
+        "text"
+      ],
+      "tags": [
+        "ru-channel",
+        "oncology"
+      ],
+      "isPromoted": false,
+      "weight": 10
+    },
+    {
+      "id": "tg-fediatriya",
+      "title": "Федиатрия",
+      "type": "channel",
+      "deeplink": "https://t.me/fediatriya",
+      "shortDescription": "Канал педиатра о здоровье детей.",
+      "longDescription": "Федиатрия — телеграм‑канал, который ведёт практикующий педиатр; здесь публикуют рекомендации и советы по здоровью детей и отвечают на вопросы родителей【247606751581913†L97-L98】.",
+      "functions": [
+        "publish"
+      ],
+      "topics": [
+        "health"
+      ],
+      "primaryTopic": "health",
+      "language": "ru",
+      "compat": "L0",
+      "audience": "all",
+      "formats": [
+        "text"
+      ],
+      "tags": [
+        "ru-channel",
+        "pediatrics"
+      ],
+      "isPromoted": false,
+      "weight": 10
+    },
+    {
+      "id": "tg-detskaya-psychiatriya",
+      "title": "Детская психиатрия",
+      "type": "channel",
+      "deeplink": "https://t.me/detskaya_psychiatriya",
+      "shortDescription": "Канал о детской психиатрии для родителей.",
+      "longDescription": "Детская психиатрия — канал, посвящённый вопросам поведения детей; на нём публикуют полезные ссылки и лекции, которые помогают родителям разобраться в детской психике и получить рекомендации специалистов【247606751581913†L98-L100】.",
+      "functions": [
+        "publish"
+      ],
+      "topics": [
+        "health"
+      ],
+      "primaryTopic": "health",
+      "language": "ru",
+      "compat": "L0",
+      "audience": "all",
+      "formats": [
+        "text"
+      ],
+      "tags": [
+        "ru-channel",
+        "psychology"
+      ],
+      "isPromoted": false,
+      "weight": 10
+    },
+    {
+      "id": "tg-zapiski-yunogo-vracha",
+      "title": "Записки юного врача",
+      "type": "channel",
+      "deeplink": "https://t.me/youngdoctor_notes",
+      "shortDescription": "Канал с медицинскими лайфхаками и понятными объяснениями.",
+      "longDescription": "Записки юного врача — канал, который простым языком рассказывает о медицине. Автор делится медицинскими лайфхаками и понятными объяснениями сложных тем, делая знания доступными【247606751581913†L101-L102】.",
+      "functions": [
+        "publish"
+      ],
+      "topics": [
+        "health"
+      ],
+      "primaryTopic": "health",
+      "language": "ru",
+      "compat": "L0",
+      "audience": "all",
+      "formats": [
+        "text"
+      ],
+      "tags": [
+        "ru-channel"
+      ],
+      "isPromoted": false,
+      "weight": 10
+    },
+    {
+      "id": "tg-dental-jedi",
+      "title": "Dental Jedi",
+      "type": "channel",
+      "deeplink": "https://t.me/dental_jedi",
+      "shortDescription": "Канал стоматолога о зубах и стоматологической практике.",
+      "longDescription": "Dental Jedi — канал практикующего стоматолога, который рассказывает о жизни врача и поднимает темы отбеливания, влияния электронных сигарет, выбора зубных щёток и других стоматологических вопросов; новые записи появляются нечасто【247606751581913†L103-L104】【574130860721386†L235-L241】.",
+      "functions": [
+        "publish"
+      ],
+      "topics": [
+        "health"
+      ],
+      "primaryTopic": "health",
+      "language": "ru",
+      "compat": "L0",
+      "audience": "all",
+      "formats": [
+        "text"
+      ],
+      "tags": [
+        "ru-channel",
+        "dentistry"
+      ],
+      "isPromoted": false,
+      "weight": 10
+    },
+    {
+      "id": "tg-rumyantsevamd",
+      "title": "Rumyantseva_MD",
+      "type": "channel",
+      "deeplink": "https://t.me/rumyantsevamd",
+      "shortDescription": "Канал акушера-гинеколога о женском здоровье.",
+      "longDescription": "Rumyantseva_MD — канал практикующего акушера‑гинеколога, посвящённый женскому здоровью. Автор рассказывает о заболеваниях женщин и беременности и даёт советы по профилактике; обновления выходят несколько раз в месяц【247606751581913†L105-L106】【574130860721386†L249-L253】.",
+      "functions": [
+        "publish"
+      ],
+      "topics": [
+        "health"
+      ],
+      "primaryTopic": "health",
+      "language": "ru",
+      "compat": "L0",
+      "audience": "all",
+      "formats": [
+        "text"
+      ],
+      "tags": [
+        "ru-channel",
+        "gynecology"
+      ],
+      "isPromoted": false,
+      "weight": 10
+    },
+    {
+      "id": "tg-md-school",
+      "title": "MD.school",
+      "type": "channel",
+      "deeplink": "https://t.me/mdschool",
+      "shortDescription": "Официальный канал MD.school с медицинскими новостями и кейсами.",
+      "longDescription": "MD.school — официальный телеграм‑канал онлайн‑университета доказательной медицины. Канал публикует актуальные медицинские новости, клинические случаи, методы терапии и советы, помогающие медикам бороться с профессиональным выгоранием【666608363487170†L110-L114】.",
+      "functions": [
+        "publish"
+      ],
+      "topics": [
+        "health",
+        "education"
+      ],
+      "primaryTopic": "health",
+      "language": "ru",
+      "compat": "L0",
+      "audience": "all",
+      "formats": [
+        "text"
+      ],
+      "tags": [
+        "ru-channel",
+        "education"
+      ],
+      "isPromoted": false,
+      "weight": 10
+    },
+    {
+      "id": "tg-karjera-vracha",
+      "title": "Карьера врача",
+      "type": "channel",
+      "deeplink": "https://t.me/karjeravracha",
+      "shortDescription": "Канал о карьерном росте и доходах врачей.",
+      "longDescription": "Карьера врача — телеграм‑канал, который помогает медикам развивать карьеру: публикует новости медицины, изменения в законодательстве, советы по увеличению дохода, а также анонсы курсов и профессиональные рекомендации【666608363487170†L116-L119】.",
+      "functions": [
+        "publish"
+      ],
+      "topics": [
+        "health"
+      ],
+      "primaryTopic": "health",
+      "language": "ru",
+      "compat": "L0",
+      "audience": "all",
+      "formats": [
+        "text"
+      ],
+      "tags": [
+        "ru-channel",
+        "career"
+      ],
+      "isPromoted": false,
+      "weight": 10
+    },
+    {
+      "id": "tg-md-life",
+      "title": "MD life",
+      "type": "channel",
+      "deeplink": "https://t.me/mdlife",
+      "shortDescription": "Канал о балансе, гармонии и борьбе с профессиональным выгоранием.",
+      "longDescription": "MD life — канал для врачей, посвящённый балансу и гармонии. Здесь публикуют упражнения для перерывов, техники расслабления и материалы по здоровой, осознанной работе, помогая медикам заботиться о себе【666608363487170†L121-L125】.",
+      "functions": [
+        "publish"
+      ],
+      "topics": [
+        "health"
+      ],
+      "primaryTopic": "health",
+      "language": "ru",
+      "compat": "L0",
+      "audience": "all",
+      "formats": [
+        "text"
+      ],
+      "tags": [
+        "ru-channel",
+        "wellbeing"
+      ],
+      "isPromoted": false,
+      "weight": 10
+    },
+    {
+      "id": "tg-nutriziologiya-md",
+      "title": "Нутрициология MD",
+      "type": "channel",
+      "deeplink": "https://t.me/nutriziologiya_md",
+      "shortDescription": "Канал про нутрициологию для врачей.",
+      "longDescription": "Нутрициология MD — канал, который помогает врачам освоить новую профессию нутрициолога; здесь публикуют образовательные материалы, информацию о вакансиях и предложения курсов【666608363487170†L127-L131】.",
+      "functions": [
+        "publish"
+      ],
+      "topics": [
+        "health"
+      ],
+      "primaryTopic": "health",
+      "language": "ru",
+      "compat": "L0",
+      "audience": "all",
+      "formats": [
+        "text"
+      ],
+      "tags": [
+        "ru-channel",
+        "nutrition"
+      ],
+      "isPromoted": false,
+      "weight": 10
+    },
+    {
+      "id": "tg-medicinskij-english-md",
+      "title": "Медицинский Английский MD",
+      "type": "channel",
+      "deeplink": "https://t.me/medicalenglishmd",
+      "shortDescription": "Канал по изучению медицинского английского.",
+      "longDescription": "Медицинский Английский MD — канал, посвящённый изучению медицинского английского языка для профессиональной карьеры и путешествий; в нём публикуют уроки и советы по улучшению языковых навыков【666608363487170†L140-L142】.",
+      "functions": [
+        "publish"
+      ],
+      "topics": [
+        "health",
+        "education"
+      ],
+      "primaryTopic": "health",
+      "language": "ru",
+      "compat": "L0",
+      "audience": "all",
+      "formats": [
+        "text"
+      ],
+      "tags": [
+        "ru-channel",
+        "language"
+      ],
+      "isPromoted": false,
+      "weight": 10
+    },
+    {
+      "id": "tg-evidence-medicine",
+      "title": "Доказательная медицина и клинические рекомендации",
+      "type": "channel",
+      "deeplink": "https://t.me/evidence_medicine",
+      "shortDescription": "Канал о доказательной медицине для специалистов.",
+      "longDescription": "Доказательная медицина и клинические рекомендации — канал для медицинских специалистов, где регулярно публикуются научные материалы и статьи на актуальные темы, включая COVID‑19; посты выходят каждые несколько дней【574130860721386†L147-L153】.",
+      "functions": [
+        "publish"
+      ],
+      "topics": [
+        "health"
+      ],
+      "primaryTopic": "health",
+      "language": "ru",
+      "compat": "L0",
+      "audience": "all",
+      "formats": [
+        "text"
+      ],
+      "tags": [
+        "ru-channel",
+        "evidence-based"
+      ],
+      "isPromoted": false,
+      "weight": 10
+    },
+    {
+      "id": "tg-medcast",
+      "title": "MedCast",
+      "type": "channel",
+      "deeplink": "https://t.me/medcast",
+      "shortDescription": "Канал-подкаст с короткими объяснениями болезней и лечений.",
+      "longDescription": "MedCast — телеграм‑канал, в котором публикуют короткие подкасты‑объяснения о заболеваниях, диагностике и методах лечения; иногда выпуски сопровождаются видео или презентациями【574130860721386†L163-L167】.",
+      "functions": [
+        "publish"
+      ],
+      "topics": [
+        "health"
+      ],
+      "primaryTopic": "health",
+      "language": "ru",
+      "compat": "L0",
+      "audience": "all",
+      "formats": [
+        "text"
+      ],
+      "tags": [
+        "ru-channel",
+        "podcast"
+      ],
+      "isPromoted": false,
+      "weight": 10
+    },
+    {
+      "id": "tg-doctor-pavlova",
+      "title": "Доктор Павлова",
+      "type": "channel",
+      "deeplink": "https://t.me/doctorpavlova",
+      "shortDescription": "Канал эндокринолога о питании и качестве жизни.",
+      "longDescription": "Доктор Павлова — канал кандидата медицинских наук, эндокринолога. Автор даёт советы по улучшению качества жизни и объясняет, как организм реагирует на разные продукты и питание【574130860721386†L176-L181】.",
+      "functions": [
+        "publish"
+      ],
+      "topics": [
+        "health"
+      ],
+      "primaryTopic": "health",
+      "language": "ru",
+      "compat": "L0",
+      "audience": "all",
+      "formats": [
+        "text"
+      ],
+      "tags": [
+        "ru-channel",
+        "endocrinology"
+      ],
+      "isPromoted": false,
+      "weight": 10
+    },
+    {
+      "id": "tg-medical-ksyu",
+      "title": "Медикал Ксю",
+      "type": "channel",
+      "deeplink": "https://t.me/medicalksyu",
+      "shortDescription": "Канал о технологиях в медицине и фарме.",
+      "longDescription": "Медикал Ксю — канал, рассказывающий о применении современных технологий в медицине и фармацевтике. Автор освещает новости об искусственном интеллекте, роботах и виртуальной реальности, делая акцент на события в России и мире【574130860721386†L190-L195】.",
+      "functions": [
+        "publish"
+      ],
+      "topics": [
+        "health",
+        "technology"
+      ],
+      "primaryTopic": "health",
+      "language": "ru",
+      "compat": "L0",
+      "audience": "all",
+      "formats": [
+        "text"
+      ],
+      "tags": [
+        "ru-channel",
+        "technology"
+      ],
+      "isPromoted": false,
+      "weight": 10
+    },
+    {
+      "id": "tg-it-v-medicine",
+      "title": "ИТ в медицине",
+      "type": "channel",
+      "deeplink": "https://t.me/itmedicine",
+      "shortDescription": "Канал о передовых технологиях в медицине.",
+      "longDescription": "ИТ в медицине — телеграм‑канал, посвящённый новостям о применении передовых технологий в медицинской сфере. Записи снабжены удобными тегами для быстрого поиска и фильтрации информации【574130860721386†L197-L203】.",
+      "functions": [
+        "publish"
+      ],
+      "topics": [
+        "health",
+        "technology"
+      ],
+      "primaryTopic": "health",
+      "language": "ru",
+      "compat": "L0",
+      "audience": "all",
+      "formats": [
+        "text"
+      ],
+      "tags": [
+        "ru-channel",
+        "technology"
+      ],
+      "isPromoted": false,
+      "weight": 10
+    },
+    {
+      "id": "tg-medach",
+      "title": "Медач",
+      "type": "channel",
+      "deeplink": "https://t.me/medach",
+      "shortDescription": "Канал о доказательной медицине с ежедневными обновлениями.",
+      "longDescription": "Медач — канал, посвящённый доказательной медицине. Ежедневно публикуются материалы, включая статьи о психическом здоровье во время пандемии; также размещаются вакансии и готовится подкаст с представителями студенческого сообщества【574130860721386†L205-L213】.",
+      "functions": [
+        "publish"
+      ],
+      "topics": [
+        "health"
+      ],
+      "primaryTopic": "health",
+      "language": "ru",
+      "compat": "L0",
+      "audience": "all",
+      "formats": [
+        "text"
+      ],
+      "tags": [
+        "ru-channel",
+        "evidence-based"
+      ],
+      "isPromoted": false,
+      "weight": 10
+    },
+    {
+      "id": "tg-stomatolog-razumny",
+      "title": "Стоматолог разумный",
+      "type": "channel",
+      "deeplink": "https://t.me/stomatolograzumny",
+      "shortDescription": "Профессиональный канал для стоматологов.",
+      "longDescription": "Стоматолог разумный — канал для стоматологических специалистов. Здесь каждый день публикуют профессиональные статьи, книги, факты и используют удобную навигацию по темам【574130860721386†L243-L247】.",
+      "functions": [
+        "publish"
+      ],
+      "topics": [
+        "health"
+      ],
+      "primaryTopic": "health",
+      "language": "ru",
+      "compat": "L0",
+      "audience": "all",
+      "formats": [
+        "text"
+      ],
+      "tags": [
+        "ru-channel",
+        "dentistry"
+      ],
+      "isPromoted": false,
+      "weight": 10
+    },
+    {
+      "id": "tg-bud-zdorov-muzhik",
+      "title": "Будь здоров, МУЖИК!",
+      "type": "channel",
+      "deeplink": "https://t.me/budzorovmuzhik",
+      "shortDescription": "Канал андролога о мужском здоровье.",
+      "longDescription": "Будь здоров, МУЖИК! — канал уролога‑андролога, где в непринуждённой форме рассказывают о мужском здоровье, дают советы и отвечают на вопросы подписчиков【574130860721386†L255-L259】.",
+      "functions": [
+        "publish"
+      ],
+      "topics": [
+        "health"
+      ],
+      "primaryTopic": "health",
+      "language": "ru",
+      "compat": "L0",
+      "audience": "all",
+      "formats": [
+        "text"
+      ],
+      "tags": [
+        "ru-channel",
+        "men-health"
+      ],
+      "isPromoted": false,
+      "weight": 10
+    },
+    {
+      "id": "tg-kris-the-expat",
+      "title": "Kris the Expat",
+      "type": "channel",
+      "deeplink": "https://t.me/kris_the_expat",
+      "shortDescription": "Тревел-канал о приключениях и путешествиях.",
+      "longDescription": "Kris the Expat — канал путешественника Криса, где он ежедневно делится своими приключениями, публикует гиды, советы и рассказывает об интересных местах по всему миру【482995657026921†L120-L124】.",
+      "functions": [
+        "publish"
+      ],
+      "topics": [
+        "lifestyle"
+      ],
+      "primaryTopic": "lifestyle",
+      "language": "ru",
+      "compat": "L0",
+      "audience": "all",
+      "formats": [
+        "text"
+      ],
+      "tags": [
+        "ru-channel",
+        "travel"
+      ],
+      "isPromoted": false,
+      "weight": 10
+    },
+    {
+      "id": "tg-travelhacks",
+      "title": "Travelhacks",
+      "type": "channel",
+      "deeplink": "https://t.me/travelhacks_ru",
+      "shortDescription": "Один из лучших русскоязычных travel-каналов с лайфхаками.",
+      "longDescription": "Travelhacks — один из лучших русскоязычных travel‑каналов; ежедневно публикует подборки статей о путешествиях, выгодные предложения от авиакомпаний, лайфхаки и обзоры городов【111240920920106†L66-L72】【482995657026921†L141-L145】.",
+      "functions": [
+        "publish"
+      ],
+      "topics": [
+        "lifestyle"
+      ],
+      "primaryTopic": "lifestyle",
+      "language": "ru",
+      "compat": "L0",
+      "audience": "all",
+      "formats": [
+        "text"
+      ],
+      "tags": [
+        "ru-channel",
+        "travel"
+      ],
+      "isPromoted": false,
+      "weight": 10
+    },
+    {
+      "id": "tg-nikolay-levshits",
+      "title": "Канал Николая Левшица — Грузия",
+      "type": "channel",
+      "deeplink": "https://t.me/levshits_georgia",
+      "shortDescription": "Канал о жизни в Грузии для путешественников и эмигрантов.",
+      "longDescription": "Канал Николая Левшица — источник информации для путешественников и эмигрантов в Грузии; здесь публикуются новости, гиды и полезные советы о жизни в стране【482995657026921†L157-L160】.",
+      "functions": [
+        "publish"
+      ],
+      "topics": [
+        "lifestyle"
+      ],
+      "primaryTopic": "lifestyle",
+      "language": "ru",
+      "compat": "L0",
+      "audience": "all",
+      "formats": [
+        "text"
+      ],
+      "tags": [
+        "ru-channel",
+        "travel"
+      ],
+      "isPromoted": false,
+      "weight": 10
+    },
+    {
+      "id": "tg-aviasales",
+      "title": "Aviasales",
+      "type": "channel",
+      "deeplink": "https://t.me/aviasales",
+      "shortDescription": "Канал сервиса Aviasales с акциями и шутками.",
+      "longDescription": "Aviasales — официальный канал сервиса поиска авиабилетов. Он публикует новости, акции и выгодные предложения на дешёвые перелёты и сопровождает посты лёгким юмором【482995657026921†L164-L168】.",
+      "functions": [
+        "publish"
+      ],
+      "topics": [
+        "lifestyle"
+      ],
+      "primaryTopic": "lifestyle",
+      "language": "ru",
+      "compat": "L0",
+      "audience": "all",
+      "formats": [
+        "text"
+      ],
+      "tags": [
+        "ru-channel",
+        "travel"
+      ],
+      "isPromoted": false,
+      "weight": 10
+    },
+    {
+      "id": "tg-kupibilet",
+      "title": "Kupibilet",
+      "type": "channel",
+      "deeplink": "https://t.me/kupibilet",
+      "shortDescription": "Канал агентства Kupibilet с советами для путешествий.",
+      "longDescription": "Kupibilet — телеграм‑канал одноимённого агентства по продаже билетов. Здесь публикуются советы по поиску дешёвых билетов, подготовке багажа и впечатления о путешествиях【482995657026921†L171-L175】.",
+      "functions": [
+        "publish"
+      ],
+      "topics": [
+        "lifestyle"
+      ],
+      "primaryTopic": "lifestyle",
+      "language": "ru",
+      "compat": "L0",
+      "audience": "all",
+      "formats": [
+        "text"
+      ],
+      "tags": [
+        "ru-channel",
+        "travel"
+      ],
+      "isPromoted": false,
+      "weight": 10
+    },
+    {
+      "id": "tg-onetwotrip",
+      "title": "OneTwoTrip",
+      "type": "channel",
+      "deeplink": "https://t.me/onetwotrip",
+      "shortDescription": "Официальный канал OneTwoTrip с новостями и мемами.",
+      "longDescription": "OneTwoTrip — официальный канал онлайн‑агентства OneTwoTrip. Он публикует новости сервиса, смешные мемы и красивые фотографии из путешествий, вдохновляя подписчиков на новые поездки【482995657026921†L177-L180】.",
+      "functions": [
+        "publish"
+      ],
+      "topics": [
+        "lifestyle"
+      ],
+      "primaryTopic": "lifestyle",
+      "language": "ru",
+      "compat": "L0",
+      "audience": "all",
+      "formats": [
+        "text"
+      ],
+      "tags": [
+        "ru-channel",
+        "travel"
+      ],
+      "isPromoted": false,
+      "weight": 10
+    },
+    {
+      "id": "tg-travelradar",
+      "title": "TravelRadar",
+      "type": "channel",
+      "deeplink": "https://t.me/travelradar",
+      "shortDescription": "Канал о дешёвых перелётах и выгодных предложениях.",
+      "longDescription": "TravelRadar — канал для путешественников, публикующий информацию о недорогих перелётах, скидках и интересных предложениях для любителей путешествий【482995657026921†L186-L189】.",
+      "functions": [
+        "publish"
+      ],
+      "topics": [
+        "lifestyle"
+      ],
+      "primaryTopic": "lifestyle",
+      "language": "ru",
+      "compat": "L0",
+      "audience": "all",
+      "formats": [
+        "text"
+      ],
+      "tags": [
+        "ru-channel",
+        "travel"
+      ],
+      "isPromoted": false,
+      "weight": 10
+    },
+    {
+      "id": "tg-romes-duty-officer",
+      "title": "Romes Duty Officer",
+      "type": "channel",
+      "deeplink": "https://t.me/romesdutyofficer",
+      "shortDescription": "Канал о жизни и событиях в Риме.",
+      "longDescription": "Romes Duty Officer — телеграм‑канал, который ведут две девушки, живущие в Риме. Они рассказывают о концертах, культурных событиях, туристических местах, текущих новостях и интересных фактах о жизни в итальянской столице【111240920920106†L75-L82】.",
+      "functions": [
+        "publish"
+      ],
+      "topics": [
+        "lifestyle"
+      ],
+      "primaryTopic": "lifestyle",
+      "language": "ru",
+      "compat": "L0",
+      "audience": "all",
+      "formats": [
+        "text"
+      ],
+      "tags": [
+        "ru-channel",
+        "travel"
+      ],
+      "isPromoted": false,
+      "weight": 10
+    },
+    {
+      "id": "tg-travelator",
+      "title": "Travelator",
+      "type": "channel",
+      "deeplink": "https://t.me/travelator",
+      "shortDescription": "Канал о жизни в Лондоне и британской культуре.",
+      "longDescription": "Travelator — канал, который ведёт блогер Алёна Степанова из Лондона. Она делится подробностями повседневной жизни, рассказывает о поведении местных жителей и языковых тонкостях, помогая читателям понять британскую культуру【111240920920106†L85-L91】.",
+      "functions": [
+        "publish"
+      ],
+      "topics": [
+        "lifestyle"
+      ],
+      "primaryTopic": "lifestyle",
+      "language": "ru",
+      "compat": "L0",
+      "audience": "all",
+      "formats": [
+        "text"
+      ],
+      "tags": [
+        "ru-channel",
+        "travel"
+      ],
+      "isPromoted": false,
+      "weight": 10
+    },
+    {
+      "id": "tg-ru-girl-travel",
+      "title": "ru_girl_travel",
+      "type": "channel",
+      "deeplink": "https://t.me/ru_girl_travel",
+      "shortDescription": "Дорожный дневник путешествий по России.",
+      "longDescription": "ru_girl_travel — канал‑дневник путешествий Ани Поляковой, которая объезжает Россию на автомобиле и делится увлекательными историями и впечатлениями о поездках по стране【111240920920106†L95-L101】.",
+      "functions": [
+        "publish"
+      ],
+      "topics": [
+        "lifestyle"
+      ],
+      "primaryTopic": "lifestyle",
+      "language": "ru",
+      "compat": "L0",
+      "audience": "all",
+      "formats": [
+        "text"
+      ],
+      "tags": [
+        "ru-channel",
+        "travel"
+      ],
+      "isPromoted": false,
+      "weight": 10
+    },
+    {
+      "id": "tg-founderwoman",
+      "title": "FounderWoman",
+      "type": "channel",
+      "deeplink": "https://t.me/founderwoman",
+      "shortDescription": "Канал Ольги Паскиной о бизнесе и саморазвитии.",
+      "longDescription": "FounderWoman — канал предпринимательницы Ольги Паскиной для тех, кто готов не только «горы сворачивать», но и разворачивать йога‑коврик. Здесь много практических упражнений, прикладных советов и личного опыта для развития бизнеса и себя как личности【154129013427672†L16-L21】.",
+      "functions": [
+        "publish"
+      ],
+      "topics": [
+        "lifestyle",
+        "business",
+        "productivity"
+      ],
+      "primaryTopic": "lifestyle",
+      "language": "ru",
+      "compat": "L0",
+      "audience": "all",
+      "formats": [
+        "text"
+      ],
+      "tags": [
+        "ru-channel",
+        "self-development"
+      ],
+      "isPromoted": false,
+      "weight": 10
+    },
+    {
+      "id": "tg-take-care",
+      "title": "Take Care",
+      "type": "channel",
+      "deeplink": "https://t.me/takecare_channel",
+      "shortDescription": "Канал о работе без выгорания и заботе о себе.",
+      "longDescription": "Take Care — телеграм‑канал, который рассказывает, как работать и не выгорать. Авторы помогают научиться отстаивать свои интересы на работе и напоминают заботиться о себе【154129013427672†L27-L29】.",
+      "functions": [
+        "publish"
+      ],
+      "topics": [
+        "lifestyle",
+        "productivity"
+      ],
+      "primaryTopic": "lifestyle",
+      "language": "ru",
+      "compat": "L0",
+      "audience": "all",
+      "formats": [
+        "text"
+      ],
+      "tags": [
+        "ru-channel",
+        "self-care"
+      ],
+      "isPromoted": false,
+      "weight": 10
+    },
+    {
+      "id": "tg-plus1-to-productivity",
+      "title": "+1 к продуктивности",
+      "type": "channel",
+      "deeplink": "https://t.me/plus1productivity",
+      "shortDescription": "Канал о повышении продуктивности на основе науки и опыта.",
+      "longDescription": "+1 к продуктивности — канал, рассказывающий, как повысить продуктивность, опираясь на научные данные и личный опыт. Его ведёт Артём Боровой, сооснователь Focus Desk и платформы Понедельник【154129013427672†L45-L49】.",
+      "functions": [
+        "publish"
+      ],
+      "topics": [
+        "lifestyle",
+        "productivity"
+      ],
+      "primaryTopic": "lifestyle",
+      "language": "ru",
+      "compat": "L0",
+      "audience": "all",
+      "formats": [
+        "text"
+      ],
+      "tags": [
+        "ru-channel",
+        "productivity"
+      ],
+      "isPromoted": false,
+      "weight": 10
+    },
+    {
+      "id": "tg-daily-reminder",
+      "title": "Daily Reminder",
+      "type": "channel",
+      "deeplink": "https://t.me/dailyreminder_ru",
+      "shortDescription": "Канал с выжимками по здоровью, саморазвитию и философии.",
+      "longDescription": "Daily Reminder — канал, который собирает информацию о здоровье, саморазвитии и практической философии и перерабатывает её в интересные статьи. В канале публикуют короткие выжимки, подкасты с экспертами и анонсы мероприятий【154129013427672†L54-L58】.",
+      "functions": [
+        "publish"
+      ],
+      "topics": [
+        "lifestyle",
+        "health"
+      ],
+      "primaryTopic": "lifestyle",
+      "language": "ru",
+      "compat": "L0",
+      "audience": "all",
+      "formats": [
+        "text"
+      ],
+      "tags": [
+        "ru-channel",
+        "self-development"
+      ],
+      "isPromoted": false,
+      "weight": 10
+    },
+    {
+      "id": "tg-provereno-sektascience",
+      "title": "Проверено Sektascience",
+      "type": "channel",
+      "deeplink": "https://t.me/sektascience",
+      "shortDescription": "Канал о здоровом образе жизни на основе науки.",
+      "longDescription": "Проверено Sektascience — канал о здоровом образе жизни с опорой на научные исследования. Здесь можно найти рекомендации, как питаться в холодное время года, справляться с мигренью и многое другое【154129013427672†L63-L65】.",
+      "functions": [
+        "publish"
+      ],
+      "topics": [
+        "lifestyle",
+        "health"
+      ],
+      "primaryTopic": "lifestyle",
+      "language": "ru",
+      "compat": "L0",
+      "audience": "all",
+      "formats": [
+        "text"
+      ],
+      "tags": [
+        "ru-channel",
+        "wellbeing"
+      ],
+      "isPromoted": false,
+      "weight": 10
+    },
+    {
+      "id": "tg-homa-stoiev",
+      "title": "Хома Стоев",
+      "type": "bot",
+      "deeplink": "https://t.me/homastoev_bot",
+      "shortDescription": "Бот, который помогает внедрять полезные привычки и быть продуктивным.",
+      "longDescription": "Хома Стоев — телеграм‑бот, который помогает внедрять полезные привычки и быть более продуктивным: в рабочее время он напоминает сделать перерыв, выпить воды, предлагает упражнения для глаз и показывает, как делать зарядку, чтобы не болела спина【154129013427672†L69-L74】.",
+      "functions": [
+        "automate",
+        "publish"
+      ],
+      "topics": [
+        "lifestyle",
+        "health"
+      ],
+      "primaryTopic": "lifestyle",
+      "language": "ru",
+      "compat": "L0",
+      "audience": "all",
+      "formats": [
+        "text"
+      ],
+      "tags": [
+        "ru-bot",
+        "productivity"
+      ],
+      "isPromoted": false,
+      "weight": 10
+    }
+  ],
+  "grouped": {
+    "sports": {
+      "channels": [
+        "tg-40kg",
+        "tg-begat-prosto",
+        "tg-iz-odessy-s-morkoviu",
+        "tg-chempionat",
+        "tg-0kkal-lowcal-recipes",
+        "tg-rocketscienze",
+        "tg-marafonets",
+        "tg-the-runners",
+        "tg-kak-nachat-begat",
+        "tg-ironstar",
+        "tg-runninggirls",
+        "tg-rruns-plus",
+        "tg-begovoi-klub"
+      ],
+      "bots": [],
+      "miniapps": [],
+      "services": []
+    },
+    "health": {
+      "channels": [
+        "tg-namochi-mantu",
+        "tg-shbmnk",
+        "tg-oncology-fellow",
+        "tg-fediatriya",
+        "tg-detskaya-psychiatriya",
+        "tg-zapiski-yunogo-vracha",
+        "tg-dental-jedi",
+        "tg-rumyantsevamd",
+        "tg-md-school",
+        "tg-karjera-vracha",
+        "tg-md-life",
+        "tg-nutriziologiya-md",
+        "tg-medicinskij-english-md",
+        "tg-evidence-medicine",
+        "tg-medcast",
+        "tg-doctor-pavlova",
+        "tg-medical-ksyu",
+        "tg-it-v-medicine",
+        "tg-medach",
+        "tg-stomatolog-razumny",
+        "tg-bud-zdorov-muzhik"
+      ],
+      "bots": [],
+      "miniapps": [],
+      "services": []
+    },
+    "lifestyle": {
+      "channels": [
+        "tg-kris-the-expat",
+        "tg-travelhacks",
+        "tg-nikolay-levshits",
+        "tg-aviasales",
+        "tg-kupibilet",
+        "tg-onetwotrip",
+        "tg-travelradar",
+        "tg-romes-duty-officer",
+        "tg-travelator",
+        "tg-ru-girl-travel",
+        "tg-founderwoman",
+        "tg-take-care",
+        "tg-plus1-to-productivity",
+        "tg-daily-reminder",
+        "tg-provereno-sektascience"
+      ],
+      "bots": [
+        "tg-homa-stoiev"
+      ],
+      "miniapps": [],
+      "services": []
+    }
+  },
+  "digest_markdown": "## 🏃 Sports (sports)\n- **40KG** — https://t.me/fortykilogram    Канал о похудении с простыми рецептами и домашними тренировками.\n- **Бегать просто** — https://t.me/begatprosto    Канал о беге и здоровом образе жизни с советами и лайфхаками.\n- **Из Одессы с морковью** — https://t.me/izodessysmor    Канал с полезными рецептами и кулинарными экспериментами.\n- **Чемпионат** — https://t.me/championat    Официальный канал спортивного портала «Чемпионат».\n- **0Kkal – Низкокалорийные рецепты** — https://t.me/zero_kkal    Канал с простыми и вкусными низкокалорийными рецептами.\n- **rocketscienZe** — https://t.me/rocketscienze    Канал бегунов с лонгридами о технике, питании и восстановлении.\n- **Марафонец** — https://t.me/marafonets    Официальный канал журнала «Марафонец» с новостями о беге и триатлоне.\n- **The Runners** — https://t.me/therunners    Канал о беговых событиях и полезных статьях.\n- **Как начать бегать** — https://t.me/kak_nachat_begat    Открытая группа для тех, кто хочет начать бегать.\n- **IRONSTAR** — https://t.me/ironstar    Официальный канал серии соревнований IronStar.\n- **RunningGirls** — https://t.me/runninggirls    Сообщество для девушек, любящих бег, спорт и здоровье.\n- **RRUNS+** — https://t.me/rrunsplus    Канал беговой команды RRUNS с анонсами забегов.\n- **Беговой клуб** — https://t.me/begovoi_klub    Канал для бегового сообщества с ссылками на статьи и события.\n\n## 🩺 Health (health)\n- **Намочи манту** — https://t.me/namochi_mantu    Популярный канал о доказательной медицине.\n- **ШБмнк** — https://t.me/shbmnk    Канал о доказательной медицине и борьбе со стереотипами.\n- **Oncology Fellow** — https://t.me/oncologyfellow    «Не страшный» канал о современной онкологии.\n- **Федиатрия** — https://t.me/fediatriya    Канал педиатра о здоровье детей.\n- **Детская психиатрия** — https://t.me/detskaya_psychiatriya    Канал о детской психиатрии для родителей.\n- **Записки юного врача** — https://t.me/youngdoctor_notes    Канал с медицинскими лайфхаками и понятными объяснениями.\n- **Dental Jedi** — https://t.me/dental_jedi    Канал стоматолога о зубах и стоматологической практике.\n- **Rumyantseva_MD** — https://t.me/rumyantsevamd    Канал акушера-гинеколога о женском здоровье.\n- **MD.school** — https://t.me/mdschool    Официальный канал MD.school с медицинскими новостями и кейсами.\n- **Карьера врача** — https://t.me/karjeravracha    Канал о карьерном росте и доходах врачей.\n- **MD life** — https://t.me/mdlife    Канал о балансе, гармонии и борьбе с профессиональным выгоранием.\n- **Нутрициология MD** — https://t.me/nutriziologiya_md    Канал про нутрициологию для врачей.\n- **Медицинский Английский MD** — https://t.me/medicalenglishmd    Канал по изучению медицинского английского.\n- **Доказательная медицина и клинические рекомендации** — https://t.me/evidence_medicine    Канал о доказательной медицине для специалистов.\n- **MedCast** — https://t.me/medcast    Канал-подкаст с короткими объяснениями болезней и лечений.\n- **Доктор Павлова** — https://t.me/doctorpavlova    Канал эндокринолога о питании и качестве жизни.\n- **Медикал Ксю** — https://t.me/medicalksyu    Канал о технологиях в медицине и фарме.\n- **ИТ в медицине** — https://t.me/itmedicine    Канал о передовых технологиях в медицине.\n- **Медач** — https://t.me/medach    Канал о доказательной медицине с ежедневными обновлениями.\n- **Стоматолог разумный** — https://t.me/stomatolograzumny    Профессиональный канал для стоматологов.\n- **Будь здоров, МУЖИК!** — https://t.me/budzorovmuzhik    Канал андролога о мужском здоровье.\n\n## 🌿 Lifestyle (lifestyle)\n- **Kris the Expat** — https://t.me/kris_the_expat    Тревел-канал о приключениях и путешествиях.\n- **Travelhacks** — https://t.me/travelhacks_ru    Один из лучших русскоязычных travel-каналов с лайфхаками.\n- **Канал Николая Левшица — Грузия** — https://t.me/levshits_georgia    Канал о жизни в Грузии для путешественников и эмигрантов.\n- **Aviasales** — https://t.me/aviasales    Канал сервиса Aviasales с акциями и шутками.\n- **Kupibilet** — https://t.me/kupibilet    Канал агентства Kupibilet с советами для путешествий.\n- **OneTwoTrip** — https://t.me/onetwotrip    Официальный канал OneTwoTrip с новостями и мемами.\n- **TravelRadar** — https://t.me/travelradar    Канал о дешёвых перелётах и выгодных предложениях.\n- **Romes Duty Officer** — https://t.me/romesdutyofficer    Канал о жизни и событиях в Риме.\n- **Travelator** — https://t.me/travelator    Канал о жизни в Лондоне и британской культуре.\n- **ru_girl_travel** — https://t.me/ru_girl_travel    Дорожный дневник путешествий по России.\n- **FounderWoman** — https://t.me/founderwoman    Канал Ольги Паскиной о бизнесе и саморазвитии.\n- **Take Care** — https://t.me/takecare_channel    Канал о работе без выгорания и заботе о себе.\n- **+1 к продуктивности** — https://t.me/plus1productivity    Канал о повышении продуктивности на основе науки и опыта.\n- **Daily Reminder** — https://t.me/dailyreminder_ru    Канал с выжимками по здоровью, саморазвитию и философии.\n- **Проверено Sektascience** — https://t.me/sektascience    Канал о здоровом образе жизни на основе науки.\n- **Хома Стоев** — https://t.me/homastoev_bot    Бот, который помогает внедрять полезные привычки и быть продуктивным."
+}

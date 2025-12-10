@@ -1,0 +1,1474 @@
+[
+  {
+    "id": "tg-iskusstvo-fotografii",
+    "title": "Искусство фотографии",
+    "type": "channel",
+    "deeplink": "https://t.me/iskusstvophotography",
+    "shortDescription": "Практические уроки, съемка и обработка от фотографа Ивана Кочергина.",
+    "longDescription": "Канал «Искусство фотографии» ведет портретный фотограф Иван Кочергин. Он делится своим опытом, дает практические советы по съемке и обработке, объясняет теорию доступным языком, что отмечено в подборке DepositPhotos【605357905003108†L133-L137】.",
+    "functions": [
+      "publish"
+    ],
+    "topics": [
+      "photography"
+    ],
+    "primaryTopic": "photography",
+    "language": "ru",
+    "compat": "L0",
+    "audience": "all",
+    "formats": [
+      "text",
+      "image",
+      "video"
+    ],
+    "tags": [
+      "photographer",
+      "tutorial",
+      "ru-channel",
+      "found_via:depositphotos"
+    ],
+    "isPromoted": false,
+    "weight": 10
+  },
+  {
+    "id": "tg-pokazavodnepochinili",
+    "title": "Пока завод не починили",
+    "type": "channel",
+    "deeplink": "https://t.me/pokazavodnepochinili",
+    "shortDescription": "Фотосоветы и забавные истории от фотографа Георгия Джеджейя.",
+    "longDescription": "Фотограф Георгий Джеджейя в канале «Пока завод не починили» делится советами и историями из своей практики: как критиковать чужие работы, как не стесняться снимать и какие трудности встречаются на съемках. Именно такие советы отмечает DepositPhotos【605357905003108†L145-L149】.",
+    "functions": [
+      "publish"
+    ],
+    "topics": [
+      "photography"
+    ],
+    "primaryTopic": "photography",
+    "language": "ru",
+    "compat": "L0",
+    "audience": "all",
+    "formats": [
+      "text",
+      "image",
+      "video"
+    ],
+    "tags": [
+      "photographer",
+      "stories",
+      "ru-channel",
+      "found_via:depositphotos"
+    ],
+    "isPromoted": false,
+    "weight": 10
+  },
+  {
+    "id": "tg-whatever-make",
+    "title": "Whatever. Make",
+    "type": "channel",
+    "deeplink": "https://t.me/whatever_make",
+    "shortDescription": "Творческие идеи для предметной и фуд-фотографии от Дины Беленко.",
+    "longDescription": "Канал Дины Беленко «Whatever. Make» посвящен креативным идеям для фотографий. Автор показывает, как по‑новому взглянуть на обычные вещи в предметной и фуд-фотографии, что отмечено в подборке DepositPhotos【605357905003108†L156-L161】.",
+    "functions": [
+      "publish"
+    ],
+    "topics": [
+      "photography"
+    ],
+    "primaryTopic": "photography",
+    "language": "ru",
+    "compat": "L0",
+    "audience": "all",
+    "formats": [
+      "text",
+      "image"
+    ],
+    "tags": [
+      "creative",
+      "ru-channel",
+      "found_via:depositphotos"
+    ],
+    "isPromoted": false,
+    "weight": 10
+  },
+  {
+    "id": "tg-be-trendy-stocker",
+    "title": "be.trendy.stocker",
+    "type": "channel",
+    "deeplink": "https://t.me/betrendystocker",
+    "shortDescription": "Новости индустрии стоковой фотографии, советы и идеи для контента.",
+    "longDescription": "Канал be.trendy.stocker полезен стоковым фотографам: здесь публикуют новости индустрии, полезные ссылки и технические советы о работе с фотобанками, как отмечается в DepositPhotos【605357905003108†L169-L173】.",
+    "functions": [
+      "publish"
+    ],
+    "topics": [
+      "photography"
+    ],
+    "primaryTopic": "photography",
+    "language": "ru",
+    "compat": "L0",
+    "audience": "all",
+    "formats": [
+      "text",
+      "image"
+    ],
+    "tags": [
+      "stock",
+      "ru-channel",
+      "found_via:depositphotos"
+    ],
+    "isPromoted": false,
+    "weight": 10
+  },
+  {
+    "id": "tg-photoshop-channel",
+    "title": "Photoshop – уроки и ресурсы",
+    "type": "channel",
+    "deeplink": "https://t.me/photohopchannel",
+    "shortDescription": "Видео-уроки, эффекты и ресурсы для Photoshop.",
+    "longDescription": "Канал «Photoshop» публикует подробные видеоруки по созданию эффектов, делится полезными макетами, шрифтами и кистями и показывает впечатляющие работы. Эти возможности подчеркивает обзор DepositPhotos【605357905003108†L181-L184】.",
+    "functions": [
+      "publish"
+    ],
+    "topics": [
+      "photography"
+    ],
+    "primaryTopic": "photography",
+    "language": "ru",
+    "compat": "L0",
+    "audience": "all",
+    "formats": [
+      "text",
+      "image",
+      "video"
+    ],
+    "tags": [
+      "photoshop",
+      "tutorial",
+      "ru-channel",
+      "found_via:depositphotos"
+    ],
+    "isPromoted": false,
+    "weight": 10
+  },
+  {
+    "id": "tg-mpga",
+    "title": "MPGA – Make Photography Great Again",
+    "type": "channel",
+    "deeplink": "https://t.me/mpgachannel",
+    "shortDescription": "Концептуальные и актуальные фотографии из разных стран мира.",
+    "longDescription": "Канал MPGA (Make Photography Great Again) публикует концептуальные и актуальные работы фотографов со всего мира, которые заставляют задуматься; об этом пишет DepositPhotos【605357905003108†L192-L195】.",
+    "functions": [
+      "publish"
+    ],
+    "topics": [
+      "photography"
+    ],
+    "primaryTopic": "photography",
+    "language": "ru",
+    "compat": "L0",
+    "audience": "all",
+    "formats": [
+      "image",
+      "text"
+    ],
+    "tags": [
+      "conceptual",
+      "world",
+      "ru-channel",
+      "found_via:depositphotos"
+    ],
+    "isPromoted": false,
+    "weight": 10
+  },
+  {
+    "id": "tg-istoriipraktika",
+    "title": "Истории и практика фото",
+    "type": "channel",
+    "deeplink": "https://t.me/istoripraktika",
+    "shortDescription": "Опыт и советы профессионала для фотографов.",
+    "longDescription": "Фотограф Александр Файруков ведет канал «Истории и практика фото», в котором делится профессиональным опытом, советами по съемке и обработке, и отвечает на сложные вопросы о карьере фотографа【605357905003108†L203-L206】.",
+    "functions": [
+      "publish"
+    ],
+    "topics": [
+      "photography"
+    ],
+    "primaryTopic": "photography",
+    "language": "ru",
+    "compat": "L0",
+    "audience": "all",
+    "formats": [
+      "text",
+      "image"
+    ],
+    "tags": [
+      "expert",
+      "ru-channel",
+      "found_via:depositphotos"
+    ],
+    "isPromoted": false,
+    "weight": 10
+  },
+  {
+    "id": "tg-photolab-foto",
+    "title": "PhotoLab | Фотография",
+    "type": "channel",
+    "deeplink": "https://t.me/photolab_ru",
+    "shortDescription": "Лучшие фотографии со всего мира для анализа композиции и цвета.",
+    "longDescription": "Канал PhotoLab | Фотография публикует отобранные снимки разных авторов, предлагая зрителям анализировать композицию и цветовые решения, что помогает развивать насмотренность【605357905003108†L214-L218】.",
+    "functions": [
+      "publish"
+    ],
+    "topics": [
+      "photography"
+    ],
+    "primaryTopic": "photography",
+    "language": "ru",
+    "compat": "L0",
+    "audience": "all",
+    "formats": [
+      "image",
+      "text"
+    ],
+    "tags": [
+      "inspiration",
+      "ru-channel",
+      "found_via:depositphotos"
+    ],
+    "isPromoted": false,
+    "weight": 10
+  },
+  {
+    "id": "tg-artnagrada",
+    "title": "Artnagrada",
+    "type": "channel",
+    "deeplink": "https://t.me/artnagrada",
+    "shortDescription": "Анонсы конкурсов и творческих фестивалей для фотографов и художников.",
+    "longDescription": "Канал Artnagrada информирует о творческих конкурсах и фестивалях по фотографии и искусству, предоставляя ссылки на участие и мотивируя начинающих и профессиональных авторов【605357905003108†L226-L231】.",
+    "functions": [
+      "publish"
+    ],
+    "topics": [
+      "photography"
+    ],
+    "primaryTopic": "photography",
+    "language": "ru",
+    "compat": "L0",
+    "audience": "all",
+    "formats": [
+      "text"
+    ],
+    "tags": [
+      "competitions",
+      "ru-channel",
+      "found_via:depositphotos"
+    ],
+    "isPromoted": false,
+    "weight": 10
+  },
+  {
+    "id": "tg-fokinman",
+    "title": "FOKINMAN",
+    "type": "channel",
+    "deeplink": "https://t.me/fokinman",
+    "shortDescription": "Подборки мощных и впечатляющих фотографий от Алексея Фокина.",
+    "longDescription": "Фотограф Алексей Фокин собирает в своем канале FOKINMAN яркие и впечатляющие работы — как собственные, так и чужие. В подборке DepositPhotos его канал отмечен как источник сильных фотоисторий【605357905003108†L239-L241】.",
+    "functions": [
+      "publish"
+    ],
+    "topics": [
+      "photography"
+    ],
+    "primaryTopic": "photography",
+    "language": "ru",
+    "compat": "L0",
+    "audience": "all",
+    "formats": [
+      "image"
+    ],
+    "tags": [
+      "portfolio",
+      "ru-channel",
+      "found_via:depositphotos"
+    ],
+    "isPromoted": false,
+    "weight": 10
+  },
+  {
+    "id": "tg-retro-photos",
+    "title": "Retro Photos",
+    "type": "channel",
+    "deeplink": "https://t.me/retrophotos",
+    "shortDescription": "Исторические фотографии: Гейдельский мост, Титаник и Юрий Гагарин.",
+    "longDescription": "Канал Retro Photos показывает исторические снимки: построение моста «Золотые ворота», интерьеры «Титаника», фотографии Юрия Гагарина и другие исторические моменты, как отмечает DepositPhotos【605357905003108†L249-L251】.",
+    "functions": [
+      "publish"
+    ],
+    "topics": [
+      "photography"
+    ],
+    "primaryTopic": "photography",
+    "language": "ru",
+    "compat": "L0",
+    "audience": "all",
+    "formats": [
+      "image",
+      "text"
+    ],
+    "tags": [
+      "history",
+      "ru-channel",
+      "found_via:depositphotos"
+    ],
+    "isPromoted": false,
+    "weight": 10
+  },
+  {
+    "id": "tg-plenka",
+    "title": "Плёнка",
+    "type": "channel",
+    "deeplink": "https://t.me/filmphoto",
+    "shortDescription": "Атмосфера пленочной фотографии – кадры, будто из старого альбома.",
+    "longDescription": "«Плёнка» погружает подписчиков в атмосферу пленочной фотографии, публикуя кадры, напоминающие старые семейные альбомы; описания подчеркивают теплую, ностальгическую эстетику【605357905003108†L259-L261】.",
+    "functions": [
+      "publish"
+    ],
+    "topics": [
+      "photography"
+    ],
+    "primaryTopic": "photography",
+    "language": "ru",
+    "compat": "L0",
+    "audience": "all",
+    "formats": [
+      "image",
+      "text"
+    ],
+    "tags": [
+      "film",
+      "ru-channel",
+      "found_via:depositphotos"
+    ],
+    "isPromoted": false,
+    "weight": 10
+  },
+  {
+    "id": "tg-koldunov-photo",
+    "title": "Koldunov Brothers Photo",
+    "type": "channel",
+    "deeplink": "https://t.me/koldunovphoto",
+    "shortDescription": "Уроки и советы по фотографии от братьев Колдуновых.",
+    "longDescription": "Братья Колдуновы — известные преподаватели фотографии — делятся опытом и советами для начинающих и профессионалов. В обзоре Koldunov Brothers канал отмечен как ценный источник уроков и рекомендаций【846744259595287†L69-L74】.",
+    "functions": [
+      "publish"
+    ],
+    "topics": [
+      "photography"
+    ],
+    "primaryTopic": "photography",
+    "language": "ru",
+    "compat": "L0",
+    "audience": "all",
+    "formats": [
+      "text",
+      "image",
+      "video"
+    ],
+    "tags": [
+      "education",
+      "ru-channel",
+      "found_via:koldunov"
+    ],
+    "isPromoted": false,
+    "weight": 10
+  },
+  {
+    "id": "tg-vizhu-i-fotografiruyu",
+    "title": "Вижу и фотографирую",
+    "type": "channel",
+    "deeplink": "https://t.me/vizhu_i_fotografiruyu",
+    "shortDescription": "Блог начинающего фотографа с простым языком и актуальными темами.",
+    "longDescription": "Блог «Вижу и фотографирую» — это дневник начинающего фотографа, где автор делится тем, чему учится, простым и понятным языком. Канал рекомендуют начинающим как источник мотивации и практических советов【846744259595287†L92-L97】.",
+    "functions": [
+      "publish"
+    ],
+    "topics": [
+      "photography"
+    ],
+    "primaryTopic": "photography",
+    "language": "ru",
+    "compat": "L0",
+    "audience": "all",
+    "formats": [
+      "text",
+      "image"
+    ],
+    "tags": [
+      "beginner",
+      "ru-channel",
+      "found_via:koldunov"
+    ],
+    "isPromoted": false,
+    "weight": 10
+  },
+  {
+    "id": "tg-mobile-photography",
+    "title": "Мобильная фотография",
+    "type": "channel",
+    "deeplink": "https://t.me/mobilephotograph",
+    "shortDescription": "Лучший канал о мобильной съемке: свет, композиция и точка съемки.",
+    "longDescription": "Канал «Мобильная фотография» уделяет внимание съемке на смартфон. Автор пишет о важности света, композиции и ракурса и отмечает, что самое главное — хорошая съемка, а не программы по обработке【846744259595287†L129-L134】.",
+    "functions": [
+      "publish"
+    ],
+    "topics": [
+      "photography"
+    ],
+    "primaryTopic": "photography",
+    "language": "ru",
+    "compat": "L0",
+    "audience": "all",
+    "formats": [
+      "text",
+      "image"
+    ],
+    "tags": [
+      "mobile",
+      "ru-channel",
+      "found_via:koldunov"
+    ],
+    "isPromoted": false,
+    "weight": 10
+  },
+  {
+    "id": "tg-bolshe-gryazi",
+    "title": "Больше грязи",
+    "type": "channel",
+    "deeplink": "https://t.me/borshegryazi",
+    "shortDescription": "Истории и фотографии от блогера Павла Косенко.",
+    "longDescription": "Канал «Больше грязи» ведет цветокорректор и фотограф Павел Косенко. Он делится историями и фотографиями, отражающими его взгляды на жизнь и творчество; в обзоре Koldunov Brothers канал упомянут как яркий авторский журнал【846744259595287†L139-L146】.",
+    "functions": [
+      "publish"
+    ],
+    "topics": [
+      "photography"
+    ],
+    "primaryTopic": "photography",
+    "language": "ru",
+    "compat": "L0",
+    "audience": "all",
+    "formats": [
+      "image",
+      "text"
+    ],
+    "tags": [
+      "blog",
+      "ru-channel",
+      "found_via:koldunov"
+    ],
+    "isPromoted": false,
+    "weight": 10
+  },
+  {
+    "id": "tg-bulletin-kinoprokat",
+    "title": "Бюллетень кинопрокатчика",
+    "type": "channel",
+    "deeplink": "https://t.me/buletkinoprokat",
+    "shortDescription": "Официальный канал со статистикой кинопроката и новостями индустрии.",
+    "longDescription": "«Бюллетень кинопрокатчика» — официальный канал о мировой киноиндустрии: здесь публикуются новости, статистика сборов, анонсы премьер и фестивалей. В обзоре Buro 24/7 канал отмечают как источник свежей информации о прокате【712130480200177†L120-L123】.",
+    "functions": [
+      "publish"
+    ],
+    "topics": [
+      "video"
+    ],
+    "primaryTopic": "video",
+    "language": "ru",
+    "compat": "L0",
+    "audience": "all",
+    "formats": [
+      "text",
+      "video"
+    ],
+    "tags": [
+      "cinema",
+      "industry",
+      "ru-channel",
+      "found_via:buro"
+    ],
+    "isPromoted": false,
+    "weight": 10
+  },
+  {
+    "id": "tg-tepyo-o-kino",
+    "title": "Тепло о кино",
+    "type": "channel",
+    "deeplink": "https://t.me/teplookino",
+    "shortDescription": "Канал о фильмах с обзором и новостями киноиндустрии.",
+    "longDescription": "Канал «Тепло о кино» ведет Ника; он содержит рубрики с обзорами фильмов, рекомендациями, новостями и книгами о кино. В описании Buro отмечается комфортная и дружелюбная подача информации【712130480200177†L133-L136】.",
+    "functions": [
+      "publish"
+    ],
+    "topics": [
+      "video"
+    ],
+    "primaryTopic": "video",
+    "language": "ru",
+    "compat": "L0",
+    "audience": "all",
+    "formats": [
+      "text",
+      "video"
+    ],
+    "tags": [
+      "reviews",
+      "ru-channel",
+      "found_via:buro"
+    ],
+    "isPromoted": false,
+    "weight": 10
+  },
+  {
+    "id": "tg-netflix-chilll",
+    "title": "Netflix & Chilll",
+    "type": "channel",
+    "deeplink": "https://t.me/netflix_chilll",
+    "shortDescription": "Все о сериалах: премьеры, обзоры, награды и новости.",
+    "longDescription": "Канал Netflix & Chilll посвящен сериалам. Он публикует афиши премьер, обзоры, подборки, информацию об участниках премий Emmy и рекомендации. В статье Buro 24/7 канал отмечается как источник новостей и мемов【712130480200177†L146-L149】.",
+    "functions": [
+      "publish"
+    ],
+    "topics": [
+      "video"
+    ],
+    "primaryTopic": "video",
+    "language": "ru",
+    "compat": "L0",
+    "audience": "all",
+    "formats": [
+      "text",
+      "video"
+    ],
+    "tags": [
+      "series",
+      "ru-channel",
+      "found_via:buro"
+    ],
+    "isPromoted": false,
+    "weight": 10
+  },
+  {
+    "id": "tg-chakchak-palanik",
+    "title": "Чак-Чак Паланик",
+    "type": "channel",
+    "deeplink": "https://t.me/chakchakpalanik",
+    "shortDescription": "Канал студента ВГИК о сценарном мастерстве и обзорах кино.",
+    "longDescription": "Канал «Чак-Чак Паланик» ведет студент-сценарист ВГИК. Он делится уроками по сценаристике, разбирает работы новичков и профессионалов, рецензирует фильмы и предлагает необычные рубрики, как отмечает Buro【712130480200177†L159-L163】.",
+    "functions": [
+      "publish"
+    ],
+    "topics": [
+      "video"
+    ],
+    "primaryTopic": "video",
+    "language": "ru",
+    "compat": "L0",
+    "audience": "all",
+    "formats": [
+      "text",
+      "video"
+    ],
+    "tags": [
+      "screenwriting",
+      "ru-channel",
+      "found_via:buro"
+    ],
+    "isPromoted": false,
+    "weight": 10
+  },
+  {
+    "id": "tg-kino-pro-tebya",
+    "title": "Кино про тебя",
+    "type": "channel",
+    "deeplink": "https://t.me/kinoprotya",
+    "shortDescription": "Новости российской кинематографии, награды и бэкстейдж.",
+    "longDescription": "«Кино про тебя» — канал о российском кинематографе. Здесь сообщают о жюри и номинантах премий, программе фестивалей, публикуют фотографии со съемок и интересные факты о премьерах【712130480200177†L173-L176】.",
+    "functions": [
+      "publish"
+    ],
+    "topics": [
+      "video"
+    ],
+    "primaryTopic": "video",
+    "language": "ru",
+    "compat": "L0",
+    "audience": "all",
+    "formats": [
+      "text",
+      "image",
+      "video"
+    ],
+    "tags": [
+      "russian_cinema",
+      "ru-channel",
+      "found_via:buro"
+    ],
+    "isPromoted": false,
+    "weight": 10
+  },
+  {
+    "id": "tg-cronenberg-unfiltered",
+    "title": "Кроненберг нефильтрованный",
+    "type": "channel",
+    "deeplink": "https://t.me/cronenberg_unfiltered",
+    "shortDescription": "Сборная солянка: постеры, новости, мемы и интересные факты о кино.",
+    "longDescription": "Канал «Кроненберг нефильтрованный» объединяет постеры, новости, рецензии, факты и мемы. Здесь можно узнать о необычных событиях, например, аукционе по продаже рукописного сценария фильма «Солярис». DTF отмечает, что подписчики получают актуальные закулисные новости и подборки на тему кино【920150676166443†L31-L39】.",
+    "functions": [
+      "publish"
+    ],
+    "topics": [
+      "video"
+    ],
+    "primaryTopic": "video",
+    "language": "ru",
+    "compat": "L0",
+    "audience": "all",
+    "formats": [
+      "text",
+      "image",
+      "video"
+    ],
+    "tags": [
+      "film_news",
+      "ru-channel",
+      "found_via:dtf"
+    ],
+    "isPromoted": false,
+    "weight": 10
+  },
+  {
+    "id": "tg-shishkino",
+    "title": "ШишКИНО",
+    "type": "channel",
+    "deeplink": "https://t.me/shishkino",
+    "shortDescription": "Режиссерский взгляд на визуальную составляющую кино и сериалов.",
+    "longDescription": "Режиссер Макс Шишкин ведет канал «ШишКИНО», в котором делится профессиональными впечатлениями о визуальных решениях в фильмах и сериалах. DTF отмечает, что автор уделяет внимание декорациям, костюмам и операторской работе, помогая зрителю заметить детали【920150676166443†L41-L52】.",
+    "functions": [
+      "publish"
+    ],
+    "topics": [
+      "video"
+    ],
+    "primaryTopic": "video",
+    "language": "ru",
+    "compat": "L0",
+    "audience": "all",
+    "formats": [
+      "text",
+      "image",
+      "video"
+    ],
+    "tags": [
+      "director",
+      "ru-channel",
+      "found_via:dtf"
+    ],
+    "isPromoted": false,
+    "weight": 10
+  },
+  {
+    "id": "tg-tvsam",
+    "title": "TvSam | Tv shows and movies",
+    "type": "channel",
+    "deeplink": "https://t.me/tvsam",
+    "shortDescription": "Обзоры, новости и рубрики о фильмах и сериалах на каждый вкус.",
+    "longDescription": "Канал TvSam подает информацию о кино в формате рубрик: еженедельные рецензии на фильмы и сериалы, подборки ожидаемых премьер, факты и разборы эстетики. DTF отмечает, что канал помогает выбрать контент на любой вкус【920150676166443†L54-L65】.",
+    "functions": [
+      "publish"
+    ],
+    "topics": [
+      "video"
+    ],
+    "primaryTopic": "video",
+    "language": "ru",
+    "compat": "L0",
+    "audience": "all",
+    "formats": [
+      "text",
+      "video"
+    ],
+    "tags": [
+      "reviews",
+      "premieres",
+      "ru-channel",
+      "found_via:dtf"
+    ],
+    "isPromoted": false,
+    "weight": 10
+  },
+  {
+    "id": "tg-cinemarticle",
+    "title": "Cinemarticle",
+    "type": "channel",
+    "deeplink": "https://t.me/cinemarticle",
+    "shortDescription": "Анализ эстетики кинематографа и авторские подборки.",
+    "longDescription": "«Cinemarticle» рассматривает эстетические аспекты кинематографа: авторские сравнения, подборки и видео о процессе создания кино. DTF подчеркивает, что канал помогает понимать прекрасное и следить за лучшими фильмами【920150676166443†L69-L78】.",
+    "functions": [
+      "publish"
+    ],
+    "topics": [
+      "video"
+    ],
+    "primaryTopic": "video",
+    "language": "ru",
+    "compat": "L0",
+    "audience": "all",
+    "formats": [
+      "text",
+      "video",
+      "image"
+    ],
+    "tags": [
+      "aesthetics",
+      "ru-channel",
+      "found_via:dtf"
+    ],
+    "isPromoted": false,
+    "weight": 10
+  },
+  {
+    "id": "tg-popcorn",
+    "title": "Запасаемся попкорном",
+    "type": "channel",
+    "deeplink": "https://t.me/popcorn_reviews",
+    "shortDescription": "Рецензии на сериалы от кинокритика и продюсера.",
+    "longDescription": "Канал «Запасаемся попкорном» ведет журналист и креативный продюсер. Он публикует емкие рецензии на фильмы и сериалы и помогает подписчикам выбирать интересный контент. DTF отмечает, что читатели получают профессиональные советы по сериалам【920150676166443†L80-L90】.",
+    "functions": [
+      "publish"
+    ],
+    "topics": [
+      "video"
+    ],
+    "primaryTopic": "video",
+    "language": "ru",
+    "compat": "L0",
+    "audience": "all",
+    "formats": [
+      "text",
+      "video"
+    ],
+    "tags": [
+      "reviews",
+      "ru-channel",
+      "found_via:dtf"
+    ],
+    "isPromoted": false,
+    "weight": 10
+  },
+  {
+    "id": "tg-remizorro",
+    "title": "Ремизорро",
+    "type": "channel",
+    "deeplink": "https://t.me/remizorro",
+    "shortDescription": "Фото звезд и авторские комментарии о новинках кино.",
+    "longDescription": "Канал «Ремизорро» посвящен кино и голливудским звездам. Здесь много фотографий знаменитостей, бэкстейджей и авторских комментариев на последние новинки кино. DTF обещает эстетическое наслаждение и актуальные мнения【920150676166443†L92-L104】.",
+    "functions": [
+      "publish"
+    ],
+    "topics": [
+      "video"
+    ],
+    "primaryTopic": "video",
+    "language": "ru",
+    "compat": "L0",
+    "audience": "all",
+    "formats": [
+      "text",
+      "image",
+      "video"
+    ],
+    "tags": [
+      "stars",
+      "ru-channel",
+      "found_via:dtf"
+    ],
+    "isPromoted": false,
+    "weight": 10
+  },
+  {
+    "id": "tg-smotret-i-videt",
+    "title": "Смотреть и видеть",
+    "type": "channel",
+    "deeplink": "https://t.me/smotretividi",
+    "shortDescription": "Познавательные видеоролики о кино и режиссуре.",
+    "longDescription": "Канал «Смотреть и видеть» собирает познавательные видеоролики о режиссуре и монтаже. ДTF отмечает, что здесь объясняют, почему монтаж «Дюны» гениален, рассказывают об эволюции стиля Пола Томаса Андерсона и принципах выбора цветовой палитры Миядзаки【920150676166443†L108-L117】.",
+    "functions": [
+      "publish"
+    ],
+    "topics": [
+      "video"
+    ],
+    "primaryTopic": "video",
+    "language": "ru",
+    "compat": "L0",
+    "audience": "all",
+    "formats": [
+      "video",
+      "text"
+    ],
+    "tags": [
+      "education",
+      "ru-channel",
+      "found_via:dtf"
+    ],
+    "isPromoted": false,
+    "weight": 10
+  },
+  {
+    "id": "tg-cinema-critique",
+    "title": "Cinema Critique",
+    "type": "channel",
+    "deeplink": "https://t.me/cinema_critique",
+    "shortDescription": "Аналитика, разборы и предсказания в мире кино.",
+    "longDescription": "Канал «Cinema Critique» предлагает авторские статьи и разборы киноиндустрии: от объяснения побед на Оскаре до возрождения чёрно-белого кино. DTF отмечает его глубокие аналитические материалы и рекомендации【920150676166443†L121-L129】.",
+    "functions": [
+      "publish"
+    ],
+    "topics": [
+      "video"
+    ],
+    "primaryTopic": "video",
+    "language": "ru",
+    "compat": "L0",
+    "audience": "all",
+    "formats": [
+      "text",
+      "video"
+    ],
+    "tags": [
+      "analysis",
+      "ru-channel",
+      "found_via:dtf"
+    ],
+    "isPromoted": false,
+    "weight": 10
+  },
+  {
+    "id": "tg-cinemaholics",
+    "title": "Cinemaholics",
+    "type": "channel",
+    "deeplink": "https://t.me/cinemaholics",
+    "shortDescription": "Цитаты, интервью, репортажи и любовь к сложному кино.",
+    "longDescription": "Канал Cinemaholics связан с одноимённым сайтом. Здесь публикуют цитаты, интервью и репортажи с главных событий киноиндустрии, помогая ценить сложное, артхаусное кино【920150676166443†L131-L136】.",
+    "functions": [
+      "publish"
+    ],
+    "topics": [
+      "video"
+    ],
+    "primaryTopic": "video",
+    "language": "ru",
+    "compat": "L0",
+    "audience": "all",
+    "formats": [
+      "text",
+      "image",
+      "video"
+    ],
+    "tags": [
+      "festivals",
+      "ru-channel",
+      "found_via:dtf"
+    ],
+    "isPromoted": false,
+    "weight": 10
+  },
+  {
+    "id": "tg-brush-bot",
+    "title": "Brush — бот художник",
+    "type": "bot",
+    "deeplink": "https://t.me/BrushBot",
+    "shortDescription": "Преобразует ваши фото в картины в стилях Ван Гога, Монэ и аниме.",
+    "longDescription": "Brush — творческий бот, который превращает фотографии пользователей в картины в разных стилях: аниме, Ван Гог, Моне, Гауди и другие. Процесс прост: вы загружаете фото и выбираете желаемый стиль, как описывает Click.ru【196244788990553†L670-L678】.",
+    "functions": [
+      "edit",
+      "render"
+    ],
+    "topics": [
+      "photography"
+    ],
+    "primaryTopic": "photography",
+    "language": "ru",
+    "compat": "L0",
+    "audience": "all",
+    "formats": [
+      "image"
+    ],
+    "tags": [
+      "bot",
+      "style_transfer",
+      "ru-bot",
+      "found_via:clickru"
+    ],
+    "isPromoted": false,
+    "weight": 10
+  },
+  {
+    "id": "tg-deepfaker-bot",
+    "title": "DeepFaker Bot",
+    "type": "bot",
+    "deeplink": "https://t.me/DeepFakerBot",
+    "shortDescription": "Бот для замены лица в видео с помощью нейросетей.",
+    "longDescription": "DeepFaker Bot позволяет создать забавный ролик, заменив лицо на видео. Вы отправляете фотографию и видеоролик, бот соединяет их и возвращает готовый результат. По данным Click.ru, бот использует нейросетевые технологии【196244788990553†L683-L685】.",
+    "functions": [
+      "edit",
+      "render"
+    ],
+    "topics": [
+      "video"
+    ],
+    "primaryTopic": "video",
+    "language": "ru",
+    "compat": "L0",
+    "audience": "all",
+    "formats": [
+      "video"
+    ],
+    "tags": [
+      "face_swap",
+      "ru-bot",
+      "found_via:clickru"
+    ],
+    "isPromoted": false,
+    "weight": 10
+  },
+  {
+    "id": "tg-kandinsky-bot",
+    "title": "Kandinsky бот",
+    "type": "bot",
+    "deeplink": "https://t.me/kandinsky_bot",
+    "shortDescription": "Генерация изображений по текстовому запросу с помощью нейросети.",
+    "longDescription": "Этот бот использует российскую нейросеть Kandinsky для генерации изображений по описанию. Согласно обзору Click.ru, он создает красочные картинки на русском и английском языке【196244788990553†L689-L695】.",
+    "functions": [
+      "render"
+    ],
+    "topics": [
+      "photography"
+    ],
+    "primaryTopic": "photography",
+    "language": "multi",
+    "compat": "L0",
+    "audience": "all",
+    "formats": [
+      "image"
+    ],
+    "tags": [
+      "ai",
+      "ru-bot",
+      "found_via:clickru"
+    ],
+    "isPromoted": false,
+    "weight": 10
+  },
+  {
+    "id": "tg-vgifbot",
+    "title": "Video to GIF Converter",
+    "type": "bot",
+    "deeplink": "https://t.me/vgifbot",
+    "shortDescription": "Конвертирует видео в GIF или MP4 прямо в Telegram.",
+    "longDescription": "@vgifbot превращает ваши видеоролики в GIF или MP4. Пользователь может отправить полное видео или выбрать фрагмент, и бот быстро сделает анимированный GIF, как описано на Click.ru【196244788990553†L699-L707】.",
+    "functions": [
+      "edit",
+      "render"
+    ],
+    "topics": [
+      "video"
+    ],
+    "primaryTopic": "video",
+    "language": "ru",
+    "compat": "L0",
+    "audience": "all",
+    "formats": [
+      "video"
+    ],
+    "tags": [
+      "conversion",
+      "ru-bot",
+      "found_via:clickru"
+    ],
+    "isPromoted": false,
+    "weight": 10
+  },
+  {
+    "id": "tg-screenchat-bot",
+    "title": "Screenchat Bot",
+    "type": "bot",
+    "deeplink": "https://t.me/screenchatbot",
+    "shortDescription": "Создание реалистичных фейковых скриншотов чатов для творчества.",
+    "longDescription": "Screenchat Bot помогает создавать реалистичные фейковые скриншоты чатов. Пользователь вводит данные, а бот генерирует изображение, которое можно использовать в презентациях или мемах. В Click.ru бот упомянут как интересный инструмент для творчества【196244788990553†L710-L716】.",
+    "functions": [
+      "compose",
+      "render"
+    ],
+    "topics": [
+      "photography"
+    ],
+    "primaryTopic": "photography",
+    "language": "ru",
+    "compat": "L0",
+    "audience": "all",
+    "formats": [
+      "image"
+    ],
+    "tags": [
+      "fake_chat",
+      "ru-bot",
+      "found_via:clickru"
+    ],
+    "isPromoted": false,
+    "weight": 10
+  },
+  {
+    "id": "tg-mytelecloudbot",
+    "title": "MyTeleCloudBot",
+    "type": "service",
+    "deeplink": "https://t.me/MyTeleCloudBot",
+    "shortDescription": "Бот для хранения медиафайлов с доступом через ссылку.",
+    "longDescription": "MyTeleCloudBot предоставляет облачное хранилище для изображений, видео и других файлов: вы загружаете файл и получаете короткую ссылку или HTML‑код для вставки. Click.ru описывает его как сервис для безопасного хранения медиа【196244788990553†L265-L296】.",
+    "functions": [
+      "integrate",
+      "publish"
+    ],
+    "topics": [
+      "photography"
+    ],
+    "primaryTopic": "photography",
+    "language": "multi",
+    "compat": "L0",
+    "audience": "all",
+    "formats": [
+      "image",
+      "video",
+      "audio",
+      "pdf"
+    ],
+    "tags": [
+      "storage",
+      "service",
+      "found_via:clickru"
+    ],
+    "isPromoted": false,
+    "weight": 10
+  },
+  {
+    "id": "tg-keephere-bot",
+    "title": "KeepHere Bot",
+    "type": "service",
+    "deeplink": "https://t.me/KeepHereBot",
+    "shortDescription": "Сервис хранения картинок с короткой ссылкой и HTML-кодом.",
+    "longDescription": "KeepHere Bot сохраняет изображения и предоставляет короткие ссылки или HTML‑код для вставки. Это упрощает публикацию фотографий в блогах и на сайтах, как отмечает Click.ru【196244788990553†L265-L296】.",
+    "functions": [
+      "integrate",
+      "publish"
+    ],
+    "topics": [
+      "photography"
+    ],
+    "primaryTopic": "photography",
+    "language": "multi",
+    "compat": "L0",
+    "audience": "all",
+    "formats": [
+      "image",
+      "html"
+    ],
+    "tags": [
+      "storage",
+      "service",
+      "found_via:clickru"
+    ],
+    "isPromoted": false,
+    "weight": 10
+  },
+  {
+    "id": "tg-fileconverter-bot",
+    "title": "File Converter",
+    "type": "service",
+    "deeplink": "https://t.me/fileconverterbot",
+    "shortDescription": "Конвертирует файлы между десятками форматов, включая видео и фото.",
+    "longDescription": "File Converter Bot поддерживает 89 форматов файлов и позволяет конвертировать изображения, видео, аудио, документы и субтитры. Click.ru отмечает, что бот быстро справляется с медиа‑конвертацией【196244788990553†L265-L296】.",
+    "functions": [
+      "edit",
+      "render"
+    ],
+    "topics": [
+      "video",
+      "photography"
+    ],
+    "primaryTopic": "video",
+    "language": "multi",
+    "compat": "L0",
+    "audience": "all",
+    "formats": [
+      "image",
+      "video",
+      "audio",
+      "pdf",
+      "csv"
+    ],
+    "tags": [
+      "conversion",
+      "service",
+      "found_via:clickru"
+    ],
+    "isPromoted": false,
+    "weight": 10
+  },
+  {
+    "id": "tg-ocr-this-bot",
+    "title": "OCR this bot",
+    "type": "bot",
+    "deeplink": "https://t.me/ocrthisbot",
+    "shortDescription": "Извлекает текст из изображений и PDF прямо в чате.",
+    "longDescription": "Бот OCR this распознает текст на изображениях и в PDF‑файлах. Пользователь отправляет фотографию или документ, и бот возвращает извлечённый текст. Этот инструмент описан в обзоре Click.ru【196244788990553†L359-L362】.",
+    "functions": [
+      "extract"
+    ],
+    "topics": [
+      "photography"
+    ],
+    "primaryTopic": "photography",
+    "language": "multi",
+    "compat": "L0",
+    "audience": "all",
+    "formats": [
+      "image",
+      "pdf",
+      "text"
+    ],
+    "tags": [
+      "ocr",
+      "bot",
+      "found_via:clickru"
+    ],
+    "isPromoted": false,
+    "weight": 10
+  },
+  {
+    "id": "tg-salutespeech",
+    "title": "SaluteSpeech – распознавание аудио и видео",
+    "type": "bot",
+    "deeplink": "https://t.me/salutespeech_bot",
+    "shortDescription": "Конвертирует аудио и видео в текст с помощью нейросети Сбера.",
+    "longDescription": "SaluteSpeech – это бот СберАИ, который превращает аудио или видеозапись в текст. Пользователю достаточно отправить файл, после чего бот выполняет расшифровку. Обзор Click.ru рекомендует этот бот для быстрого перевода речи в текст【196244788990553†L397-L403】.",
+    "functions": [
+      "extract"
+    ],
+    "topics": [
+      "video"
+    ],
+    "primaryTopic": "video",
+    "language": "ru",
+    "compat": "L0",
+    "audience": "all",
+    "formats": [
+      "video",
+      "audio",
+      "text"
+    ],
+    "tags": [
+      "transcription",
+      "ru-bot",
+      "found_via:clickru"
+    ],
+    "isPromoted": false,
+    "weight": 10
+  },
+  {
+    "id": "tg-aleksha",
+    "title": "Бот Алёша (text to voice)",
+    "type": "bot",
+    "deeplink": "https://t.me/bot_aleksha",
+    "shortDescription": "Преобразует текст в аудио – выбирайте голоса и эффекты.",
+    "longDescription": "Бот Алёша превращает текст в озвучку: пользователь отправляет текст, выбирает голос и получает аудиофайл. Click.ru отмечает, что бот поддерживает несколько голосов и позволяет настраивать скорость и тон чтения【196244788990553†L405-L413】.",
+    "functions": [
+      "render"
+    ],
+    "topics": [
+      "video"
+    ],
+    "primaryTopic": "video",
+    "language": "ru",
+    "compat": "L0",
+    "audience": "all",
+    "formats": [
+      "audio"
+    ],
+    "tags": [
+      "text_to_speech",
+      "ru-bot",
+      "found_via:clickru"
+    ],
+    "isPromoted": false,
+    "weight": 10
+  },
+  {
+    "id": "tg-flux-ai-editor",
+    "title": "Flux AI Image Editor",
+    "type": "bot",
+    "deeplink": "https://t.me/Flux_AI_Editor",
+    "shortDescription": "Редактирование изображений с подсказками: выделите область и задайте изменение.",
+    "longDescription": "Этот бот, описанный в статье Botize, позволяет редактировать изображения с помощью искусственного интеллекта: вы отправляете фото, отмечаете красным область для изменения и описываете желаемый результат, после чего бот маскирует и корректирует изображение【227488520642952†L25-L40】.",
+    "functions": [
+      "edit"
+    ],
+    "topics": [
+      "photography"
+    ],
+    "primaryTopic": "photography",
+    "language": "multi",
+    "compat": "L0",
+    "audience": "all",
+    "formats": [
+      "image"
+    ],
+    "tags": [
+      "ai_edit",
+      "bot",
+      "found_via:botize"
+    ],
+    "isPromoted": false,
+    "weight": 10
+  },
+  {
+    "id": "tg-quick-gif-mp3",
+    "title": "Video to GIF/MP3 Converter",
+    "type": "bot",
+    "deeplink": "https://t.me/video_to_gif_mp3_bot",
+    "shortDescription": "Быстро конвертирует ролики в GIF или аудио MP3.",
+    "longDescription": "Этот бот из каталога Telegramic позволяет мгновенно превратить любое видео в GIF‑анимацию или аудио‑файл MP3. Он прост в использовании: достаточно отправить ролик и указать формат, как объясняется на странице бота【671362623234669†L109-L111】.",
+    "functions": [
+      "edit"
+    ],
+    "topics": [
+      "video"
+    ],
+    "primaryTopic": "video",
+    "language": "multi",
+    "compat": "L0",
+    "audience": "all",
+    "formats": [
+      "video",
+      "audio"
+    ],
+    "tags": [
+      "conversion",
+      "bot",
+      "found_via:telegramic"
+    ],
+    "isPromoted": false,
+    "weight": 10
+  },
+  {
+    "id": "tg-youtube-uploader",
+    "title": "YouTube Uploader Bot",
+    "type": "bot",
+    "deeplink": "https://t.me/youtubeuploader_bot",
+    "shortDescription": "Загружает ролики на YouTube в выбранном качестве по ссылке.",
+    "longDescription": "Бот YouTube Uploader позволяет загружать видео на YouTube. Вы отправляете ссылку, выбираете качество и получаете загруженный файл. По описанию Telegramic, бот удобен для быстрой публикации роликов【854752184342716†L109-L110】.",
+    "functions": [
+      "publish",
+      "integrate"
+    ],
+    "topics": [
+      "video"
+    ],
+    "primaryTopic": "video",
+    "language": "multi",
+    "compat": "L0",
+    "audience": "all",
+    "formats": [
+      "video"
+    ],
+    "tags": [
+      "upload",
+      "bot",
+      "found_via:telegramic"
+    ],
+    "isPromoted": false,
+    "weight": 10
+  },
+  {
+    "id": "tg-screenshotbot",
+    "title": "Screenshot Bot",
+    "type": "bot",
+    "deeplink": "https://t.me/screenshotbot",
+    "shortDescription": "Создает скриншоты из видео по ссылке или загруженному файлу.",
+    "longDescription": "Screenshot Bot скачивает видео по прямой ссылке и возвращает кадр‑скриншот. Это помогает быстро получить превью или кадры из роликов, как указано в описании бота в Telegramic【356121910573136†L109-L115】.",
+    "functions": [
+      "extract"
+    ],
+    "topics": [
+      "video"
+    ],
+    "primaryTopic": "video",
+    "language": "multi",
+    "compat": "L0",
+    "audience": "all",
+    "formats": [
+      "image",
+      "video"
+    ],
+    "tags": [
+      "screenshot",
+      "bot",
+      "found_via:telegramic"
+    ],
+    "isPromoted": false,
+    "weight": 10
+  },
+  {
+    "id": "tg-utube-xbot",
+    "title": "YouTube Downloader",
+    "type": "bot",
+    "deeplink": "https://t.me/utube_xbot",
+    "shortDescription": "Скачивает любое видео с YouTube с встроенным поиском.",
+    "longDescription": "@utube_xbot — мощный загрузчик видео. Он позволяет искать ролики и скачивать их в Telegram, не покидая чат. Бот описан в Telegramic как универсальный downloader【668178158079256†L109-L111】.",
+    "functions": [
+      "extract"
+    ],
+    "topics": [
+      "video"
+    ],
+    "primaryTopic": "video",
+    "language": "multi",
+    "compat": "L0",
+    "audience": "all",
+    "formats": [
+      "video",
+      "audio"
+    ],
+    "tags": [
+      "downloader",
+      "bot",
+      "found_via:telegramic"
+    ],
+    "isPromoted": false,
+    "weight": 10
+  },
+  {
+    "id": "tg-moviebot",
+    "title": "Movie Bot",
+    "type": "bot",
+    "deeplink": "https://t.me/movie_bot",
+    "shortDescription": "Находит информацию о фильмах: трейлеры, сборы и топ-10.",
+    "longDescription": "Movie Bot предоставляет справочную информацию о кино: трейлеры, сборы и топ‑10 по кассовым сборам. Telegramic отмечает, что бот помогает получить основные сведения о фильмах【184121312854613†L109-L110】.",
+    "functions": [
+      "search"
+    ],
+    "topics": [
+      "video"
+    ],
+    "primaryTopic": "video",
+    "language": "multi",
+    "compat": "L0",
+    "audience": "all",
+    "formats": [
+      "text",
+      "video"
+    ],
+    "tags": [
+      "metadata",
+      "bot",
+      "found_via:telegramic"
+    ],
+    "isPromoted": false,
+    "weight": 10
+  },
+  {
+    "id": "tg-ytdownbot",
+    "title": "YouTube-DL Bot",
+    "type": "bot",
+    "deeplink": "https://t.me/ytbdownbot",
+    "shortDescription": "Скачивает аудио и видео с большинства сайтов через YouTube-DL.",
+    "longDescription": "Бот YouTube-DL позволяет скачивать видео и аудио с различных сайтов, используя библиотеку youtube-dl. По информации Telegramic, бот прост в использовании и поддерживает множество ресурсов【48501747145918†L109-L110】.",
+    "functions": [
+      "extract"
+    ],
+    "topics": [
+      "video"
+    ],
+    "primaryTopic": "video",
+    "language": "multi",
+    "compat": "L0",
+    "audience": "all",
+    "formats": [
+      "video",
+      "audio"
+    ],
+    "tags": [
+      "downloader",
+      "bot",
+      "found_via:telegramic"
+    ],
+    "isPromoted": false,
+    "weight": 10
+  },
+  {
+    "id": "tg-wallpaper-downloader",
+    "title": "Wallpaper Downloader",
+    "type": "bot",
+    "deeplink": "https://t.me/wallpaper_downloader_bot",
+    "shortDescription": "Скачивает обои в 4K/8K с потрясающими пейзажами.",
+    "longDescription": "Этот бот предлагает бесплатные скачивания премиальных обоев в 4K и 8K. На странице Telegramic говорится, что в коллекции представлены впечатляющие пейзажи Норвегии и других мест【265636238684699†L107-L109】.",
+    "functions": [
+      "search",
+      "publish"
+    ],
+    "topics": [
+      "photography"
+    ],
+    "primaryTopic": "photography",
+    "language": "en",
+    "compat": "L0",
+    "audience": "all",
+    "formats": [
+      "image"
+    ],
+    "tags": [
+      "wallpapers",
+      "bot",
+      "found_via:telegramic"
+    ],
+    "isPromoted": false,
+    "weight": 10
+  },
+  {
+    "id": "tg-ez-sticker-bot",
+    "title": "EZ Sticker Bot",
+    "type": "bot",
+    "deeplink": "https://t.me/ezstickerbot",
+    "shortDescription": "Преобразует любые фотографии в Telegram-стикеры.",
+    "longDescription": "EZ Sticker Bot позволяет превратить фотографии в стикеры. Он автоматически обрезает и ресайзит изображение по стандартам Telegram. Telegramic отмечает, что бот поддерживает несколько языков и является одним из наиболее популярных решений для создания стикеров【700383102899292†L111-L126】.",
+    "functions": [
+      "edit"
+    ],
+    "topics": [
+      "photography"
+    ],
+    "primaryTopic": "photography",
+    "language": "multi",
+    "compat": "L0",
+    "audience": "all",
+    "formats": [
+      "image"
+    ],
+    "tags": [
+      "stickers",
+      "bot",
+      "found_via:telegramic"
+    ],
+    "isPromoted": false,
+    "weight": 10
+  }
+]

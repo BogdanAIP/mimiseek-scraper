@@ -1,0 +1,1478 @@
+[
+  {
+    "id": "tg-mazai-bot",
+    "title": "MazAi",
+    "type": "bot",
+    "deeplink": "https://t.me/mazai_bot",
+    "shortDescription": "Многофункциональный бот для генерации изображений, использующий модели GPT Image, Midjourney, DALL·E и Stable Diffusion.",
+    "longDescription": "MazAi — телеграм‑бот, который объединяет несколько нейросетевых моделей: GPT Image, Midjourney, DALL·E 3, Stable Diffusion и Recraft. Пользователю доступны 10 000 токенов, которые можно потратить на создание изображений по текстовым и голосовым запросам. Бот позволяет комбинировать до десяти референс‑картинок для одного результата, что делает его мощным инструментом для дизайнеров и художников【320106576732565†L38-L67】.",
+    "functions": [
+      "render"
+    ],
+    "topics": [
+      "art",
+      "ai_ml"
+    ],
+    "primaryTopic": "art",
+    "language": "ru",
+    "compat": "L0",
+    "audience": "all",
+    "formats": [
+      "image",
+      "text"
+    ],
+    "tags": [
+      "ai-art",
+      "multi-model",
+      "found_via:habr"
+    ],
+    "isPromoted": false,
+    "weight": 10
+  },
+  {
+    "id": "tg-stable-diffusion-bot",
+    "title": "Stable Diffusion Bot",
+    "type": "bot",
+    "deeplink": "https://t.me/stablediffusionbot",
+    "shortDescription": "Бот, использующий модели Stable Diffusion для генерации изображений по текстовому описанию.",
+    "longDescription": "Stable Diffusion Bot позволяет создавать изображения по описанию. Бот работает на моделях Stable Diffusion и SDXL, поддерживает русский и английский язык, имеет свободную очередь и выдаёт до 10 000 бесплатных запросов в день. Пользователь может задавать стиль и формат изображения【320106576732565†L70-L87】【785628317404355†L284-L297】.",
+    "functions": [
+      "render"
+    ],
+    "topics": [
+      "art",
+      "ai_ml"
+    ],
+    "primaryTopic": "art",
+    "language": "ru",
+    "compat": "L0",
+    "audience": "all",
+    "formats": [
+      "image",
+      "text"
+    ],
+    "tags": [
+      "ai-art",
+      "stable-diffusion",
+      "found_via:habr"
+    ],
+    "isPromoted": false,
+    "weight": 10
+  },
+  {
+    "id": "tg-stable-waifu-bot",
+    "title": "Stable Waifu",
+    "type": "bot",
+    "deeplink": "https://t.me/stablewaifubot",
+    "shortDescription": "Бот для генерации аниме‑стиля с помощью модификации Stable Diffusion.",
+    "longDescription": "Stable Waifu использует кастомную модель NekoXL на базе Stable Diffusion для создания изображений в стиле аниме. Бот понимает русские и английские запросы, автоматически переводит их, предлагает 3 бесплатных изображения в день и позволяет редактировать позу и соотношение сторон иллюстрации【320106576732565†L90-L116】【785628317404355†L165-L180】.",
+    "functions": [
+      "render"
+    ],
+    "topics": [
+      "art",
+      "ai_ml"
+    ],
+    "primaryTopic": "art",
+    "language": "ru",
+    "compat": "L0",
+    "audience": "all",
+    "formats": [
+      "image",
+      "text"
+    ],
+    "tags": [
+      "anime",
+      "ai-art",
+      "found_via:habr"
+    ],
+    "isPromoted": false,
+    "weight": 10
+  },
+  {
+    "id": "tg-meming-bot",
+    "title": "Meming bot",
+    "type": "bot",
+    "deeplink": "https://t.me/memingbot",
+    "shortDescription": "Бесплатный бот для создания мемов по текстовым подсказкам.",
+    "longDescription": "Meming bot — простой бот, который генерирует мемы на основе заданного текста. Пользователь вводит «верхний_текст нижний_текст», а бот выдаёт картинку с двумя строками, позволяя быстро создавать юмористические картинки【320106576732565†L119-L132】.",
+    "functions": [
+      "render"
+    ],
+    "topics": [
+      "art",
+      "entertainment"
+    ],
+    "primaryTopic": "art",
+    "language": "ru",
+    "compat": "L0",
+    "audience": "all",
+    "formats": [
+      "image",
+      "text"
+    ],
+    "tags": [
+      "memes",
+      "ai-art",
+      "found_via:habr"
+    ],
+    "isPromoted": false,
+    "weight": 10
+  },
+  {
+    "id": "tg-mj-helper",
+    "title": "MJ-helper",
+    "type": "bot",
+    "deeplink": "https://t.me/mjhelper_bot",
+    "shortDescription": "Помощник для Midjourney и Kandinsky с несколькими стилями генерации.",
+    "longDescription": "MJ‑helper объединяет возможности Midjourney и Kandinsky. Он предлагает четыре стиль‑настроения для генерации, позволяет комбинировать изображения, но принимает только запросы на латинице. Бот хорошо подходит для экспериментирования с разными стилями и визуальными эффектами【320106576732565†L136-L149】.",
+    "functions": [
+      "render"
+    ],
+    "topics": [
+      "art",
+      "ai_ml"
+    ],
+    "primaryTopic": "art",
+    "language": "en",
+    "compat": "L0",
+    "audience": "all",
+    "formats": [
+      "image",
+      "text"
+    ],
+    "tags": [
+      "midjourney",
+      "kandinsky",
+      "found_via:habr"
+    ],
+    "isPromoted": false,
+    "weight": 10
+  },
+  {
+    "id": "tg-gigachat",
+    "title": "GigaChat",
+    "type": "bot",
+    "deeplink": "https://t.me/gigachat",
+    "shortDescription": "Русскоязычный бот на базе Kandinsky для генерации изображений и общения с ИИ.",
+    "longDescription": "GigaChat — бот, использующий модель Kandinsky. Он работает на русском языке, бесплатно создаёт изображения и поддерживает задания жанра, освещения и стиля для большей реалистичности. Помимо генерации картинок, бот умеет вести диалог, писать код и переводить тексты【785628317404355†L90-L110】【771641019496465†L46-L50】.",
+    "functions": [
+      "render",
+      "compose"
+    ],
+    "topics": [
+      "art",
+      "ai_ml"
+    ],
+    "primaryTopic": "art",
+    "language": "ru",
+    "compat": "L0",
+    "audience": "all",
+    "formats": [
+      "image",
+      "text"
+    ],
+    "tags": [
+      "kandinsky",
+      "chatbot",
+      "found_via:gigachat"
+    ],
+    "isPromoted": false,
+    "weight": 10
+  },
+  {
+    "id": "tg-midjorobot",
+    "title": "Midjorobot",
+    "type": "bot",
+    "deeplink": "https://t.me/midjorobot",
+    "shortDescription": "Агрегатор нейросетей (Midjourney, DALL·E 3, Runway и др.) с выбором параметров и подпиской.",
+    "longDescription": "Midjorobot — агрегатор нескольких нейросетевых движков, включая Midjourney, DALL·E 3, Runway и Kling. Пользователь может выбрать модель, задать стиль и соотношение сторон, использовать изображение как подсказку и объединять картинки. Интерфейс на русском, но для лучшего результата рекомендуется использовать английские запросы. Бот работает по подписке, а в бесплатной очереди выдаёт изображения медленнее【785628317404355†L123-L145】.",
+    "functions": [
+      "render"
+    ],
+    "topics": [
+      "art",
+      "ai_ml"
+    ],
+    "primaryTopic": "art",
+    "language": "ru",
+    "compat": "L0",
+    "audience": "all",
+    "formats": [
+      "image",
+      "text"
+    ],
+    "tags": [
+      "multi-model",
+      "subscription",
+      "found_via:gigachat"
+    ],
+    "isPromoted": false,
+    "weight": 10
+  },
+  {
+    "id": "tg-baba-ai-bot",
+    "title": "Baba AI",
+    "type": "bot",
+    "deeplink": "https://t.me/baba_ai_bot",
+    "shortDescription": "Бот с выбором моделей (Flux, Imagen, Leonardo и др.), работает по кредитам.",
+    "longDescription": "Baba AI предлагает несколько моделей генерации изображений (Flux, Imagen, Leonardo и другие). Интерфейс на русском языке, а оплата производится в кредитах. Пользователь выбирает версию модели, задаёт запрос и получает иллюстрации; результат зависит от выбранной модели и настроек. Подходит для экспериментов, но время генерации и реализм могут отличаться【785628317404355†L195-L224】.",
+    "functions": [
+      "render"
+    ],
+    "topics": [
+      "art",
+      "ai_ml"
+    ],
+    "primaryTopic": "art",
+    "language": "ru",
+    "compat": "L0",
+    "audience": "all",
+    "formats": [
+      "image",
+      "text"
+    ],
+    "tags": [
+      "credits",
+      "multi-model",
+      "found_via:gigachat"
+    ],
+    "isPromoted": false,
+    "weight": 10
+  },
+  {
+    "id": "tg-yes-ai-bot",
+    "title": "YES AI",
+    "type": "bot",
+    "deeplink": "https://t.me/yesai_bot",
+    "shortDescription": "Агрегатор нейросетей с выбором движка и стиля, ограниченное количество бесплатных запросов.",
+    "longDescription": "YES AI — агрегатор, объединяющий движки DALL·E 3, Stable Diffusion 1.5 и SDXL. Пользователь выбирает модель, стиль и формат изображения. Бот предлагает ограниченное количество бесплатных запросов, что позволяет сравнить работу разных нейросетей, однако результат часто содержит водяные знаки【785628317404355†L256-L268】.",
+    "functions": [
+      "render"
+    ],
+    "topics": [
+      "art",
+      "ai_ml"
+    ],
+    "primaryTopic": "art",
+    "language": "ru",
+    "compat": "L0",
+    "audience": "all",
+    "formats": [
+      "image",
+      "text"
+    ],
+    "tags": [
+      "aggregator",
+      "ai-art",
+      "found_via:gigachat"
+    ],
+    "isPromoted": false,
+    "weight": 10
+  },
+  {
+    "id": "tg-free-image-creator",
+    "title": "Free Image Creator",
+    "type": "bot",
+    "deeplink": "https://t.me/freeimagecreator_bot",
+    "shortDescription": "Минималистичный бот на SD 3.5 для быстрой генерации фонов и картинок.",
+    "longDescription": "Free Image Creator — бот на модели Stable Diffusion 3.5, ориентированный на быструю генерацию фонов и простых иллюстраций. Интерфейс минималистичный, большинство функций скрыты за подпиской. В бесплатной версии доступно несколько запросов и очередь, что делает бот удобным для случайных фонов【785628317404355†L316-L327】.",
+    "functions": [
+      "render"
+    ],
+    "topics": [
+      "art",
+      "ai_ml"
+    ],
+    "primaryTopic": "art",
+    "language": "ru",
+    "compat": "L0",
+    "audience": "all",
+    "formats": [
+      "image",
+      "text"
+    ],
+    "tags": [
+      "backgrounds",
+      "stable-diffusion",
+      "found_via:gigachat"
+    ],
+    "isPromoted": false,
+    "weight": 10
+  },
+  {
+    "id": "tg-aiig-imagegen",
+    "title": "AIIG – AI Image Generator",
+    "type": "miniapp",
+    "deeplink": "https://t.me/aiig_imagegen",
+    "shortDescription": "Мини‑приложение с интуитивным сценарием и удалением фона при генерации изображений.",
+    "longDescription": "AIIG — Telegram miniapp, предоставляющая простой сценарий создания изображений с возможностью удалять фон. Мини‑приложение бесплатное, но предлагает подписку для расширенных возможностей. Оно генерирует иллюстрации на основе краткого описания и удобно для создания готовых элементов дизайна【785628317404355†L344-L369】.",
+    "functions": [
+      "render",
+      "edit"
+    ],
+    "topics": [
+      "art",
+      "ai_ml"
+    ],
+    "primaryTopic": "art",
+    "language": "ru",
+    "compat": "L0",
+    "audience": "all",
+    "formats": [
+      "image"
+    ],
+    "tags": [
+      "miniapp",
+      "background-removal",
+      "found_via:gigachat"
+    ],
+    "isPromoted": false,
+    "weight": 10
+  },
+  {
+    "id": "tg-recraft-imagegen",
+    "title": "Recraft AI ImageGen",
+    "type": "bot",
+    "deeplink": "https://t.me/recraft_image_bot",
+    "shortDescription": "Бот для генерации векторной графики, логотипов и иконок на основе модели Recraft.",
+    "longDescription": "Recraft AI ImageGen использует модель Recraft для создания векторной графики, логотипов и иконок. Бот подходит для дизайнеров, которым нужны чёткие силуэты и бренд‑стили. У него есть платная подписка, но базовые функции доступны бесплатно, что помогает быстро получить качественные эскизы для проектов【785628317404355†L371-L403】.",
+    "functions": [
+      "render"
+    ],
+    "topics": [
+      "art",
+      "ai_ml"
+    ],
+    "primaryTopic": "art",
+    "language": "ru",
+    "compat": "L0",
+    "audience": "all",
+    "formats": [
+      "image"
+    ],
+    "tags": [
+      "vector",
+      "logos",
+      "found_via:gigachat"
+    ],
+    "isPromoted": false,
+    "weight": 10
+  },
+  {
+    "id": "tg-devoid-diffusion",
+    "title": "Devoid Diffusion",
+    "type": "bot",
+    "deeplink": "https://t.me/devoiddiffusion_bot",
+    "shortDescription": "Бот на базе Stable Diffusion, автоматически переводит русские запросы и даёт до 20 бесплатных картинок в день.",
+    "longDescription": "Devoid Diffusion — бот, основанный на Stable Diffusion, который автоматически переводит русскоязычные промты на английский. Предоставляет около 20 бесплатных генераций в сутки и использует диффузионные модели для создания детализированных изображений разных жанров. Отличается простотой и качеством результатов【771641019496465†L58-L63】【318569597223615†L156-L171】.",
+    "functions": [
+      "render"
+    ],
+    "topics": [
+      "art",
+      "ai_ml"
+    ],
+    "primaryTopic": "art",
+    "language": "ru",
+    "compat": "L0",
+    "audience": "18+",
+    "formats": [
+      "image",
+      "text"
+    ],
+    "tags": [
+      "stable-diffusion",
+      "translation",
+      "found_via:yagla"
+    ],
+    "isPromoted": false,
+    "weight": 10
+  },
+  {
+    "id": "tg-turbotext-ai",
+    "title": "TurboText AI",
+    "type": "bot",
+    "deeplink": "https://t.me/turbotext_bot",
+    "shortDescription": "Многофункциональный бот для генерации текста, изображений и даже мелодий с бесплатными токенами.",
+    "longDescription": "TurboText — бот, который умеет создавать посты, статьи, изображения, песни и мелодии. Он выдаёт бесплатные токены, предлагает ежедневные бонусы и поддержку русского языка. Подходит для генерации креативного контента и экспериментов с различными видами медиа【771641019496465†L70-L77】【318569597223615†L229-L247】.",
+    "functions": [
+      "render",
+      "compose",
+      "edit"
+    ],
+    "topics": [
+      "art",
+      "ai_ml",
+      "music"
+    ],
+    "primaryTopic": "art",
+    "language": "ru",
+    "compat": "L0",
+    "audience": "all",
+    "formats": [
+      "image",
+      "audio",
+      "text"
+    ],
+    "tags": [
+      "multimedia",
+      "creative",
+      "found_via:yagla"
+    ],
+    "isPromoted": false,
+    "weight": 10
+  },
+  {
+    "id": "tg-syntx-ai",
+    "title": "Syntx AI",
+    "type": "bot",
+    "deeplink": "https://t.me/syntx_ai_bot",
+    "shortDescription": "Универсальный чат‑бот с разделом дизайна: генерация, редактирование и стилизация изображений.",
+    "longDescription": "Syntx AI — универсальный телеграм‑бот, который работает с аудио, видео, текстом и изображениями. Раздел дизайна включает несколько моделей (DALL·E 3, SD Cascade 4K, Ideogram, Midjourney, FLUX) для генерации картинок, функции дорисовки, замены лиц и стилизации фотографий. Количество бесплатных генераций зависит от выбранной модели【771641019496465†L131-L137】.",
+    "functions": [
+      "render",
+      "edit",
+      "compose"
+    ],
+    "topics": [
+      "art",
+      "ai_ml"
+    ],
+    "primaryTopic": "art",
+    "language": "ru",
+    "compat": "L0",
+    "audience": "all",
+    "formats": [
+      "image",
+      "audio",
+      "video"
+    ],
+    "tags": [
+      "multi-tool",
+      "face-swap",
+      "found_via:yagla"
+    ],
+    "isPromoted": false,
+    "weight": 10
+  },
+  {
+    "id": "tg-kandinsky-bot",
+    "title": "Kandinsky",
+    "type": "bot",
+    "deeplink": "https://t.me/kandinskybot",
+    "shortDescription": "Бесплатный бот от Сбера для создания логотипов, иллюстраций и переноса стиля между картинками.",
+    "longDescription": "Kandinsky — официальный бот Сбера для генерации изображений. Он бесплатно создаёт логотипы и иллюстрации, позволяет переносить стиль между картинками и создавать вариации исходных изображений. Хорошо подходит для дизайнеров, которым нужны быстрые концепты и визуальные решения【771641019496465†L109-L113】.",
+    "functions": [
+      "render",
+      "edit"
+    ],
+    "topics": [
+      "art",
+      "ai_ml"
+    ],
+    "primaryTopic": "art",
+    "language": "ru",
+    "compat": "L0",
+    "audience": "all",
+    "formats": [
+      "image"
+    ],
+    "tags": [
+      "logo",
+      "style-transfer",
+      "found_via:yagla"
+    ],
+    "isPromoted": false,
+    "weight": 10
+  },
+  {
+    "id": "tg-graphic-story",
+    "title": "Graphic story",
+    "type": "channel",
+    "deeplink": "https://t.me/graphicstory",
+    "shortDescription": "Канал об эстетике и графическом искусстве, с примерами работ, интервью и иллюстрациями.",
+    "longDescription": "Graphic story — телеграм‑канал для дизайнеров, который помогает развивать чувство прекрасного. В нём публикуют эстетичные графические работы, интервью с художниками и объясняют, что делает проект привлекательным【173635861534011†L118-L121】.",
+    "functions": [
+      "publish"
+    ],
+    "topics": [
+      "art"
+    ],
+    "primaryTopic": "art",
+    "language": "ru",
+    "compat": "L0",
+    "audience": "all",
+    "formats": [
+      "image",
+      "text"
+    ],
+    "tags": [
+      "inspiration",
+      "found_via:skillbox"
+    ],
+    "isPromoted": false,
+    "weight": 10
+  },
+  {
+    "id": "tg-posterino",
+    "title": "Posterino",
+    "type": "channel",
+    "deeplink": "https://t.me/posterino",
+    "shortDescription": "Подборки постеров и афиш со всего мира.",
+    "longDescription": "Posterino — канал, который собирает самые интересные плакаты и афиши. Он вдохновляет дизайнеров, показывая, как разные авторы работают с формой, цветом и типографикой【173635861534011†L123-L127】.",
+    "functions": [
+      "publish"
+    ],
+    "topics": [
+      "art"
+    ],
+    "primaryTopic": "art",
+    "language": "ru",
+    "compat": "L0",
+    "audience": "all",
+    "formats": [
+      "image",
+      "text"
+    ],
+    "tags": [
+      "posters",
+      "found_via:skillbox"
+    ],
+    "isPromoted": false,
+    "weight": 10
+  },
+  {
+    "id": "tg-kirillitsa-design",
+    "title": "Kirillitsa design",
+    "type": "channel",
+    "deeplink": "https://t.me/kirillitsa_design",
+    "shortDescription": "Примеры сайтов и мобильных приложений, сделанных для российской аудитории.",
+    "longDescription": "Kirillitsa design — канал, где публикуют примеры сайтов и приложений, ориентированных на русскоязычную аудиторию. Это источник вдохновения для дизайнеров, работающих с кириллическим интерфейсом и локальными проектами【173635861534011†L132-L136】.",
+    "functions": [
+      "publish"
+    ],
+    "topics": [
+      "art",
+      "technology"
+    ],
+    "primaryTopic": "art",
+    "language": "ru",
+    "compat": "L0",
+    "audience": "all",
+    "formats": [
+      "image",
+      "text",
+      "html"
+    ],
+    "tags": [
+      "web-design",
+      "mobile",
+      "found_via:skillbox"
+    ],
+    "isPromoted": false,
+    "weight": 10
+  },
+  {
+    "id": "tg-fragments-design",
+    "title": "Fragments",
+    "type": "channel",
+    "deeplink": "https://t.me/fragments_design",
+    "shortDescription": "Канал о предметном дизайне, архитектуре и интерьерах.",
+    "longDescription": "Fragments посвящён предметному дизайну, архитектуре и интерьеру. Авторы делятся вдохновляющими примерами, новыми тенденциями и проектами со всего мира, чтобы помочь дизайнерам развивать насмотренность【173635861534011†L142-L145】.",
+    "functions": [
+      "publish"
+    ],
+    "topics": [
+      "art",
+      "lifestyle"
+    ],
+    "primaryTopic": "art",
+    "language": "ru",
+    "compat": "L0",
+    "audience": "all",
+    "formats": [
+      "image",
+      "text"
+    ],
+    "tags": [
+      "architecture",
+      "interior",
+      "found_via:skillbox"
+    ],
+    "isPromoted": false,
+    "weight": 10
+  },
+  {
+    "id": "tg-behancer-channel",
+    "title": "Behancer",
+    "type": "channel",
+    "deeplink": "https://t.me/behancer",
+    "shortDescription": "Разбор проектов с Behance, развивающий насмотренность и аналитическое мышление дизайнера.",
+    "longDescription": "Behancer — канал, который учит анализировать дизайн. Авторы разбирают интересные проекты с Behance, объясняют решения и помогают развивать вкус и насмотренность у начинающих и профессиональных дизайнеров【173635861534011†L147-L150】.",
+    "functions": [
+      "publish"
+    ],
+    "topics": [
+      "art",
+      "education"
+    ],
+    "primaryTopic": "art",
+    "language": "ru",
+    "compat": "L0",
+    "audience": "all",
+    "formats": [
+      "image",
+      "text"
+    ],
+    "tags": [
+      "behance",
+      "analysis",
+      "found_via:skillbox"
+    ],
+    "isPromoted": false,
+    "weight": 10
+  },
+  {
+    "id": "tg-what-liked",
+    "title": "Что понравилось на картинке?",
+    "type": "channel",
+    "deeplink": "https://t.me/whatliked",
+    "shortDescription": "Канал, который объясняет, почему определённые визуальные решения работают.",
+    "longDescription": "Канал «Что понравилось на картинке?» помогает понять, почему тот или иной визуальный приём выглядит гармонично. Авторы разбирают конкретные изображения и объясняют, как цвет, композиция и типографика делают работу привлекательной【173635861534011†L152-L156】.",
+    "functions": [
+      "publish"
+    ],
+    "topics": [
+      "art",
+      "education"
+    ],
+    "primaryTopic": "art",
+    "language": "ru",
+    "compat": "L0",
+    "audience": "all",
+    "formats": [
+      "image",
+      "text"
+    ],
+    "tags": [
+      "visual-analysis",
+      "found_via:skillbox"
+    ],
+    "isPromoted": false,
+    "weight": 10
+  },
+  {
+    "id": "tg-product-design-luch",
+    "title": "Product design by Studio Luch",
+    "type": "channel",
+    "deeplink": "https://t.me/productdesignluch",
+    "shortDescription": "Примеры удачных пользовательских интерфейсов и хорошие UX‑решения.",
+    "longDescription": "Product design — канал студии Luch, где публикуются примеры удачных пользовательских интерфейсов, полезные UX‑решения и кейсы. Канал помогает дизайнерам перенимать лучшие практики и применять их в собственных проектах【173635861534011†L162-L165】.",
+    "functions": [
+      "publish"
+    ],
+    "topics": [
+      "art",
+      "technology"
+    ],
+    "primaryTopic": "art",
+    "language": "ru",
+    "compat": "L0",
+    "audience": "all",
+    "formats": [
+      "image",
+      "text"
+    ],
+    "tags": [
+      "ux",
+      "ui",
+      "found_via:skillbox"
+    ],
+    "isPromoted": false,
+    "weight": 10
+  },
+  {
+    "id": "tg-losko",
+    "title": "Losko",
+    "type": "channel",
+    "deeplink": "https://t.me/losko",
+    "shortDescription": "Канал с биографиями и интервью творческих людей, списками книг и фильмов.",
+    "longDescription": "Losko — вдохновляющий канал, где публикуют биографии и интервью с художниками, дизайнерами и архитекторами. Здесь есть списки книг и фильмов, которые расширяют кругозор и помогают развить чувство прекрасного【173635861534011†L167-L171】【543221193971671†L156-L158】.",
+    "functions": [
+      "publish"
+    ],
+    "topics": [
+      "art",
+      "culture"
+    ],
+    "primaryTopic": "art",
+    "language": "ru",
+    "compat": "L0",
+    "audience": "all",
+    "formats": [
+      "text",
+      "image"
+    ],
+    "tags": [
+      "inspiration",
+      "biographies",
+      "found_via:skillbox"
+    ],
+    "isPromoted": false,
+    "weight": 10
+  },
+  {
+    "id": "tg-paragraph-design",
+    "title": "ParaGraph",
+    "type": "channel",
+    "deeplink": "https://t.me/paragraph_design",
+    "shortDescription": "Подборки брендинга, логотипов и новости о событиях для дизайнеров.",
+    "longDescription": "ParaGraph — канал, публикующий вдохновляющие примеры брендинга и логотипов, а также анонсы конкурсов и мероприятий для дизайнеров. Подписи помогают понять, как рождаются интересные проекты【173635861534011†L194-L199】【543221193971671†L138-L142】.",
+    "functions": [
+      "publish"
+    ],
+    "topics": [
+      "art",
+      "business"
+    ],
+    "primaryTopic": "art",
+    "language": "ru",
+    "compat": "L0",
+    "audience": "all",
+    "formats": [
+      "image",
+      "text"
+    ],
+    "tags": [
+      "branding",
+      "events",
+      "found_via:skillbox"
+    ],
+    "isPromoted": false,
+    "weight": 10
+  },
+  {
+    "id": "tg-intelligent-design",
+    "title": "Intelligent Design",
+    "type": "channel",
+    "deeplink": "https://t.me/intelligent_design",
+    "shortDescription": "Новости о логотипах и айдентике: обновления, редизайн и новые бренды.",
+    "longDescription": "Intelligent Design — канал для тех, кто следит за эволюцией визуальной айдентики. В нём публикуются новости об изменении логотипов, редизайнах компаний и запуске новых брендов【173635861534011†L204-L208】.",
+    "functions": [
+      "publish"
+    ],
+    "topics": [
+      "art",
+      "business"
+    ],
+    "primaryTopic": "art",
+    "language": "ru",
+    "compat": "L0",
+    "audience": "all",
+    "formats": [
+      "image",
+      "text"
+    ],
+    "tags": [
+      "branding",
+      "logos",
+      "found_via:skillbox"
+    ],
+    "isPromoted": false,
+    "weight": 10
+  },
+  {
+    "id": "tg-ui-ux-designer",
+    "title": "UI/UX Designer",
+    "type": "channel",
+    "deeplink": "https://t.me/uiuxdesigner",
+    "shortDescription": "Канал о микровзаимодействиях и глубоком анализе пользовательских сценариев.",
+    "longDescription": "UI/UX Designer — канал, где разбирают микровзаимодействия, пользовательские сценарии и детали интерфейсов. Здесь можно найти обзоры крутых проектов и советы по улучшению юзабилити【173635861534011†L212-L215】.",
+    "functions": [
+      "publish"
+    ],
+    "topics": [
+      "art",
+      "technology"
+    ],
+    "primaryTopic": "art",
+    "language": "ru",
+    "compat": "L0",
+    "audience": "all",
+    "formats": [
+      "text",
+      "image"
+    ],
+    "tags": [
+      "ux",
+      "ui",
+      "found_via:skillbox"
+    ],
+    "isPromoted": false,
+    "weight": 10
+  },
+  {
+    "id": "tg-design-mate",
+    "title": "Design Mate",
+    "type": "channel",
+    "deeplink": "https://t.me/design_mate",
+    "shortDescription": "Официальный канал Design Mate: новости об архитектуре, интерьерах и предметном дизайне.",
+    "longDescription": "Design Mate — проект о визуальной культуре, который публикует новости об архитектуре, интерьерах, предметном дизайне и технологиях. Канал знакомит с новыми именами в дизайне, рассказывает об объектах и освещает тренды в мировой сцене【53084112661135†L22-L29】.",
+    "functions": [
+      "publish"
+    ],
+    "topics": [
+      "art"
+    ],
+    "primaryTopic": "art",
+    "language": "ru",
+    "compat": "L0",
+    "audience": "all",
+    "formats": [
+      "text",
+      "image"
+    ],
+    "tags": [
+      "architecture",
+      "interior",
+      "found_via:designmate"
+    ],
+    "isPromoted": false,
+    "weight": 10
+  },
+  {
+    "id": "tg-figma-design",
+    "title": "Figma Design",
+    "type": "channel",
+    "deeplink": "https://t.me/figma_design",
+    "shortDescription": "Подборка материалов и плагинов для Figma, mockup’ы и UI‑ресурсы.",
+    "longDescription": "Канал Figma Design собирает полезные материалы для работы в Figma: mockup’ы, плагины, UI‑компоненты и полезные руководства. Также публикуются новости об обновлениях Figma и обучающие видео【173635861534011†L237-L239】【483650039667189†L150-L154】.",
+    "functions": [
+      "publish"
+    ],
+    "topics": [
+      "art",
+      "technology"
+    ],
+    "primaryTopic": "art",
+    "language": "ru",
+    "compat": "L0",
+    "audience": "all",
+    "formats": [
+      "text",
+      "image"
+    ],
+    "tags": [
+      "figma",
+      "resources",
+      "found_via:skillbox"
+    ],
+    "isPromoted": false,
+    "weight": 10
+  },
+  {
+    "id": "tg-designdealer",
+    "title": "Designdealer",
+    "type": "channel",
+    "deeplink": "https://t.me/designdealer",
+    "shortDescription": "Канал с подборками приложений, сервисов и мемов для дизайнеров.",
+    "longDescription": "Designdealer — юмористический канал с подборками полезных приложений, сервисов и мемов для дизайнеров. Он помогает оставаться в курсе новостей и одновременно развлекает, разбавляя серьёзные темы лёгким контентом【173635861534011†L255-L259】.",
+    "functions": [
+      "publish"
+    ],
+    "topics": [
+      "art",
+      "entertainment"
+    ],
+    "primaryTopic": "art",
+    "language": "ru",
+    "compat": "L0",
+    "audience": "all",
+    "formats": [
+      "text",
+      "image"
+    ],
+    "tags": [
+      "humor",
+      "apps",
+      "found_via:skillbox"
+    ],
+    "isPromoted": false,
+    "weight": 10
+  },
+  {
+    "id": "tg-ne-znal-ai",
+    "title": "Не знал\\_ai",
+    "type": "channel",
+    "deeplink": "https://t.me/ne_znal_ai",
+    "shortDescription": "Канал, объясняющий принципы дизайна и популярные приёмы для начинающих.",
+    "longDescription": "Канал «Не знал_ai» простыми словами объясняет принципы дизайна и популярные приёмы. Благодаря наглядным примерам и объяснениям, начинающие дизайнеры быстро усвоят основы визуальной коммуникации【173635861534011†L272-L276】.",
+    "functions": [
+      "publish"
+    ],
+    "topics": [
+      "art",
+      "education"
+    ],
+    "primaryTopic": "art",
+    "language": "ru",
+    "compat": "L0",
+    "audience": "all",
+    "formats": [
+      "text",
+      "image"
+    ],
+    "tags": [
+      "tutorials",
+      "found_via:skillbox"
+    ],
+    "isPromoted": false,
+    "weight": 10
+  },
+  {
+    "id": "tg-baugaus",
+    "title": "Baugaus",
+    "type": "channel",
+    "deeplink": "https://t.me/baugaus",
+    "shortDescription": "История Баухауса: исследования, материалы и вдохновение.",
+    "longDescription": "Baugaus — канал о наследии Баухауса. Здесь собраны исследования, фотографии, исторические материалы и вдохновляющие проекты, которые помогают понять философию школы и её влияние на современный дизайн【173635861534011†L279-L282】.",
+    "functions": [
+      "publish"
+    ],
+    "topics": [
+      "art",
+      "culture"
+    ],
+    "primaryTopic": "art",
+    "language": "ru",
+    "compat": "L0",
+    "audience": "all",
+    "formats": [
+      "image",
+      "text"
+    ],
+    "tags": [
+      "bauhaus",
+      "history",
+      "found_via:skillbox"
+    ],
+    "isPromoted": false,
+    "weight": 10
+  },
+  {
+    "id": "tg-its-a-sign",
+    "title": "It’s a sign",
+    "type": "channel",
+    "deeplink": "https://t.me/itsasign",
+    "shortDescription": "Канал о современности, логотипах и типографике с примерами бренд‑айдентики.",
+    "longDescription": "It’s a sign — канал, посвящённый современному дизайну логотипов и фирменных стилей. Его авторы публикуют примеры модернистских логотипов, айдентики и типографики, вдохновляя на создание свежих и смелых решений【483650039667189†L158-L164】.",
+    "functions": [
+      "publish"
+    ],
+    "topics": [
+      "art",
+      "business"
+    ],
+    "primaryTopic": "art",
+    "language": "ru",
+    "compat": "L0",
+    "audience": "all",
+    "formats": [
+      "image",
+      "text"
+    ],
+    "tags": [
+      "logos",
+      "typography",
+      "found_via:machineheads"
+    ],
+    "isPromoted": false,
+    "weight": 10
+  },
+  {
+    "id": "tg-kostya-gorsky",
+    "title": "Канал Кости Горского",
+    "type": "channel",
+    "deeplink": "https://t.me/kostyagorsky",
+    "shortDescription": "Авторский канал о дизайне и улучшении профессиональных навыков.",
+    "longDescription": "Кость Горский — дизайнер и блогер, который рассказывает о собственных находках и подходах к дизайну. Канал помогает развивать дизайн‑мышление, предлагать улучшения и вдохновляться новыми идеями【483650039667189†L174-L180】.",
+    "functions": [
+      "publish"
+    ],
+    "topics": [
+      "art",
+      "education"
+    ],
+    "primaryTopic": "art",
+    "language": "ru",
+    "compat": "L0",
+    "audience": "all",
+    "formats": [
+      "text",
+      "image"
+    ],
+    "tags": [
+      "personal",
+      "thoughts",
+      "found_via:machineheads"
+    ],
+    "isPromoted": false,
+    "weight": 10
+  },
+  {
+    "id": "tg-bbe-ux-ui",
+    "title": "BBE: UX/UI",
+    "type": "channel",
+    "deeplink": "https://t.me/bbe_ux_ui",
+    "shortDescription": "Канал Bang Bang Education о тенденциях UX/UI и нейродизайне.",
+    "longDescription": "BBE: UX/UI — канал образовательного проекта Bang Bang Education. Здесь публикуют материалы и ссылки о современных тенденциях UX/UI‑дизайна, событиях и трендах, в том числе статьи о нейродизайне и влиянии нейросетей на творчество【483650039667189†L193-L197】.",
+    "functions": [
+      "publish"
+    ],
+    "topics": [
+      "art",
+      "ai_ml",
+      "education"
+    ],
+    "primaryTopic": "art",
+    "language": "ru",
+    "compat": "L0",
+    "audience": "all",
+    "formats": [
+      "text",
+      "image"
+    ],
+    "tags": [
+      "ux",
+      "education",
+      "found_via:machineheads"
+    ],
+    "isPromoted": false,
+    "weight": 10
+  },
+  {
+    "id": "tg-ux-ui-uprock",
+    "title": "UX/UI by Uprock",
+    "type": "channel",
+    "deeplink": "https://t.me/uxui_uprock",
+    "shortDescription": "Мини‑уроки и практические задания по UX/UI и Figma.",
+    "longDescription": "Канал UX/UI by Uprock публикует мини‑уроки и задания для улучшения навыков работы в Figma и веб‑дизайне. Среди тем — создание букв из картона, анимация мерцания текста и другие практические советы для оттачивания мастерства【483650039667189†L199-L204】.",
+    "functions": [
+      "publish",
+      "render"
+    ],
+    "topics": [
+      "art",
+      "education"
+    ],
+    "primaryTopic": "art",
+    "language": "ru",
+    "compat": "L0",
+    "audience": "all",
+    "formats": [
+      "text",
+      "image",
+      "video"
+    ],
+    "tags": [
+      "tutorials",
+      "figma",
+      "found_via:machineheads"
+    ],
+    "isPromoted": false,
+    "weight": 10
+  },
+  {
+    "id": "tg-now-how",
+    "title": "Now How Channel",
+    "type": "channel",
+    "deeplink": "https://t.me/nowhow",
+    "shortDescription": "Подробные обзоры топовых сайтов и функциональных решений.",
+    "longDescription": "Now How Channel показывает скриншоты и подробные обзоры лучших сайтов мира. Авторы разбирают необычные взаимодействия, длинные страницы и нестандартные сочетания горизонтальной и вертикальной прокрутки, что помогает дизайнерам расширять насмотренность【483650039667189†L206-L211】.",
+    "functions": [
+      "publish"
+    ],
+    "topics": [
+      "art",
+      "technology"
+    ],
+    "primaryTopic": "art",
+    "language": "ru",
+    "compat": "L0",
+    "audience": "all",
+    "formats": [
+      "image",
+      "text"
+    ],
+    "tags": [
+      "web-design",
+      "analysis",
+      "found_via:machineheads"
+    ],
+    "isPromoted": false,
+    "weight": 10
+  },
+  {
+    "id": "tg-visual-techniques",
+    "title": "Visual techniques",
+    "type": "channel",
+    "deeplink": "https://t.me/visual_techniques",
+    "shortDescription": "Канал о типографике, анимации и принципах UI‑дизайна.",
+    "longDescription": "Visual techniques — архивный, но полезный канал для дизайнеров. Он посвящён типографике, анимации и принципам создания пользовательских интерфейсов, и содержит множество примеров и полезных приёмов【483650039667189†L166-L172】.",
+    "functions": [
+      "publish"
+    ],
+    "topics": [
+      "art",
+      "education"
+    ],
+    "primaryTopic": "art",
+    "language": "ru",
+    "compat": "L0",
+    "audience": "all",
+    "formats": [
+      "text",
+      "image"
+    ],
+    "tags": [
+      "typography",
+      "animation",
+      "found_via:machineheads"
+    ],
+    "isPromoted": false,
+    "weight": 10
+  },
+  {
+    "id": "tg-design-telega",
+    "title": "Design‑Telega",
+    "type": "channel",
+    "deeplink": "https://t.me/design_telega",
+    "shortDescription": "Инструменты и бесплатные сервисы для дизайнеров в одном канале.",
+    "longDescription": "Design‑Telega — канал, в котором собраны полезные сервисы, инструменты и бесплатные ресурсы для дизайнеров. Он облегчает поиск программ и сайтов для работы, повышая эффективность профессионалов【543221193971671†L164-L165】.",
+    "functions": [
+      "publish"
+    ],
+    "topics": [
+      "art",
+      "productivity"
+    ],
+    "primaryTopic": "art",
+    "language": "ru",
+    "compat": "L0",
+    "audience": "all",
+    "formats": [
+      "text"
+    ],
+    "tags": [
+      "tools",
+      "free",
+      "found_via:depositphotos"
+    ],
+    "isPromoted": false,
+    "weight": 10
+  },
+  {
+    "id": "tg-motion-design",
+    "title": "After Effects / Motion Design",
+    "type": "channel",
+    "deeplink": "https://t.me/after_effects_motion",
+    "shortDescription": "Канал для моушн‑дизайнеров с уроками и проектами по After Effects.",
+    "longDescription": "After Effects / Motion Design — канал для моушн‑дизайнеров, где публикуются уроки, советы, референсы и проекты, реализованные в After Effects. Помогает освоить основы моушн‑дизайна и вдохновляет на создание динамичных роликов【543221193971671†L175-L181】.",
+    "functions": [
+      "publish",
+      "render"
+    ],
+    "topics": [
+      "art",
+      "video"
+    ],
+    "primaryTopic": "art",
+    "language": "ru",
+    "compat": "L0",
+    "audience": "all",
+    "formats": [
+      "video",
+      "text"
+    ],
+    "tags": [
+      "motion",
+      "after-effects",
+      "found_via:depositphotos"
+    ],
+    "isPromoted": false,
+    "weight": 10
+  },
+  {
+    "id": "tg-product-design-digest",
+    "title": "Product design digest",
+    "type": "channel",
+    "deeplink": "https://t.me/productdesign_digest",
+    "shortDescription": "Еженедельный дайджест статей, кейсов и советов по продукт‑дизайну.",
+    "longDescription": "Product design digest выпускает еженедельные подборки: статьи, кейсы и советы по продукт‑дизайну и UX. Канал помогает оставаться в курсе лучших практик и технологий, регулярно пополняя багаж знаний дизайнеров【543221193971671†L186-L189】.",
+    "functions": [
+      "publish"
+    ],
+    "topics": [
+      "art",
+      "business"
+    ],
+    "primaryTopic": "art",
+    "language": "ru",
+    "compat": "L0",
+    "audience": "all",
+    "formats": [
+      "text",
+      "image"
+    ],
+    "tags": [
+      "digest",
+      "product-design",
+      "found_via:depositphotos"
+    ],
+    "isPromoted": false,
+    "weight": 10
+  },
+  {
+    "id": "tg-design-atlas",
+    "title": "Design Atlas",
+    "type": "channel",
+    "deeplink": "https://t.me/design_atlas",
+    "shortDescription": "Теория, история и практика дизайна, с акцентом на тенденции.",
+    "longDescription": "Design Atlas публикует материалы об истории, теории и практике дизайна, анализирует тренды и проводит параллели между прошлым и настоящим. Канал помогает расширить кругозор и лучше понимать контекст появления дизайнерских решений【53084112661135†L29-L35】.",
+    "functions": [
+      "publish"
+    ],
+    "topics": [
+      "art",
+      "culture"
+    ],
+    "primaryTopic": "art",
+    "language": "ru",
+    "compat": "L0",
+    "audience": "all",
+    "formats": [
+      "text",
+      "image"
+    ],
+    "tags": [
+      "theory",
+      "history",
+      "found_via:designmate"
+    ],
+    "isPromoted": false,
+    "weight": 10
+  },
+  {
+    "id": "tg-design-backstage",
+    "title": "Design Backstage",
+    "type": "channel",
+    "deeplink": "https://t.me/design_backstage",
+    "shortDescription": "Процесс работы промышленного дизайнера: эксперименты и зарисовки.",
+    "longDescription": "Design Backstage ведёт промышленный дизайнер Андрей Бутко. Он показывает закулисье своей работы: эксперименты, эскизы и методы разработки. Канал вдохновляет, демонстрируя, как рождаются идеи и продукты【53084112661135†L36-L41】.",
+    "functions": [
+      "publish"
+    ],
+    "topics": [
+      "art",
+      "technology"
+    ],
+    "primaryTopic": "art",
+    "language": "ru",
+    "compat": "L0",
+    "audience": "all",
+    "formats": [
+      "image",
+      "text"
+    ],
+    "tags": [
+      "industrial-design",
+      "process",
+      "found_via:designmate"
+    ],
+    "isPromoted": false,
+    "weight": 10
+  },
+  {
+    "id": "tg-design-hunters",
+    "title": "Design Hunters",
+    "type": "channel",
+    "deeplink": "https://t.me/design_hunters",
+    "shortDescription": "Вакансии, стажировки и новости для дизайнеров от бюро Intelligent Design.",
+    "longDescription": "Design Hunters — канал бюро Intelligent Design, который публикует вакансии, стажировки и новости для дизайнеров. Это площадка для тех, кто ищет карьерные возможности и хочет быть в курсе событий в индустрии【53084112661135†L41-L45】.",
+    "functions": [
+      "publish"
+    ],
+    "topics": [
+      "art",
+      "business",
+      "productivity"
+    ],
+    "primaryTopic": "art",
+    "language": "ru",
+    "compat": "L0",
+    "audience": "all",
+    "formats": [
+      "text"
+    ],
+    "tags": [
+      "vacancies",
+      "career",
+      "found_via:designmate"
+    ],
+    "isPromoted": false,
+    "weight": 10
+  },
+  {
+    "id": "tg-mag-architecture",
+    "title": "MAG Architecture",
+    "type": "channel",
+    "deeplink": "https://t.me/mag_architecture",
+    "shortDescription": "Проекты и лонгриды о знаменитых зданиях с фото и ссылками.",
+    "longDescription": "MAG Architecture публикует проекты и статьи о знаменитых зданиях, дополняя их фотографиями и ссылками на материалы. Канал помогает изучать мировую архитектуру и вдохновляет на создание собственных проектов【53084112661135†L57-L61】.",
+    "functions": [
+      "publish"
+    ],
+    "topics": [
+      "art",
+      "culture",
+      "lifestyle"
+    ],
+    "primaryTopic": "art",
+    "language": "ru",
+    "compat": "L0",
+    "audience": "all",
+    "formats": [
+      "image",
+      "text"
+    ],
+    "tags": [
+      "architecture",
+      "longreads",
+      "found_via:designmate"
+    ],
+    "isPromoted": false,
+    "weight": 10
+  },
+  {
+    "id": "tg-mid-century-modern",
+    "title": "Mid-Century Modern",
+    "type": "channel",
+    "deeplink": "https://t.me/midcenturymodern",
+    "shortDescription": "Канал о дизайне середины XX века с вдохновляющими примерами.",
+    "longDescription": "Mid-Century Modern освещает дизайн середины XX века. Канал делится короткими постами с фотографиями и объяснениями, показывая, как классические предметы и решения могут вдохновить современных дизайнеров【53084112661135†L62-L66】.",
+    "functions": [
+      "publish"
+    ],
+    "topics": [
+      "art",
+      "culture"
+    ],
+    "primaryTopic": "art",
+    "language": "ru",
+    "compat": "L0",
+    "audience": "all",
+    "formats": [
+      "image",
+      "text"
+    ],
+    "tags": [
+      "mid-century",
+      "modernism",
+      "found_via:designmate"
+    ],
+    "isPromoted": false,
+    "weight": 10
+  },
+  {
+    "id": "tg-russian-architecture",
+    "title": "Russian Architecture",
+    "type": "channel",
+    "deeplink": "https://t.me/russian_architecture",
+    "shortDescription": "Канал о архитектуре, дизайне и городской среде в России и СНГ.",
+    "longDescription": "Russian Architecture публикует новости и примеры архитектуры, дизайна, недвижимости и городской среды России и стран СНГ. Канал освещает проекты, события и эксперименты, привлекая внимание к развитию городской культуры【53084112661135†L70-L72】.",
+    "functions": [
+      "publish"
+    ],
+    "topics": [
+      "art",
+      "lifestyle"
+    ],
+    "primaryTopic": "art",
+    "language": "ru",
+    "compat": "L0",
+    "audience": "all",
+    "formats": [
+      "image",
+      "text"
+    ],
+    "tags": [
+      "architecture",
+      "urban",
+      "found_via:designmate"
+    ],
+    "isPromoted": false,
+    "weight": 10
+  },
+  {
+    "id": "tg-banality-power",
+    "title": "Banality Power",
+    "type": "channel",
+    "deeplink": "https://t.me/banality_power",
+    "shortDescription": "Авторский канал архитектора о проектах, урбанистике и технологиях.",
+    "longDescription": "Banality Power — канал архитектора, который делится вдохновляющими проектами, рассуждает о городской среде, технологиях и урбанистических трендах. Здесь можно найти примеры, которые стимулируют творческий подход к проектированию【53084112661135†L73-L75】.",
+    "functions": [
+      "publish"
+    ],
+    "topics": [
+      "art",
+      "lifestyle",
+      "technology"
+    ],
+    "primaryTopic": "art",
+    "language": "ru",
+    "compat": "L0",
+    "audience": "all",
+    "formats": [
+      "text",
+      "image"
+    ],
+    "tags": [
+      "urban",
+      "technology",
+      "found_via:designmate"
+    ],
+    "isPromoted": false,
+    "weight": 10
+  },
+  {
+    "id": "tg-artem-dezhurko",
+    "title": "Artëm Dezhurko: истории дизайна",
+    "type": "channel",
+    "deeplink": "https://t.me/artemdezhurko",
+    "shortDescription": "Канал историка дизайна, рассказывающий редкие истории и показывающий уникальные фотографии.",
+    "longDescription": "Авторский канал историка дизайна Артёма Дежурко. Здесь публикуются уникальные фотографии, истории из мира дизайна и малоизвестные факты, что помогает лучше понять контекст и вдохновение за известными работами【53084112661135†L76-L82】.",
+    "functions": [
+      "publish"
+    ],
+    "topics": [
+      "art",
+      "culture"
+    ],
+    "primaryTopic": "art",
+    "language": "ru",
+    "compat": "L0",
+    "audience": "all",
+    "formats": [
+      "text",
+      "image"
+    ],
+    "tags": [
+      "history",
+      "stories",
+      "found_via:designmate"
+    ],
+    "isPromoted": false,
+    "weight": 10
+  }
+]

@@ -1,0 +1,1453 @@
+{
+  "resources": [
+    {
+      "id": "tg-mash",
+      "title": "Mash",
+      "type": "channel",
+      "deeplink": "https://t.me/breakingmash",
+      "shortDescription": "Популярный российский новостной канал холдинга News Media.",
+      "longDescription": "Mash — российское онлайн‑медиа, входящее в News Media Holding. Его Telegram‑канал считается одним из самых популярных русскоязычных каналов【565129596704135†L27-L32】.",
+      "functions": [
+        "publish"
+      ],
+      "topics": [
+        "news"
+      ],
+      "primaryTopic": "news",
+      "language": "ru",
+      "compat": "L0",
+      "audience": "all",
+      "formats": [
+        "text"
+      ],
+      "tags": [
+        "ru-channel",
+        "news"
+      ],
+      "isPromoted": false,
+      "weight": 10
+    },
+    {
+      "id": "tg-baza",
+      "title": "Baza",
+      "type": "channel",
+      "deeplink": "https://t.me/bazabazon",
+      "shortDescription": "Прокремлёвский канал с оперативными новостями и расследованиями.",
+      "longDescription": "Baza — прокремлёвский канал мгновенных новостей, созданный в 2019 году. У него более 1,6 млн подписчиков, и он часто публикует истории на основе полицейских утечек【167992196417804†L32-L35】.",
+      "functions": [
+        "publish"
+      ],
+      "topics": [
+        "news"
+      ],
+      "primaryTopic": "news",
+      "language": "ru",
+      "compat": "L0",
+      "audience": "all",
+      "formats": [
+        "text"
+      ],
+      "tags": [
+        "ru-channel",
+        "investigations"
+      ],
+      "isPromoted": false,
+      "weight": 10
+    },
+    {
+      "id": "tg-112channel",
+      "title": "112 – канал оперативных происшествий",
+      "type": "channel",
+      "deeplink": "https://t.me/enews112",
+      "shortDescription": "Канал о происшествиях и чрезвычайных ситуациях.",
+      "longDescription": "112 — Telegram‑канал с глубокой информационной базой в правоохранительных органах, который первым сообщает о происшествиях и чрезвычайных ситуациях【919681636105195†L124-L125】.",
+      "functions": [
+        "publish"
+      ],
+      "topics": [
+        "news"
+      ],
+      "primaryTopic": "news",
+      "language": "ru",
+      "compat": "L0",
+      "audience": "all",
+      "formats": [
+        "text"
+      ],
+      "tags": [
+        "ru-channel",
+        "emergency"
+      ],
+      "isPromoted": false,
+      "weight": 10
+    },
+    {
+      "id": "tg-shot",
+      "title": "SHOT",
+      "type": "channel",
+      "deeplink": "https://t.me/shot_shot",
+      "shortDescription": "Канал с расследованиями и глубоким анализом событий.",
+      "longDescription": "SHOT — крупный новостной канал с аудиторией более 1,2 млн подписчиков. Команда обещает уделять пристальное внимание важным новостям и раскрывать детали, а также известна расследованиями и глубоким анализом событий【445003151631801†L23-L26】【445003151631801†L52-L55】.",
+      "functions": [
+        "publish"
+      ],
+      "topics": [
+        "news"
+      ],
+      "primaryTopic": "news",
+      "language": "ru",
+      "compat": "L0",
+      "audience": "all",
+      "formats": [
+        "text"
+      ],
+      "tags": [
+        "ru-channel",
+        "investigations"
+      ],
+      "isPromoted": false,
+      "weight": 10
+    },
+    {
+      "id": "tg-readovka",
+      "title": "Readovka",
+      "type": "channel",
+      "deeplink": "https://t.me/readovkanews",
+      "shortDescription": "Канал, выросший из регионального медиа в одно из самых цитируемых изданий.",
+      "longDescription": "Readovka начиналась как региональное медиа, но теперь освещает события в России и мире. В 2022 году её Telegram‑канал превысил миллион подписчиков и вошёл в пятёрку самых цитируемых СМИ в стране【201306484718086†L156-L158】.",
+      "functions": [
+        "publish"
+      ],
+      "topics": [
+        "news"
+      ],
+      "primaryTopic": "news",
+      "language": "ru",
+      "compat": "L0",
+      "audience": "all",
+      "formats": [
+        "text"
+      ],
+      "tags": [
+        "ru-channel",
+        "regional"
+      ],
+      "isPromoted": false,
+      "weight": 10
+    },
+    {
+      "id": "tg-rbc_news",
+      "title": "РБК Новости",
+      "type": "channel",
+      "deeplink": "https://t.me/rbc_news",
+      "shortDescription": "Деловой новостной канал крупнейшего медиахолдинга РБК.",
+      "longDescription": "РБК — российский медиахолдинг, в который входят одноимённый новостной портал, деловая газета РБК Daily, ежемесячный журнал и телеканал РБК TV【98418289334572†L198-L203】. Телеграм‑канал агрегирует деловые и политические новости.",
+      "functions": [
+        "publish"
+      ],
+      "topics": [
+        "news",
+        "business"
+      ],
+      "primaryTopic": "news",
+      "language": "ru",
+      "compat": "L0",
+      "audience": "all",
+      "formats": [
+        "text"
+      ],
+      "tags": [
+        "ru-channel",
+        "business"
+      ],
+      "isPromoted": false,
+      "weight": 10
+    },
+    {
+      "id": "tg-kommersant",
+      "title": "Коммерсантъ",
+      "type": "channel",
+      "deeplink": "https://t.me/kommersant",
+      "shortDescription": "Канал национальной деловой газеты о политике и бизнесе.",
+      "longDescription": "Коммерсантъ — общероссийская ежедневная газета, посвящённая в первую очередь политике и бизнесу. Это одна из трёх основных деловых ежедневных газет России вместе с Vedomosti и РБК Daily【726605338204762†L160-L167】.",
+      "functions": [
+        "publish"
+      ],
+      "topics": [
+        "news",
+        "business"
+      ],
+      "primaryTopic": "news",
+      "language": "ru",
+      "compat": "L0",
+      "audience": "all",
+      "formats": [
+        "text"
+      ],
+      "tags": [
+        "ru-channel",
+        "business"
+      ],
+      "isPromoted": false,
+      "weight": 10
+    },
+    {
+      "id": "tg-tass_agency",
+      "title": "ТАСС",
+      "type": "channel",
+      "deeplink": "https://t.me/tass_agency",
+      "shortDescription": "Официальный новостной канал крупнейшего информационного агентства России.",
+      "longDescription": "ТАСС — государственное информационное агентство, основанное в 1904 году. Это крупнейшее российское агентство, имеющее 70 отделений в России и СНГ и 56 зарубежных бюро, и выпускающее тысячи новостей ежедневно на нескольких языках【417560236055739†L237-L256】.",
+      "functions": [
+        "publish"
+      ],
+      "topics": [
+        "news"
+      ],
+      "primaryTopic": "news",
+      "language": "ru",
+      "compat": "L0",
+      "audience": "all",
+      "formats": [
+        "text"
+      ],
+      "tags": [
+        "ru-channel",
+        "state"
+      ],
+      "isPromoted": false,
+      "weight": 10
+    },
+    {
+      "id": "tg-interfaxnews",
+      "title": "Интерфакс",
+      "type": "channel",
+      "deeplink": "https://t.me/interfaxnews",
+      "shortDescription": "Канал одного из ведущих независимых новостных агентств России.",
+      "longDescription": "Интерфакс — российское информационное агентство, образованное в 1989 году как первый негосударственный канал политической и экономической информации во времена перестройки и гласности【941872290584878†L185-L197】. Телеграм‑канал транслирует оперативные новости агентства.",
+      "functions": [
+        "publish"
+      ],
+      "topics": [
+        "news"
+      ],
+      "primaryTopic": "news",
+      "language": "ru",
+      "compat": "L0",
+      "audience": "all",
+      "formats": [
+        "text"
+      ],
+      "tags": [
+        "ru-channel",
+        "agency"
+      ],
+      "isPromoted": false,
+      "weight": 10
+    },
+    {
+      "id": "tg-vedomosti",
+      "title": "Ведомости",
+      "type": "channel",
+      "deeplink": "https://t.me/vedomosti",
+      "shortDescription": "Деловой новостной канал веду-его газетного бренда.",
+      "longDescription": "Ведомости — русскоязычная деловая ежедневная газета, основанная в 1999 году совместно с The Wall Street Journal и Financial Times【875343403459684†L146-L156】. Telegram‑канал публикует экономические и политические новости.",
+      "functions": [
+        "publish"
+      ],
+      "topics": [
+        "news",
+        "business"
+      ],
+      "primaryTopic": "news",
+      "language": "ru",
+      "compat": "L0",
+      "audience": "all",
+      "formats": [
+        "text"
+      ],
+      "tags": [
+        "ru-channel",
+        "business"
+      ],
+      "isPromoted": false,
+      "weight": 10
+    },
+    {
+      "id": "tg-lenta_ru",
+      "title": "Lenta.ru",
+      "type": "channel",
+      "deeplink": "https://t.me/lentarunews",
+      "shortDescription": "Канал одного из самых популярных российских онлайн‑изданий.",
+      "longDescription": "Lenta.ru — русскоязычная онлайн‑газета, основанная в 1999 году и являющаяся одним из самых популярных ресурсов Рунета【408875809173880†L151-L156】. В канале публикуются основные новости портала.",
+      "functions": [
+        "publish"
+      ],
+      "topics": [
+        "news"
+      ],
+      "primaryTopic": "news",
+      "language": "ru",
+      "compat": "L0",
+      "audience": "all",
+      "formats": [
+        "text"
+      ],
+      "tags": [
+        "ru-channel",
+        "online"
+      ],
+      "isPromoted": false,
+      "weight": 10
+    },
+    {
+      "id": "tg-rg_ru",
+      "title": "Российская газета",
+      "type": "channel",
+      "deeplink": "https://t.me/rg_ru",
+      "shortDescription": "Официальный канал государственной газеты РФ.",
+      "longDescription": "\"Российская газета\" — официальная ежедневная газета российского правительства, издающаяся с 1990 года. Она освещает внутренние и внешние новости, экономику, культуру и спорт, отражая политику правительства и публикуя мнения влиятельных деятелей【941156633354021†L80-L91】.",
+      "functions": [
+        "publish"
+      ],
+      "topics": [
+        "news"
+      ],
+      "primaryTopic": "news",
+      "language": "ru",
+      "compat": "L0",
+      "audience": "all",
+      "formats": [
+        "text"
+      ],
+      "tags": [
+        "ru-channel",
+        "government"
+      ],
+      "isPromoted": false,
+      "weight": 10
+    },
+    {
+      "id": "tg-meduza",
+      "title": "Meduza",
+      "type": "channel",
+      "deeplink": "https://t.me/meduzalive",
+      "shortDescription": "Независимое издание о событиях в России и бывшем СССР.",
+      "longDescription": "Meduza — независимый русско‑ и англоязычный новостной проект, основанный бывшими сотрудниками Lenta.ru и базирующийся в Латвии. Он публикует важные новости и репортажи из России и постсоветского пространства【402163981685748†L97-L101】.",
+      "functions": [
+        "publish"
+      ],
+      "topics": [
+        "news"
+      ],
+      "primaryTopic": "news",
+      "language": "ru",
+      "compat": "L0",
+      "audience": "all",
+      "formats": [
+        "text"
+      ],
+      "tags": [
+        "ru-channel",
+        "independent"
+      ],
+      "isPromoted": false,
+      "weight": 10
+    },
+    {
+      "id": "tg-novayagazeta",
+      "title": "Новая газета",
+      "type": "channel",
+      "deeplink": "https://t.me/novayagazeta",
+      "shortDescription": "Канал независимой газеты, известной расследованиями.",
+      "longDescription": "Новая газета — независимое московское издание, известное своими расследованиями о коррупции, злоупотреблениях властью и нарушениях прав человека. Газета выходит с 1993 года и считается \"самым смелым\" СМИ России; её главный редактор Дмитрий Муратов награждён Нобелевской премией мира【954198797388800†L80-L95】.",
+      "functions": [
+        "publish"
+      ],
+      "topics": [
+        "news"
+      ],
+      "primaryTopic": "news",
+      "language": "ru",
+      "compat": "L0",
+      "audience": "all",
+      "formats": [
+        "text"
+      ],
+      "tags": [
+        "ru-channel",
+        "investigative"
+      ],
+      "isPromoted": false,
+      "weight": 10
+    },
+    {
+      "id": "tg-tvrain",
+      "title": "Дождь (TV Rain)",
+      "type": "channel",
+      "deeplink": "https://t.me/tvrain",
+      "shortDescription": "Независимый телеканал для молодой и образованной аудитории.",
+      "longDescription": "Дождь — независимый российский телеканал, созданный в 2010 году как \"Оптимистичный канал\" для молодёжи и либеральной аудитории. Канал известен критикой властей и работой из Латвии после блокировки в России【119573612793631†L244-L250】.",
+      "functions": [
+        "publish"
+      ],
+      "topics": [
+        "news"
+      ],
+      "primaryTopic": "news",
+      "language": "ru",
+      "compat": "L0",
+      "audience": "all",
+      "formats": [
+        "text",
+        "video"
+      ],
+      "tags": [
+        "ru-channel",
+        "independent"
+      ],
+      "isPromoted": false,
+      "weight": 10
+    },
+    {
+      "id": "tg-lentadnya",
+      "title": "Лента дня",
+      "type": "channel",
+      "deeplink": "https://t.me/lentadnya",
+      "shortDescription": "Новостной канал с основными публикациями Lenta.ru.",
+      "longDescription": "\"Лента дня\" — канал с новостями в основном из Lenta.ru; на странице указаны контакты для рекламы и взаимодействия и регистрация в РКН【536271931507595†L64-L68】.",
+      "functions": [
+        "publish"
+      ],
+      "topics": [
+        "news"
+      ],
+      "primaryTopic": "news",
+      "language": "ru",
+      "compat": "L0",
+      "audience": "all",
+      "formats": [
+        "text"
+      ],
+      "tags": [
+        "ru-channel",
+        "aggregation"
+      ],
+      "isPromoted": false,
+      "weight": 10
+    },
+    {
+      "id": "tg-lentadnya_brief",
+      "title": "Главные новости дня (кратко)",
+      "type": "channel",
+      "deeplink": "https://t.me/lentadnya_brief",
+      "shortDescription": "Канал с лаконичными главными новостями дня.",
+      "longDescription": "В этой версии канала \"Лента дня\" публикуются главные новости дня — кратко и по делу; указан контакт @mewoqmq для связи【232625951917696†L66-L67】.",
+      "functions": [
+        "publish"
+      ],
+      "topics": [
+        "news"
+      ],
+      "primaryTopic": "news",
+      "language": "ru",
+      "compat": "L0",
+      "audience": "all",
+      "formats": [
+        "text"
+      ],
+      "tags": [
+        "ru-channel",
+        "digest"
+      ],
+      "isPromoted": false,
+      "weight": 10
+    },
+    {
+      "id": "tg-moscowach",
+      "title": "Moscowach",
+      "type": "channel",
+      "deeplink": "https://t.me/moscowach",
+      "shortDescription": "Крупнейший канал о Москве и жизни в столице.",
+      "longDescription": "Moscowach называет себя лучшим и крупнейшим каналом о Москве; на странице есть бот для отправки новостей и контакты для рекламы【901346022965572†L66-L67】.",
+      "functions": [
+        "publish"
+      ],
+      "topics": [
+        "news",
+        "lifestyle"
+      ],
+      "primaryTopic": "news",
+      "language": "ru",
+      "compat": "L0",
+      "audience": "all",
+      "formats": [
+        "text"
+      ],
+      "tags": [
+        "ru-channel",
+        "moscow"
+      ],
+      "isPromoted": false,
+      "weight": 10
+    },
+    {
+      "id": "tg-pryamoy_efir",
+      "title": "Прямой Эфир",
+      "type": "channel",
+      "deeplink": "https://t.me/pryamoyefir",
+      "shortDescription": "Канал, собирающий важные новости России и мира.",
+      "longDescription": "Канал \"Прямой эфир\" собирает все важные события в одном месте: новости России и мира, а также имеет боты для отправки новостей и обратной связи【341480755614260†L66-L67】.",
+      "functions": [
+        "publish"
+      ],
+      "topics": [
+        "news"
+      ],
+      "primaryTopic": "news",
+      "language": "ru",
+      "compat": "L0",
+      "audience": "all",
+      "formats": [
+        "text"
+      ],
+      "tags": [
+        "ru-channel",
+        "aggregate"
+      ],
+      "isPromoted": false,
+      "weight": 10
+    },
+    {
+      "id": "tg-novosti_moskvy",
+      "title": "Новости Москвы",
+      "type": "channel",
+      "deeplink": "https://t.me/novosti_moskvy",
+      "shortDescription": "Самый читаемый канал о Москве.",
+      "longDescription": "\"Новости Москвы\" называют себя самым читаемым каналом о столице; на странице указаны контакты для рекламы и подачи новостей и упоминание других каналов и регистрации【262973245932346†L76-L79】.",
+      "functions": [
+        "publish"
+      ],
+      "topics": [
+        "news",
+        "lifestyle"
+      ],
+      "primaryTopic": "news",
+      "language": "ru",
+      "compat": "L0",
+      "audience": "all",
+      "formats": [
+        "text"
+      ],
+      "tags": [
+        "ru-channel",
+        "moscow"
+      ],
+      "isPromoted": false,
+      "weight": 10
+    },
+    {
+      "id": "tg-pervymoskovskiy",
+      "title": "Первый Московский",
+      "type": "channel",
+      "deeplink": "https://t.me/first_moscow",
+      "shortDescription": "Интересный канал о событиях и местах Москвы.",
+      "longDescription": "\"Первый Московский\" позиционирует себя как самый интересный канал о столице, рассказывающий о новостях, событиях и местах Москвы【876772812152756†L64-L66】.",
+      "functions": [
+        "publish"
+      ],
+      "topics": [
+        "news",
+        "lifestyle"
+      ],
+      "primaryTopic": "news",
+      "language": "ru",
+      "compat": "L0",
+      "audience": "all",
+      "formats": [
+        "text"
+      ],
+      "tags": [
+        "ru-channel",
+        "moscow"
+      ],
+      "isPromoted": false,
+      "weight": 10
+    },
+    {
+      "id": "tg-fontanka",
+      "title": "Фонтанка СПб онлайн",
+      "type": "channel",
+      "deeplink": "https://t.me/fontanka_official",
+      "shortDescription": "Новости Петербурга и взгляд на события в стране и мире.",
+      "longDescription": "\"Фонтанка СПб онлайн\" — петербургский канал, который освещает события в стране и мире с точки зрения Северной столицы; на странице есть боты для отправки новостей, реклама и информация о конфиденциальности【1475531801724†L66-L68】.",
+      "functions": [
+        "publish"
+      ],
+      "topics": [
+        "news"
+      ],
+      "primaryTopic": "news",
+      "language": "ru",
+      "compat": "L0",
+      "audience": "all",
+      "formats": [
+        "text"
+      ],
+      "tags": [
+        "ru-channel",
+        "saint-petersburg"
+      ],
+      "isPromoted": false,
+      "weight": 10
+    },
+    {
+      "id": "tg-varlamovnews",
+      "title": "Varlamov News",
+      "type": "channel",
+      "deeplink": "https://t.me/varlamov_news",
+      "shortDescription": "Новостной канал Ильи Варламова.",
+      "longDescription": "Varlamov News — канал известного блогера @varlamov, где публикуются новости; на странице есть бот для связи и электронная почта, отдельный канал для срочных новостей и ссылки на YouTube и другие соцсети【742351503916998†L66-L68】.",
+      "functions": [
+        "publish"
+      ],
+      "topics": [
+        "news",
+        "culture"
+      ],
+      "primaryTopic": "news",
+      "language": "ru",
+      "compat": "L0",
+      "audience": "all",
+      "formats": [
+        "text",
+        "video"
+      ],
+      "tags": [
+        "ru-channel",
+        "blogger"
+      ],
+      "isPromoted": false,
+      "weight": 10
+    },
+    {
+      "id": "tg-okx_news",
+      "title": "OKX Новости",
+      "type": "channel",
+      "deeplink": "https://t.me/okx_news_ru",
+      "shortDescription": "Официальные новости криптобиржи OKX.",
+      "longDescription": "\"OKX Новости\" — официальный новостной канал криптовалютной биржи OKX; на странице указаны официальный сайт и контакт для маркетинга【126172497521118†L56-L58】. Публикуются обновления и анонсы биржи.",
+      "functions": [
+        "publish"
+      ],
+      "topics": [
+        "news",
+        "crypto_web3"
+      ],
+      "primaryTopic": "news",
+      "language": "ru",
+      "compat": "L0",
+      "audience": "all",
+      "formats": [
+        "text"
+      ],
+      "tags": [
+        "ru-channel",
+        "crypto"
+      ],
+      "isPromoted": false,
+      "weight": 10
+    },
+    {
+      "id": "tg-smi_no_moscow",
+      "title": "СМИ Россия не Москва",
+      "type": "channel",
+      "deeplink": "https://t.me/smi_no_moscow",
+      "shortDescription": "Канал о региональных новостях России (не Москва).",
+      "longDescription": "\"СМИ Россия не Москва\" предлагает открытую статистику на сервисах TGstat и Telemetr; на странице указан контакт для рекламы и регистрация Роскомнадзора【262973245932346†L68-L70】.",
+      "functions": [
+        "publish"
+      ],
+      "topics": [
+        "news"
+      ],
+      "primaryTopic": "news",
+      "language": "ru",
+      "compat": "L0",
+      "audience": "all",
+      "formats": [
+        "text"
+      ],
+      "tags": [
+        "ru-channel",
+        "regional"
+      ],
+      "isPromoted": false,
+      "weight": 10
+    },
+    {
+      "id": "tg-ria_novosti",
+      "title": "РИА Новости",
+      "type": "channel",
+      "deeplink": "https://t.me/rian_ru",
+      "shortDescription": "Официальный канал агентства РИА Новости.",
+      "longDescription": "\"РИА Новости\" — основной новостной канал РИА; на странице говорится, что авторы работают в России и за рубежом и рассказывают о том, что видят сами, с указанием регистрации【262973245932346†L72-L74】.",
+      "functions": [
+        "publish"
+      ],
+      "topics": [
+        "news"
+      ],
+      "primaryTopic": "news",
+      "language": "ru",
+      "compat": "L0",
+      "audience": "all",
+      "formats": [
+        "text"
+      ],
+      "tags": [
+        "ru-channel",
+        "state"
+      ],
+      "isPromoted": false,
+      "weight": 10
+    },
+    {
+      "id": "tg-cryptobot_news",
+      "title": "Новости Crypto Bot",
+      "type": "channel",
+      "deeplink": "https://t.me/cryptobot_news",
+      "shortDescription": "Криптовалютные новости от CryptoBot.",
+      "longDescription": "Официальный канал CryptoBot публикует новости о криптовалютах; на странице есть ссылка на мини‑приложение, контакты поддержки и чат сообщества【262973245932346†L81-L83】.",
+      "functions": [
+        "publish"
+      ],
+      "topics": [
+        "news",
+        "crypto_web3"
+      ],
+      "primaryTopic": "news",
+      "language": "ru",
+      "compat": "L0",
+      "audience": "all",
+      "formats": [
+        "text"
+      ],
+      "tags": [
+        "ru-channel",
+        "crypto"
+      ],
+      "isPromoted": false,
+      "weight": 10
+    },
+    {
+      "id": "tg-nikolayevskiy_vanek",
+      "title": "Николаевский Ванёк",
+      "type": "channel",
+      "deeplink": "https://t.me/nikolaevskyvan",
+      "shortDescription": "Авторский канал комментариев и новостей.",
+      "longDescription": "\"Николаевский Ванёк\" — личный канал мнений, где автор делится комментариями и новостями; на странице указан e‑mail и боты для связи【262973245932346†L90-L94】.",
+      "functions": [
+        "publish"
+      ],
+      "topics": [
+        "news",
+        "culture"
+      ],
+      "primaryTopic": "news",
+      "language": "ru",
+      "compat": "L0",
+      "audience": "all",
+      "formats": [
+        "text"
+      ],
+      "tags": [
+        "ru-channel",
+        "opinion"
+      ],
+      "isPromoted": false,
+      "weight": 10
+    },
+    {
+      "id": "tg-moskva_segodnya",
+      "title": "Москва Сегодня",
+      "type": "channel",
+      "deeplink": "https://t.me/moscow_today",
+      "shortDescription": "Канал с короткими новостями для москвичей.",
+      "longDescription": "\"Москва Сегодня\" позиционируется как полезный канал для жителей столицы: коротко и интересно рассказывает о жизни столицы; есть бот для отправки новостей, контакт для сотрудничества и регистрация【262973245932346†L95-L97】.",
+      "functions": [
+        "publish"
+      ],
+      "topics": [
+        "news",
+        "lifestyle"
+      ],
+      "primaryTopic": "news",
+      "language": "ru",
+      "compat": "L0",
+      "audience": "all",
+      "formats": [
+        "text"
+      ],
+      "tags": [
+        "ru-channel",
+        "moscow"
+      ],
+      "isPromoted": false,
+      "weight": 10
+    },
+    {
+      "id": "tg-moskovskaya_khronika",
+      "title": "Московская Хроника",
+      "type": "channel",
+      "deeplink": "https://t.me/moscow_chronicle",
+      "shortDescription": "Канал о том, что волнует Москву.",
+      "longDescription": "\"Московская хроника\" пишет о том, что волнует всех москвичей; на странице есть ссылка на чат, контакт для сотрудничества и бот для отправки новостей, а также регистрация в РКН【262973245932346†L99-L102】.",
+      "functions": [
+        "publish"
+      ],
+      "topics": [
+        "news",
+        "lifestyle"
+      ],
+      "primaryTopic": "news",
+      "language": "ru",
+      "compat": "L0",
+      "audience": "all",
+      "formats": [
+        "text"
+      ],
+      "tags": [
+        "ru-channel",
+        "moscow"
+      ],
+      "isPromoted": false,
+      "weight": 10
+    },
+    {
+      "id": "tg-insider_ua",
+      "title": "INSIDER UA",
+      "type": "channel",
+      "deeplink": "https://t.me/insider_ua",
+      "shortDescription": "Политический канал INSIDER UA.",
+      "longDescription": "INSIDER UA — политический канал; на странице указаны сайт и контакты для сотрудничества и публикации материалов【262973245932346†L108-L110】.",
+      "functions": [
+        "publish"
+      ],
+      "topics": [
+        "news"
+      ],
+      "primaryTopic": "news",
+      "language": "ru",
+      "compat": "L0",
+      "audience": "all",
+      "formats": [
+        "text"
+      ],
+      "tags": [
+        "ru-channel",
+        "political"
+      ],
+      "isPromoted": false,
+      "weight": 10
+    },
+    {
+      "id": "tg-moskva_247",
+      "title": "Москва 24/7",
+      "type": "channel",
+      "deeplink": "https://t.me/moscow247news",
+      "shortDescription": "Лучший источник последних новостей Москвы.",
+      "longDescription": "\"Москва 24/7\" называет себя лучшим источником последних новостей и событий в столице; есть бот для подачи новостей, контакт для рекламы и партнёры【262973245932346†L112-L115】.",
+      "functions": [
+        "publish"
+      ],
+      "topics": [
+        "news",
+        "lifestyle"
+      ],
+      "primaryTopic": "news",
+      "language": "ru",
+      "compat": "L0",
+      "audience": "all",
+      "formats": [
+        "text"
+      ],
+      "tags": [
+        "ru-channel",
+        "moscow"
+      ],
+      "isPromoted": false,
+      "weight": 10
+    },
+    {
+      "id": "tg-zhest_dnya",
+      "title": "Жесть дня",
+      "type": "channel",
+      "deeplink": "https://t.me/zhestdnya",
+      "shortDescription": "Канал обещает сообщать новости раньше всех.",
+      "longDescription": "Канал \"Жесть дня\" обещает публиковать новости раньше других; на странице указаны контакты для рекламы и ссылку на чат, также отмечено, что администрация не несёт ответственность за рекламные публикации【262973245932346†L117-L119】.",
+      "functions": [
+        "publish"
+      ],
+      "topics": [
+        "news"
+      ],
+      "primaryTopic": "news",
+      "language": "ru",
+      "compat": "L0",
+      "audience": "all",
+      "formats": [
+        "text"
+      ],
+      "tags": [
+        "ru-channel",
+        "sensational"
+      ],
+      "isPromoted": false,
+      "weight": 10
+    },
+    {
+      "id": "tg-lifelines_bot",
+      "title": "LifeLines — Новости дня",
+      "type": "bot",
+      "deeplink": "https://t.me/lifelines_bot",
+      "shortDescription": "Бот с ежедневным дайджестом основных событий.",
+      "longDescription": "LifeLines — новостной бот, который отбирает только самые важные события и формирует ежедневный дайджест, позволяя пользователям оставаться в курсе новостей【899650982523386†L93-L95】.",
+      "functions": [
+        "publish"
+      ],
+      "topics": [
+        "news"
+      ],
+      "primaryTopic": "news",
+      "language": "ru",
+      "compat": "L0",
+      "audience": "all",
+      "formats": [
+        "text"
+      ],
+      "tags": [
+        "ru-bot",
+        "digest"
+      ],
+      "isPromoted": false,
+      "weight": 10
+    },
+    {
+      "id": "tg-oneclicknewsbot",
+      "title": "OneClickNewsBot",
+      "type": "bot",
+      "deeplink": "https://t.me/oneclicknewsbot",
+      "shortDescription": "Бот для поиска новостей по ключевым словам.",
+      "longDescription": "OneClickNewsBot позволяет получить последние новости на любую тему: пользователь вводит одно или несколько ключевых слов, и бот присылает подходящие новости【292200039458429†L93-L94】.",
+      "functions": [
+        "search",
+        "publish"
+      ],
+      "topics": [
+        "news"
+      ],
+      "primaryTopic": "news",
+      "language": "ru",
+      "compat": "L0",
+      "audience": "all",
+      "formats": [
+        "text"
+      ],
+      "tags": [
+        "ru-bot",
+        "search"
+      ],
+      "isPromoted": false,
+      "weight": 10
+    },
+    {
+      "id": "tg-kiosknewsbot",
+      "title": "Киоск: Новости России",
+      "type": "bot",
+      "deeplink": "https://t.me/kiosknews_bot",
+      "shortDescription": "Бот формирует персональную ленту новостей из избранных сайтов.",
+      "longDescription": "Бот \"Киоск: Новости России\" собирает новости с выбранных сайтов и формирует персональную новостную ленту для пользователя【818719486179378†L91-L95】.",
+      "functions": [
+        "publish",
+        "search"
+      ],
+      "topics": [
+        "news"
+      ],
+      "primaryTopic": "news",
+      "language": "ru",
+      "compat": "L0",
+      "audience": "all",
+      "formats": [
+        "text"
+      ],
+      "tags": [
+        "ru-bot",
+        "rss"
+      ],
+      "isPromoted": false,
+      "weight": 10
+    },
+    {
+      "id": "tg-telegramlenta",
+      "title": "Telegram Lenta",
+      "type": "bot",
+      "deeplink": "https://t.me/telegramlenta_bot",
+      "shortDescription": "Агрегатор новостей из любимых каналов.",
+      "longDescription": "Telegram Lenta агрегирует записи из любимых каналов в одном месте, избавляя от необходимости подписываться на множество источников и позволяя удобно читать новости【678533705685269†L93-L96】.",
+      "functions": [
+        "publish",
+        "compose",
+        "search"
+      ],
+      "topics": [
+        "news"
+      ],
+      "primaryTopic": "news",
+      "language": "ru",
+      "compat": "L0",
+      "audience": "all",
+      "formats": [
+        "text"
+      ],
+      "tags": [
+        "ru-bot",
+        "aggregator"
+      ],
+      "isPromoted": false,
+      "weight": 10
+    },
+    {
+      "id": "tg-nemnogo_bot",
+      "title": "Немного News Bot",
+      "type": "bot",
+      "deeplink": "https://t.me/nemnogo_bot",
+      "shortDescription": "Бот с краткими дайджестами интересных событий.",
+      "longDescription": "Немного News Bot отправляет курируемые дайджесты самых интересных событий за последние часы, помогая пользователям не просматривать длинные ленты новостей【873628231697270†L93-L96】.",
+      "functions": [
+        "publish",
+        "analyze"
+      ],
+      "topics": [
+        "news"
+      ],
+      "primaryTopic": "news",
+      "language": "ru",
+      "compat": "L0",
+      "audience": "all",
+      "formats": [
+        "text"
+      ],
+      "tags": [
+        "ru-bot",
+        "digest"
+      ],
+      "isPromoted": false,
+      "weight": 10
+    },
+    {
+      "id": "tg-compnovosti_bot",
+      "title": "CompNovostiBot",
+      "type": "bot",
+      "deeplink": "https://t.me/compnovosti_bot",
+      "shortDescription": "Бот журнала о компьютерах и гаджетах.",
+      "longDescription": "CompNovostiBot — информационный бот журнала CompNovosti, публикующий новости о компьютерах, гаджетах и технологиях будущего【348748646645686†L93-L94】.",
+      "functions": [
+        "publish"
+      ],
+      "topics": [
+        "news",
+        "technology"
+      ],
+      "primaryTopic": "news",
+      "language": "ru",
+      "compat": "L0",
+      "audience": "all",
+      "formats": [
+        "text"
+      ],
+      "tags": [
+        "ru-bot",
+        "tech"
+      ],
+      "isPromoted": false,
+      "weight": 10
+    },
+    {
+      "id": "tg-digestbot",
+      "title": "Дайджест — новостной бот",
+      "type": "bot",
+      "deeplink": "https://t.me/digest_newsbot",
+      "shortDescription": "Бот объединяет посты из разных каналов в удобный дайджест.",
+      "longDescription": "Бот \"Дайджест\" объединяет публикации из разных каналов в одну ленту, сокращает посты, удаляет рекламу и позволяет создавать персональные дайджесты и фильтры, помогая читать новости быстрее【258518965116959†L98-L100】【258518965116959†L138-L142】.",
+      "functions": [
+        "publish",
+        "compose",
+        "analyze"
+      ],
+      "topics": [
+        "news"
+      ],
+      "primaryTopic": "news",
+      "language": "ru",
+      "compat": "L0",
+      "audience": "all",
+      "formats": [
+        "text"
+      ],
+      "tags": [
+        "ru-bot",
+        "digest"
+      ],
+      "isPromoted": false,
+      "weight": 10
+    },
+    {
+      "id": "tg-filterednewsbot",
+      "title": "Filtered News Bot",
+      "type": "bot",
+      "deeplink": "https://t.me/filterednewsbot",
+      "shortDescription": "Бот фильтрует новости по ключевым словам и отправляет в Telegram.",
+      "longDescription": "Личный бот‑фильтр новостей собирает новости из RSS‑источников, фильтрует их по ключевым словам и отправляет уведомления в Telegram, чтобы снизить перегруз информацией【990454681393281†L27-L38】.",
+      "functions": [
+        "search",
+        "publish",
+        "analyze"
+      ],
+      "topics": [
+        "news"
+      ],
+      "primaryTopic": "news",
+      "language": "ru",
+      "compat": "L0",
+      "audience": "all",
+      "formats": [
+        "text"
+      ],
+      "tags": [
+        "ru-bot",
+        "filter"
+      ],
+      "isPromoted": false,
+      "weight": 10
+    },
+    {
+      "id": "tg-givemenewsbot",
+      "title": "Give Me News Bot",
+      "type": "bot",
+      "deeplink": "https://t.me/givemenews_bot",
+      "shortDescription": "Бот собирает новости по ключевым словам и создаёт краткие обзоры.",
+      "longDescription": "Give Me News — бот, который собирает информацию из заданных источников по ключевым словам, пишет краткие обзоры выбранных статей и публикует их в вашем Telegram‑канале【216338760315460†L12-L18】.",
+      "functions": [
+        "publish",
+        "analyze",
+        "compose"
+      ],
+      "topics": [
+        "news"
+      ],
+      "primaryTopic": "news",
+      "language": "ru",
+      "compat": "L0",
+      "audience": "all",
+      "formats": [
+        "text"
+      ],
+      "tags": [
+        "ru-bot",
+        "summary"
+      ],
+      "isPromoted": false,
+      "weight": 10
+    },
+    {
+      "id": "tg-rbctv",
+      "title": "РБК TV",
+      "type": "channel",
+      "deeplink": "https://t.me/rbctv",
+      "shortDescription": "Телеканал 24/7 о деловых новостях.",
+      "longDescription": "РБК TV — первый и единственный 24‑часовой бизнес‑новостной телеканал в России, запущенный в 2003 году в партнёрстве с CNBC и CNN【594483425305390†L145-L148】. В Telegram‑канале публикуются ключевые сюжеты и передачи телеканала.",
+      "functions": [
+        "publish"
+      ],
+      "topics": [
+        "news",
+        "business"
+      ],
+      "primaryTopic": "news",
+      "language": "ru",
+      "compat": "L0",
+      "audience": "all",
+      "formats": [
+        "text",
+        "video"
+      ],
+      "tags": [
+        "ru-channel",
+        "business"
+      ],
+      "isPromoted": false,
+      "weight": 10
+    },
+    {
+      "id": "tg-rbcdaily",
+      "title": "РБК Daily",
+      "type": "channel",
+      "deeplink": "https://t.me/rbcdaily",
+      "shortDescription": "Канал деловой газеты РБК Daily.",
+      "longDescription": "РБК Daily — деловая газета медиагруппы РБК. Издательский холдинг включает новостной портал, журнал и телеканал【98418289334572†L198-L203】. В канале публикуются материалы газеты, посвящённые бизнесу и экономике.",
+      "functions": [
+        "publish"
+      ],
+      "topics": [
+        "news",
+        "business"
+      ],
+      "primaryTopic": "news",
+      "language": "ru",
+      "compat": "L0",
+      "audience": "all",
+      "formats": [
+        "text"
+      ],
+      "tags": [
+        "ru-channel",
+        "business"
+      ],
+      "isPromoted": false,
+      "weight": 10
+    },
+    {
+      "id": "tg-rbcmagazine",
+      "title": "РБК Magazine",
+      "type": "channel",
+      "deeplink": "https://t.me/rbcmagazine",
+      "shortDescription": "Канал ежемесячного бизнес‑журнала РБК.",
+      "longDescription": "РБК Magazine — ежемесячный журнал медиагруппы РБК. Холдинг включает новостной портал, газету и телеканал【98418289334572†L198-L203】. В канале публикуются статьи журнала и аналитика о бизнесе.",
+      "functions": [
+        "publish"
+      ],
+      "topics": [
+        "news",
+        "business"
+      ],
+      "primaryTopic": "news",
+      "language": "ru",
+      "compat": "L0",
+      "audience": "all",
+      "formats": [
+        "text",
+        "pdf"
+      ],
+      "tags": [
+        "ru-channel",
+        "business"
+      ],
+      "isPromoted": false,
+      "weight": 10
+    },
+    {
+      "id": "tg-kommersantfm",
+      "title": "Коммерсантъ FM",
+      "type": "channel",
+      "deeplink": "https://t.me/kommersantfm",
+      "shortDescription": "Радиоканал издания \"Коммерсантъ\" о бизнесе и политике.",
+      "longDescription": "Коммерсантъ FM — радио- и Telegram‑канал деловой газеты \"Коммерсантъ\", освещающей политику и бизнес; издание входит в тройку ведущих деловых СМИ России【726605338204762†L160-L167】.",
+      "functions": [
+        "publish"
+      ],
+      "topics": [
+        "news",
+        "business"
+      ],
+      "primaryTopic": "news",
+      "language": "ru",
+      "compat": "L0",
+      "audience": "all",
+      "formats": [
+        "text",
+        "audio"
+      ],
+      "tags": [
+        "ru-channel",
+        "business"
+      ],
+      "isPromoted": false,
+      "weight": 10
+    },
+    {
+      "id": "tg-vedomosti_economy",
+      "title": "Ведомости: Экономика",
+      "type": "channel",
+      "deeplink": "https://t.me/ved_economy",
+      "shortDescription": "Специализированный экономический канал от \"Ведомостей\".",
+      "longDescription": "Канал \"Ведомости: Экономика\" публикует материалы деловой газеты \"Ведомости\" о финансовых рынках и макроэкономике; основное издание основано в 1999 году в партнёрстве с The Wall Street Journal и Financial Times【875343403459684†L146-L156】.",
+      "functions": [
+        "publish"
+      ],
+      "topics": [
+        "news",
+        "business",
+        "economy"
+      ],
+      "primaryTopic": "news",
+      "language": "ru",
+      "compat": "L0",
+      "audience": "all",
+      "formats": [
+        "text"
+      ],
+      "tags": [
+        "ru-channel",
+        "economy"
+      ],
+      "isPromoted": false,
+      "weight": 10
+    },
+    {
+      "id": "tg-meduzalivechannel",
+      "title": "Meduza LIVE",
+      "type": "channel",
+      "deeplink": "https://t.me/meduzalivechannel",
+      "shortDescription": "Прямые трансляции и экстренные новости от Meduza.",
+      "longDescription": "Meduza LIVE — канал для оперативных обновлений и прямых трансляций от независимого издания Meduza, которое основано бывшими сотрудниками Lenta.ru и базируется в Латвии【402163981685748†L97-L101】.",
+      "functions": [
+        "publish"
+      ],
+      "topics": [
+        "news"
+      ],
+      "primaryTopic": "news",
+      "language": "ru",
+      "compat": "L0",
+      "audience": "all",
+      "formats": [
+        "text",
+        "video"
+      ],
+      "tags": [
+        "ru-channel",
+        "independent"
+      ],
+      "isPromoted": false,
+      "weight": 10
+    },
+    {
+      "id": "tg-novayagazeta_europe",
+      "title": "Novaya Gazeta Europe",
+      "type": "channel",
+      "deeplink": "https://t.me/ng_europe",
+      "shortDescription": "Европейская версия \"Новой газеты\".",
+      "longDescription": "Novaya Gazeta Europe — европейский Telegram‑канал независимой \"Новой газеты\", которая славится расследованиями и критическим освещением власти; основное издание известно своей смелой журналистикой и Нобелевской премией главного редактора【954198797388800†L80-L95】.",
+      "functions": [
+        "publish"
+      ],
+      "topics": [
+        "news"
+      ],
+      "primaryTopic": "news",
+      "language": "ru",
+      "compat": "L0",
+      "audience": "all",
+      "formats": [
+        "text"
+      ],
+      "tags": [
+        "ru-channel",
+        "independent"
+      ],
+      "isPromoted": false,
+      "weight": 10
+    },
+    {
+      "id": "tg-tvrain_now",
+      "title": "Дождь — Новости сейчас",
+      "type": "channel",
+      "deeplink": "https://t.me/tvrain_now",
+      "shortDescription": "Оперативные новости от телеканала \"Дождь\".",
+      "longDescription": "Канал \"Дождь — новости сейчас\" публикует быстрые обновления от независимого телеканала \"Дождь\", который известен своей независимой позицией и работой из Латвии после блокировки в России【119573612793631†L244-L250】.",
+      "functions": [
+        "publish"
+      ],
+      "topics": [
+        "news"
+      ],
+      "primaryTopic": "news",
+      "language": "ru",
+      "compat": "L0",
+      "audience": "all",
+      "formats": [
+        "text",
+        "video"
+      ],
+      "tags": [
+        "ru-channel",
+        "independent"
+      ],
+      "isPromoted": false,
+      "weight": 10
+    }
+  ],
+  "grouped": {
+    "news": {
+      "channels": [
+        "tg-mash",
+        "tg-baza",
+        "tg-112channel",
+        "tg-shot",
+        "tg-readovka",
+        "tg-rbc_news",
+        "tg-kommersant",
+        "tg-tass_agency",
+        "tg-interfaxnews",
+        "tg-vedomosti",
+        "tg-lenta_ru",
+        "tg-rg_ru",
+        "tg-meduza",
+        "tg-novayagazeta",
+        "tg-tvrain",
+        "tg-lentadnya",
+        "tg-lentadnya_brief",
+        "tg-moscowach",
+        "tg-pryamoy_efir",
+        "tg-novosti_moskvy",
+        "tg-pervymoskovskiy",
+        "tg-fontanka",
+        "tg-varlamovnews",
+        "tg-okx_news",
+        "tg-smi_no_moscow",
+        "tg-ria_novosti",
+        "tg-cryptobot_news",
+        "tg-nikolayevskiy_vanek",
+        "tg-moskva_segodnya",
+        "tg-moskovskaya_khronika",
+        "tg-insider_ua",
+        "tg-moskva_247",
+        "tg-zhest_dnya",
+        "tg-rbctv",
+        "tg-rbcdaily",
+        "tg-rbcmagazine",
+        "tg-kommersantfm",
+        "tg-vedomosti_economy",
+        "tg-meduzalivechannel",
+        "tg-novayagazeta_europe",
+        "tg-tvrain_now"
+      ],
+      "bots": [
+        "tg-lifelines_bot",
+        "tg-oneclicknewsbot",
+        "tg-kiosknewsbot",
+        "tg-telegramlenta",
+        "tg-nemnogo_bot",
+        "tg-compnovosti_bot",
+        "tg-digestbot",
+        "tg-filterednewsbot",
+        "tg-givemenewsbot"
+      ],
+      "miniapps": [],
+      "services": []
+    }
+  },
+  "digest_markdown": "## 📰 Новости и медиа (news)\n- **Mash** — https://t.me/breakingmash  \n  Популярный российский новостной канал холдинга News Media.\n- **Baza** — https://t.me/bazabazon  \n  Прокремлёвский канал с оперативными новостями и расследованиями.\n- **112 – канал оперативных происшествий** — https://t.me/enews112  \n  Канал о происшествиях и чрезвычайных ситуациях.\n- **SHOT** — https://t.me/shot_shot  \n  Канал с расследованиями и глубоким анализом событий.\n- **Readovka** — https://t.me/readovkanews  \n  Канал, выросший из регионального медиа в одно из самых цитируемых изданий.\n- **РБК Новости** — https://t.me/rbc_news  \n  Деловой новостной канал крупнейшего медиахолдинга РБК.\n- **Коммерсантъ** — https://t.me/kommersant  \n  Канал национальной деловой газеты о политике и бизнесе.\n- **ТАСС** — https://t.me/tass_agency  \n  Официальный новостной канал крупнейшего информационного агентства России.\n- **Интерфакс** — https://t.me/interfaxnews  \n  Канал одного из ведущих независимых новостных агентств России.\n- **Ведомости** — https://t.me/vedomosti  \n  Деловой новостной канал веду-его газетного бренда.\n- **Lenta.ru** — https://t.me/lentarunews  \n  Канал одного из самых популярных российских онлайн‑изданий.\n- **Российская газета** — https://t.me/rg_ru  \n  Официальный канал государственной газеты РФ.\n- **Meduza** — https://t.me/meduzalive  \n  Независимое издание о событиях в России и бывшем СССР.\n- **Новая газета** — https://t.me/novayagazeta  \n  Канал независимой газеты, известной расследованиями.\n- **Дождь (TV Rain)** — https://t.me/tvrain  \n  Независимый телеканал для молодой и образованной аудитории.\n- **Лента дня** — https://t.me/lentadnya  \n  Новостной канал с основными публикациями Lenta.ru.\n- **Главные новости дня (кратко)** — https://t.me/lentadnya_brief  \n  Канал с лаконичными главными новостями дня.\n- **Moscowach** — https://t.me/moscowach  \n  Крупнейший канал о Москве и жизни в столице.\n- **Прямой Эфир** — https://t.me/pryamoyefir  \n  Канал, собирающий важные новости России и мира.\n- **Новости Москвы** — https://t.me/novosti_moskvy  \n  Самый читаемый канал о Москве.\n- **Первый Московский** — https://t.me/first_moscow  \n  Интересный канал о событиях и местах Москвы.\n- **Фонтанка СПб онлайн** — https://t.me/fontanka_official  \n  Новости Петербурга и взгляд на события в стране и мире.\n- **Varlamov News** — https://t.me/varlamov_news  \n  Новостной канал Ильи Варламова.\n- **OKX Новости** — https://t.me/okx_news_ru  \n  Официальные новости криптобиржи OKX.\n- **СМИ Россия не Москва** — https://t.me/smi_no_moscow  \n  Канал о региональных новостях России (не Москва).\n- **РИА Новости** — https://t.me/rian_ru  \n  Официальный канал агентства РИА Новости.\n- **Новости Crypto Bot** — https://t.me/cryptobot_news  \n  Криптовалютные новости от CryptoBot.\n- **Николаевский Ванёк** — https://t.me/nikolaevskyvan  \n  Авторский канал комментариев и новостей.\n- **Москва Сегодня** — https://t.me/moscow_today  \n  Канал с короткими новостями для москвичей.\n- **Московская Хроника** — https://t.me/moscow_chronicle  \n  Канал о том, что волнует Москву.\n- **INSIDER UA** — https://t.me/insider_ua  \n  Политический канал INSIDER UA.\n- **Москва 24/7** — https://t.me/moscow247news  \n  Лучший источник последних новостей Москвы.\n- **Жесть дня** — https://t.me/zhestdnya  \n  Канал обещает сообщать новости раньше всех.\n- **LifeLines — Новости дня** — https://t.me/lifelines_bot  \n  Бот с ежедневным дайджестом основных событий.\n- **OneClickNewsBot** — https://t.me/oneclicknewsbot  \n  Бот для поиска новостей по ключевым словам.\n- **Киоск: Новости России** — https://t.me/kiosknews_bot  \n  Бот формирует персональную ленту новостей из избранных сайтов.\n- **Telegram Lenta** — https://t.me/telegramlenta_bot  \n  Агрегатор новостей из любимых каналов.\n- **Немного News Bot** — https://t.me/nemnogo_bot  \n  Бот с краткими дайджестами интересных событий.\n- **CompNovostiBot** — https://t.me/compnovosti_bot  \n  Бот журнала о компьютерах и гаджетах.\n- **Дайджест — новостной бот** — https://t.me/digest_newsbot  \n  Бот объединяет посты из разных каналов в удобный дайджест.\n- **Filtered News Bot** — https://t.me/filterednewsbot  \n  Бот фильтрует новости по ключевым словам и отправляет в Telegram.\n- **Give Me News Bot** — https://t.me/givemenews_bot  \n  Бот собирает новости по ключевым словам и создаёт краткие обзоры.\n- **РБК TV** — https://t.me/rbctv  \n  Телеканал 24/7 о деловых новостях.\n- **РБК Daily** — https://t.me/rbcdaily  \n  Канал деловой газеты РБК Daily.\n- **РБК Magazine** — https://t.me/rbcmagazine  \n  Канал ежемесячного бизнес‑журнала РБК.\n- **Коммерсантъ FM** — https://t.me/kommersantfm  \n  Радиоканал издания \"Коммерсантъ\" о бизнесе и политике.\n- **Ведомости: Экономика** — https://t.me/ved_economy  \n  Специализированный экономический канал от \"Ведомостей\".\n- **Meduza LIVE** — https://t.me/meduzalivechannel  \n  Прямые трансляции и экстренные новости от Meduza.\n- **Novaya Gazeta Europe** — https://t.me/ng_europe  \n  Европейская версия \"Новой газеты\".\n- **Дождь — Новости сейчас** — https://t.me/tvrain_now  \n  Оперативные новости от телеканала \"Дождь\"."
+}
