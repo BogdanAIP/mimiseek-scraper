@@ -1,0 +1,1177 @@
+[
+  {
+    "id": "tg-antropogenez",
+    "title": "Антропогенез.ru",
+    "type": "channel",
+    "deeplink": "https://t.me/antropogenez",
+    "shortDescription": "Канал об эволюции человека, палеоархеологии и генетике.",
+    "longDescription": "Антропогенез.ru рассказывает о происхождении человека и культуре: палеоархеология, эволюция, археологические находки и генетика человека, подавая материал доступно и научно【623636443753458†L63-L71】.",
+    "functions": [
+      "publish"
+    ],
+    "topics": [
+      "science"
+    ],
+    "primaryTopic": "science",
+    "language": "ru",
+    "compat": "L0",
+    "audience": "all",
+    "formats": [
+      "text"
+    ],
+    "tags": [
+      "антропология",
+      "эволюция"
+    ],
+    "isPromoted": false,
+    "weight": 10
+  },
+  {
+    "id": "tg-postnaika",
+    "title": "ПостНаука",
+    "type": "channel",
+    "deeplink": "https://t.me/postnauka",
+    "shortDescription": "Образовательная платформа учёных – коротко о современной науке.",
+    "longDescription": "Канал ПостНаука (PostNaika) – образовательная платформа от учёных. В нём публикуют короткие посты о фундаментальных исследованиях и современных открытиях, делая науку понятной широкой аудитории【623636443753458†L75-L83】.",
+    "functions": [
+      "publish"
+    ],
+    "topics": [
+      "science"
+    ],
+    "primaryTopic": "science",
+    "language": "ru",
+    "compat": "L0",
+    "audience": "all",
+    "formats": [
+      "text",
+      "video"
+    ],
+    "tags": [
+      "популяризация",
+      "исследования"
+    ],
+    "isPromoted": false,
+    "weight": 10
+  },
+  {
+    "id": "tg-kobura_ot_tesly",
+    "title": "Кобура от Теслы",
+    "type": "channel",
+    "deeplink": "https://t.me/kobura",
+    "shortDescription": "О будущем технологий и необычных идеях.",
+    "longDescription": "Канал посвящён будущим технологиям и необычным идеям: здесь собирают концепты, стартапы, инженерные эксперименты и редкие изобретения, показывая оригинальные решения и нестандартные взгляды【623636443753458†L87-L100】.",
+    "functions": [
+      "publish"
+    ],
+    "topics": [
+      "science",
+      "technology"
+    ],
+    "primaryTopic": "science",
+    "language": "ru",
+    "compat": "L0",
+    "audience": "all",
+    "formats": [
+      "text",
+      "video"
+    ],
+    "tags": [
+      "будущее",
+      "инновации"
+    ],
+    "isPromoted": false,
+    "weight": 10
+  },
+  {
+    "id": "tg-matematicheskie_hitrosti",
+    "title": "Математические хитрости",
+    "type": "channel",
+    "deeplink": "https://t.me/matematicheskie_hitrosti",
+    "shortDescription": "Трюки и задачи для развития математических навыков.",
+    "longDescription": "Канал помогает совершенствовать математические навыки за пару минут в день: собирает математические хитрости, тренирует память и включает необычные научные теории【242688105331127†L16-L24】.",
+    "functions": [
+      "publish"
+    ],
+    "topics": [
+      "science"
+    ],
+    "primaryTopic": "science",
+    "language": "ru",
+    "compat": "L0",
+    "audience": "all",
+    "formats": [
+      "text"
+    ],
+    "tags": [
+      "математика",
+      "трюки"
+    ],
+    "isPromoted": false,
+    "weight": 10
+  },
+  {
+    "id": "tg-budni_uchenogo",
+    "title": "Будни учёного",
+    "type": "channel",
+    "deeplink": "https://t.me/budni_uchenogo",
+    "shortDescription": "Канал для любознательных детей и взрослых.",
+    "longDescription": "Будни учёного – это канал для любознательных: здесь рассказывают о редких болезнях, как работает интернет, что такое тёмная материя и как люди будут колонизировать планеты【242688105331127†L31-L34】.",
+    "functions": [
+      "publish"
+    ],
+    "topics": [
+      "science"
+    ],
+    "primaryTopic": "science",
+    "language": "ru",
+    "compat": "L0",
+    "audience": "all",
+    "formats": [
+      "text"
+    ],
+    "tags": [
+      "для детей",
+      "общеобразовательный"
+    ],
+    "isPromoted": false,
+    "weight": 10
+  },
+  {
+    "id": "tg-neuroscienceru",
+    "title": "Neuroscienceru | Интересные факты",
+    "type": "channel",
+    "deeplink": "https://t.me/neuroscienceru",
+    "shortDescription": "Как работает мозг и почему мы так себя ведём.",
+    "longDescription": "Канал описывает, как работает мозг: почему мы совершаем странные поступки или ставим лайки в социальных сетях; авторы объясняют явления из нейронауки простым языком【242688105331127†L37-L44】.",
+    "functions": [
+      "publish"
+    ],
+    "topics": [
+      "science"
+    ],
+    "primaryTopic": "science",
+    "language": "ru",
+    "compat": "L0",
+    "audience": "all",
+    "formats": [
+      "text"
+    ],
+    "tags": [
+      "нейронаука",
+      "психология"
+    ],
+    "isPromoted": false,
+    "weight": 10
+  },
+  {
+    "id": "tg-netolkoted",
+    "title": "Не только TED",
+    "type": "channel",
+    "deeplink": "https://t.me/netolkoted",
+    "shortDescription": "Подборка TED-лекций, видео и подкастов с конспектами.",
+    "longDescription": "Канал представляет кладезь лекций TED и образовательных видео: здесь публикуют ролики и подкасты, снабжая их короткими пересказами и ключевыми тезисами【242688105331127†L47-L53】.",
+    "functions": [
+      "publish"
+    ],
+    "topics": [
+      "science",
+      "culture"
+    ],
+    "primaryTopic": "science",
+    "language": "ru",
+    "compat": "L0",
+    "audience": "all",
+    "formats": [
+      "video",
+      "text"
+    ],
+    "tags": [
+      "лекции",
+      "TED"
+    ],
+    "isPromoted": false,
+    "weight": 10
+  },
+  {
+    "id": "tg-rawtech",
+    "title": "RawTech",
+    "type": "channel",
+    "deeplink": "https://t.me/rawtech",
+    "shortDescription": "Просто о технологиях и гаджетах.",
+    "longDescription": "Канал RawTech объясняет технологические темы простыми словами: здесь разъясняют, что значит Wi‑Fi, 5G, и рассказывают о гаджетах и устройствах【242688105331127†L57-L63】.",
+    "functions": [
+      "publish"
+    ],
+    "topics": [
+      "science",
+      "technology"
+    ],
+    "primaryTopic": "science",
+    "language": "ru",
+    "compat": "L0",
+    "audience": "all",
+    "formats": [
+      "text"
+    ],
+    "tags": [
+      "технологии",
+      "гаджеты"
+    ],
+    "isPromoted": false,
+    "weight": 10
+  },
+  {
+    "id": "tg-physh",
+    "title": "Physh — физика и космос",
+    "type": "channel",
+    "deeplink": "https://t.me/physh",
+    "shortDescription": "О мечтах, Марсе, теории струн и поиске внеземной жизни.",
+    "longDescription": "Physh создан для мечтателей и любителей фантастики: автор обсуждает полёты на Марс, теорию струн, поиски внеземной жизни и другие космические темы【242688105331127†L67-L73】.",
+    "functions": [
+      "publish"
+    ],
+    "topics": [
+      "science"
+    ],
+    "primaryTopic": "science",
+    "language": "ru",
+    "compat": "L0",
+    "audience": "all",
+    "formats": [
+      "text",
+      "video"
+    ],
+    "tags": [
+      "космос",
+      "физика"
+    ],
+    "isPromoted": false,
+    "weight": 10
+  },
+  {
+    "id": "tg-funscience",
+    "title": "Наука от Funscience",
+    "type": "channel",
+    "deeplink": "https://t.me/funscience",
+    "shortDescription": "Ежедневная подборка научных новостей и технологий.",
+    "longDescription": "Funscience публикует еженедельные дайджесты науки и технологий: в канале собраны 15 ссылок на свежие новости и интересные факты, чтобы держать в курсе энтузиастов и просто читателей【242688105331127†L77-L83】.",
+    "functions": [
+      "publish"
+    ],
+    "topics": [
+      "science",
+      "technology"
+    ],
+    "primaryTopic": "science",
+    "language": "ru",
+    "compat": "L0",
+    "audience": "all",
+    "formats": [
+      "text"
+    ],
+    "tags": [
+      "новости",
+      "дайджест"
+    ],
+    "isPromoted": false,
+    "weight": 10
+  },
+  {
+    "id": "tg-ilonmask",
+    "title": "Илон Маск",
+    "type": "channel",
+    "deeplink": "https://t.me/elonmask",
+    "shortDescription": "Проекты Илона Маска и прогнозы технологий.",
+    "longDescription": "Канал посвящён амбициозным проектам Илона Маска и его прогнозам о будущем технологий и искусственном интеллекте; здесь обсуждают SpaceX, Tesla и другие инициативы【242688105331127†L87-L94】.",
+    "functions": [
+      "publish"
+    ],
+    "topics": [
+      "science",
+      "technology"
+    ],
+    "primaryTopic": "science",
+    "language": "ru",
+    "compat": "L0",
+    "audience": "all",
+    "formats": [
+      "text"
+    ],
+    "tags": [
+      "инновации",
+      "космос"
+    ],
+    "isPromoted": false,
+    "weight": 10
+  },
+  {
+    "id": "tg-nakedscience",
+    "title": "Naked Science",
+    "type": "channel",
+    "deeplink": "https://t.me/nakedscience",
+    "shortDescription": "Официальный канал журнала Naked Science: новости, статьи, видео.",
+    "longDescription": "Официальный канал журнала Naked Science публикует новости науки, факты, аналитические статьи, интервью, видеоролики и исторические фотографии, интересные как гикам, так и просто любителям прогресса【242688105331127†L98-L104】.",
+    "functions": [
+      "publish"
+    ],
+    "topics": [
+      "science"
+    ],
+    "primaryTopic": "science",
+    "language": "ru",
+    "compat": "L0",
+    "audience": "all",
+    "formats": [
+      "text",
+      "video",
+      "image"
+    ],
+    "tags": [
+      "журнал",
+      "новости"
+    ],
+    "isPromoted": false,
+    "weight": 10
+  },
+  {
+    "id": "tg-newochem",
+    "title": "Newочём",
+    "type": "channel",
+    "deeplink": "https://t.me/newochem",
+    "shortDescription": "Подписчики выбирают тему, админы переводят научные статьи.",
+    "longDescription": "Канал Newочём позволяет подписчикам выбирать темы; администрация переводит свежие статьи из научных журналов на русский язык, раскрывая самые актуальные исследования【242688105331127†L112-L115】.",
+    "functions": [
+      "publish"
+    ],
+    "topics": [
+      "science"
+    ],
+    "primaryTopic": "science",
+    "language": "ru",
+    "compat": "L0",
+    "audience": "all",
+    "formats": [
+      "text"
+    ],
+    "tags": [
+      "переводы",
+      "выбор читателей"
+    ],
+    "isPromoted": false,
+    "weight": 10
+  },
+  {
+    "id": "tg-namochimantu",
+    "title": "Намочи манту",
+    "type": "channel",
+    "deeplink": "https://t.me/namochi_mantu",
+    "shortDescription": "Канал об доказательной медицине и здоровье.",
+    "longDescription": "«Намочи манту» ведут медицинские журналисты, которые рассказывают об evidence-based medicine: полезные книги, новости, ссылки на хорошие ресурсы и посты о здоровье – от юморных до серьёзных【423466736715702†L169-L174】.",
+    "functions": [
+      "publish"
+    ],
+    "topics": [
+      "science",
+      "health"
+    ],
+    "primaryTopic": "science",
+    "language": "ru",
+    "compat": "L0",
+    "audience": "all",
+    "formats": [
+      "text"
+    ],
+    "tags": [
+      "медицина",
+      "здоровье"
+    ],
+    "isPromoted": false,
+    "weight": 10
+  },
+  {
+    "id": "tg-globchan",
+    "title": "GlobChan",
+    "type": "channel",
+    "deeplink": "https://t.me/globchan",
+    "shortDescription": "Новости о мире, науке и технологиях без рекламы.",
+    "longDescription": "Канал GlobChan публикует новости о мире, науке и технологиях без рекламных вставок, поддерживая подписчиков в курсе глобальных событий【719257647906985†L105-L109】.",
+    "functions": [
+      "publish"
+    ],
+    "topics": [
+      "science",
+      "technology"
+    ],
+    "primaryTopic": "science",
+    "language": "ru",
+    "compat": "L0",
+    "audience": "all",
+    "formats": [
+      "text"
+    ],
+    "tags": [
+      "новости",
+      "технологии"
+    ],
+    "isPromoted": false,
+    "weight": 10
+  },
+  {
+    "id": "tg-techsparks",
+    "title": "TechSparks",
+    "type": "channel",
+    "deeplink": "https://t.me/techsparks",
+    "shortDescription": "Аннотированные новости высоких технологий с комментариями.",
+    "longDescription": "TechSparks – это канал аннотированных ссылок на новости высоких технологий. Его ведёт маркетинговый директор Яндекса: он комментирует новости на русском языке, даже если источники на английском【719257647906985†L115-L121】.",
+    "functions": [
+      "publish"
+    ],
+    "topics": [
+      "science",
+      "technology"
+    ],
+    "primaryTopic": "science",
+    "language": "ru",
+    "compat": "L0",
+    "audience": "all",
+    "formats": [
+      "text"
+    ],
+    "tags": [
+      "новости",
+      "интернет"
+    ],
+    "isPromoted": false,
+    "weight": 10
+  },
+  {
+    "id": "tg-nplusone",
+    "title": "N+1",
+    "type": "channel",
+    "deeplink": "https://t.me/nplusone",
+    "shortDescription": "Официальный канал журнала N+1.",
+    "longDescription": "Официальный канал научного издания N+1 публикует уникальные материалы и ежедневные подборки. Редакция стремится объяснять науку доступно и мотивировать аудиторию к собственным исследованиям【719257647906985†L133-L143】.",
+    "functions": [
+      "publish"
+    ],
+    "topics": [
+      "science"
+    ],
+    "primaryTopic": "science",
+    "language": "ru",
+    "compat": "L0",
+    "audience": "all",
+    "formats": [
+      "text"
+    ],
+    "tags": [
+      "научный журнал",
+      "дайджест"
+    ],
+    "isPromoted": false,
+    "weight": 10
+  },
+  {
+    "id": "tg-crynetrussia",
+    "title": "Crynet Russia",
+    "type": "channel",
+    "deeplink": "https://t.me/crynet_russia",
+    "shortDescription": "Короткие ролики с научными экспериментами.",
+    "longDescription": "Crynet Russia предлагает короткие видеоэксперименты: меньше слов – больше действия. Канал популярен среди зрителей, которые любят видеть науку в действии【719257647906985†L154-L161】.",
+    "functions": [
+      "publish"
+    ],
+    "topics": [
+      "science"
+    ],
+    "primaryTopic": "science",
+    "language": "ru",
+    "compat": "L0",
+    "audience": "all",
+    "formats": [
+      "video",
+      "text"
+    ],
+    "tags": [
+      "эксперименты",
+      "видео"
+    ],
+    "isPromoted": false,
+    "weight": 10
+  },
+  {
+    "id": "tg-thebrains",
+    "title": "The Brains",
+    "type": "channel",
+    "deeplink": "https://t.me/thebrains",
+    "shortDescription": "Инфографика и визуальные материалы по науке.",
+    "longDescription": "The Brains – это канал с визуальными материалами: красочные инфографики, гифки о развитии эмбриона, числа пи, органы чувств и другие материалы обновляются регулярно, расширяя кругозор подписчиков【719257647906985†L165-L172】.",
+    "functions": [
+      "publish"
+    ],
+    "topics": [
+      "science"
+    ],
+    "primaryTopic": "science",
+    "language": "ru",
+    "compat": "L0",
+    "audience": "all",
+    "formats": [
+      "image",
+      "text"
+    ],
+    "tags": [
+      "инфографика",
+      "образование"
+    ],
+    "isPromoted": false,
+    "weight": 10
+  },
+  {
+    "id": "tg-molniya_nauka",
+    "title": "Молния Наука",
+    "type": "channel",
+    "deeplink": "https://t.me/molniya_nauka",
+    "shortDescription": "Подборка ссылок на научные статьи, фото и видео.",
+    "longDescription": "Канал «Молния Наука» публикует ссылки на свежие научные статьи, сопровождая их фотографиями и видеоматериалами, что делает его удобной точкой входа для любителей науки【906109711645671†L160-L162】.",
+    "functions": [
+      "publish"
+    ],
+    "topics": [
+      "science"
+    ],
+    "primaryTopic": "science",
+    "language": "ru",
+    "compat": "L0",
+    "audience": "all",
+    "formats": [
+      "text",
+      "video",
+      "image"
+    ],
+    "tags": [
+      "новости",
+      "ссылки"
+    ],
+    "isPromoted": false,
+    "weight": 10
+  },
+  {
+    "id": "tg-science_popmech",
+    "title": "Science (PopMech & Postnauka)",
+    "type": "channel",
+    "deeplink": "https://t.me/science",
+    "shortDescription": "Кураторский выбор статей PopMech и ПостНауки с фото и видео.",
+    "longDescription": "Канал Science собирает интересные статьи из Популярной Механики и ПостНауки, добавляя фотографии и видеоролики на тему популярной науки, чтобы просвещать аудиторию【906109711645671†L199-L201】.",
+    "functions": [
+      "publish"
+    ],
+    "topics": [
+      "science"
+    ],
+    "primaryTopic": "science",
+    "language": "ru",
+    "compat": "L0",
+    "audience": "all",
+    "formats": [
+      "text",
+      "image",
+      "video"
+    ],
+    "tags": [
+      "статьи",
+      "популярная наука"
+    ],
+    "isPromoted": false,
+    "weight": 10
+  },
+  {
+    "id": "tg-neuroscienceru_pub",
+    "title": "NeuroScienceRu",
+    "type": "channel",
+    "deeplink": "https://t.me/neuroscience_ru",
+    "shortDescription": "Архив проверенных материалов по нейронауке.",
+    "longDescription": "NeuroScienceRu позиционирует себя как самый полный публичный архив проверенных материалов по нейронауке: новости, статьи и исследования в одной ленте【906109711645671†L204-L205】.",
+    "functions": [
+      "publish"
+    ],
+    "topics": [
+      "science"
+    ],
+    "primaryTopic": "science",
+    "language": "ru",
+    "compat": "L0",
+    "audience": "all",
+    "formats": [
+      "text"
+    ],
+    "tags": [
+      "нейронаука",
+      "архив"
+    ],
+    "isPromoted": false,
+    "weight": 10
+  },
+  {
+    "id": "tg-space_ru",
+    "title": "Space (Космос)",
+    "type": "channel",
+    "deeplink": "https://t.me/space",
+    "shortDescription": "Красивые фото туманностей, комиксы и факты о космосе.",
+    "longDescription": "Канал Space погружает в тему космоса: публикует красивые фото туманностей, комиксы и захватывающие факты о Вселенной, делая астрофизику доступной каждому【906109711645671†L219-L221】.",
+    "functions": [
+      "publish"
+    ],
+    "topics": [
+      "science"
+    ],
+    "primaryTopic": "science",
+    "language": "ru",
+    "compat": "L0",
+    "audience": "all",
+    "formats": [
+      "image",
+      "text"
+    ],
+    "tags": [
+      "космос",
+      "фото"
+    ],
+    "isPromoted": false,
+    "weight": 10
+  },
+  {
+    "id": "tg-astronomy_channel",
+    "title": "Астрономия (канал)",
+    "type": "channel",
+    "deeplink": "https://t.me/astronomychannel",
+    "shortDescription": "Авторский канал об астрономии и космосе от Игоря Тирского.",
+    "longDescription": "Авторский канал астронома и популяризатора Игоря Тирского посвящён звёздам и чёрным дырам; в нём предлагаются книги и простые объяснения космических явлений【423466736715702†L131-L137】.",
+    "functions": [
+      "publish"
+    ],
+    "topics": [
+      "science"
+    ],
+    "primaryTopic": "science",
+    "language": "ru",
+    "compat": "L0",
+    "audience": "all",
+    "formats": [
+      "text"
+    ],
+    "tags": [
+      "астрономия",
+      "книги"
+    ],
+    "isPromoted": false,
+    "weight": 10
+  },
+  {
+    "id": "tg-seladka_nad_shuboi",
+    "title": "Селёдка над шубой",
+    "type": "channel",
+    "deeplink": "https://t.me/seladka_nad_shuboi",
+    "shortDescription": "Необычные материалы: нейросети, история, веб-феномены.",
+    "longDescription": "Авторский канал с материалами о нейросетях, искусственном интеллекте, истории и необычных явлениях интернета; контент, который трудно найти в других русскоязычных источниках【423466736715702†L149-L152】.",
+    "functions": [
+      "publish"
+    ],
+    "topics": [
+      "science",
+      "entertainment"
+    ],
+    "primaryTopic": "science",
+    "language": "ru",
+    "compat": "L0",
+    "audience": "all",
+    "formats": [
+      "text"
+    ],
+    "tags": [
+      "нейросети",
+      "история",
+      "AI"
+    ],
+    "isPromoted": false,
+    "weight": 10
+  },
+  {
+    "id": "tg-atomgramm",
+    "title": "AtomGramm",
+    "type": "channel",
+    "deeplink": "https://t.me/atomgramm",
+    "shortDescription": "Серьёзный канал о ядерной энергетике.",
+    "longDescription": "AtomGramm – серьёзный канал о ядерной энергетике: здесь публикуют новости и короткие научные статьи, рассказывают о реакторах на ледоколах и атомных электростанциях【423466736715702†L162-L165】.",
+    "functions": [
+      "publish"
+    ],
+    "topics": [
+      "science"
+    ],
+    "primaryTopic": "science",
+    "language": "ru",
+    "compat": "L0",
+    "audience": "all",
+    "formats": [
+      "text"
+    ],
+    "tags": [
+      "ядерная энергетика",
+      "технологии"
+    ],
+    "isPromoted": false,
+    "weight": 10
+  },
+  {
+    "id": "tg-easyhard",
+    "title": "Просто о сложном",
+    "type": "channel",
+    "deeplink": "https://t.me/easyhard",
+    "shortDescription": "Простые объяснения сложных тем.",
+    "longDescription": "Канал объясняет сложные вещи простыми словами: авторы делают понятными темы из экономики, политологии, физики и биологии, чтобы читатели лучше понимали мир【246232084313097†L946-L949】.",
+    "functions": [
+      "publish"
+    ],
+    "topics": [
+      "science"
+    ],
+    "primaryTopic": "science",
+    "language": "ru",
+    "compat": "L0",
+    "audience": "all",
+    "formats": [
+      "text"
+    ],
+    "tags": [
+      "образование",
+      "простые объяснения"
+    ],
+    "isPromoted": false,
+    "weight": 10
+  },
+  {
+    "id": "tg-dokopalis",
+    "title": "Докопались",
+    "type": "channel",
+    "deeplink": "https://t.me/dokopalis",
+    "shortDescription": "Археологические находки со всего мира.",
+    "longDescription": "На канале Докопались рассказывают о археологических открытиях и артефактах со всего мира, погружая зрителей в историю и древние цивилизации【246232084313097†L975-L977】.",
+    "functions": [
+      "publish"
+    ],
+    "topics": [
+      "science",
+      "culture"
+    ],
+    "primaryTopic": "science",
+    "language": "ru",
+    "compat": "L0",
+    "audience": "all",
+    "formats": [
+      "text"
+    ],
+    "tags": [
+      "археология",
+      "история"
+    ],
+    "isPromoted": false,
+    "weight": 10
+  },
+  {
+    "id": "tg-cyberleninka",
+    "title": "CyberLeninka",
+    "type": "channel",
+    "deeplink": "https://t.me/cyberleninka",
+    "shortDescription": "Открытая наука в России.",
+    "longDescription": "Канал CyberLeninka посвящён открытой науке в России: здесь публикуются анонсы и новости научных публикаций, популяризируя доступ к знаниям【246232084313097†L988-L990】.",
+    "functions": [
+      "publish"
+    ],
+    "topics": [
+      "science",
+      "open_source"
+    ],
+    "primaryTopic": "science",
+    "language": "ru",
+    "compat": "L0",
+    "audience": "all",
+    "formats": [
+      "text"
+    ],
+    "tags": [
+      "открытая наука",
+      "публикации"
+    ],
+    "isPromoted": false,
+    "weight": 10
+  },
+  {
+    "id": "tg-fiztehi_shutyat",
+    "title": "Физтехи шутят",
+    "type": "channel",
+    "deeplink": "https://t.me/fiztehi_shutyat",
+    "shortDescription": "Наука с юмором.",
+    "longDescription": "«Физтехи шутят» – это канал о науке с юмором: студенты и выпускники Физтеха делятся научными шутками и мемами, помогая воспринимать науку легко【246232084313097†L992-L994】.",
+    "functions": [
+      "publish"
+    ],
+    "topics": [
+      "science",
+      "entertainment"
+    ],
+    "primaryTopic": "science",
+    "language": "ru",
+    "compat": "L0",
+    "audience": "all",
+    "formats": [
+      "text",
+      "image"
+    ],
+    "tags": [
+      "юмор",
+      "мемы"
+    ],
+    "isPromoted": false,
+    "weight": 10
+  },
+  {
+    "id": "tg-nauchpop",
+    "title": "НаучPop",
+    "type": "channel",
+    "deeplink": "https://t.me/nauchpop",
+    "shortDescription": "Популярная наука: факты, теории и гипотезы.",
+    "longDescription": "Канал НаучPop публикует научпоп: интересные факты, теории и гипотезы, делая науку доступной и увлекательной для широкой аудитории【246232084313097†L1006-L1008】.",
+    "functions": [
+      "publish"
+    ],
+    "topics": [
+      "science"
+    ],
+    "primaryTopic": "science",
+    "language": "ru",
+    "compat": "L0",
+    "audience": "all",
+    "formats": [
+      "text"
+    ],
+    "tags": [
+      "научпоп",
+      "факты"
+    ],
+    "isPromoted": false,
+    "weight": 10
+  },
+  {
+    "id": "tg-ya_mathematic",
+    "title": "Я Математик",
+    "type": "channel",
+    "deeplink": "https://t.me/ya_mathematic",
+    "shortDescription": "Авторский математический канал.",
+    "longDescription": "Я Математик – авторский канал, где математик делится знаниями, задачами и размышлениями о красоте математики, мотивируя учиться и развиваться【246232084313097†L906-L909】.",
+    "functions": [
+      "publish"
+    ],
+    "topics": [
+      "science"
+    ],
+    "primaryTopic": "science",
+    "language": "ru",
+    "compat": "L0",
+    "audience": "all",
+    "formats": [
+      "text"
+    ],
+    "tags": [
+      "математика",
+      "авторский канал"
+    ],
+    "isPromoted": false,
+    "weight": 10
+  },
+  {
+    "id": "tg-lab66",
+    "title": "Lab-66",
+    "type": "channel",
+    "deeplink": "https://t.me/lab66",
+    "shortDescription": "Научно-технический журнал Сергея Бессараба.",
+    "longDescription": "Lab-66 – это научно-технический лабораторный журнал Сергея Бессараба, в котором он показывает научные исследования из своей жизни: безопасность, радиация, дозиметры, радио-хобби, химия и медицина【246232084313097†L892-L896】.",
+    "functions": [
+      "publish"
+    ],
+    "topics": [
+      "science",
+      "technology"
+    ],
+    "primaryTopic": "science",
+    "language": "ru",
+    "compat": "L0",
+    "audience": "all",
+    "formats": [
+      "text",
+      "video"
+    ],
+    "tags": [
+      "исследования",
+      "радиация",
+      "химия"
+    ],
+    "isPromoted": false,
+    "weight": 10
+  },
+  {
+    "id": "tg-tibiolog",
+    "title": "Tibiolog",
+    "type": "channel",
+    "deeplink": "https://t.me/tibiolog",
+    "shortDescription": "Наука, шутки и мифы о здоровье.",
+    "longDescription": "Tibiolog смешивает науку, шутки и мемы, развенчивает мифы о питании, спорте и здоровье, а также рассказывает о трендах будущего, нейробиологии и психологии【246232084313097†L1084-L1094】.",
+    "functions": [
+      "publish"
+    ],
+    "topics": [
+      "science",
+      "health"
+    ],
+    "primaryTopic": "science",
+    "language": "ru",
+    "compat": "L0",
+    "audience": "all",
+    "formats": [
+      "text"
+    ],
+    "tags": [
+      "здоровье",
+      "мемы",
+      "нейробиология"
+    ],
+    "isPromoted": false,
+    "weight": 10
+  },
+  {
+    "id": "tg-ivory_zoo",
+    "title": "Ivory Zoo | Научный survival guide",
+    "type": "channel",
+    "deeplink": "https://t.me/ivory_zoo",
+    "shortDescription": "Руководство по выживанию в науке.",
+    "longDescription": "Ivory Zoo ('Зоопарк из слоновой кости') — канал о том, как выжить в науке: советы для начинающих учёных, новости научной жизни и неформальные беседы о науке【246232084313097†L1124-L1127】.",
+    "functions": [
+      "publish"
+    ],
+    "topics": [
+      "science"
+    ],
+    "primaryTopic": "science",
+    "language": "ru",
+    "compat": "L0",
+    "audience": "all",
+    "formats": [
+      "text"
+    ],
+    "tags": [
+      "карьера",
+      "советы"
+    ],
+    "isPromoted": false,
+    "weight": 10
+  },
+  {
+    "id": "tg-darth_biology",
+    "title": "Darth Biology",
+    "type": "channel",
+    "deeplink": "https://t.me/darth_biology",
+    "shortDescription": "Биология и медицина: простое и сложное.",
+    "longDescription": "Канал о биологии и медицине: автор, биолог и медицинский писатель Ирина Боде, делится простыми и сложными фактами, новыми исследованиями и личными заметками【349548852611271†L66-L68】.",
+    "functions": [
+      "publish"
+    ],
+    "topics": [
+      "science",
+      "health"
+    ],
+    "primaryTopic": "science",
+    "language": "ru",
+    "compat": "L0",
+    "audience": "all",
+    "formats": [
+      "text"
+    ],
+    "tags": [
+      "биология",
+      "медицина"
+    ],
+    "isPromoted": false,
+    "weight": 10
+  },
+  {
+    "id": "tg-liza_loves_biology",
+    "title": "Liza Loves Biology",
+    "type": "channel",
+    "deeplink": "https://t.me/liza_loves_biology",
+    "shortDescription": "Интересная биология от Лизы Мининой.",
+    "longDescription": "Канал автора Лизы Мининой, который делится любопытными фактами из мира биологии; подписчики узнают интересные истории о природе и живых организмах【527674718858016†L66-L67】.",
+    "functions": [
+      "publish"
+    ],
+    "topics": [
+      "science",
+      "education"
+    ],
+    "primaryTopic": "science",
+    "language": "ru",
+    "compat": "L0",
+    "audience": "all",
+    "formats": [
+      "text"
+    ],
+    "tags": [
+      "биология",
+      "факты"
+    ],
+    "isPromoted": false,
+    "weight": 10
+  },
+  {
+    "id": "tg-biology",
+    "title": "BIOLOGY | БИОЛОГИЯ",
+    "type": "channel",
+    "deeplink": "https://t.me/biotg",
+    "shortDescription": "Статьи, картинки и видео о живой природе дважды в день.",
+    "longDescription": "BIOLOGY – это канал о живой природе: статьи, картинки, видео и GIF‑файлы публикуются дважды в день, рассказывая об окружающем мире живо и увлекательно【208652145476461†L64-L72】.",
+    "functions": [
+      "publish"
+    ],
+    "topics": [
+      "science",
+      "education"
+    ],
+    "primaryTopic": "science",
+    "language": "ru",
+    "compat": "L0",
+    "audience": "all",
+    "formats": [
+      "text",
+      "image",
+      "video"
+    ],
+    "tags": [
+      "биология",
+      "природа"
+    ],
+    "isPromoted": false,
+    "weight": 10
+  },
+  {
+    "id": "tg-nauka_rf",
+    "title": "Наука.рф (НПНаука)",
+    "type": "channel",
+    "deeplink": "https://t.me/npnauka",
+    "shortDescription": "Официальный канал Десятилетия науки и технологий.",
+    "longDescription": "Канал Наука.рф (НПНаука) является официальным каналом Десятилетия науки и технологий в России, где публикуют новости и события о национальной программе развития науки【918917329514206†L64-L71】.",
+    "functions": [
+      "publish"
+    ],
+    "topics": [
+      "science"
+    ],
+    "primaryTopic": "science",
+    "language": "ru",
+    "compat": "L0",
+    "audience": "all",
+    "formats": [
+      "text"
+    ],
+    "tags": [
+      "официальный",
+      "нацпроект"
+    ],
+    "isPromoted": false,
+    "weight": 10
+  },
+  {
+    "id": "tg-earthpower",
+    "title": "Сила Земли (Earth Power)",
+    "type": "channel",
+    "deeplink": "https://t.me/earthpower",
+    "shortDescription": "Эпичные видео о природе и стихиях.",
+    "longDescription": "Канал демонстрирует мощь природных явлений и величие природы: зрители видят самые эпичные видеоролики о нашей планете и её стихиях【853207823225377†L70-L72】.",
+    "functions": [
+      "publish"
+    ],
+    "topics": [
+      "science",
+      "photography"
+    ],
+    "primaryTopic": "science",
+    "language": "ru",
+    "compat": "L0",
+    "audience": "all",
+    "formats": [
+      "video",
+      "image"
+    ],
+    "tags": [
+      "природа",
+      "грозы"
+    ],
+    "isPromoted": false,
+    "weight": 10
+  },
+  {
+    "id": "tg-popularnaya_nauka",
+    "title": "Популярная наука",
+    "type": "channel",
+    "deeplink": "https://t.me/popularnaya_nauka",
+    "shortDescription": "Простая наука и интересные факты.",
+    "longDescription": "Канал «Популярная наука» публикует интересные факты и объясняет сложные темы простым языком. Это авторский проект научного журналиста Александра Дементьева【942249868971114†L56-L60】.",
+    "functions": [
+      "publish"
+    ],
+    "topics": [
+      "science"
+    ],
+    "primaryTopic": "science",
+    "language": "ru",
+    "compat": "L0",
+    "audience": "all",
+    "formats": [
+      "text"
+    ],
+    "tags": [
+      "факты",
+      "простая наука"
+    ],
+    "isPromoted": false,
+    "weight": 10
+  },
+  {
+    "id": "tg-puska",
+    "title": "Пушка | Передний край науки и технологий",
+    "type": "channel",
+    "deeplink": "https://t.me/sci_one_tv",
+    "shortDescription": "Передовой край науки и технологий: загадки и вопросы вселенной.",
+    "longDescription": "Канал «Пушка» рассказывает о переднем крае науки и технологий: нерешённые загадки и важнейшие вопросы жизни, Вселенной и всего такого. Авторы публикуют эксклюзивные ролики и объясняют сложные темы【831295394774942†L70-L72】.",
+    "functions": [
+      "publish"
+    ],
+    "topics": [
+      "science",
+      "technology"
+    ],
+    "primaryTopic": "science",
+    "language": "ru",
+    "compat": "L0",
+    "audience": "all",
+    "formats": [
+      "video",
+      "text"
+    ],
+    "tags": [
+      "вселенная",
+      "технологии"
+    ],
+    "isPromoted": false,
+    "weight": 10
+  }
+]
