@@ -1,0 +1,1491 @@
+{
+  "resources": [
+    {
+      "id": "tg-shpargalki-aitish",
+      "title": "Шпаргалки для айтишников",
+      "type": "channel",
+      "deeplink": "https://t.me/shpargalka4",
+      "shortDescription": "Канал со шпаргалками и руководствами для системных администраторов и программистов.",
+      "longDescription": "Канал \"Шпаргалки для айтишников\" собирает краткие шпаргалки и полезные руководства для сисадминов, программистов и специалистов по безопасности, помогая быстро найти ответ на сложный вопрос【356206670304356†L116-L119】.",
+      "functions": [
+        "publish"
+      ],
+      "topics": [
+        "technology",
+        "education"
+      ],
+      "primaryTopic": "technology",
+      "language": "ru",
+      "compat": "L0",
+      "audience": "all",
+      "formats": [
+        "text"
+      ],
+      "tags": [
+        "ru-channel",
+        "found_via:blog.cortel"
+      ],
+      "isPromoted": false,
+      "weight": 10
+    },
+    {
+      "id": "tg-github-community",
+      "title": "GitHub community",
+      "type": "channel",
+      "deeplink": "https://t.me/github_community_ru",
+      "shortDescription": "Русскоязычное сообщество GitHub с новостями и обсуждениями.",
+      "longDescription": "GitHub community — один из самых полезных русскоязычных каналов, где публикуют новости, находки и обсуждают проекты на GitHub, а также делятся интересными репозиториями и инструментами【356206670304356†L121-L122】.",
+      "functions": [
+        "publish"
+      ],
+      "topics": [
+        "open_source",
+        "technology"
+      ],
+      "primaryTopic": "open_source",
+      "language": "ru",
+      "compat": "L0",
+      "audience": "all",
+      "formats": [
+        "text"
+      ],
+      "tags": [
+        "ru-channel",
+        "found_via:blog.cortel"
+      ],
+      "isPromoted": false,
+      "weight": 10
+    },
+    {
+      "id": "tg-codecamp",
+      "title": "CodeCamp",
+      "type": "channel",
+      "deeplink": "https://t.me/codecamp_ru",
+      "shortDescription": "Канал о разработке, технологиях и гаджетах.",
+      "longDescription": "CodeCamp — канал о разработке, технологиях и гаджетах; здесь публикуют новости, обучающие материалы и обзоры новинок IT-индустрии【356206670304356†L123-L124】.",
+      "functions": [
+        "publish"
+      ],
+      "topics": [
+        "technology"
+      ],
+      "primaryTopic": "technology",
+      "language": "ru",
+      "compat": "L0",
+      "audience": "all",
+      "formats": [
+        "text"
+      ],
+      "tags": [
+        "ru-channel",
+        "found_via:blog.cortel"
+      ],
+      "isPromoted": false,
+      "weight": 10
+    },
+    {
+      "id": "tg-monitorim-it",
+      "title": "Мониторим ИТ",
+      "type": "channel",
+      "deeplink": "https://t.me/monitoring_it",
+      "shortDescription": "Канал о мониторинге IT‑инфраструктуры и приложений.",
+      "longDescription": "Мониторим ИТ — канал, посвящённый мониторингу IT‑инфраструктуры и приложений, где разбирают инструменты и практики для обеспечения стабильности систем【356206670304356†L127-L128】.",
+      "functions": [
+        "publish"
+      ],
+      "topics": [
+        "technology"
+      ],
+      "primaryTopic": "technology",
+      "language": "ru",
+      "compat": "L0",
+      "audience": "all",
+      "formats": [
+        "text"
+      ],
+      "tags": [
+        "ru-channel",
+        "found_via:blog.cortel"
+      ],
+      "isPromoted": false,
+      "weight": 10
+    },
+    {
+      "id": "tg-telecom-review",
+      "title": "Телеком-ревью",
+      "type": "channel",
+      "deeplink": "https://t.me/telecomreview",
+      "shortDescription": "Новости телекома, регулирования и событий связи.",
+      "longDescription": "Телеком-ревью — канал о телекоммуникациях; он освещает отраслевые новости, изменения в регулировании, события и факты из мира связи【356206670304356†L130-L131】.",
+      "functions": [
+        "publish"
+      ],
+      "topics": [
+        "technology"
+      ],
+      "primaryTopic": "technology",
+      "language": "ru",
+      "compat": "L0",
+      "audience": "all",
+      "formats": [
+        "text"
+      ],
+      "tags": [
+        "ru-channel",
+        "found_via:blog.cortel"
+      ],
+      "isPromoted": false,
+      "weight": 10
+    },
+    {
+      "id": "tg-usr-bin",
+      "title": "/usr/bin",
+      "type": "channel",
+      "deeplink": "https://t.me/usr_bin",
+      "shortDescription": "Канал о Linux, Kubernetes, Docker и Terraform.",
+      "longDescription": "/usr/bin — канал для системных администраторов: публикуются материалы о Linux, Kubernetes, Docker, Terraform и других инструментах для инфраструктуры【356206670304356†L138-L139】.",
+      "functions": [
+        "publish"
+      ],
+      "topics": [
+        "open_source",
+        "technology"
+      ],
+      "primaryTopic": "open_source",
+      "language": "ru",
+      "compat": "L0",
+      "audience": "all",
+      "formats": [
+        "text"
+      ],
+      "tags": [
+        "ru-channel",
+        "found_via:blog.cortel"
+      ],
+      "isPromoted": false,
+      "weight": 10
+    },
+    {
+      "id": "tg-danger-linux",
+      "title": "Danger Linux",
+      "type": "channel",
+      "deeplink": "https://t.me/dangerlinux",
+      "shortDescription": "Информация и юмор о Linux и администраторах.",
+      "longDescription": "Danger Linux — канал, в котором публикуют полезные материалы и юмор о Linux, администрировании и связанных технологиях【356206670304356†L141-L146】.",
+      "functions": [
+        "publish"
+      ],
+      "topics": [
+        "open_source",
+        "technology"
+      ],
+      "primaryTopic": "open_source",
+      "language": "ru",
+      "compat": "L0",
+      "audience": "all",
+      "formats": [
+        "text"
+      ],
+      "tags": [
+        "ru-channel",
+        "found_via:blog.cortel"
+      ],
+      "isPromoted": false,
+      "weight": 10
+    },
+    {
+      "id": "tg-kali-linux",
+      "title": "Kali Linux",
+      "type": "channel",
+      "deeplink": "https://t.me/kali_linux_ru",
+      "shortDescription": "Один из крупнейших каналов по Kali Linux и pentest.",
+      "longDescription": "Kali Linux — один из крупнейших Telegram‑каналов, посвящённых одноимённому дистрибутиву и инструментам для pentest; публикуются материалы, инструкции и новости по кибербезопасности【356206670304356†L141-L146】.",
+      "functions": [
+        "publish"
+      ],
+      "topics": [
+        "open_source",
+        "technology"
+      ],
+      "primaryTopic": "open_source",
+      "language": "ru",
+      "compat": "L0",
+      "audience": "all",
+      "formats": [
+        "text"
+      ],
+      "tags": [
+        "ru-channel",
+        "found_via:blog.cortel"
+      ],
+      "isPromoted": false,
+      "weight": 10
+    },
+    {
+      "id": "tg-zapisky-admina",
+      "title": "Записки админа",
+      "type": "channel",
+      "deeplink": "https://t.me/sysadm_notes",
+      "shortDescription": "Канал про Linux и серверное администрирование.",
+      "longDescription": "Записки админа — канал о Linux и серверном администрировании; в нём публикуются заметки, советы и разборы типичных проблем системного администратора【356206670304356†L141-L146】.",
+      "functions": [
+        "publish"
+      ],
+      "topics": [
+        "technology"
+      ],
+      "primaryTopic": "technology",
+      "language": "ru",
+      "compat": "L0",
+      "audience": "all",
+      "formats": [
+        "text"
+      ],
+      "tags": [
+        "ru-channel",
+        "found_via:blog.cortel"
+      ],
+      "isPromoted": false,
+      "weight": 10
+    },
+    {
+      "id": "tg-listok-buro",
+      "title": "Листок бюрократической защиты информации",
+      "type": "channel",
+      "deeplink": "https://t.me/lbzi",
+      "shortDescription": "Канал об организационной и правовой безопасности.",
+      "longDescription": "Листок бюрократической защиты информации — канал, посвящённый организационной и правовой информационной безопасности; публикуются новости о нормативных актах и методиках защиты информации【356206670304356†L149-L154】.",
+      "functions": [
+        "publish"
+      ],
+      "topics": [
+        "technology"
+      ],
+      "primaryTopic": "technology",
+      "language": "ru",
+      "compat": "L0",
+      "audience": "all",
+      "formats": [
+        "text"
+      ],
+      "tags": [
+        "ru-channel",
+        "found_via:blog.cortel"
+      ],
+      "isPromoted": false,
+      "weight": 10
+    },
+    {
+      "id": "tg-privacy-advocates",
+      "title": "Privacy Advocates",
+      "type": "channel",
+      "deeplink": "https://t.me/privacyadvocates",
+      "shortDescription": "Канал о защите данных и приватности.",
+      "longDescription": "Privacy Advocates — канал, где освещаются вопросы приватности, защиты данных и цифровых прав, а также делятся рекомендациями по безопасному использованию технологий【356206670304356†L149-L154】.",
+      "functions": [
+        "publish"
+      ],
+      "topics": [
+        "technology"
+      ],
+      "primaryTopic": "technology",
+      "language": "ru",
+      "compat": "L0",
+      "audience": "all",
+      "formats": [
+        "text"
+      ],
+      "tags": [
+        "ru-channel",
+        "found_via:blog.cortel"
+      ],
+      "isPromoted": false,
+      "weight": 10
+    },
+    {
+      "id": "tg-personalnye-dannye",
+      "title": "Персональные_данные",
+      "type": "channel",
+      "deeplink": "https://t.me/personal_data_ru",
+      "shortDescription": "Канал о защите персональных данных и их утечках.",
+      "longDescription": "Канал \"Персональные_данные\" публикует материалы о защите персональных данных, законах в сфере privacy, и сообщает о случаях утечек и утраты информации【356206670304356†L165-L168】.",
+      "functions": [
+        "publish"
+      ],
+      "topics": [
+        "technology",
+        "science"
+      ],
+      "primaryTopic": "technology",
+      "language": "ru",
+      "compat": "L0",
+      "audience": "all",
+      "formats": [
+        "text"
+      ],
+      "tags": [
+        "ru-channel",
+        "found_via:blog.cortel"
+      ],
+      "isPromoted": false,
+      "weight": 10
+    },
+    {
+      "id": "tg-infosec",
+      "title": "Infosec",
+      "type": "channel",
+      "deeplink": "https://t.me/infosec_ru",
+      "shortDescription": "Канал о кибербезопасности, хакерстве и OSINT.",
+      "longDescription": "Infosec — канал, где публикуются книги, статьи и инструкции по информационной безопасности: pentest, взлом, OSINT, DevOps, администрирование и многое другое【356206670304356†L165-L168】.",
+      "functions": [
+        "publish"
+      ],
+      "topics": [
+        "technology",
+        "open_source"
+      ],
+      "primaryTopic": "technology",
+      "language": "ru",
+      "compat": "L0",
+      "audience": "all",
+      "formats": [
+        "text"
+      ],
+      "tags": [
+        "ru-channel",
+        "found_via:blog.cortel"
+      ],
+      "isPromoted": false,
+      "weight": 10
+    },
+    {
+      "id": "tg-network-admin",
+      "title": "Network Admin",
+      "type": "channel",
+      "deeplink": "https://t.me/network_admin_ru",
+      "shortDescription": "Канал для сетевых администраторов с курсами и гайдами.",
+      "longDescription": "Network Admin — канал для сетевых администраторов, в котором публикуются курсы, гайды по сетевой безопасности и практические материалы для специалистов【356206670304356†L170-L186】.",
+      "functions": [
+        "publish"
+      ],
+      "topics": [
+        "technology"
+      ],
+      "primaryTopic": "technology",
+      "language": "ru",
+      "compat": "L0",
+      "audience": "all",
+      "formats": [
+        "text"
+      ],
+      "tags": [
+        "ru-channel",
+        "found_via:blog.cortel"
+      ],
+      "isPromoted": false,
+      "weight": 10
+    },
+    {
+      "id": "tg-sekrety-sisadmina",
+      "title": "Секреты сисадмина",
+      "type": "channel",
+      "deeplink": "https://t.me/sisadmin_secrets",
+      "shortDescription": "Справочник и советы для системных администраторов.",
+      "longDescription": "Секреты сисадмина — канал в формате справочника, где системные администраторы делятся советами, лайфхаками и отвечают на вопросы коллег【356206670304356†L170-L186】.",
+      "functions": [
+        "publish"
+      ],
+      "topics": [
+        "technology"
+      ],
+      "primaryTopic": "technology",
+      "language": "ru",
+      "compat": "L0",
+      "audience": "all",
+      "formats": [
+        "text"
+      ],
+      "tags": [
+        "ru-channel",
+        "found_via:blog.cortel"
+      ],
+      "isPromoted": false,
+      "weight": 10
+    },
+    {
+      "id": "tg-tipichnyi-sisadmin",
+      "title": "Типичный сисадмин",
+      "type": "channel",
+      "deeplink": "https://t.me/typical_sysadmin",
+      "shortDescription": "Юмор и новости для системных администраторов.",
+      "longDescription": "Типичный сисадмин — популярный канал с юмором, новостями и обсуждениями, посвящёнными жизни и работе системных администраторов【356206670304356†L170-L186】.",
+      "functions": [
+        "publish"
+      ],
+      "topics": [
+        "technology",
+        "entertainment"
+      ],
+      "primaryTopic": "technology",
+      "language": "ru",
+      "compat": "L0",
+      "audience": "all",
+      "formats": [
+        "text"
+      ],
+      "tags": [
+        "ru-channel",
+        "found_via:blog.cortel"
+      ],
+      "isPromoted": false,
+      "weight": 10
+    },
+    {
+      "id": "tg-sistemnyi-administrator",
+      "title": "Системный администратор",
+      "type": "channel",
+      "deeplink": "https://t.me/system_administrator",
+      "shortDescription": "Канал обо всём для системных администраторов.",
+      "longDescription": "Системный администратор — канал, где публикуются полезные материалы, новости, обсуждения и практические рекомендации по работе системного администратора【356206670304356†L170-L186】.",
+      "functions": [
+        "publish"
+      ],
+      "topics": [
+        "technology"
+      ],
+      "primaryTopic": "technology",
+      "language": "ru",
+      "compat": "L0",
+      "audience": "all",
+      "formats": [
+        "text"
+      ],
+      "tags": [
+        "ru-channel",
+        "found_via:blog.cortel"
+      ],
+      "isPromoted": false,
+      "weight": 10
+    },
+    {
+      "id": "tg-blog-sisadmina",
+      "title": "Блог системного администратора",
+      "type": "channel",
+      "deeplink": "https://t.me/sysadmin_blog",
+      "shortDescription": "Статьи и видеообзоры для администраторов.",
+      "longDescription": "Блог системного администратора — канал, где автор публикует статьи и видеообзоры по системному администрированию и делится опытом развития инфраструктур【356206670304356†L170-L186】.",
+      "functions": [
+        "publish"
+      ],
+      "topics": [
+        "technology"
+      ],
+      "primaryTopic": "technology",
+      "language": "ru",
+      "compat": "L0",
+      "audience": "all",
+      "formats": [
+        "text"
+      ],
+      "tags": [
+        "ru-channel",
+        "found_via:blog.cortel"
+      ],
+      "isPromoted": false,
+      "weight": 10
+    },
+    {
+      "id": "tg-serveradmin",
+      "title": "ServerAdmin.ru",
+      "type": "channel",
+      "deeplink": "https://t.me/serveradminru",
+      "shortDescription": "Канал с практическими советами по серверной инфраструктуре.",
+      "longDescription": "ServerAdmin.ru — канал с практическими советами и кейсами по серверной инфраструктуре, автоматизации и управлению системами【356206670304356†L170-L186】.",
+      "functions": [
+        "publish"
+      ],
+      "topics": [
+        "technology"
+      ],
+      "primaryTopic": "technology",
+      "language": "ru",
+      "compat": "L0",
+      "audience": "all",
+      "formats": [
+        "text"
+      ],
+      "tags": [
+        "ru-channel",
+        "found_via:blog.cortel"
+      ],
+      "isPromoted": false,
+      "weight": 10
+    },
+    {
+      "id": "tg-admin-guides",
+      "title": "Admin Guides | Сисадмин",
+      "type": "channel",
+      "deeplink": "https://t.me/adminguides",
+      "shortDescription": "Инструкции и гайды по Linux и Windows для админов.",
+      "longDescription": "Admin Guides | Сисадмин — канал с подробными инструкциями и гайдами по администрированию Linux и Windows, который помогает администраторам быстро решать задачи【356206670304356†L170-L186】.",
+      "functions": [
+        "publish"
+      ],
+      "topics": [
+        "technology"
+      ],
+      "primaryTopic": "technology",
+      "language": "ru",
+      "compat": "L0",
+      "audience": "all",
+      "formats": [
+        "text"
+      ],
+      "tags": [
+        "ru-channel",
+        "found_via:blog.cortel"
+      ],
+      "isPromoted": false,
+      "weight": 10
+    },
+    {
+      "id": "tg-devops-biblioteka",
+      "title": "DevOps Библиотека",
+      "type": "channel",
+      "deeplink": "https://t.me/devops_library",
+      "shortDescription": "Библиотека литературы по DevOps, инструментам и автоматизации.",
+      "longDescription": "DevOps Библиотека — Telegram‑канал, представляющий библиотеку литературы и ресурсов: статьи, видеоуроки и чек-листы, посвящённые DevOps, инфраструктуре и инструментам автоматизации【356206670304356†L202-L229】.",
+      "functions": [
+        "publish"
+      ],
+      "topics": [
+        "technology",
+        "open_source"
+      ],
+      "primaryTopic": "technology",
+      "language": "ru",
+      "compat": "L0",
+      "audience": "all",
+      "formats": [
+        "text"
+      ],
+      "tags": [
+        "ru-channel",
+        "found_via:blog.cortel"
+      ],
+      "isPromoted": false,
+      "weight": 10
+    },
+    {
+      "id": "tg-devops-for-devops",
+      "title": "DevOps для DevOps",
+      "type": "channel",
+      "deeplink": "https://t.me/devopsfordevops",
+      "shortDescription": "Канал о DevOps-подходах и инструментах.",
+      "longDescription": "DevOps для DevOps — русскоязычный канал, на котором публикуются материалы об инструментах DevOps, подходах и практиках для повышения эффективности разработки и эксплуатации【356206670304356†L202-L229】.",
+      "functions": [
+        "publish"
+      ],
+      "topics": [
+        "technology"
+      ],
+      "primaryTopic": "technology",
+      "language": "ru",
+      "compat": "L0",
+      "audience": "all",
+      "formats": [
+        "text"
+      ],
+      "tags": [
+        "ru-channel",
+        "found_via:blog.cortel"
+      ],
+      "isPromoted": false,
+      "weight": 10
+    },
+    {
+      "id": "tg-piatnichnyi-deploy",
+      "title": "Пятничный деплой",
+      "type": "channel",
+      "deeplink": "https://t.me/friday_deploy",
+      "shortDescription": "Подборка ссылок и статей из мира DevOps и SRE.",
+      "longDescription": "Пятничный деплой — канал, который каждую неделю собирает ссылки, статьи и посты из мира DevOps/SRE и разработки, описывая их понятным языком для улучшения процессов【356206670304356†L202-L229】.",
+      "functions": [
+        "publish"
+      ],
+      "topics": [
+        "technology"
+      ],
+      "primaryTopic": "technology",
+      "language": "ru",
+      "compat": "L0",
+      "audience": "all",
+      "formats": [
+        "text"
+      ],
+      "tags": [
+        "ru-channel",
+        "found_via:blog.cortel"
+      ],
+      "isPromoted": false,
+      "weight": 10
+    },
+    {
+      "id": "tg-devops",
+      "title": "Devops",
+      "type": "channel",
+      "deeplink": "https://t.me/devops_channel",
+      "shortDescription": "Канал о контейнерах, оркестраторах и масштабировании.",
+      "longDescription": "Devops — технический канал о DevOps-решениях: контейнеры, оркестраторы, масштабирование и лучшие практики разработки и администрирования【356206670304356†L202-L229】.",
+      "functions": [
+        "publish"
+      ],
+      "topics": [
+        "technology"
+      ],
+      "primaryTopic": "technology",
+      "language": "ru",
+      "compat": "L0",
+      "audience": "all",
+      "formats": [
+        "text"
+      ],
+      "tags": [
+        "ru-channel",
+        "found_via:blog.cortel"
+      ],
+      "isPromoted": false,
+      "weight": 10
+    },
+    {
+      "id": "tg-devops-community-love",
+      "title": "DevOps Community for love",
+      "type": "channel",
+      "deeplink": "https://t.me/devops_love",
+      "shortDescription": "Комьюнити-канал с новостями, конференциями и гайдами по DevOps.",
+      "longDescription": "DevOps Community for love — сообщество DevOps-энтузиастов: здесь публикуют новости, анонсы конференций, обучающие материалы и подборки полезных руководств【356206670304356†L202-L229】.",
+      "functions": [
+        "publish"
+      ],
+      "topics": [
+        "technology"
+      ],
+      "primaryTopic": "technology",
+      "language": "ru",
+      "compat": "L0",
+      "audience": "all",
+      "formats": [
+        "text"
+      ],
+      "tags": [
+        "ru-channel",
+        "found_via:blog.cortel"
+      ],
+      "isPromoted": false,
+      "weight": 10
+    },
+    {
+      "id": "tg-devops-sre-library",
+      "title": "DevOps & SRE Library",
+      "type": "channel",
+      "deeplink": "https://t.me/devops_sre_library",
+      "shortDescription": "Библиотека книг и статей для DevOps и SRE специалистов.",
+      "longDescription": "DevOps & SRE Library — канал-библиотека с книгами, статьями и ресурсами для DevOps- и SRE-специалистов, а также обсуждение лучших практик【356206670304356†L202-L229】.",
+      "functions": [
+        "publish"
+      ],
+      "topics": [
+        "technology"
+      ],
+      "primaryTopic": "technology",
+      "language": "ru",
+      "compat": "L0",
+      "audience": "all",
+      "formats": [
+        "text"
+      ],
+      "tags": [
+        "ru-channel",
+        "found_via:blog.cortel"
+      ],
+      "isPromoted": false,
+      "weight": 10
+    },
+    {
+      "id": "tg-mops-devops",
+      "title": "Mops DevOps",
+      "type": "channel",
+      "deeplink": "https://t.me/mops_devops",
+      "shortDescription": "Канал о Kubernetes, Docker и современном DevOps.",
+      "longDescription": "Mops DevOps — канал о Kubernetes, Docker и современных технологиях DevOps; здесь делятся инструкциями, новостями и кейсами, чтобы сделать работу администраторов проще【356206670304356†L202-L229】.",
+      "functions": [
+        "publish"
+      ],
+      "topics": [
+        "technology",
+        "open_source"
+      ],
+      "primaryTopic": "technology",
+      "language": "ru",
+      "compat": "L0",
+      "audience": "all",
+      "formats": [
+        "text"
+      ],
+      "tags": [
+        "ru-channel",
+        "found_via:blog.cortel"
+      ],
+      "isPromoted": false,
+      "weight": 10
+    },
+    {
+      "id": "tg-devops-fm",
+      "title": "DevOps FM",
+      "type": "channel",
+      "deeplink": "https://t.me/devops_fm",
+      "shortDescription": "Новости, практики и инструменты DevOps.",
+      "longDescription": "DevOps FM — канал, где собираются новости, лучшие практики и инструменты для DevOps-инженеров и администраторов; также обсуждаются проблемы и решения в DevOps-экосистеме【356206670304356†L202-L229】.",
+      "functions": [
+        "publish"
+      ],
+      "topics": [
+        "technology"
+      ],
+      "primaryTopic": "technology",
+      "language": "ru",
+      "compat": "L0",
+      "audience": "all",
+      "formats": [
+        "text"
+      ],
+      "tags": [
+        "ru-channel",
+        "found_via:blog.cortel"
+      ],
+      "isPromoted": false,
+      "weight": 10
+    },
+    {
+      "id": "tg-arhivator",
+      "title": "Архиватор",
+      "type": "channel",
+      "deeplink": "https://t.me/archivator_it",
+      "shortDescription": "Бесплатные курсы и образовательные материалы для IT.",
+      "longDescription": "Архиватор — канал, где публикуются ссылки на бесплатные курсы и образовательные материалы по IT-направлениям, помогая программистам и администраторам развивать навыки【356206670304356†L231-L245】.",
+      "functions": [
+        "publish"
+      ],
+      "topics": [
+        "education",
+        "technology"
+      ],
+      "primaryTopic": "education",
+      "language": "ru",
+      "compat": "L0",
+      "audience": "all",
+      "formats": [
+        "text"
+      ],
+      "tags": [
+        "ru-channel",
+        "found_via:blog.cortel"
+      ],
+      "isPromoted": false,
+      "weight": 10
+    },
+    {
+      "id": "tg-biblioteka-programmista",
+      "title": "Библиотека программиста",
+      "type": "channel",
+      "deeplink": "https://t.me/proglibrary",
+      "shortDescription": "Подборки книг, статей и инструментов для программистов.",
+      "longDescription": "Библиотека программиста — канал с подборками книг, статей и инструментов для программистов, где можно найти полезную литературу, ссылки на репозитории и обучающие ресурсы【356206670304356†L231-L245】.",
+      "functions": [
+        "publish"
+      ],
+      "topics": [
+        "education",
+        "technology"
+      ],
+      "primaryTopic": "education",
+      "language": "ru",
+      "compat": "L0",
+      "audience": "all",
+      "formats": [
+        "text"
+      ],
+      "tags": [
+        "ru-channel",
+        "found_via:blog.cortel"
+      ],
+      "isPromoted": false,
+      "weight": 10
+    },
+    {
+      "id": "tg-knigi-programmistov",
+      "title": "Книги для программистов",
+      "type": "channel",
+      "deeplink": "https://t.me/books_programmer",
+      "shortDescription": "Канал с рекомендациями книг по программированию и IT.",
+      "longDescription": "Книги для программистов — канал, где публикуются рекомендации и обзоры книг по программированию, алгоритмам и IT-науке, помогающие выбрать литературу для обучения【356206670304356†L231-L245】.",
+      "functions": [
+        "publish"
+      ],
+      "topics": [
+        "education",
+        "technology"
+      ],
+      "primaryTopic": "education",
+      "language": "ru",
+      "compat": "L0",
+      "audience": "all",
+      "formats": [
+        "text"
+      ],
+      "tags": [
+        "ru-channel",
+        "found_via:blog.cortel"
+      ],
+      "isPromoted": false,
+      "weight": 10
+    },
+    {
+      "id": "tg-open-it",
+      "title": "Open IT",
+      "type": "channel",
+      "deeplink": "https://t.me/open_it_channel",
+      "shortDescription": "Канал с материалами по программированию и IT-основам.",
+      "longDescription": "Open IT — канал для начинающих программистов: публикуются материалы по языкам программирования, основам CS, а также актуальные новости IT-индустрии【356206670304356†L231-L245】.",
+      "functions": [
+        "publish"
+      ],
+      "topics": [
+        "education",
+        "technology"
+      ],
+      "primaryTopic": "education",
+      "language": "ru",
+      "compat": "L0",
+      "audience": "all",
+      "formats": [
+        "text"
+      ],
+      "tags": [
+        "ru-channel",
+        "found_via:blog.cortel"
+      ],
+      "isPromoted": false,
+      "weight": 10
+    },
+    {
+      "id": "tg-sbornik-it-znanii",
+      "title": "Сборник IT знаний",
+      "type": "channel",
+      "deeplink": "https://t.me/it_knowledge_ru",
+      "shortDescription": "Курсы и подборки для разных направлений IT.",
+      "longDescription": "Сборник IT знаний — канал, который собирает курсы и обучающие материалы для различных направлений IT: разработки, администрирования, аналитики и DevOps【356206670304356†L231-L245】.",
+      "functions": [
+        "publish"
+      ],
+      "topics": [
+        "education",
+        "technology"
+      ],
+      "primaryTopic": "education",
+      "language": "ru",
+      "compat": "L0",
+      "audience": "all",
+      "formats": [
+        "text"
+      ],
+      "tags": [
+        "ru-channel",
+        "found_via:blog.cortel"
+      ],
+      "isPromoted": false,
+      "weight": 10
+    },
+    {
+      "id": "tg-code-guru",
+      "title": "Code Guru",
+      "type": "channel",
+      "deeplink": "https://t.me/codeguru_ru",
+      "shortDescription": "Канал для изучения языков программирования и практики.",
+      "longDescription": "Code Guru — канал, посвящённый изучению языков программирования: публикуются видеоуроки, статьи и задачи для самостоятельной практики【356206670304356†L231-L245】.",
+      "functions": [
+        "publish"
+      ],
+      "topics": [
+        "education",
+        "technology"
+      ],
+      "primaryTopic": "education",
+      "language": "ru",
+      "compat": "L0",
+      "audience": "all",
+      "formats": [
+        "text"
+      ],
+      "tags": [
+        "ru-channel",
+        "found_via:blog.cortel"
+      ],
+      "isPromoted": false,
+      "weight": 10
+    },
+    {
+      "id": "tg-database-sql",
+      "title": "Database | SQL, Big Data",
+      "type": "channel",
+      "deeplink": "https://t.me/database_sql_bigdata",
+      "shortDescription": "Канал о базах данных, SQL и больших данных.",
+      "longDescription": "Database | SQL, Big Data — канал с курсами, статьями и полезными материалами о базах данных, SQL и технологиях обработки больших данных【356206670304356†L231-L245】.",
+      "functions": [
+        "publish"
+      ],
+      "topics": [
+        "education",
+        "technology"
+      ],
+      "primaryTopic": "education",
+      "language": "ru",
+      "compat": "L0",
+      "audience": "all",
+      "formats": [
+        "text"
+      ],
+      "tags": [
+        "ru-channel",
+        "found_via:blog.cortel"
+      ],
+      "isPromoted": false,
+      "weight": 10
+    },
+    {
+      "id": "tg-notifine-github-bot",
+      "title": "Notifine GitHub Bot",
+      "type": "bot",
+      "deeplink": "https://t.me/notifine_github_bot",
+      "shortDescription": "Бот для уведомлений о событиях на GitHub.",
+      "longDescription": "Notifine GitHub Bot — часть сервиса Notifine, отправляет уведомления о событиях в GitHub (новые коммиты, issues, pull requests) прямо в Telegram. Notifine — сервис, предоставляющий надёжные Telegram-уведомления о событиях на GitHub и GitLab. Он работает через вебхуки и написан на Rust, обеспечивая высокую скорость и надёжность; поддерживаются уведомления о коммитах, pipeline, issue и других событиях【67739061803933†L10-L23】【67739061803933†L39-L48】.",
+      "functions": [
+        "publish",
+        "integrate",
+        "automate"
+      ],
+      "topics": [
+        "technology",
+        "open_source"
+      ],
+      "primaryTopic": "technology",
+      "language": "multi",
+      "compat": "L0",
+      "audience": "all",
+      "formats": [
+        "text"
+      ],
+      "tags": [
+        "bot",
+        "found_via:notifine"
+      ],
+      "isPromoted": false,
+      "weight": 10
+    },
+    {
+      "id": "tg-notifine-gitlab-bot",
+      "title": "Notifine GitLab Bot",
+      "type": "bot",
+      "deeplink": "https://t.me/notifine_gitlab_bot",
+      "shortDescription": "Уведомления о событиях в GitLab в Telegram.",
+      "longDescription": "Notifine GitLab Bot — бот сервиса Notifine, который отправляет уведомления о коммитах, CI/CD пайплайнах, issue и других событиях в GitLab в Telegram, что обеспечивает оперативное отслеживание проектовNotifine — сервис, предоставляющий надёжные Telegram-уведомления о событиях на GitHub и GitLab. Он работает через вебхуки и написан на Rust, обеспечивая высокую скорость и надёжность; поддерживаются уведомления о коммитах, pipeline, issue и других событиях【67739061803933†L10-L23】【67739061803933†L39-L48】.",
+      "functions": [
+        "publish",
+        "integrate",
+        "automate"
+      ],
+      "topics": [
+        "technology",
+        "open_source"
+      ],
+      "primaryTopic": "technology",
+      "language": "multi",
+      "compat": "L0",
+      "audience": "all",
+      "formats": [
+        "text"
+      ],
+      "tags": [
+        "bot",
+        "found_via:notifine"
+      ],
+      "isPromoted": false,
+      "weight": 10
+    },
+    {
+      "id": "tg-notifine-uptime-bot",
+      "title": "Notifine Uptime Bot",
+      "type": "bot",
+      "deeplink": "https://t.me/notifine_uptime_bot",
+      "shortDescription": "Мониторинг доступности сайтов и сервисов.",
+      "longDescription": "Notifine Uptime Bot — бот, который мониторит доступность ваших веб‑сайтов или сервисов и отправляет уведомления в Telegram, основанный на инфраструктуре Notifine с высокой надёжностьюNotifine — сервис, предоставляющий надёжные Telegram-уведомления о событиях на GitHub и GitLab. Он работает через вебхуки и написан на Rust, обеспечивая высокую скорость и надёжность; поддерживаются уведомления о коммитах, pipeline, issue и других событиях【67739061803933†L10-L23】【67739061803933†L39-L48】.",
+      "functions": [
+        "publish",
+        "integrate",
+        "automate"
+      ],
+      "topics": [
+        "technology"
+      ],
+      "primaryTopic": "technology",
+      "language": "multi",
+      "compat": "L0",
+      "audience": "all",
+      "formats": [
+        "text"
+      ],
+      "tags": [
+        "bot",
+        "found_via:notifine"
+      ],
+      "isPromoted": false,
+      "weight": 10
+    },
+    {
+      "id": "tg-notifine-beep-bot",
+      "title": "Notifine Beep Bot",
+      "type": "bot",
+      "deeplink": "https://t.me/notifine_beep_bot",
+      "shortDescription": "Уведомления о новых событиях для разработчиков.",
+      "longDescription": "Notifine Beep Bot — бот, который уведомляет разработчиков о важных событиях (коммиты, баги, сборки) через Telegram и позволяет быстро реагировать, используя инфраструктуру NotifineNotifine — сервис, предоставляющий надёжные Telegram-уведомления о событиях на GitHub и GitLab. Он работает через вебхуки и написан на Rust, обеспечивая высокую скорость и надёжность; поддерживаются уведомления о коммитах, pipeline, issue и других событиях【67739061803933†L10-L23】【67739061803933†L39-L48】.",
+      "functions": [
+        "publish",
+        "integrate",
+        "automate"
+      ],
+      "topics": [
+        "technology"
+      ],
+      "primaryTopic": "technology",
+      "language": "multi",
+      "compat": "L0",
+      "audience": "all",
+      "formats": [
+        "text"
+      ],
+      "tags": [
+        "bot",
+        "found_via:notifine"
+      ],
+      "isPromoted": false,
+      "weight": 10
+    },
+    {
+      "id": "tg-github-release-alerts",
+      "title": "GitHub Release Alerts",
+      "type": "bot",
+      "deeplink": "https://t.me/github_release_bot",
+      "shortDescription": "Бот уведомляет о релизах и обновлениях в GitHub-репозиториях.",
+      "longDescription": "GitHub Release Alerts — телеграм-бот, который уведомляет о новых релизах, коммитах или обновлениях в GitHub-репозиториях. Пользователь может подписаться на конкретные репозитории, загружать файлы или использовать starred репозитории, бот поддерживает Markdown и умеет отправлять уведомления в каналы и группы【163971486919171†L74-L79】.",
+      "functions": [
+        "publish",
+        "integrate",
+        "automate"
+      ],
+      "topics": [
+        "technology",
+        "open_source"
+      ],
+      "primaryTopic": "technology",
+      "language": "multi",
+      "compat": "L0",
+      "audience": "all",
+      "formats": [
+        "text"
+      ],
+      "tags": [
+        "bot",
+        "found_via:latenode"
+      ],
+      "isPromoted": false,
+      "weight": 10
+    },
+    {
+      "id": "tg-todomateai",
+      "title": "TodoMateAI",
+      "type": "miniapp",
+      "deeplink": "https://t.me/todomateai_bot?startapp",
+      "shortDescription": "AI‑ассистент для создания задач и напоминаний.",
+      "longDescription": "TodoMateAI — мини-приложение в Telegram, которое с помощью AI превращает текстовые сообщения в задачи, позволяет устанавливать сроки, напоминания и разделять дела по категориям; поддерживает командную работу и работает в удобном интерфейсе mini app【622077419374016†L29-L65】.",
+      "functions": [
+        "compose",
+        "automate",
+        "analyze"
+      ],
+      "topics": [
+        "productivity",
+        "technology"
+      ],
+      "primaryTopic": "productivity",
+      "language": "ru",
+      "compat": "L0",
+      "audience": "all",
+      "formats": [
+        "text",
+        "html"
+      ],
+      "tags": [
+        "miniapp",
+        "found_via:vc.ru"
+      ],
+      "isPromoted": false,
+      "weight": 10
+    },
+    {
+      "id": "tg-totododo",
+      "title": "Totododo",
+      "type": "miniapp",
+      "deeplink": "https://t.me/totododo_bot?startapp",
+      "shortDescription": "Минималистичный таск‑менеджер с календарём и аналитикой.",
+      "longDescription": "Totododo — мини‑приложение‑таск‑менеджер, где можно создавать задачи, видеть их в календаре, анализировать время, использовать повторяющиеся задачи и тёмную тему; удобен для личной продуктивности【622077419374016†L77-L105】.",
+      "functions": [
+        "compose",
+        "analyze",
+        "automate"
+      ],
+      "topics": [
+        "productivity"
+      ],
+      "primaryTopic": "productivity",
+      "language": "ru",
+      "compat": "L0",
+      "audience": "all",
+      "formats": [
+        "text",
+        "html"
+      ],
+      "tags": [
+        "miniapp",
+        "found_via:vc.ru"
+      ],
+      "isPromoted": false,
+      "weight": 10
+    },
+    {
+      "id": "tg-itasker",
+      "title": "iTasker",
+      "type": "bot",
+      "deeplink": "https://t.me/iTaskerBot",
+      "shortDescription": "Мощный бот для управления задачами в личных и групповых чатах.",
+      "longDescription": "iTasker — мощный Telegram‑бот для добавления и управления задачами: позволяет создавать задачи из сообщений в личных и групповых чатах, назначать сроки, статусы и ответственных; подходит для командной работы【622077419374016†L110-L135】.",
+      "functions": [
+        "compose",
+        "automate",
+        "analyze"
+      ],
+      "topics": [
+        "productivity"
+      ],
+      "primaryTopic": "productivity",
+      "language": "ru",
+      "compat": "L0",
+      "audience": "all",
+      "formats": [
+        "text"
+      ],
+      "tags": [
+        "bot",
+        "found_via:vc.ru"
+      ],
+      "isPromoted": false,
+      "weight": 10
+    },
+    {
+      "id": "tg-the-wall",
+      "title": "The Wall",
+      "type": "miniapp",
+      "deeplink": "https://t.me/the_wall_bot?startapp",
+      "shortDescription": "Гибкая доска задач для визуального планирования.",
+      "longDescription": "The Wall — визуальная доска задач в Telegram: позволяет создавать доски с колонками и статусами, приглашать участников, отслеживать выполнение задач и гибко организовывать процессы для команды【622077419374016†L137-L176】.",
+      "functions": [
+        "compose",
+        "automate"
+      ],
+      "topics": [
+        "productivity"
+      ],
+      "primaryTopic": "productivity",
+      "language": "ru",
+      "compat": "L0",
+      "audience": "all",
+      "formats": [
+        "text",
+        "html"
+      ],
+      "tags": [
+        "miniapp",
+        "found_via:vc.ru"
+      ],
+      "isPromoted": false,
+      "weight": 10
+    },
+    {
+      "id": "tg-mytodo",
+      "title": "MyToDo",
+      "type": "miniapp",
+      "deeplink": "https://t.me/mytodo_bot?startapp",
+      "shortDescription": "Простая мини‑app для быстрых заметок и списков дел.",
+      "longDescription": "MyToDo — мини‑приложение, которое позволяет быстро создавать задачи и списки дел; идеально подходит для повседневных заметок, хотя и не содержит расширенных функций для командной работы【622077419374016†L179-L203】.",
+      "functions": [
+        "compose",
+        "automate"
+      ],
+      "topics": [
+        "productivity"
+      ],
+      "primaryTopic": "productivity",
+      "language": "ru",
+      "compat": "L0",
+      "audience": "all",
+      "formats": [
+        "text",
+        "html"
+      ],
+      "tags": [
+        "miniapp",
+        "found_via:vc.ru"
+      ],
+      "isPromoted": false,
+      "weight": 10
+    },
+    {
+      "id": "tg-crmchat",
+      "title": "CRMchat",
+      "type": "service",
+      "deeplink": "https://crmchat.ai/telegram",
+      "shortDescription": "Интеграция CRM и Telegram для управления задачами и сделками.",
+      "longDescription": "CRMchat — сервис, синхронизирующийся с CRM‑системами, такими как HubSpot: позволяет получать уведомления, управлять сделками, создавать задачи, оставлять голосовые заметки и интегрироваться с Zapier, поддерживая командную работу в чате【365272781853441†L152-L172】.",
+      "functions": [
+        "integrate",
+        "compose",
+        "automate"
+      ],
+      "topics": [
+        "productivity",
+        "business"
+      ],
+      "primaryTopic": "productivity",
+      "language": "multi",
+      "compat": "L0",
+      "audience": "all",
+      "formats": [
+        "text",
+        "html"
+      ],
+      "tags": [
+        "service",
+        "found_via:crmchat"
+      ],
+      "isPromoted": false,
+      "weight": 10
+    },
+    {
+      "id": "tg-skeddy",
+      "title": "Skeddy",
+      "type": "bot",
+      "deeplink": "https://t.me/SkeddyBot",
+      "shortDescription": "Бот‑напоминалка с естественным языком и web‑интерфейсом.",
+      "longDescription": "Skeddy — бот-напоминалка, который позволяет устанавливать напоминания на естественном языке, поддерживает сложные повторяющиеся задачи, предоставляет веб‑интерфейс и кнопки откладывания; может создавать заметки и отправлять напоминания в чаты【365272781853441†L174-L178】【320110262031678†L16-L35】.",
+      "functions": [
+        "automate",
+        "compose"
+      ],
+      "topics": [
+        "productivity"
+      ],
+      "primaryTopic": "productivity",
+      "language": "multi",
+      "compat": "L0",
+      "audience": "all",
+      "formats": [
+        "text"
+      ],
+      "tags": [
+        "bot",
+        "found_via:crmchat"
+      ],
+      "isPromoted": false,
+      "weight": 10
+    },
+    {
+      "id": "tg-pomodoro-timer-bot",
+      "title": "Pomodoro Timer Bot",
+      "type": "bot",
+      "deeplink": "https://t.me/pomodoro_timer_bot",
+      "shortDescription": "Бот для работы по технике Pomodoro.",
+      "longDescription": "Pomodoro Timer Bot — бот, реализующий технику Pomodoro для повышения концентрации: позволяет настраивать интервалы работы и отдыха, помогает управлять временем и отслеживать прогресс по задачам【365272781853441†L184-L187】.",
+      "functions": [
+        "automate",
+        "analyze"
+      ],
+      "topics": [
+        "productivity"
+      ],
+      "primaryTopic": "productivity",
+      "language": "multi",
+      "compat": "L0",
+      "audience": "all",
+      "formats": [
+        "text"
+      ],
+      "tags": [
+        "bot",
+        "found_via:crmchat"
+      ],
+      "isPromoted": false,
+      "weight": 10
+    },
+    {
+      "id": "tg-progress-bot",
+      "title": "Progress Bot",
+      "type": "bot",
+      "deeplink": "https://t.me/progress_bot",
+      "shortDescription": "Бот для формирования привычек и отслеживания прогресса.",
+      "longDescription": "Progress Bot — бот, который помогает формировать постоянные рабочие привычки: предлагает отслеживать прогресс и отправляет ежедневные отчёты, чтобы поддерживать мотивацию и улучшать продуктивность【365272781853441†L191-L194】.",
+      "functions": [
+        "automate",
+        "analyze"
+      ],
+      "topics": [
+        "productivity",
+        "lifestyle"
+      ],
+      "primaryTopic": "productivity",
+      "language": "multi",
+      "compat": "L0",
+      "audience": "all",
+      "formats": [
+        "text"
+      ],
+      "tags": [
+        "bot",
+        "found_via:crmchat"
+      ],
+      "isPromoted": false,
+      "weight": 10
+    },
+    {
+      "id": "tg-accountability-bot",
+      "title": "Accountability Bot",
+      "type": "bot",
+      "deeplink": "https://t.me/accountabilitybot",
+      "shortDescription": "Бот для командной ответственности и регулярных митингов.",
+      "longDescription": "Accountability Bot — бот для команд, который помогает провести регулярные митинги, фиксировать задачи и обновления; направлен на выработку ответственности в команде и повышение эффективности командной работы【365272781853441†L196-L202】.",
+      "functions": [
+        "automate",
+        "compose"
+      ],
+      "topics": [
+        "productivity",
+        "business"
+      ],
+      "primaryTopic": "productivity",
+      "language": "multi",
+      "compat": "L0",
+      "audience": "all",
+      "formats": [
+        "text"
+      ],
+      "tags": [
+        "bot",
+        "found_via:crmchat"
+      ],
+      "isPromoted": false,
+      "weight": 10
+    }
+  ],
+  "grouped": {
+    "technology": {
+      "channels": [
+        "tg-shpargalki-aitish",
+        "tg-codecamp",
+        "tg-monitorim-it",
+        "tg-telecom-review",
+        "tg-zapisky-admina",
+        "tg-listok-buro",
+        "tg-privacy-advocates",
+        "tg-personalnye-dannye",
+        "tg-infosec",
+        "tg-network-admin",
+        "tg-sekrety-sisadmina",
+        "tg-tipichnyi-sisadmin",
+        "tg-sistemnyi-administrator",
+        "tg-blog-sisadmina",
+        "tg-serveradmin",
+        "tg-admin-guides",
+        "tg-devops-biblioteka",
+        "tg-devops-for-devops",
+        "tg-piatnichnyi-deploy",
+        "tg-devops",
+        "tg-devops-community-love",
+        "tg-devops-sre-library",
+        "tg-mops-devops",
+        "tg-devops-fm"
+      ],
+      "bots": [
+        "tg-notifine-github-bot",
+        "tg-notifine-gitlab-bot",
+        "tg-notifine-uptime-bot",
+        "tg-notifine-beep-bot",
+        "tg-github-release-alerts"
+      ],
+      "miniapps": [],
+      "services": []
+    },
+    "open_source": {
+      "channels": [
+        "tg-github-community",
+        "tg-usr-bin",
+        "tg-danger-linux",
+        "tg-kali-linux"
+      ],
+      "bots": [],
+      "miniapps": [],
+      "services": []
+    },
+    "education": {
+      "channels": [
+        "tg-arhivator",
+        "tg-biblioteka-programmista",
+        "tg-knigi-programmistov",
+        "tg-open-it",
+        "tg-sbornik-it-znanii",
+        "tg-code-guru",
+        "tg-database-sql"
+      ],
+      "bots": [],
+      "miniapps": [],
+      "services": []
+    },
+    "productivity": {
+      "channels": [],
+      "bots": [
+        "tg-itasker",
+        "tg-skeddy",
+        "tg-pomodoro-timer-bot",
+        "tg-progress-bot",
+        "tg-accountability-bot"
+      ],
+      "miniapps": [
+        "tg-todomateai",
+        "tg-totododo",
+        "tg-the-wall",
+        "tg-mytodo"
+      ],
+      "services": [
+        "tg-crmchat"
+      ]
+    }
+  },
+  "digest_markdown": "## 💻 Технологии (technology)\n- **Шпаргалки для айтишников** — https://t.me/shpargalka4  \n  Канал со шпаргалками и руководствами для системных администраторов и программистов.\n- **CodeCamp** — https://t.me/codecamp_ru  \n  Канал о разработке, технологиях и гаджетах.\n- **Мониторим ИТ** — https://t.me/monitoring_it  \n  Канал о мониторинге IT‑инфраструктуры и приложений.\n- **Телеком-ревью** — https://t.me/telecomreview  \n  Новости телекома, регулирования и событий связи.\n- **Записки админа** — https://t.me/sysadm_notes  \n  Канал про Linux и серверное администрирование.\n- **Листок бюрократической защиты информации** — https://t.me/lbzi  \n  Канал об организационной и правовой безопасности.\n- **Privacy Advocates** — https://t.me/privacyadvocates  \n  Канал о защите данных и приватности.\n- **Персональные_данные** — https://t.me/personal_data_ru  \n  Канал о защите персональных данных и их утечках.\n- **Infosec** — https://t.me/infosec_ru  \n  Канал о кибербезопасности, хакерстве и OSINT.\n- **Network Admin** — https://t.me/network_admin_ru  \n  Канал для сетевых администраторов с курсами и гайдами.\n- **Секреты сисадмина** — https://t.me/sisadmin_secrets  \n  Справочник и советы для системных администраторов.\n- **Типичный сисадмин** — https://t.me/typical_sysadmin  \n  Юмор и новости для системных администраторов.\n- **Системный администратор** — https://t.me/system_administrator  \n  Канал обо всём для системных администраторов.\n- **Блог системного администратора** — https://t.me/sysadmin_blog  \n  Статьи и видеообзоры для администраторов.\n- **ServerAdmin.ru** — https://t.me/serveradminru  \n  Канал с практическими советами по серверной инфраструктуре.\n- **Admin Guides | Сисадмин** — https://t.me/adminguides  \n  Инструкции и гайды по Linux и Windows для админов.\n- **DevOps Библиотека** — https://t.me/devops_library  \n  Библиотека литературы по DevOps, инструментам и автоматизации.\n- **DevOps для DevOps** — https://t.me/devopsfordevops  \n  Канал о DevOps-подходах и инструментах.\n- **Пятничный деплой** — https://t.me/friday_deploy  \n  Подборка ссылок и статей из мира DevOps и SRE.\n- **Devops** — https://t.me/devops_channel  \n  Канал о контейнерах, оркестраторах и масштабировании.\n- **DevOps Community for love** — https://t.me/devops_love  \n  Комьюнити-канал с новостями, конференциями и гайдами по DevOps.\n- **DevOps & SRE Library** — https://t.me/devops_sre_library  \n  Библиотека книг и статей для DevOps и SRE специалистов.\n- **Mops DevOps** — https://t.me/mops_devops  \n  Канал о Kubernetes, Docker и современном DevOps.\n- **DevOps FM** — https://t.me/devops_fm  \n  Новости, практики и инструменты DevOps.\n- **Notifine GitHub Bot** — https://t.me/notifine_github_bot  \n  Бот для уведомлений о событиях на GitHub.\n- **Notifine GitLab Bot** — https://t.me/notifine_gitlab_bot  \n  Уведомления о событиях в GitLab в Telegram.\n- **Notifine Uptime Bot** — https://t.me/notifine_uptime_bot  \n  Мониторинг доступности сайтов и сервисов.\n- **Notifine Beep Bot** — https://t.me/notifine_beep_bot  \n  Уведомления о новых событиях для разработчиков.\n- **GitHub Release Alerts** — https://t.me/github_release_bot  \n  Бот уведомляет о релизах и обновлениях в GitHub-репозиториях.\n\n## 🛠️ Открытый код (open_source)\n- **GitHub community** — https://t.me/github_community_ru  \n  Русскоязычное сообщество GitHub с новостями и обсуждениями.\n- **/usr/bin** — https://t.me/usr_bin  \n  Канал о Linux, Kubernetes, Docker и Terraform.\n- **Danger Linux** — https://t.me/dangerlinux  \n  Информация и юмор о Linux и администраторах.\n- **Kali Linux** — https://t.me/kali_linux_ru  \n  Один из крупнейших каналов по Kali Linux и pentest.\n\n## 📘 Образование (education)\n- **Архиватор** — https://t.me/archivator_it  \n  Бесплатные курсы и образовательные материалы для IT.\n- **Библиотека программиста** — https://t.me/proglibrary  \n  Подборки книг, статей и инструментов для программистов.\n- **Книги для программистов** — https://t.me/books_programmer  \n  Канал с рекомендациями книг по программированию и IT.\n- **Open IT** — https://t.me/open_it_channel  \n  Канал с материалами по программированию и IT-основам.\n- **Сборник IT знаний** — https://t.me/it_knowledge_ru  \n  Курсы и подборки для разных направлений IT.\n- **Code Guru** — https://t.me/codeguru_ru  \n  Канал для изучения языков программирования и практики.\n- **Database | SQL, Big Data** — https://t.me/database_sql_bigdata  \n  Канал о базах данных, SQL и больших данных.\n\n## 🗂️ Продуктивность (productivity)\n- **iTasker** — https://t.me/iTaskerBot  \n  Мощный бот для управления задачами в личных и групповых чатах.\n- **Skeddy** — https://t.me/SkeddyBot  \n  Бот‑напоминалка с естественным языком и web‑интерфейсом.\n- **Pomodoro Timer Bot** — https://t.me/pomodoro_timer_bot  \n  Бот для работы по технике Pomodoro.\n- **Progress Bot** — https://t.me/progress_bot  \n  Бот для формирования привычек и отслеживания прогресса.\n- **Accountability Bot** — https://t.me/accountabilitybot  \n  Бот для командной ответственности и регулярных митингов.\n- **TodoMateAI** — https://t.me/todomateai_bot?startapp  \n  AI‑ассистент для создания задач и напоминаний.\n- **Totododo** — https://t.me/totododo_bot?startapp  \n  Минималистичный таск‑менеджер с календарём и аналитикой.\n- **The Wall** — https://t.me/the_wall_bot?startapp  \n  Гибкая доска задач для визуального планирования.\n- **MyToDo** — https://t.me/mytodo_bot?startapp  \n  Простая мини‑app для быстрых заметок и списков дел.\n- **CRMchat** — https://crmchat.ai/telegram  \n  Интеграция CRM и Telegram для управления задачами и сделками."
+}
