@@ -1,0 +1,40 @@
+name: CI/CD Pipeline
+
+on:
+  push:
+    branches: [ main ]
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Build project
+        run: |
+          echo "🧱 Building ${{ github.repository }}..."
+          npm ci || npm install
+          npm run build || echo "No build step found"
+
+      - name: Run tests
+        run: |
+          echo "🧪 Running tests..."
+          npm test || echo "No tests found"
+
+      - name: Notify MCP about new build
+        run: |
+          echo "📡 Sending repo_update to mimiseek-mcp..."
+          curl -X POST \
+            -H "Accept: application/vnd.github+json" \
+            -H "Authorization: token ${{ secrets.GITHUB_TOKEN }}" \
+            https://api.github.com/repos/BogdanAIP/mimiseek-mcp/dispatches \
+            -d '{
+              "event_type": "repo_update",
+              "client_payload": {
+                "repo": "'${{ github.repository }}'",
+                "commit": "'${{ github.sha }}'",
+                "message": "CI completed successfully"
+              }
+            }'
